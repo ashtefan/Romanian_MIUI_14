@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hd_record_scenes_entries">
+        <item>Muzică</item>
+        <item>Voce</item>
+        <item>Interviu</item>
+        <item>HD</item>
+    </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>Muzică</item>
+        <item>Voce</item>
+        <item>Interviu</item>
+    </string-array>
+    <string-array name="record_format_entries">
+        <item>AAC</item>
+        <item>MP3</item>
+        <item>WAV</item>
+    </string-array>
+    <string-array name="record_locale_language">
+        <item>fa</item>
+        <item>ar</item>
+        <item>bn</item>
+    </string-array>
+    <string-array name="record_quality_entries">
+        <item>Ridicată</item>
+        <item>Standard</item>
+        <item>Redusă</item>
+    </string-array>
+    <string-array name="record_quality_summaries">
+        <item>MP3, ~192kbit/s, ~90MB/h</item>
+        <item>MP3, ~100kbit/s, ~45MB/h</item>
+        <item>MP3, ~75kbit/s, ~32MB/h</item>
+    </string-array>
+    <string-array name="record_scenes_entries">
+        <item>Muzică</item>
+        <item>Voce</item>
+    </string-array>
+    <string-array name="record_scenes_summaries">
+        <item>Înregistrați muzică la calitate înaltă</item>
+        <item>Apropiați microfonul de sursa sunetului pentru a obține rezultate mai bune</item>
+        <item>Plasați telefonul între 2 persoane pentru a înregistra clar vocea amândurora</item>
+        <item>Tehnologia High Dynamic Range permite captarea mult mai fidelă a sunetului de către microfon</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
+        <item>Înregistrare pe 2 canale, ascultați sunet stereo în căști</item>
+        <item>Apropiați microfonul de sursa sunetului pentru a obține rezultate mai bune</item>
+        <item>Plasați telefonul între 2 persoane pentru a înregistra clar vocea amândurora</item>
+        <item>Tehnologia High Dynamic Range permite captarea mult mai fidelă a sunetului de către microfon</item>
+    </string-array>
+    <string-array name="record_type_entries">
+        <item>MP3</item>
+        <item>AMR</item>
+    </string-array>
+</resources>

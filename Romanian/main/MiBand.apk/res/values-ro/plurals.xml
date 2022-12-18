@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="numberFoot">
+        <item quantity="other">%s picioare</item>
+        <item quantity="one">%s picior</item>
+        <item quantity="few">%s picioare</item>
+    </plurals>
+    <plurals name="numberInch">
+        <item quantity="other">%s inchi</item>
+        <item quantity="one">%s inch</item>
+        <item quantity="few">%s inchi</item>
+    </plurals>
+</resources>

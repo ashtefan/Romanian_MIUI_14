@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Scanare…</item>
+        <item>Conectare…</item>
+        <item>Autentificare…</item>
+        <item>Obținere adresă IP…</item>
+        <item>Conectat</item>
+        <item>Suspendat</item>
+        <item>Deconectare…</item>
+        <item>Deconectat</item>
+        <item>Fără succes</item>
+        <item>Blocat</item>
+        <item>Se evită temporar conexiunea slabă</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Scanare…</item>
+        <item>Conectare la %1$s…</item>
+        <item>Autentificare cu %1$s…</item>
+        <item>Obținere adresă IP de la %1$s…</item>
+        <item>Conectat la %1$s</item>
+        <item>Suspendat</item>
+        <item>Deconectare de la %1$s…</item>
+        <item>Deconectat</item>
+        <item>Fără succes</item>
+        <item>Blocat</item>
+        <item>Se evită temporar conexiunea slabă</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Nu verifica niciodată</item>
+        <item>Verifică doar conținutul DRM</item>
+        <item>Verifică întotdeauna</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Nu utiliza niciodată verificarea HDCP</item>
+        <item>Utilizează verificarea HDCP doar pentru conținutul DRM</item>
+        <item>Utilizează întotdeauna verificarea HDCP</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Oprit</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Oprit</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Oprit</item>
+        <item>64 KB per jurnal tampon</item>
+        <item>256 KB per jurnal tampon</item>
+        <item>1 MB per jurnal tampon</item>
+        <item>4 MB per jurnal tampon</item>
+        <item>16 MB per jurnal tampon</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animație oprită</item>
+        <item>Animație la scara 0,5x</item>
+        <item>Animație la scara 1x</item>
+        <item>Animație la scara 1,5x</item>
+        <item>Animație la scara 2x</item>
+        <item>Animație la scara 5x</item>
+        <item>Animație la scara 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animație oprită</item>
+        <item>Animație la scara 0,5x</item>
+        <item>Animație la scara 1x</item>
+        <item>Animație la scara 1,5x</item>
+        <item>Animație la scara 2x</item>
+        <item>Animație la scara 5x</item>
+        <item>Animație la scara 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animație oprită</item>
+        <item>Animație la scara 0,5x</item>
+        <item>Animație la scara 1x</item>
+        <item>Animație la scara 1,5x</item>
+        <item>Animație la scara 2x</item>
+        <item>Animație la scara 5x</item>
+        <item>Animație la scara 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Niciunul</item>
+        <item>480p</item>
+        <item>480p (secizat)</item>
+        <item>720p</item>
+        <item>720p (securizat)</item>
+        <item>1080p</item>
+        <item>1080p (securizat)</item>
+        <item>4K</item>
+        <item>4K (securizat)</item>
+        <item>4K (scalat)</item>
+        <item>4K (scalat, securizat)</item>
+        <item>720p, 1080p (ecran dual)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Nimic</item>
+        <item>Logcat</item>
+        <item>Systrace (Graphics)</item>
+        <item>Call stack on glGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Oprit</item>
+        <item>Desenează decupările nerectangulare în albastru</item>
+        <item>Colorează comenzile de desenare testate în verde</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+       <item>Oprit</item>
+        <item>Pe ecran, ca bare</item>
+        <item>În adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Oprit</item>
+        <item>Arată zonele suprascrise</item>
+        <item>Arată zonele cu Deuteranomalie</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Limita standard</item>
+        <item>Niciun proces în fundal</item>
+        <item>Cel mult 1 proces</item>
+        <item>Cel mult 2 procese</item>
+        <item>Cel mult 3 procese</item>
+        <item>Cel mult 4 procese</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Încărcare</item>
+        <item>MTP (Protocol Transfer Media)</item>
+        <item>PTP (Protocol Transfer Fotografii)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Sursă audio</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Foarte lent</item>
+        <item>Lent</item>
+        <item>Normal</item>
+        <item>Rapid</item>
+        <item>Mai rapid</item>
+        <item>Foarte rapid</item>
+        <item>Rapid</item>
+        <item>Foarte rapid</item>
+        <item>Cel mai rapid</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Utilizați Selecția de Sistem (Implicit)</item>
+        <item>16 biți/eșantion</item>
+        <item>24 biți/eșantion</item>
+        <item>32 biți/eșantion</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Utilizați Selecția de Sistem (Implicit)</item>
+        <item>16 biți/eșantion</item>
+        <item>24 biți/eșantion</item>
+        <item>32 biți/eșantion</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Utilizați Selecția de Sistem (Implicit)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Utilizați Selecția de Sistem (Implicit)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+       <item>Optimizat pentru Calitate Audio</item>
+        <item>Calitate echilibrată între Audio și Conexiune</item>
+        <item>Optimizat pentru Calitate Conexiune</item>
+        <item>Cea mai bună opțiune (Bit Rate adaptiv)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Optimizat pentru Calitate Audio (990kbps/909kbps)</item>
+        <item>Calitate echilibrată între Audio și Conexiune (660kbps/606kbps)</item>
+        <item>Optimizat pentru Calitate Conexiune (330kbps/303kbps)</item>
+        <item>Cea mai bună opțiune (Bit Rate adaptiv)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Utilizați Selecția de Sistem (Implicit)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Utilizați Selecția de Sistem (Implicit)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Utilizați selectarea de către sistem (Implicit)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Activați Codecurile opționale</item>
+        <item>Dezactivați Codecurile opționale</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+ <item>Utilizați selectarea de către sistem (Implicit)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Activați Codecurile opționale</item>
+        <item>Dezactivați Codecurile opționale</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Implicit)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="debug_hw_renderer_entries">
+        <item>OpenGL (Implicit)</item>
+        <item>OpenGL (Skia)</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Oprit</item>
+        <item>Toate</item>
+        <item>Tot doar radio</item>
+        <item>Doar jurnalele kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Oprit</item>
+        <item>Tot</item>
+        <item>Tot doar radio</item>
+        <item>Doar kernel</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Vibrant (implicit)</item>
+        <item>Natural</item>
+        <item>Standard</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Culori accentuate</item>
+        <item>Culori naturale, așa cum sunt percepute de ochiul uman</item>
+        <item>Culori optimizate pentru conținut digital</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
+    </string-array>
+</resources>

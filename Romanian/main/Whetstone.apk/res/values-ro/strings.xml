@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">Whetstone</string>
+    <string name="permstep_description">"Permiteți aplicației să citească informațiile despre telefon"</string>
+    <string name="permstep_label">Citire pași</string>
+</resources>

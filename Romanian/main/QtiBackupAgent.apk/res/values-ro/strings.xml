@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="action_settings">Setări</string>
+    <string name="app_name">Agent copie de rezervă</string>
+    <string name="backup_contacts">Copie de rezervă pentru Contacte</string>
+    <string name="backup_sms_mms">Copie de rezervă pentru SMS/MMS</string>
+</resources>

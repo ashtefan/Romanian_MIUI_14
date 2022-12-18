@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animation_rate_entries">
+        <item>Relaxat</item>
+        <item>Balansat</item>
+        <item>Rapid</item>
+    </string-array>
+    <string-array name="cell_layout_size_entries">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
+    <string-array name="drawer_alpha">
+        <item>0</item>
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Imagine de fundal</item>
+        <item>Obiecte widget</item>
+        <item>Setări</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Senin</item>
+        <item>Înnorat</item>
+        <item>Ceaţă</item>
+        <item>Ceaţă</item>
+        <item>Furtună puternică</item>
+        <item>Furtună</item>
+        <item>Ploaie abundentă</item>
+        <item>Furtună</item>
+        <item>Averse</item>
+        <item>Ploaie abundentă</item>
+        <item>Ploaie</item>
+        <item>Burniţă</item>
+        <item>Lapoviţă</item>
+        <item>Viscol</item>
+        <item>Ninsoare</item>
+        <item>Ninsoare abundentă</item>
+        <item>Ninsoare</item>
+        <item>Ninsoare slabă</item>
+        <item>Furtună de nisip puternică</item>
+        <item>Furtună de nisip</item>
+        <item>Furtună de nisip slabă</item>
+        <item>Furtună de nisip</item>
+        <item>Grindină</item>
+        <item>Praf</item>
+        <item>Ceaţă</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Prestabilită</item>
+        <item>Clasică</item>
+    </string-array>
+    <string-array name="icon_size">
+        <item>XS</item>
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+    </string-array>
+    <string-array name="monochrome_color_entries">
+        <item>Implicit</item>
+        <item>Albastru</item>
+        <item>Verde</item>
+        <item>Violet</item>
+        <item>Maro</item>
+    </string-array>
+    <string-array name="transformation_entries">
+        <item>Glisare cu salt</item>
+        <item>Glisare</item>
+        <item>Rostogolire</item>
+        <item>Pagină</item>
+        <item>Cascadă</item>
+        <item>Rotire</item>
+        <item>Cub</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Setată de temă</item>
+        <item>În centru</item>
+        <item>La stânga</item>
+        <item>La dreapta</item>
+    </string-array>
+    <string-array name="global_search_mode_entries">
+        <item>Nimic</item>
+        <item>Glisare în sus</item>
+        <item>Bară de căutare</item>
+    </string-array>
+    <string-array name="global_search_provider_entries">
+        <item>Implicit</item>
+        <item>Google</item>
+    </string-array>
+</resources>

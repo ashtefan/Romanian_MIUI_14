@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hr_sport">
+        <item>Nicio activitate</item>
+        <item>Ușoară</item>
+        <item>Aerobic</item>
+        <item>Grea</item>
+    </string-array>
+    <string-array name="long_sit_items">
+        <item>60 minute</item>
+        <item>90 minute</item>
+        <item>120 minute</item>
+    </string-array>
+    <string-array name="mili_help_tips">
+        <item>"Asigurați-vă că MiBand este încărcată."</item>
+        <item>Opriți Bluetooth-ul, apoi împerecheați cu dispozitivul curent.</item>
+        <item>"Dacă MiBand este încărcată dar nu poate fi descoperită de către telefon, opriți și reporniți conexiunea Bluetooth a telefonului."</item>
+        <item>"Dacă repornirea Bluetooth nu a rezolvat problema, reporniți telefonul."</item>
+    </string-array>
+    <string-array name="mili_help_title">
+        <item>Este încărcat acumulatorul brățării?</item>
+        <item>Este împerecheată cu alt dispozitiv?</item>
+        <item>Încercați să resetați conexiunea Bluetooth</item>
+        <item>Încercați să reporniți telefonul</item>
+    </string-array>
+    <string-array name="mili_pro_display_items">
+        <item>Timp</item>
+        <item>Pași</item>
+        <item>Distanță</item>
+        <item>Calorii</item>
+        <item>Ritm cardiac</item>
+        <item>Acumulator disponibil</item>
+    </string-array>
+    <string-array name="month_list">
+        <item>Ian</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Mai</item>
+        <item>Iun</item>
+        <item>Iul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="months">
+        <item>Ian</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Mai</item>
+        <item>Iun</item>
+        <item>Iul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="running_months">
+        <item>Ian</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Mai</item>
+        <item>Iun</item>
+        <item>Iul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="shoes_help_tips">
+        <item>"If you don't use Huami sensor for a long time, it goes to sleep. Try to shake it"</item>
+        <item>"Huami sensor battery life is 1 year. If you've been using it for a longer period, maybe there's no power left."</item>
+        <item>Turn off Bluetooth device first, then pair with current device.</item>
+        <item>Try rebooting your phone, and then pair the band.</item>
+        <item>"If restarting Bluetooth doesn't solve the problem, try rebooting phone."</item>
+        <item>Every time you open Mi Fit it will try to sync data automatically.</item>
+    </string-array>
+    <string-array name="shoes_help_title">
+        <item>Shake Huami sensor</item>
+        <item>Is Huami sensor charged?</item>
+        <item>Is this Huami sensor paired with another device?</item>
+        <item>Try resetting Bluetooth</item>
+        <item>Try rebooting your phone</item>
+        <item>How to sync shoes data?</item>
+    </string-array>
+    <string-array name="unbind_device_description">
+        <item>Mi Band</item>
+        <item>Cântar Mi</item>
+        <item>Pantofi</item>
+    </string-array>
+    <string-array name="weeks">
+        <item>Luni</item>
+        <item>Marți</item>
+        <item>Miercuri</item>
+        <item>Joi</item>
+        <item>Vineri</item>
+        <item>Sâmbătă</item>
+        <item>Duminică</item>
+    </string-array>
+    <string-array name="weeks_short">
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mie</item>
+        <item>Joi</item>
+        <item>Vin</item>
+        <item>Sâm</item>
+        <item>Dum</item>
+    </string-array>
+    <string-array name="weight_body_figures">
+        <item>Subponderali</item>
+        <item>Greutate normală</item>
+        <item>Greutate mare</item>
+        <item>Obezitate clasa I</item>
+    </string-array>
+    <string-array name="weight_body_figures_for_child">
+        <item>Normală</item>
+        <item>Greutate mare</item>
+        <item>Obezitate clasa I</item>
+    </string-array>
+    <string-array name="weight_body_figures_for_not_chinese">
+        <item>Subponderali</item>
+        <item>Greutate normală</item>
+        <item>Greutate mare</item>
+        <item>Obezitate clasa I</item>
+        <item>Obezitate clasa II</item>
+    </string-array>
+    <string-array name="weight_help_tips">
+        <item>You can step on the scale to check if it shows your weight. If it displays a battery icon, replace the batteries.</item>
+        <item>"If there's no response when you step on the scale, check if the batteries are installed properly."</item>
+        <item>"If the band is charged, but the phone can't see it, try restarting phone's Bluetooth."</item>
+        <item>"If restarting Bluetooth doesn't solve the problem, try rebooting phone."</item>
+        <item>Every time you open Mi Fit it will try to sync data automatically.</item>
+    </string-array>
+    <string-array name="weight_help_title">
+        <item>Is there enough power left?</item>
+        <item>Are the batteries installed properly?</item>
+        <item>Try restarting Bluetooth</item>
+        <item>Try rebooting your phone</item>
+        <item>How does Mi Scale sync data?</item>
+    </string-array>
+    <string-array name="weight_unit">
+        <item>" kg"</item>
+        <item>" jin"</item>
+        <item>" lbs"</item>
+    </string-array>
+</resources>

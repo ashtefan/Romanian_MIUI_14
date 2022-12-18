@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sleep_duration_values">
+        <item>15 minute</item>
+        <item>30 de minute</item>
+        <item>45 de minute</item>
+        <item>O oră</item>
+     </string-array>
+    <string-array name="search_category_rbds_entries">
+        <item>Toate staţiile</item>
+        <item>Hituri</item>
+        <item>Muzică Clasică</item>
+        <item>Rock clasic</item>
+        <item>Campus</item>
+        <item>Muzica country</item>
+        <item>Urgenţă</item>
+        <item>Test urgenţă</item>
+        <item>Limbă străină</item>
+        <item>Informaţii</item>
+        <item>Jazz</item>
+        <item>Noutăţi</item>
+        <item>Nostalgică</item>
+        <item>Vechi</item>
+        <item>Personalizate</item>
+        <item>Public</item>
+        <item>Muzică religioasă</item>
+        <item>Discuţii religioase</item>
+        <item>Rhythm şi Blues</item>
+        <item>Rock</item>
+        <item>Soft</item>
+        <item>Soft Rock</item>
+        <item>Soft Rhythm şi Blues</item>
+        <item>Sport</item>
+        <item>Discuţii</item>
+        <item>Top 40</item>
+        <item>Meteo</item>
+     </string-array>
+    <string-array name="search_category_rds_entries">
+        <item>Toate staţiile</item>
+        <item>Cultură</item>
+        <item>Subiecte curente</item>
+        <item>Programe pentru copii</item>
+        <item>Muzică Country</item>
+        <item>Documentar</item>
+        <item>Dramă</item>
+        <item>Muzică uşoară</item>
+        <item>Educaţie</item>
+        <item>Urgenţă</item>
+        <item>Test urgenţă</item>
+        <item>Finanţe</item>
+        <item>Muzică folk</item>
+        <item>Informaţii</item>
+        <item>Muzică de Jazz</item>
+        <item>Light classical</item>
+        <item>Timp liber</item>
+        <item>Noutăţi</item>
+        <item>Muzică folk tradițională</item>
+        <item>Altă muzică</item>
+        <item>Muzică veche</item>
+        <item>Phone In</item>
+        <item>Muzică Pop</item>
+        <item>Religie</item>
+        <item>Muzică rock</item>
+        <item>Ştiinţă</item>
+        <item>Clasică</item>
+        <item>Afaceri sociale</item>
+        <item>Sport</item>
+        <item>Călătorii</item>
+        <item>Variat</item>
+        <item>Meteo</item>
+     </string-array>
+    <string-array name="presetlist_edit_category">
+        <item>Redenumiţi</item>
+        <item>Selectare automată</item>
+        <item>Ştergeţi</item>
+     </string-array>
+    <string-array name="regional_band_entries">
+        <item>America de Nord</item>
+        <item>Europa</item>
+        <item>Japonia</item>
+        <item>Japonia (Larg)</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Belgia</item>
+        <item>Brazilia</item>
+        <item>China</item>
+        <item>Cehia</item>
+        <item>Danemarca</item>
+        <item>Finlanda</item>
+        <item>Franţa</item>
+        <item>Germania</item>
+        <item>Grecia</item>
+        <item>Hong Kong</item>
+        <item>India</item>
+        <item>Irlanda</item>
+        <item>Italia</item>
+        <item>Coreea de Sud</item>
+        <item>Mexic</item>
+        <item>Olanda</item>
+        <item>Noua Zeelandă</item>
+        <item>Norvegia</item>
+        <item>Polonia</item>
+        <item>Portugalia</item>
+        <item>Rusia</item>
+        <item>Singapore</item>
+        <item>Slovacia</item>
+        <item>Spania</item>
+        <item>Elveția</item>
+        <item>Suedia</item>
+        <item>Taiwan</item>
+        <item>Turcia</item>
+        <item>Regatul Unit</item>
+        <item>Statele Unite</item>
+     </string-array>
+    <string-array name="regional_band_summary">
+        <item>America de Nord (87.5 MHz - 108.0 MHz cu pasul 200 khz)</item>
+        <item>Europa (87.5 MHz - 108.0 MHz cu pasul 100 kHz)</item>
+        <item>Japonia (76.0 MHz - 90.0 MHz cu pasul 100 kHz)</item>
+        <item>Japonia (Larg) (90.0 MHz - 108.0 MHz cu pasul 50 kHz)</item>
+        <item>Australia (87.7 MHz - 108.0 MHz cu pasul 100 kHz)</item>
+        <item>Austria (87.5 MHz - 108.0 MHz cu pasul 50 kHz)</item>
+        <item>Belgia (87.5 MHz - 108.0 MHz cu pasul 100 kHz)</item>
+        <item>Brazilia (87.8 MHz - 108.0 MHz cu pasul 200 kHz)</item>
+        <item>China (87.0 MHz - 108.0 MHz cu pasul 100 kHz)</item>
+        <item>Cehia (87.5 MHz - 108.0 MHz cu pasul 100 kHz)</item>
+        <item>Danwmarca (87.5 MHz - 108.0 MHz cu pasul 50 kHz)</item>
+        <item>Finlanda (87.5 MHz - 108.0 MHz cu pasul 100 kHz)</item>
+        <item>Franţa (87.5 MHz - 108.0 MHz cu pasul 100 kHz)</item>
+        <item>Germania (87.5 MHz - 108.0 MHz cu pasul 50 kHz)</item>
+        <item>Grecia (87.5 MHz - 108.0 MHz cu pasul 50 kHz)</item>
+        <item>Hong Kong (87.5 MHz - 108.0 MHz cu pasul 100 kHz)</item>
+        <item>India (91.0 MHz - 106.4 MHz cu pasul 100 kHz)</item>
+        <item>Irlanda (87.5 MHz - 108.0 MHz cu pasul 50 kHz)</item>
+        <item>Italia (87.5 MHz - 108.0 MHz cu pasul 50 kHz)</item>
+        <item>Coreea de Sud(87.5 MHz - 108.0 MHz cu pasul 200 kHz)</item>
+        <item>Mexic (88.1 MHz - 107.9 MHz cu pasul 200 kHz)</item>
+        <item>Olanda (87.5 MHz - 108.0 MHz cu pasul 100 kHz)</item>
+        <item>Noua Zeelandă (88.0 MHz - 107.0 MHz cu pasul 100 kHz)</item>
+        <item>Norvegia (87.5 MHz - 108.0 MHz cu pasul 100 kHz)</item>
+        <item>Polonia (88.0 MHz - 108.0 MHz cu pasul 50 kHz)</item>
+        <item>Portugalia (87.5 MHz - 108.0 MHz cu pasul 50 kHz)</item>
+        <item>Rusia (87.5 MHz - 108.0 MHz cu pasul 100 kHz)</item>
+        <item>Singapore (88.0 MHz - 108.0 MHz cu pasul 100 kHz)</item>
+        <item>Slovacia (87.5 MHz - 108.0 MHz cu pasul 100 kHz)</item>
+        <item>Spania (87.5 MHz - 108.0 MHz cu pasul 100 kHz)</item>
+        <item>Elveția (87.5 MHz - 108.0 MHz cu pasul 100 kHz)</item>
+        <item>Suedia (87.5 MHz - 108.0 MHz cu pasul 100 kHz)</item>
+        <item>Taiwan (87.5 MHz - 108.0 MHz cu pasul 100 kHz)</item>
+        <item>Turcia (87.5 MHz - 108.0 MHz cu pasul 100 kHz)</item>
+        <item>Regatul Unit (87.5 MHz - 108.0 MHz cu pasul 100 kHz)</item>
+        <item>Statele Unite (88.1 MHz - 107.9 MHz cu pasul 200 kHz)</item>
+     </string-array>
+    <string-array name="rf_cfg">
+        <item>Obțineţi parametrii staţiei actuale</item>
+        <item>Obțineţi parametrii staţiei repetat de 20 de ori</item>
+        <item>Obțineţi parametrii de căutare a stației</item>
+        <item>Obțineţi parametrii benzii FM</item>
+        <item>Configuraţi parametrii de căutare FM</item>
+     </string-array>
+    <string-array name="cfg_rf">
+        <item>Setaţi FM RSSI Delta</item>
+        <item>Setaţi pragul semnalului</item>
+        <item>Statistici RF</item>
+     </string-array>
+    <string-array name="stats_options">
+        <item>Selectaţi opţiunea</item>
+        <item>Configuraţi parametrii de căutare FM</item>
+        <item>Statistici RF</item>
+     </string-array>
+</resources>

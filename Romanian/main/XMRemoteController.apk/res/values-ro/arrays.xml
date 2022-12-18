@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Răcire</item>
+        <item>Încălzire</item>
+        <item>Umidificare</item>
+        <item>Ventilator</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Dispozitivul dumneavoastră poate fi împerecheat cu Mi TV, Mi Box si cu o serie întreagă de alte device-uri care rulează Android, prin intermediul Wi-Fi.</item>
+        <item>"Asigurați-vă că ați selectat modelul potrivit de A/C în decursul procesului de împerechere. Urmăriți întocmai indicațiile până când împerecherea este realizată în totalitate."</item>
+        <item>Din păcate, doar Mi4, Mi 4c și Redmi Note 2 pot fi folosite ca telecomandă IR în acest moment.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mie</item>
+        <item>Joi</item>
+        <item>Vin</item>
+        <item>Sâm</item>
+        <item>Dum</item>
+    </string-array>
+    <string-array name="question">
+        <item>De ce telefonul meu caută în continuu dispozitive wireless?</item>
+        <item>"De ce pot porni A/C-ul dar nu îl pot opri?"</item>
+        <item>Pot folosi un telefon Mi3, Mi2 sau Redmi ca și telecomandă?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Pornește AC-ul Haier în sufragerie</item>
+        <item>Setează temperatura la 25 de grade</item>
+        <item>Setează direcția aerului în \"Sus\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Pornește AC-ul Gree</item>
+        <item>Comută la baleiere</item>
+        <item>Forțează AC-ul să răcească mai repede</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Pornește TV-box-ul</item>
+        <item>Vreau să mă uit la PRO TV</item>
+        <item>Schimbă înapoi la canalul 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Pornește AC-ul</item>
+        <item>Vreau să mă uit la Antena 1</item>
+        <item>Schimbă înapoi la canalul 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Pornește televizorul din dormitor</item>
+        <item>Oprește televizorul</item>
+        <item>Crește volumul la televizor</item>
+    </string-array>
+    <string-array name="assistant_tab">
+        <item>Videoclipuri</item>
+        <item>Capturi de ecran</item>
+        <item>Aplicații</item>
+    </string-array>
+    <string-array name="epg_channel_tab">
+        <item>Toate</item>
+        <item>Favorite</item>
+        <item>CCTV</item>
+        <item>Televizor</item>
+        <item>HD</item>
+        <item>Recent</item>
+    </string-array>
+    <string-array name="epg_channel_tab_actionbar">
+        <item>Toate canalele</item>
+        <item>Canale preferate</item>
+        <item>Canale CCTV</item>
+        <item>Canale TV</item>
+        <item>Canale HD</item>
+        <item>Recent vizionate</item>
+    </string-array>
+    <string-array name="epg_channel_tab_actionbar_v53">
+        <item>Toate canalele</item>
+        <item>Vizionat recent</item>
+        <item>Canale HD</item>
+        <item>Canale TV</item>
+        <item>Canale CCTV</item>
+    </string-array>
+    <string-array name="epg_channel_tab_v53">
+        <item>Toate</item>
+        <item>TV</item>
+        <item>CCTV</item>
+        <item>HD</item>
+        <item>Recente</item>
+    </string-array>
+    <string-array name="epg_program_genre">
+        <item></item>
+        <item></item>
+        <item>Distracție</item>
+        <item></item>
+        <item>Sport</item>
+        <item>Pentru copii</item>
+        <item>Știri</item>
+        <item>Stil de viață</item>
+    </string-array>
+    <string-array name="epg_program_tab">
+        <item>Popular</item>
+        <item>Filme</item>
+        <item>Divertisment</item>
+        <item>Seriale TV</item>
+        <item>Sport</item>
+        <item>Pentru copii</item>
+        <item>Știri</item>
+        <item>Stil de viață</item>
+    </string-array>
+    <string-array name="epg_program_tab_actionbar">
+        <item>Seriale populare</item>
+        <item>Filme</item>
+        <item>Programe de divertisment</item>
+        <item>Seriale TV</item>
+        <item>Sport</item>
+        <item>Pentru copii</item>
+        <item>Știri</item>
+        <item>Programe despre stil de viață</item>
+    </string-array>
+    <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+</resources>

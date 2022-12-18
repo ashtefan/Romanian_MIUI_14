@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="action_settings">Setări</string>
+    <string name="app_name">Aplicație Sysopt</string>
+    <string name="google_base_app_install_choice">\"%s\" necesită aplicațiile Google Service Framework pentru a funcționa în mod normal; le descărcați și instalați acum?</string>
+    <string name="hello_world">Salutare lume!</string>
+</resources>

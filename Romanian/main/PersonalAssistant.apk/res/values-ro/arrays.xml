@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="agenda_weeks_of_year">
+        <item>Săptămâna 1</item>
+        <item>Săptămâna 2</item>
+        <item>Săptămâna 3</item>
+        <item>Săptămâna %1$d</item>
+    </string-array>
+    <string-array name="app_commute_tab_array">
+        <item>Condus</item>
+        <item>Transport public</item>
+        <item>Taxi</item>
+    </string-array>
+    <string-array name="app_health_setting_text_array_duration">
+        <item>10 min.</item>
+        <item>20 min.</item>
+        <item>30 min.</item>
+        <item>60 min.</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>excelent</item>
+        <item>bun</item>
+        <item>moale</item>
+        <item>moderat</item>
+        <item>sever</item>
+        <item>serios</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$scontaminare</item>
+        <item>%1$scontaminare</item>
+        <item>%1$scontaminare</item>
+        <item>%1$scontaminare</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>aer%1$s</item>
+        <item>aer%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="base_day_time_space">
+        <item>Noapte</item>
+        <item>Noapte</item>
+        <item>Dimineață</item>
+        <item>După amiază</item>
+        <item>După amiază</item>
+        <item>Seară</item>
+        <item>Seară</item>
+    </string-array>
+    <string-array name="day_time_space">
+        <item>Noapte</item>
+        <item>Dimineața devreme</item>
+        <item>Dimineață</item>
+        <item>Amiază</item>
+        <item>După amiază</item>
+        <item>Seară</item>
+        <item>În timpul nopții</item>
+    </string-array>
+    <string-array name="detail_font_size">
+        <item>Mic</item>
+        <item>Obișnuit</item>
+        <item>Mare</item>
+    </string-array>
+    <string-array name="express_status_all">
+        <item>Pe drum</item>
+        <item>În livrare</item>
+        <item>Trimis</item>
+        <item>Necunoscut</item>
+        <item>Primit</item>
+        <item>Respins</item>
+        <item>Returnat</item>
+        <item>Necunoscut</item>
+    </string-array>
+    <string-array name="express_status_detail">
+        <item>Pe drum</item>
+        <item>În livrare</item>
+    </string-array>
+    <string-array name="keyword_recommend_unit">
+        <item>dori</item>
+        <item>doar</item>
+    </string-array>
+    <string-array name="pa_covid_items_default">
+        <item>COVID-19</item>
+        <item>Codul de sănătate</item>
+        <item>PCR</item>
+        <item>Zone cu risc ridicat</item>
+    </string-array>
+    <string-array name="map_keyword">
+        <item>congestie</item>
+        <item>km congestie</item>
+        <item>km Amânată</item>
+        <item>drum în lucru</item>
+    </string-array>
+    <string-array name="map_title">
+        <item>evita-l</item>
+        <item>congestie severă</item>
+        <item>fluxul de trafic</item>
+        <item>Nici o congestie semnificativă</item>
+        <item>trafic anormal</item>
+    </string-array>
+    <string-array name="pa_home_week_days">
+        <item>Duminică</item>
+        <item>Luni</item>
+        <item>Marți</item>
+        <item>Miercuri</item>
+        <item>Joi</item>
+        <item>Vineri</item>
+        <item>Sâmbătă</item>
+        <item>Duminică</item>
+    </string-array>
+    <string-array name="pa_stock_color_schema_value_array">
+        <item>Roșu - sus, verde - jos</item>
+        <item>Verde - sus, roșu - jos</item>
+    </string-array>
+    <string-array name="stock_color_schema">
+        <item>Roșu - sus, verde - jos</item>
+        <item>Verde - sus, roșu - jos</item>
+    </string-array>
+</resources>

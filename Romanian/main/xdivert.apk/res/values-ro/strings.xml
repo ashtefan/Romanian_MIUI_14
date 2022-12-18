@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="close_dialog">OK</string>
+  <string name="error_updating_title">Eroare setare apeluri</string>
+  <string name="exception_error">Eroare de rețea sau de cartelă SIM.</string>
+  <string name="fdn_check_failure">"Funcția de apelare fixă este activă. În consecință, unele caracteristici legate de apel nu funcționează."</string>
+  <string name="phone_numbers">Introduceți numerele de telefon</string>
+  <string name="proceed">Continuați</string>
+  <string name="radio_off_error">Activați radio-ul înainte de a accesa aceste setări.</string>
+  <string name="reading_settings">Citire setări…</string>
+  <string name="response_error">Răspuns neașteptat de la rețea.</string>
+  <string name="reverting_settings">Anulare setări…</string>
+  <string name="set_subscription_error_atleast_one">Selectați cel puțin un abonament</string>
+  <string name="sim1LineNumber">Număr SIM 1:</string>
+  <string name="sim2LineNumber">Număr SIM 2:</string>
+  <string name="sub1LineNumber">Număr Sub1:</string>
+  <string name="sub2LineNumber">Număr Sub2:</string>
+  <string name="sub_1">SUB 1</string>
+  <string name="sub_2">SUB 2</string>
+  <string name="sub_3">SUB 3</string>
+  <string name="sum_xdivert_disabled">Redirecționare inteligentă dezactivată</string>
+  <string name="sum_xdivert_enabled">Redirecționare inteligentă activată</string>
+  <string name="updating_settings">Actualizare setări…</string>
+  <string name="updating_title">Setări apeluri</string>
+  <string name="xdivert_active">Activă</string>
+  <string name="xdivert_button">Setări redirecționare inteligentă</string>
+  <string name="xdivert_enternumber_error">Introduceți numărul de telefon pentru ambele abonamente</string>
+  <string name="xdivert_imsi_not_read">Inițializare cartelă SIM. Încercați după o perioadă de timp.</string>
+  <string name="xdivert_not_active">Inactivă</string>
+  <string name="xdivert_not_supported">Redirecționarea inteligentă nu este suportată de către CDMA</string>
+  <string name="xdivert_partial_set">Redirecționarea inteligentă a fost setată pentru un singur abonament</string>
+  <string name="xdivert_setting">Setare Redirecționare inteligentă</string>
+  <string name="xdivert_setting_primary_user_only">Redirecționarea inteligentă nu este disponibilă pentru utilizatorul gazdă.</string>
+  <string name="xdivert_status">Stare Redirecționare inteligentă</string>
+  <string name="xdivert_status_active">Redirecționare inteligentă activă</string>
+  <string name="xdivert_status_not_active">Redirecționare inteligentă inactivă</string>
+  <string name="xdivert_sub_absent">Ambele abonamente trebuie activate pentru a seta Redirecționarea inteligentă</string>
+  <string name="xdivert_summary">Redirecționare apel când nu se poate găsi</string>
+  <string name="xdivert_title">Redirecționare inteligentă</string>
+</resources>

@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Bărbat</item>
+        <item>Femeie</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="bookmarks">
+        <item>Google</item>
+        <item>http://www.google.com/</item>
+        <item>Picasa</item>
+        <item>http://picasaweb.google.com/</item>
+        <item>Yahoo!</item>
+        <item>http://www.yahoo.com/</item>
+        <item>MSN</item>
+        <item>http://www.msn.com/</item>
+        <item>Twitter</item>
+        <item>http://twitter.com/</item>
+        <item>Facebook</item>
+        <item>http://www.facebook.com/</item>
+        <item>Wikipedia</item>
+        <item>http://www.wikipedia.org/</item>
+        <item>eBay</item>
+        <item>http://www.ebay.com/</item>
+        <item>CNN</item>
+        <item>http://www.cnn.com/</item>
+        <item>NY Times</item>
+        <item>http://www.nytimes.com/</item>
+        <item>ESPN</item>
+        <item>http://espn.com/</item>
+        <item>Amazon</item>
+        <item>http://www.amazon.com/</item>
+        <item>Weather Channel</item>
+        <item>http://www.weather.com/</item>
+        <item>BBC</item>
+        <item>http://www.bbc.co.uk/</item>
+    </string-array>
+    <string-array name="bookshelf__general_shared__main_categories">
+        <item>Raftul cu cărți</item>
+        <item>Librarie</item>
+        <item>Raftul cu cărți</item>
+    </string-array>
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>https://www.google.com/favicon.ico</item>
+        <item>https://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>https://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
+    </string-array>
+    <string-array name="language_code_list">
+        <item>az_AZ</item>
+        <item>ms_MY</item>
+        <item>bs_BA</item>
+        <item>ca_ES</item>
+        <item>cs_CZ</item>
+        <item>da_DK</item>
+        <item>de_DE</item>
+        <item>et_EE</item>
+        <item>en</item>
+        <item>es</item>
+        <item>eu_ES</item>
+        <item>fr_FR</item>
+        <item>gl_ES</item>
+        <item>ha_NG</item>
+        <item>hr_HR</item>
+        <item>in_ID</item>
+        <item>it_IT</item>
+        <item>lv_LV</item>
+        <item>lt_LT</item>
+        <item>hu_HU</item>
+        <item>mt_MT</item>
+        <item>nl_NL</item>
+        <item>nb_NO</item>
+        <item>uz_UZ</item>
+        <item>pl_PL</item>
+        <item>pt</item>
+        <item>ro_RO</item>
+        <item>sq_AL</item>
+        <item>sk_SK</item>
+        <item>sl_SI</item>
+        <item>fi_FI</item>
+        <item>sv_SE</item>
+        <item>vi_VN</item>
+        <item>tr_TR</item>
+        <item>el_GR</item>
+        <item>be_BY</item>
+        <item>bg_BG</item>
+        <item>kk_KZ</item>
+        <item>mk_MK</item>
+        <item>ru_RU</item>
+        <item>sr_RS</item>
+        <item>uk_UA</item>
+        <item>ka_GE</item>
+        <item>hy_AM</item>
+        <item>iw_IL</item>
+        <item>ur</item>
+        <item>ar_EG</item>
+        <item>fa_IR</item>
+        <item>ne</item>
+        <item>mr_IN</item>
+        <item>hi_IN</item>
+        <item>as_IN</item>
+        <item>bn</item>
+        <item>pa_IN</item>
+        <item>gu_IN</item>
+        <item>ta_IN</item>
+        <item>te_IN</item>
+        <item>kn_IN</item>
+        <item>ml_IN</item>
+        <item>th_TH</item>
+        <item>my_MM</item>
+        <item>km_KH</item>
+        <item>ko_KR</item>
+        <item>ja_JP</item>
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+    </string-array>
+    <string-array name="language_name_list">
+        <item>Azərbaycan</item>
+        <item>Melayu</item>
+        <item>Bosanski</item>
+        <item>Català</item>
+        <item>Čeština</item>
+        <item>Dansk</item>
+        <item>Deutsch</item>
+        <item>Eesti</item>
+        <item>English</item>
+        <item>Español</item>
+        <item>Euskara</item>
+        <item>Français</item>
+        <item>Galego</item>
+        <item>Hausa</item>
+        <item>Hrvatski</item>
+        <item>Indonesia</item>
+        <item>Italiano</item>
+        <item>Latviešu</item>
+        <item>Lietuvių</item>
+        <item>Magyar</item>
+        <item>Malti</item>
+        <item>Nederlands</item>
+        <item>Norsk bokmål</item>
+        <item>"O'zbek"</item>
+        <item>Polski</item>
+        <item>Português</item>
+        <item>Română</item>
+        <item>Shqip</item>
+        <item>Slovenčina</item>
+        <item>Slovenščina</item>
+        <item>Suomi</item>
+        <item>Svenska</item>
+        <item>Tiếng Việt</item>
+        <item>Türkçe</item>
+        <item>Eλληνικά</item>
+        <item>Беларуская</item>
+        <item>български</item>
+        <item>Қазақ тілі</item>
+        <item>Македонски</item>
+        <item>Русский</item>
+        <item>Српски</item>
+        <item>Українська</item>
+        <item>ქართული</item>
+        <item>հայերեն</item>
+        <item>עברית</item>
+        <item>اردو</item>
+        <item>العربية</item>
+        <item>فارسی</item>
+        <item>नेपाली</item>
+        <item>मराठी</item>
+        <item>हिंदी</item>
+        <item>অসমীয়া</item>
+        <item>বাংলা</item>
+        <item>ਪੰਜਾਬੀ</item>
+        <item>ગુજરાતી</item>
+        <item>தமிழ்</item>
+        <item>తెలుగు</item>
+        <item>ಕನ್ನಡ</item>
+        <item>മലയാളം</item>
+        <item>ไทย</item>
+        <item>မြန်မာ</item>
+        <item>ខ្មែរ</item>
+        <item>한국어</item>
+        <item>日本語</item>
+        <item>简体中文</item>
+        <item>繁體中文</item>
+    </string-array>
+    <string-array name="menu_theme_setting">
+        <item>Alb</item>
+        <item>Galben</item>
+        <item>Gri</item>
+        <item>Maro</item>
+        <item>Verde</item>
+        <item>Albastru</item>
+    </string-array>
+    <string-array name="nf_ad_feedback_reason">
+        <item>Neinteresant</item>
+        <item>Repetitiv</item>
+        <item>Calitate redusă</item>
+        <item>Fotografie indecentă</item>
+        <item>Informație frauduloasă</item>
+    </string-array>
+    <string-array name="nf_feedback_reason">
+        <item>Conținut explicit</item>
+        <item>Minciună</item>
+        <item>Știri vechi</item>
+        <item>Opinii extremiste</item>
+        <item>Publicitate subliminală</item>
+        <item>Nu îmi place</item>
+    </string-array>
+    <string-array name="only_google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>https://www.google.com/favicon.ico</item>
+        <item>https://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}&amp;client={clientidbase}</item>
+        <item>UTF-8</item>
+        <item>https://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
+    </string-array>
+    <string-array name="personal__language_name_arr">
+        <item>Engleză</item>
+        <item>Spaniolă (Spania)</item>
+        <item>Spaniolă (America)</item>
+        <item>Bahasa Indonesia</item>
+        <item>Filipineză</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Înainte/Înapoi</item>
+        <item>Comutare file</item>
+        <item>Nimic</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Implicită</item>
+        <item>Adresă personalizată</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Telefon</item>
+        <item>Tabletă</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Vizualizare verticală</item>
+        <item>Vizualizare orizontală</item>
+    </string-array>
+    <string-array name="pref_security_do_not_track_keys">
+        <item>Pornit</item>
+        <item>Doar în modul Incognito</item>
+        <item>Oprit</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Foarte mic</item>
+        <item>Mic</item>
+        <item>Normal</item>
+        <item>Mare</item>
+        <item>Uriaș</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_web_permissions">
+        <item>Restricționați</item>
+        <item>Întreabă</item>
+        <item>Permiteți</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_one">
+        <item>Restricționați</item>
+        <item>Întreabă</item>
+    </string-array>
+    <string-array name="pref_web_permissions_sub_two">
+        <item>Restricționați</item>
+        <item>Permiteți</item>
+    </string-array>
+    <string-array name="protection_name">
+        <item>Auto</item>
+        <item>Nimic</item>
+        <item>Utilizator nou</item>
+    </string-array>
+    <string-array name="setting_swipe_up_target">
+        <item>Căutați</item>
+        <item>Știri</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Ștergeți</item>
+        <item>Nu, mulțumesc</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Urmăriți</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Mesaj din Browser</item>
+        <item>Urmăriți olimpiada cu Mi</item>
+    </string-array>
+    <string-array name="speed_result_tips">
+        <item>Conexiunea curentă la rețea este foarte lentă. Se pare că vă aflați într-o zonă cu o acoperire slabă a rețelei.</item>
+        <item>Conexiunea curentă la rețea este lentă.</item>
+        <item>Nu s-au găsit probleme cu conexiunea la rețea.</item>
+        <item>Conexiunea curentă la rețea este rapidă. Este suficientă pentru streaming de filme!</item>
+        <item>Conexiunea curentă la rețea este foarte rapidă! Sunteți în topul jucătorilor.</item>
+    </string-array>
+    <string-array name="user_guide_info_array">
+        <item>Descărcați videoclipuri și fotografii din rețelele sociale</item>
+        <item>Salvați imagini și videoclipuri din stările WhatsApp</item>
+        <item>Gestionați fișierele de pe dispozitiv și faceți-le private</item>
+    </string-array>
+    <string-array name="user_guide_title_array">
+        <item>Descărcați videoclipuri</item>
+        <item>Salvare Stări WhatsApp</item>
+        <item>Fișiere private</item>
+    </string-array>
+</resources>

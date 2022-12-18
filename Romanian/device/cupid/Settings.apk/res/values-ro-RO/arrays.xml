@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="accessibility_button_gesture_selector_titles">
+        <item>Butoane</item>
+        <item>Gesturi</item>
+    </string-array>
+    <string-array name="accessibility_button_location_selector_titles">
+        <item>Plutind deasupra altor aplicații</item>
+        <item>Panoul de navigare</item>
+    </string-array>
+    <string-array name="accessibility_button_size_selector_titles">
+        <item>Mic</item>
+        <item>Mare</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4 sau IPv6</item>
+    </string-array>
+    <string-array name="automatic_storage_management_days">
+        <item>Mai vechi de 30 de zile</item>
+        <item>Mai vechi de 60 de zile</item>
+        <item>Mai vechi de 90 de zile</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0 %</item>
+        <item>50 %</item>
+        <item>100 %</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>Nespecificat</item>
+        <item>LTE</item>
+        <item>HSPAP</item>
+        <item>HSPA</item>
+        <item>HSUPA</item>
+        <item>HSDPA</item>
+        <item>UMTS</item>
+        <item>EDGE</item>
+        <item>GPRS</item>
+        <item>eHRPD</item>
+        <item>EVDO_B</item>
+        <item>EVDO_A</item>
+        <item>EVDO_0</item>
+        <item>1xRTT</item>
+        <item>IS95B</item>
+        <item>IS95A</item>
+        <item>NR</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Utilizați preferința sistemului (Implicit)</item>
+        <item>16 biți/eșantion</item>
+        <item>24 biți/eșantion</item>
+        <item>32 biți/eșantion</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Utilizați preferința sistemului (Implicit)</item>
+        <item>16 biți/eșantion</item>
+        <item>24 biți/eșantion</item>
+        <item>32 biți/eșantion</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Utilizați preferința sistemului (Implicit)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Utilizați preferința sistemului (Implicit)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Optimizat pentru calitate audio</item>
+        <item>Calitate balansată audio și conexiune</item>
+        <item>Optimizat pentru calitatea conexiunii</item>
+        <item>Cel mai bun efect (Bit Rate adaptiv)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Optimizat pentru calitate audio (990kbps/909kbps)</item>
+        <item>Calitate balansată audio și conexiune (660kbps/606kbps)</item>
+        <item>Optimizat pentru calitatea conexiunii (330kbps/303kbps)</item>
+        <item>Cea mai bună (Bit Rate adaptiv)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Utilizați preferința sistemului (Implicit)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Utilizați preferința sistemului (Implicit)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Utilizați selecția sistemului (Implicit)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Utilizați selecția sistemului (Implicit)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>" | Activ"</item>
+        <item>" | Activ (media)"</item>
+        <item>" | Activ (telefon)"</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.5 (Implicit)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.4</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (Implicit)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
+    <string-array name="bluetooth_max_connected_audio_devices">
+        <item>Utilizați setarea prestabilită a sistemului: %1$d</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Dezactivată</item>
+        <item>Filtrare</item>
+        <item>Activată</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Implicit</item>
+        <item>Niciunul</item>
+        <item>Linie exterioară</item>
+        <item>Umbră</item>
+        <item>Ridicat</item>
+        <item>Apăsat</item>
+    </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>25 %</item>
+        <item>50 %</item>
+        <item>75 %</item>
+        <item>100 %</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>Prestabilit</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif condensat</item>
+        <item>Sans-serif monospace</item>
+        <item>Serif</item>
+        <item>Serif monospace</item>
+        <item>Temporar</item>
+        <item>Cursiv</item>
+        <item>Litere mici</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Doar acasă</item>
+        <item>Automat</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Culori vii</item>
+        <item>Culori naturale, așa cum sunt percepute de ochiul uman</item>
+        <item>Culori optimizate pentru conținut digital</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Vibrant (implicit)</item>
+        <item>Natural</item>
+        <item>Standard</item>
+    </string-array>
+    <string-array name="color_picker">
+        <item>Turcoaz</item>
+        <item>Albastru</item>
+        <item>Indigo</item>
+        <item>Violet</item>
+        <item>Roz</item>
+        <item>Roșu</item>
+    </string-array>
+    <string-array name="data_usage_data_range">
+        <item>Ultimele 30 de zile</item>
+        <item>Setați ciclul de utilizare...</item>
+    </string-array>
+    <string-array name="eap_ocsp_type">
+        <item>Nu valida</item>
+        <item>Solicitați starea certificatului</item>
+        <item>Solicitați statutul certificatului</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Mic</item>
+        <item>Implicit</item>
+        <item>Mare</item>
+        <item>Cel mai mare</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_list_titles">
+        <item>Scurtă</item>
+        <item>Medie</item>
+        <item>Lungă</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>Niciuna</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Niciuna</item>
+        <item>480p</item>
+        <item>480p (securizat)</item>
+        <item>720p</item>
+        <item>720p (securizat)</item>
+        <item>1080p</item>
+        <item>1080p (securizat)</item>
+        <item>4K</item>
+        <item>4K (securizat)</item>
+        <item>4K (scalat)</item>
+        <item>4K (scalat, securizat)</item>
+        <item>720p, 1080p (ecran scindat)</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>De preferat GSM/WCDMA</item>
+        <item>Doar GSM</item>
+        <item>Doar WCDMA</item>
+        <item>GSM/WCDMA automat</item>
+        <item>CDMA/EvDo automat</item>
+        <item>CDMA w/o EvDo</item>
+        <item>Doar EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>LTE</item>
+        <item>LTE/WCDMA</item>
+        <item>Doar TDSCDMA</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>Doar NR</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
+        <item>Global</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>Normal</item>
+        <item>Moderat</item>
+        <item>Redus</item>
+        <item>Critic</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Persistentă</item>
+        <item>Activitate importantă</item>
+        <item>Importantă (în prim plan)</item>
+        <item>Importantă (în fundal)</item>
+        <item>Rezervare</item>
+        <item>Maximă</item>
+        <item>Serviciu (rulează)</item>
+        <item>Serviciu (repornește)</item>
+        <item>Destinatar</item>
+        <item>Acasă</item>
+        <item>Ultima activitate</item>
+        <item>În cache (activitate)</item>
+        <item>În cache (activitate client)</item>
+        <item>În cache (gol)</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Oprit</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Oprit</item>
+        <item>64 KB per jurnal tampon</item>
+        <item>256 KB per jurnal tampon</item>
+        <item>1 MB per jurnal tampon</item>
+        <item>4 MB per jurnal tampon</item>
+        <item>8 MB per jurnal tampon</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Oprit</item>
+        <item>64 KB</item>
+        <item>256 KB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>8 MB</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Oprit</item>
+        <item>Toate jurnalele</item>
+        <item>Toate jurnalele înafară de radio</item>
+        <item>Doar jurnalele Kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Oprit</item>
+        <item>Toate</item>
+        <item>Toate fără radio</item>
+        <item>Doar Kernel</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Încărcare</item>
+        <item>MTP (Protocol de Transfer Multimedia)</item>
+        <item>PTP (Protocol de Transfer Fotografii)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Sursă audio</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="vpn_proxy_settings">
+        <item>Niciunul</item>
+        <item>Manual</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2">
+        <item>Wi-Fi</item>
+        <item>Date mobile</item>
+        <item>Doar Wi-Fi</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
+        <item>Wi-Fi</item>
+        <item>Date mobile</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_hidden_entries">
+        <item>Nu</item>
+        <item>Da</item>
+    </string-array>
+    <string-array name="wifi_metered_entries">
+        <item>Detectează în mod automat</item>
+        <item>Tratează ca rețea contorizată</item>
+        <item>Tratează ca rețea necontorizată</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries_with_sim_auth">
+        <item>Niciunul</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
+    </string-array>
+    <string-array name="wifi_ttls_phase2_entries">
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Scanare…</item>
+        <item>Conectare…</item>
+        <item>Autentificare…</item>
+        <item>Obținere adresă IP…</item>
+        <item>Conectat</item>
+        <item>Suspendat</item>
+        <item>Deconectare…</item>
+        <item>Deconectat</item>
+        <item>Fără succes</item>
+        <item>Blocat</item>
+        <item>Se evită temporar conexiunile slabe</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wsu_service_provider_packages">
+        <item>com.google.android.apps.carrier.carrierwifi</item>
+    </string-array>
+</resources>

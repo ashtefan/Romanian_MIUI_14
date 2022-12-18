@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="config_backGestureInsetScales">
+        <item>0,6</item>
+        <item>1,0</item>
+        <item>1,33</item>
+    </array>
+    <string-array name="config_system_condition_providers">
+        <item>numărătoare inversă</item>
+        <item>program</item>
+        <item>eveniment</item>
+    </string-array>
+    <string-array name="emailAddressTypes">
+        <item>Domiciliu</item>
+        <item>Serviciu</item>
+        <item>Altele</item>
+        <item>Personalizat</item>
+    </string-array>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Încercați din nou</item>
+        <item></item>
+        <item></item>
+        <item>Acoperiți complet senzorul cu degetul și apăsați</item>
+        <item></item>
+        <item>Acoperiți complet senzorul cu degetul și apăsați</item>
+        <item>Acoperiți complet senzorul cu degetul și apăsați</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Acoperiți complet senzorul cu degetul și apăsați</item>
+        <item>Acoperiți complet senzorul cu degetul și apăsați</item>
+        <item>Prea rapid! Nu s-a putut recunoaște amprenta</item>
+        <item>Mișcați puțin degetul și reîncercați</item>
+        <item>Ridicați și reașezați degetul pe senzor</item>
+        <item>Mențineți degetul mai mult timp pe senzor</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Mișcați degetul încet</item>
+        <item>Această amprentă a fost adăugată, folosiți alt deget</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Acasă</item>
+        <item>Servici</item>
+        <item>Altele</item>
+        <item>Personalizat</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="network_switch_type_name">
+        <item>date mobile</item>
+        <item>Wi-Fi</item>
+        <item>Bluetooth</item>
+        <item>Ethernet</item>
+        <item>VPN</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Serviciu</item>
+        <item>Altele</item>
+        <item>Personalizată</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Domiciliu</item>
+        <item>Mobil</item>
+        <item>Serviciu</item>
+        <item>Fax serviciu</item>
+        <item>Fax domiciliu</item>
+        <item>Pager</item>
+        <item>Altele</item>
+        <item>Personalizat</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Domiciliu</item>
+        <item>Serviciu</item>
+        <item>Altele</item>
+        <item>Personalizat</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Încearcă să activeze Wi-Fi-ul</item>
+        <item>Încearcă să activeze BT</item>
+    </string-array>   
+
+    
+    <string-array name="wfcOperatorErrorAlertMessages">
+        <item>Pentru a apela și a trimite mesaje prin Wi-Fi, cereți mai întâi operatorului să configureze acest serviciu. Apoi activați apelarea prin Wi-Fi din nou din Setări. (Cod de eroare: %1$s)</item>
+    </string-array>
+    <string-array name="wfcOperatorErrorNotificationMessages">
+        <item>Probleme de înregistrare apelare prin Wi-Fi cu operatorul dvs: %1$s</item>
+    </string-array>
+</resources>

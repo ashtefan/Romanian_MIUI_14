@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="height_array">
+        <item>Centimetri</item>
+        <item>Metri</item>
+        <item>Picioare</item>
+        <item>Inci</item>
+    </string-array>
+    <string-array name="mortgage_repayment">
+        <item>Rate egale</item>
+        <item>Rate descrescătoare</item>
+    </string-array>
+    <string-array name="operatorDescs">
+        <item>paranteză stânga</item>
+        <item>paranteză dreapta</item>
+        <item>factorial</item>
+        <item>logaritm natural</item>
+        <item>logaritm</item>
+        <item>rădăcină pătrată</item>
+        <item>împărţit la</item>
+        <item>înmulţit cu</item>
+        <item>plus</item>
+        <item>minus</item>
+        <item> punct </item>
+        <item>putere</item>
+        <item>tangentă</item>
+        <item>sinus</item>
+        <item>cosinus</item>
+        <item>pi</item>
+        <item>egal cu</item>
+    </string-array>
+    <string-array name="operators">
+        <item>(</item>
+        <item>)</item>
+        <item>!</item>
+        <item>ln</item>
+        <item>log</item>
+        <item>√</item>
+        <item>÷</item>
+        <item>×</item>
+        <item>+</item>
+        <item>−</item>
+        <item>.</item>
+        <item>^</item>
+        <item>tan</item>
+        <item>sin</item>
+        <item>cos</item>
+        <item>π</item>
+        <item>=</item>
+    </string-array>
+    <string-array name="unit_data_order_area_">
+        <item>km pătrat</item>
+        <item>ha</item>
+        <item>ar</item>
+        <item>m pătrat</item>
+        <item>dm pătrat</item>
+        <item>cm pătrat</item>
+        <item>mm pătrat</item>
+        <item>um pătrat</item>
+        <item>acre</item>
+        <item>mi pătrate</item>
+        <item>yd pătrați</item>
+        <item>picioare pătrate</item>
+        <item>in pătrați</item>
+        <item>rd pătrat</item>
+        <item>qing</item>
+        <item>mu</item>
+        <item>chi pătrat</item>
+        <item>cun pătrat</item>
+    </string-array>
+    <string-array name="unit_data_order_currency_">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>RON</item>
+    </string-array>
+    <string-array name="unit_data_order_length_">
+        <item>km</item>
+        <item>m</item>
+        <item>dm</item>
+        <item>cm</item>
+        <item>mm</item>
+        <item>um</item>
+        <item>nm</item>
+        <item>pm</item>
+        <item>dm</item>
+        <item>nmi</item>
+        <item>mi</item>
+        <item>fur</item>
+        <item>fm</item>
+        <item>yd</item>
+        <item>ft</item>
+        <item>in</item>
+        <item>gongli</item>
+        <item>li</item>
+        <item>zhang</item>
+        <item>chi</item>
+        <item>cun</item>
+        <item>fen</item>
+        <item>lii</item>
+        <item>hao</item>
+        <item>pc</item>
+        <item>ld</item>
+        <item>au</item>
+        <item>ly</item>
+    </string-array>
+    <string-array name="unit_data_order_temperature_">
+        <item>C</item>
+        <item>F</item>
+        <item>K</item>
+        <item>R</item>
+        <item>Re</item>
+    </string-array>
+    <string-array name="unit_data_order_time_">
+        <item>an</item>
+        <item>săpt</item>
+        <item>zi</item>
+        <item>h</item>
+        <item>min</item>
+        <item>s</item>
+        <item>ms</item>
+        <item>us</item>
+        <item>ps</item>
+    </string-array>
+    <string-array name="unit_data_order_velocity_">
+        <item>c</item>
+        <item>mach</item>
+        <item>m/s</item>
+        <item>km/h</item>
+        <item>km/s</item>
+        <item>nmiph</item>
+        <item>mileph</item>
+        <item>fps</item>
+        <item>ips</item>
+    </string-array>
+    <string-array name="unit_data_order_volume_">
+        <item>m cub</item>
+        <item>dm cub</item>
+        <item>cm cub</item>
+        <item>mm cub</item>
+        <item>hl</item>
+        <item>l</item>
+        <item>dl</item>
+        <item>cl</item>
+        <item>ml</item>
+        <item>ft cub</item>
+        <item>in cub</item>
+        <item>yd cub</item>
+        <item>af cub</item>
+    </string-array>
+    <string-array name="unit_data_order_weight_">
+        <item>t</item>
+        <item>kg</item>
+        <item>g</item>
+        <item>mg</item>
+        <item>ug</item>
+        <item>q</item>
+        <item>lb</item>
+        <item>oz</item>
+        <item>ct</item>
+        <item>gr</item>
+        <item>lt</item>
+        <item>st</item>
+        <item>uk.cwt</item>
+        <item>us.cwt</item>
+        <item>uk.st</item>
+        <item>dr</item>
+        <item>dan</item>
+        <item>jin</item>
+        <item>qian</item>
+        <item>liang</item>
+        <item>taijin</item>
+    </string-array>
+    <string-array name="weight_array">
+        <item>Kilograme</item>
+        <item>Pounds</item>
+    </string-array>
+</resources>

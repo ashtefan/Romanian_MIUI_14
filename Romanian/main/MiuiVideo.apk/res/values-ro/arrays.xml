@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="server_list_entries">
+        <item>Server de test</item>
+        <item>Server online</item>
+    </string-array>
+    <string-array name="version_list_entries">
+        <item>versiune stabilă</item>
+        <item>onoare nepoată?</item>
+    </string-array>
+</resources>

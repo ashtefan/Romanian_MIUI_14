@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Cu o oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Cu o oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Cu o jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Într-o oră</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Într-o jumătate de oră</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">într-un minut</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Cu %d minute în urmă</item>
+        <item quantity="one">Cu 1 minut în urmă</item>
+    </plurals>
+    <plurals name="comment_model_watch_reply">
+        <item quantity="other">Vedeți %d răspunsuri</item>
+        <item quantity="one">Vedeți %d răspuns</item>
+    </plurals>
+    <plurals name="dialog_app_rating_choose_star">
+        <item quantity="other">%s stele selectate</item>
+        <item quantity="one">%s stea selectată</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Repede înainte %d secunde</item>
+        <item quantity="one">Repede înainte %d secundă</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Înapoi %d secunde</item>
+        <item quantity="one">Înapoi %d secundă</item>
+    </plurals>
+    <plurals name="fcmpts_dialog_one">
+        <item quantity="other">Urmăriți încă %s secunde dintr-un videoclip pentru a câștiga puncte și a valorifica recompense</item>
+        <item quantity="one">Urmăriți încă %s secundă dintr-un videoclip pentru a câștiga puncte și a valorifica recompense</item>
+    </plurals>
+    <plurals name="feed_back_home">
+        <item quantity="other">Se revine la pagina de start în %1$d secunde…</item>
+        <item quantity="one">Se revine la pagina de start în %1$d secundă…</item>
+    </plurals>
+    <plurals name="follower">
+        <item quantity="other">%d urmăritori</item>
+        <item quantity="one">%d urmăritor</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Cu o jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Într-o oră</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">În jumătate de oră</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">într-un minut</item>
+    </plurals>
+    <plurals name="incentive_dialog_congratulation_get_credits_title">
+        <item quantity="other">Ați câștigat %d puncte!</item>
+        <item quantity="one">Ați câștigat %d punct!</item>
+    </plurals>
+    <plurals name="incentive_dialog_credits">
+        <item quantity="other">%d puncte</item>
+        <item quantity="one">%d punct</item>
+    </plurals>
+    <plurals name="incentive_dialog_login_and_get_credits_message">
+        <item quantity="other">Conectați-vă pentru a revendica și pentru a câștiga %d puncte suplimentare</item>
+        <item quantity="one">Conectați-vă pentru a revendica și pentru a câștiga %d punct suplimentar</item>
+    </plurals>
+    <plurals name="incentive_dialog_seconds">
+        <item quantity="other">%d secunde</item>
+        <item quantity="one">%d secundă</item>
+    </plurals>
+    <plurals name="incentive_guide_all_time_tip">
+        <item quantity="other">Urmăriți %d minute în total pentru a câștiga puncte! Finalizați sarcina acum?</item>
+        <item quantity="one">Urmăriți %d minut în total pentru a câștiga puncte! Finalizați sarcina acum?</item>
+    </plurals>
+    <plurals name="incentive_guide_coins_tip">
+        <item quantity="other">"Aveți %d puncte de revendicat
+Disponibil doar astăzi"</item>
+        <item quantity="one">"Aveți %d punct de revendicat
+Disponibil doar astăzi"</item>
+    </plurals>
+    <plurals name="incentive_guide_current_time_tip">
+        <item quantity="other">Ați vizionat %d minute astăzi</item>
+        <item quantity="one">Ați vizionat %d minut astăzi</item>
+    </plurals>
+    <plurals name="incentive_popup_window_share_success">
+        <item quantity="other">Partajat cu succes. Ați câștigat %d puncte.</item>
+        <item quantity="one">Partajat cu succes. Ați câștigat %d punct.</item>
+    </plurals>
+    <plurals name="incentive_popup_window_subscribe_success">
+        <item quantity="other">Abonat cu succes. Ați câștigat %d puncte.</item>
+        <item quantity="one">Abonat cu succes. Ați câștigat %d punct.</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_begin">
+        <item quantity="other">Câștigați %d puncte!</item>
+        <item quantity="one">Câștigați %d punct!</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_finish">
+        <item quantity="other">Sarcinile de azi finalizate! Ați câștigat %d puncte.</item>
+        <item quantity="one">Sarcinile de azi finalizate! Ați câștigat %d punct.</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_of_one">
+        <item quantity="other">Ați vizionat %1$1ds și ați câștigat %2$2d puncte!</item>
+        <item quantity="one">Ați vizionat %1$1ds și ați câștigat %2$2d punct!</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip1">
+        <item quantity="other">Urmăriți un videoclip aleatoriu pentru a câștiga %d puncte</item>
+        <item quantity="one">Urmăriți un videoclip aleatoriu pentru a câștiga %d punct</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip2">
+        <item quantity="other">Vizionați %1$1d secunde dintr-un videoclip pentru a câștiga %2$2d puncte</item>
+        <item quantity="one">Vizionați %1$1d secunde dintr-un videoclip pentru a câștiga %2$2d punct</item>
+    </plurals>
+    <plurals name="incentive_toast_share_success">
+        <item quantity="other">Ați câștigat %d puncte. Continuați să distribuiți pentru a câștiga mai mult.</item>
+        <item quantity="one">Ați câștigat %d punct. Continuați să distribuiți pentru a câștiga mai mult.</item>
+    </plurals>
+    <plurals name="incentive_toast_subscribe_success">
+        <item quantity="other">Ați câștigat %d puncte. Continuați să vă abonați pentru a câștiga mai mult.</item>
+        <item quantity="one">Ați câștigat %d punct. Continuați să vă abonați pentru a câștiga mai mult.</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
+    </plurals>
+    <plurals name="local_diversion_video_number">
+        <item quantity="other">%d videoclipuri</item>
+        <item quantity="one">%d videoclip</item>
+    </plurals>
+    <plurals name="local_video_floder">
+        <item quantity="other">%d dosare</item>
+        <item quantity="one">%d dosar</item>
+    </plurals>
+    <plurals name="long_video_minute">
+        <item quantity="other">%d mins</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="long_video_season">
+        <item quantity="other">%d sezoane</item>
+        <item quantity="one">%d sezon</item>
+    </plurals>
+    <plurals name="lv_subtitle_offset_advance_times">
+        <item quantity="other">Subtitrarea este decalată cu %.1f secunde înainte</item>
+        <item quantity="one">Subtitrarea este decalată cu %.1f secundă înainte</item>
+    </plurals>
+    <plurals name="lv_subtitle_offset_delay_times">
+        <item quantity="other">Subtitrarea este decalată cu %.1f secunde în urmă</item>
+        <item quantity="one">Subtitrarea este decalată cu %.1f secundă în urmă</item>
+    </plurals>
+    <plurals name="lv_subtitle_onlinesub_size_float_kb">
+        <item quantity="other">Dimensiune: %.2fKB</item>
+        <item quantity="one">Dimensiune: %.2fKB</item>
+    </plurals>
+    <plurals name="lv_video_count">
+        <item quantity="other">%d videoclipuri</item>
+        <item quantity="one">%d videoclip</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title1">
+        <item quantity="other">%1$1d din %2$2d episoade disponibile</item>
+        <item quantity="one">%1$1d din %2$2d episod disponibil</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title2">
+        <item quantity="other">%1$1d din %2$2d episoade disponibile</item>
+        <item quantity="one">%1$1d din %2$2d episod disponibil</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title_all">
+        <item quantity="other">%d episoade în total</item>
+        <item quantity="one">%d episod în total</item>
+    </plurals>
+    <plurals name="mediation_animate_close_after">
+        <item quantity="other">%s secunde rămase</item>
+        <item quantity="one">%s secundă rămas</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elemente selectate</item>
+        <item quantity="one">%d element selectat</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+    </plurals>
+    <plurals name="music_playlist_title_count">
+        <item quantity="other">%d melodii</item>
+        <item quantity="one">%d melodie</item>
+    </plurals>
+    <plurals name="new_incentive_toast_share_success">
+        <item quantity="other">Partajat cu succes. Ați câștigat %d puncte. Revendicați în Centrul de puncte.</item>
+        <item quantity="one">Partajat cu succes. Ați câștigat %d punct. Revendicați în Centrul de puncte.</item>
+    </plurals>
+    <plurals name="new_incentive_toast_subscribe_success">
+        <item quantity="other">Abonat cu succes. Ați câștigat %d puncte. Revendicați în Centrul de puncte.</item>
+        <item quantity="one">Abonat cu succes. Ați câștigat %d punct. Revendicați în Centrul de puncte.</item>
+    </plurals>
+    <plurals name="notice_user_banned">
+        <item quantity="other">Conținutul dumneavoastră conține elemente (%1$s) care încalcă standardele comunității noastre. Contul dvs. este suspendat pentru %2$d zile până la %3$s.</item>
+        <item quantity="one">Conținutul dumneavoastră conține elemente (%1$s) care încalcă standardele comunității noastre. Contul dvs. este suspendat pentru %2$d zi până la %3$s.</item>
+    </plurals>
+    <plurals name="notification_close_tip">
+        <item quantity="other">Această caracteristică va fi dezactivată pentru %s zile</item>
+        <item quantity="one">Această caracteristică va fi dezactivată pentru %s zi</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">Cu %d minute în urmă</item>
+        <item quantity="one">Cu un minut în urmă</item>
+    </plurals>
+    <plurals name="ovp_detail_v_video_count">
+        <item quantity="other">%d videoclipuri</item>
+        <item quantity="one">%d videoclip</item>
+    </plurals>
+    <plurals name="ovp_home_item_unit">
+        <item quantity="other">%d videoclipuri</item>
+        <item quantity="one">%d videoclip</item>
+    </plurals>
+    <plurals name="plus_edit_delete_comfire_text">
+        <item quantity="other">Ștergeți %s elemente acum?</item>
+        <item quantity="one">Ștergeți %s element acum?</item>
+    </plurals>
+    <plurals name="plus_edit_top_titletext">
+        <item quantity="other">Ați selectat %s elemente</item>
+        <item quantity="one">Ați selectat %s element</item>
+    </plurals>
+    <plurals name="plus_local_edit_delete_confirm_text">
+        <item quantity="other">Ștergeți definitiv %s fișiere acum?</item>
+        <item quantity="one">Ștergeți definitiv %s fișier acum?</item>
+    </plurals>
+    <plurals name="plus_player_subtitle_online_size">
+        <item quantity="other">Dimensiunea fișierului: %.2fKB</item>
+        <item quantity="one">Dimensiunea fișierului: %.2fKB</item>
+    </plurals>
+    <plurals name="plus_search_result_title">
+        <item quantity="other">%2$s rezultate pentru \"%1$s\"</item>
+        <item quantity="one">%2$s rezultat pentru \"%1$s\"</item>
+    </plurals>
+    <plurals name="plus_serval_pictures">
+        <item quantity="other">%d imagini</item>
+        <item quantity="one">%d imagine</item>
+    </plurals>
+    <plurals name="plus_serval_videos">
+        <item quantity="other">%d videoclipuri</item>
+        <item quantity="one">%d videoclip</item>
+    </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">Atingeți de două ori pentru a derula înapoi %d secunde</item>
+        <item quantity="one">Atingeți de două ori pentru a derula înapoi %d secundă</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">Atingeți de două ori pentru a derula înainte %d secunde</item>
+        <item quantity="one">Atingeți de două ori pentru a derula înainte %d secundă</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s secunde</item>
+        <item quantity="one">%1$s secundă</item>
+    </plurals>
+    <plurals name="subscriber">
+        <item quantity="other">%s abonați</item>
+        <item quantity="one">%s abonat</item>
+    </plurals>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">Subtitrarea este decalată cu %.1f secunde înainte</item>
+        <item quantity="one">Subtitrarea este decalată cu %.1f secundă înainte</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">Subtitrarea este decalată cu %.1f secunde în urmă</item>
+        <item quantity="one">Subtitrarea este decalată cu %.1f secundă în urmă</item>
+    </plurals>
+    <plurals name="toast_bookmark_max_size">
+        <item quantity="other">Adăugați maxim %d semne de carte</item>
+        <item quantity="one">Adăugați maxim %d semn de carte</item>
+    </plurals>
+    <plurals name="v_confirm_hide_videos_new">
+        <item quantity="other">Ascundeți %d fișiere selectate?</item>
+        <item quantity="one">Ascundeți %d fișier selectat?</item>
+    </plurals>
+    <plurals name="video_like_text">
+        <item quantity="other">%s aprecieri</item>
+        <item quantity="one">%s apreciere</item>
+    </plurals>
+    <plurals name="video_view_count">
+        <item quantity="other">%d vizualizări</item>
+        <item quantity="one">%d vizualizare</item>
+    </plurals>
+</resources>

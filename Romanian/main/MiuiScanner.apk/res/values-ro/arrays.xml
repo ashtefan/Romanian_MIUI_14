@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ArrayLangCodes">
+        <item>zh-Hans</item>
+        <item>en</item>
+        <item>fr</item>
+        <item>de</item>
+        <item>es</item>
+        <item>ja</item>
+        <item>ko</item>
+    </string-array>
+    <integer-array name="kingsoft_language_ids">
+        <item>1</item>
+        <item>101</item>
+        <item>3</item>
+        <item>4</item>
+        <item>103</item>
+        <item>104</item>
+        <item>105</item>
+    </integer-array>
+    <string-array name="pref_camera_focusmode_default_array">
+        <item>continuous-picture</item>
+        <item>auto</item>
+    </string-array>
+</resources>

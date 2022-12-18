@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>O dată</item>
+        <item>În fiecare zi</item>
+        <item>Zile de lucru</item>
+        <item>Zilele săptămânii</item>
+        <item>Personalizat</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>O dată</item>
+        <item>În fiecare zi</item>
+        <item>Zilele lucrătoare</item>
+        <item>Personalizat</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Toate înregistrările</item>
+        <item>Pornire automată</item>
+        <item>Pornire în lanț</item>
+        <item>Se utilizează permisiunile</item>
+        <item>Acțiuni senzitive</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>Model</item>
+        <item>Cod PIN</item>
+        <item>Parolă</item>
+    </string-array>
+    <string-array name="auto_task_text_layout_size_level">
+        <item>Foarte mic</item>
+        <item>Mic</item>
+        <item>Mediu</item>
+        <item>Mare</item>
+        <item>Foarte mare</item>
+        <item>XXL</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Dimensiune</item>
+        <item>Nume</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Plan lunar</item>
+        <item>Nelimitat</item>
+        <item>Plan zilnic</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>Personalizat</item>
+        <item>Cartelă Xiaomi Fan</item>
+        <item>Cartelă Xiao Tiansheng</item>
+        <item>Cartelă Tencent King</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Personalizat</item>
+        <item>Mi Mobile</item>
+        <item>Card Xiaomi Fan</item>
+        <item>Card Tianshen</item>
+        <item>Card Tencent</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Ieri (date mobile) "</item>
+        <item>"Astăzi (date mobile) "</item>
+        <item>"Luna trecută (date mobile) "</item>
+        <item>"Luna aceasta (date mobile) "</item>
+        <item>"Ieri (Wi-Fi) "</item>
+        <item>"Astăzi (Wi-Fi) "</item>
+        <item>"Luna trecută (Wi-Fi) "</item>
+        <item>"Luna aceasta (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Ieri "</item>
+        <item>"Astăzi "</item>
+        <item>"Luna trecută "</item>
+        <item>"În această lună "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Această săptămână "</item>
+        <item>"Astăzi "</item>
+        <item>"În această lună "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Ieri: "</item>
+        <item>"Astăzi: "</item>
+        <item>"Luna trecută: "</item>
+        <item>"Această lună: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Această săptămână: "</item>
+        <item>"Astăzi: "</item>
+        <item>"Această lună: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Va fi posibil să acceseze și să editeze fișierele de pe dispozitiv utilizând un computer.</item>
+        <item>Instalarea aplicațiilor pe dispozitiv fără permisiunea dvs. explicită va fi permisă.</item>
+        <item>Veți putea să monitorizați și să înregistrați conținutul de pe ecran de la distanță.</item>
+        <item>Se vor putea accesa informații detaliate despre dispozitivul dvs.</item>
+    </string-array>
+    <string-array name="ew_emergency_blood_type_arrays">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="ew_emergency_organ_donation_arrays">
+        <item>Da</item>
+        <item>Nu</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Cea mai mică</item>
+        <item>Redusă</item>
+        <item>Obișnuită</item>
+        <item>Ridicată</item>
+        <item>Cea mai ridicată</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Când telefonul este blocat</item>
+        <item>Când telefonul este blocat sau după ieșirea din aplicație</item>
+        <item>Când telefonul este blocat sau după un minut de la părăsirea aplicației</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Utilizare date mobile "</item>
+        <item>"Utilizare Wi-Fi "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Important: Este posibil ca mai multe aplicații de sistem să nu mai funcționeze corect.</item>
+        <item>Dispunerea textului, conturile și conținutul pot fi afișate necorespunzător.</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Arată o atenționare</item>
+        <item>Atenționează și oprește datele mobile</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Implicit</item>
+        <item>Cu prioritate pentru performanță</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Se utilizează modul implicit de control al temperaturii</item>
+        <item>Se prioritizează performanța</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Citirea tuturor notificărilor, inclusiv conținutul mesajelor text și a altor elemente ce pot conține informații personale</item>
+        <item>Restricționarea permisiunii de accesare a notificărilor pentru unele aplicații</item>
+        <item>Simularea atingerii notificărilor și deschiderea aplicațiilor</item>
+        <item>Activarea și dezactivarea modului Nu deranjați</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Colectarea datelor despre interesele și comportamentul dvs. prin învățarea aplicațiilor pe care le utilizați și a frecvenței de utilizare a lor</item>
+        <item>Accesarea setărilor legate de limbă și operator, ca și a altor detalii</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>Aplicațiile terțe care nu sunt verificate pot cauza diverse probleme și scădea stabilitatea sistemului.</item>
+        <item>Unele aplicații terțe pot conține malware care supun la risc datele dvs. personale.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Stocarea internă</item>
+        <item>Stocarea externă</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Întotdeauna</item>
+        <item>Doar pentru excepții</item>
+        <item>Niciodată</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Utilizare date</item>
+        <item>Balanță telefon</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>Sortare după numele aplicației</item>
+        <item>Sortare după frecvența utilizării</item>
+        <item>Sortare după spațiul utilizat</item>
+        <item>Sortare după data instalării</item>
+           </string-array>
+    <string-array name="sort_type_new">
+         <item>Numele aplicației</item>
+         <item>Frecvența utilizării</item>
+         <item>Spațiul utilizat</item>
+         <item>Data instalării</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Dezactivează și notifică</item>
+        <item>Doar notifică</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Sursa instalării</item>
+        <item>Ora instalării</item>
+        <item>Ultima sursă de actualizare</item>
+        <item>Ultima actualizare</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Plan de date lunar</item>
+        <item>Plan de date zilnic</item>
+        <item>Plan de date nelimitat</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Utilizare date mobile "</item>
+        <item>"Utilizare Wi-Fi "</item>
+    </string-array>
+</resources>

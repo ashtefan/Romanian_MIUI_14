@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="APKTOOL_DUMMY_16">false</string>
+    <string name="action_settings">Setări</string>
+    <string name="app_label">Raport erori KLO</string>
+    <string name="btn_cancel">Renunțați</string>
+    <string name="btn_done">Finalizat</string>
+    <string name="btn_failed">Eșuat, ieșire</string>
+    <string name="btn_not_upload">Nu încărcați</string>
+    <string name="btn_upload">Încărcați</string>
+    <string name="later">Mai târziu</string>
+    <string name="mem_collect_text_1_1">Bine ați venit la MIUI alpha; ne-am confruntat recent cu probleme privind memoria insuficientă și vrem să aflăm de ce</string>
+    <string name="mem_collect_text_1_2">poate avea probleme privind memoria.</string>
+    <string name="mem_collect_text_2_1">Am salvat</string>
+    <string name="mem_collect_text_2_2">fișierele referitoare la memorie în telefonul dumneavoastră, în speranța că ne puteți aștepta încărcând aceste fișiere.</string>
+    <string name="mem_collect_text_3">Vă garantăm confidențialitatea și securitatea datelor personale.</string>
+    <string name="mem_collect_text_thx">"încărcare efectuată
+Vă mulțumim pentru ajutor"</string>
+    <string name="noti_body">generați un raport de erori</string>
+    <string name="noti_btn_text">Încărcați</string>
+    <string name="noti_title">Raportul de eroare a fost generat</string>
+    <string name="notification_update_new_version">Este disponibilă o actualizare</string>
+    <string name="notification_update_now">Actualizați acum</string>
+    <string name="passport_xiaomi_account_dspt">Utilizați contul Mi pentru a vă conecta la Mi Cloud, Magazinul de teme MIUI și la alte servicii Mi, de oriunde ați fi.</string>
+    <string name="title">Unealtă de colectare a raportului de erori</string>
+    <string name="to_turn_on_wifi">Activați Wi-Fi-ul</string>
+</resources>

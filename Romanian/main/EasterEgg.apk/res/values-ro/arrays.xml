@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="food_names">
+        <item>Farfurie goală</item>
+        <item>Bucățele</item>
+        <item>Pește</item>
+        <item>Pui</item>
+        <item>Ospăț</item>
+    </string-array>
+</resources>

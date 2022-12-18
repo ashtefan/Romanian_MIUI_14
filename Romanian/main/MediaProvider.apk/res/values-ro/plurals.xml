@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Repede înainte %d secunde</item>
+        <item quantity="one">Repede înainte %d secundă</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Derulați înapoi %d secunde</item>
+        <item quantity="one">Derulați înapoi %d secundă</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+    </plurals>
+    <plurals name="permission_delete_audio">
+        <item quantity="other">Permiteți ^1 să șteargă ^2 fișiere audio?</item>
+        <item quantity="one">Permiteți ^1 să șteargă acest fișier audio?</item>
+    </plurals>
+    <plurals name="permission_delete_generic">
+        <item quantity="other">Permiteți ^1 să șteargă ^2 elemente?</item>
+        <item quantity="one">Permiteți ^1 să șteargă acest element?</item>
+    </plurals>
+    <plurals name="permission_delete_image">
+        <item quantity="other">Permiteți ^1 să șteargă ^2 fotografii?</item>
+        <item quantity="one">Permiteți ^1 să șteargă această fotografie?</item>
+    </plurals>
+    <plurals name="permission_delete_video">
+        <item quantity="other">Permiteți ^1 să șteargă ^2 videoclipuri?</item>
+        <item quantity="one">Permiteți ^1 să șteargă acest videoclip?</item>
+    </plurals>
+    <plurals name="permission_more_text">
+        <item quantity="other">Plus ^1 elemente adiționale</item>
+        <item quantity="one">Plus ^1 element adițional</item>
+    </plurals>
+    <plurals name="permission_more_thumb">
+        <item quantity="other">+^1</item>
+        <item quantity="one">+^1</item>
+    </plurals>
+    <plurals name="permission_trash_audio">
+        <item quantity="other">Permiteți ^1 să șteargă ^2 fișiere audio?</item>
+        <item quantity="one">Permiteți ^1 să șteargă acest fișier audio?</item>
+    </plurals>
+    <plurals name="permission_trash_generic">
+        <item quantity="other">Permiteți ^1 să șteargă ^2 elemente?</item>
+        <item quantity="one">Permiteți ^1 să șteargă acest element?</item>
+    </plurals>
+    <plurals name="permission_trash_image">
+        <item quantity="other">Permiteți ^1 să șteargă ^2 fotografii?</item>
+        <item quantity="one">Permiteți ^1 să șteargă această fotografie?</item>
+    </plurals>
+    <plurals name="permission_trash_video">
+        <item quantity="other">Permiteți ^1 să șteargă ^2 videoclipuri?</item>
+        <item quantity="one">Permiteți ^1 să șteargă acest videoclip?</item>
+    </plurals>
+    <plurals name="permission_untrash_audio">
+        <item quantity="other">Permiteți ^1 să mute ^2 fișiere audio din coșul de gunoi?</item>
+        <item quantity="one">Permiteți ^1 să mute acest fișier audio din coșul de gunoi?</item>
+    </plurals>
+    <plurals name="permission_untrash_generic">
+        <item quantity="other">Permiteți ^1 să mute ^2 elemente din coșul de gunoi?</item>
+        <item quantity="one">Permiteți ^1 să mute acest element din coșul de gunoi?</item>
+    </plurals>
+    <plurals name="permission_untrash_image">
+        <item quantity="other">Permiteți ^1 să mute ^2 fotografii din coșul de gunoi?</item>
+        <item quantity="one">Permiteți ^1 să mute această fotografie din coșul de gunoi?</item>
+    </plurals>
+    <plurals name="permission_untrash_video">
+        <item quantity="other">Permiteți ^1 să mute ^2 videoclipuri din coșul de gunoi?</item>
+        <item quantity="one">Permiteți ^1 să mute acest videoclip din coșul de gunoi?</item>
+    </plurals>
+    <plurals name="permission_write_audio">
+        <item quantity="other">Permiteți ^1 să modifice ^2 fișiere audio?</item>
+        <item quantity="one">Permiteți ^1 să modifice acest fișier audio?</item>
+    </plurals>
+    <plurals name="permission_write_generic">
+        <item quantity="other">Permiteți ^1 să modifice ^2 elemente?</item>
+        <item quantity="one">Permiteți ^1 să modifice acest element?</item>
+    </plurals>
+    <plurals name="permission_write_image">
+        <item quantity="other">Permiteți ^1 să modifice ^2 fotografii?</item>
+        <item quantity="one">Permiteți ^1 să modifice această fotografie?</item>
+    </plurals>
+    <plurals name="permission_write_video">
+        <item quantity="other">Permiteți ^1 să modifice ^2 videoclipuri?</item>
+        <item quantity="one">Permiteți ^1 să modifice acest videoclip?</item>
+    </plurals>
+</resources>

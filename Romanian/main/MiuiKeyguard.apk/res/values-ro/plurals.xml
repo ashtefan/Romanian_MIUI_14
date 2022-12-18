@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="incorrect_pukcode_remaining_attempts">
+        <item quantity="other">Cod PUK incorect, %d încercări rămase</item>
+        <item quantity="one">Cod PUK incorect, %d încercare rămasă</item>
+    </plurals>
+    <plurals name="incorrect_pincode_remaining_attempts">
+        <item quantity="other">Cod PIN incorect, %d încercări rămase</item>
+        <item quantity="one">Cod PIN incorect, %d încercări rămase</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">Încercați din nou în %d secunde</item>
+        <item quantity="one">Încercați din nou în %d secundă</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">Încercați din nou în %d minute</item>
+        <item quantity="one">Încercați din nou în %d minut</item>
+    </plurals>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">%d notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_min_time__text">
+        <item quantity="other">Aproximativ %d minute până la încărcarea completă​</item>
+        <item quantity="one">Aproximativ %d minut până la încărcarea completă</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_hour_time__text">
+        <item quantity="other">Aproximativ %d ore până la încărcarea completă</item>
+        <item quantity="one">Aproximativ %d oră până la încărcarea completă</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_charging_full_need_time__text">
+        <item quantity="other">Aproximativ %1$d ore și %2$d minute până la încărcarea completă</item>
+        <item quantity="one">Aproximativ %1$d oră și %2$d min până la încărcarea completă</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_min_time_text">
+        <item quantity="other">Aproximativ %d minute rămase</item>
+        <item quantity="one">Aproximativ %d minut rămas</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_hour_time_text">
+        <item quantity="other">Aproximativ %d ore rămase</item>
+        <item quantity="one">Aproximativ %d oră rămasă</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_could_use_time_text">
+        <item quantity="other">Aproximativ %1$d ore și %2$d min rămase</item>
+        <item quantity="one">Aproximativ %1$d oră și %2$d min rămas</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_hour_time_format">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d oră</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_min_time_format">
+        <item quantity="other">%d minute</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="keyguard_charging_info_drained_time_format">
+        <item quantity="other">%1$d ore și %2$d minute</item>
+        <item quantity="one">%1$d oră și %2$d minut</item>
+    </plurals>
+</resources>

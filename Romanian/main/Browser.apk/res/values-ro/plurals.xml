@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Cu o oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Cu o oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Cu o jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Într-o oră</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Într-o jumătate de oră</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">într-un minut</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Cu %d minute în urmă</item>
+        <item quantity="one">Cu 1 minut în urmă</item>
+    </plurals>
+    <plurals name="comment_detail_title">
+        <item quantity="other">%d răspunsuri</item>
+        <item quantity="one">%d răspuns</item>
+    </plurals>
+    <plurals name="comment_hour_ago">
+        <item quantity="other">Cu %d ore în urmă</item>
+        <item quantity="one">Cu %d oră în urmă</item>
+    </plurals>
+    <plurals name="comment_look_all">
+        <item quantity="other">Vedeți %d comentarii</item>
+        <item quantity="one">Vedeți %d comentariu</item>
+    </plurals>
+    <plurals name="comment_minute_ago">
+        <item quantity="other">Cu %d minute în urmă</item>
+        <item quantity="one">Cu %d minut în urmă</item>
+    </plurals>
+    <plurals name="comment_selected">
+        <item quantity="other">Au fost selectate %d motive</item>
+        <item quantity="one">A fost selectat %d motiv</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Cu o jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="hot_word_hot_count">
+        <item quantity="other">%d vizualizări</item>
+        <item quantity="one">%d vizualizare</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Într-o oră</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">În jumătate de oră</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">într-un minut</item>
+    </plurals>
+    <plurals name="info_flow_tips">
+        <item quantity="other">S-au găsit %d elemente noi pentru dvs</item>
+        <item quantity="one">S-a găsit %d element nou pentru dvs</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
+    </plurals>
+    <plurals name="mw_last_num_days">
+        <item quantity="other">Ultimele %d zile</item>
+    </plurals>
+    <plurals name="mw_matches_found">
+        <item quantity="other">%1$d din %2$d</item>
+        <item quantity="one">1 potrivire</item>
+    </plurals>
+    <plurals name="nav_screen_incognito_time">
+        <item quantity="other">După %d secunde se va crea în mod automat o nouă pagină</item>
+        <item quantity="one">După %d secundă se va crea în mod automat o nouă pagină</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">cu %d minute în urmă</item>
+        <item quantity="one">cu 1 minut în urmă</item>
+    </plurals>
+    <plurals name="transfer_prompt">
+        <item quantity="other">Redă videoclipul în %1$d secunde</item>
+        <item quantity="one">Redă videoclipul în %1$d secundă</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d selectate</item>
+        <item quantity="one">%1$d selectat</item>
+    </plurals>
+    <plurals name="video_download_clear_info">
+        <item quantity="other">%1$d videoclipuri eliminate.</item>
+        <item quantity="one">%1$d videoclip eliminat.</item>
+    </plurals>
+    <plurals name="video_download_clear_prompt">
+        <item quantity="other">Eliminați %1$d videoclipuri?</item>
+        <item quantity="one">Eliminați %1$d videoclip?</item>
+    </plurals>
+    <plurals name="video_history_clear_info">
+        <item quantity="other">%1$d elemente șterse din istoric.</item>
+        <item quantity="one">%1$d element șters din istoric.</item>
+    </plurals>
+    <plurals name="video_history_clear_prompt">
+        <item quantity="other">Ștergeți %1$d elemente din istoric?</item>
+        <item quantity="one">Ștergeți %1$d element din istoric?</item>
+    </plurals>
+    <plurals name="video_playback_error">
+        <item quantity="other">"Nu s-a putut încărca videoclipul.
+Se va reda următorul în %d secunde…"</item>
+        <item quantity="one">"Nu s-a putut încărca videoclipul.
+Se va reda următorul în %d secundă…"</item>
+    </plurals>
+    <plurals name="video_subtitle_last_message">
+        <item quantity="other">%d minute rămase</item>
+        <item quantity="one">%d minut rămas</item>
+    </plurals>
+    <plurals name="vo_comment">
+        <item quantity="other">%s comentarii</item>
+        <item quantity="one">%s comentariu</item>
+    </plurals>
+    <plurals name="vo_image_mark">
+        <item quantity="other">%d imagini</item>
+        <item quantity="one">%d imagine</item>
+    </plurals>
+    <plurals name="vo_short_video_play_count">
+        <item quantity="other">%s</item>
+        <item quantity="one">%s</item>
+    </plurals>
+    <plurals name="vo_source_comment">
+        <item quantity="other">%1$s | %2$s comentarii</item>
+        <item quantity="one">%1$s | %2$s comentariu</item>
+    </plurals>
+    <plurals name="vo_vote_num">
+        <item quantity="other">%d persoane au votat deja</item>
+        <item quantity="one">%d persoană a votat deja</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_hour">
+        <item quantity="other">· Cu %s ore în urmă</item>
+        <item quantity="one">· Cu %s oră în urmă</item>
+    </plurals>
+    <plurals name="vo_wei_bo_publish_time_minute">
+        <item quantity="other">· Cu %s minute în urmă</item>
+        <item quantity="one">· Cu %s minut în urmă</item>
+    </plurals>
+    <plurals name="vo_zhi_hu_answer">
+        <item quantity="other">%d răspunsuri pe Zhihu</item>
+        <item quantity="one">%d răspuns pe Zhihu</item>
+    </plurals>
+</resources>

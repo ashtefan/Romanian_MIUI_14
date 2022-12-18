@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Bărbat</item>
+        <item>Femeie</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="net_diag_err_link_quality">
+        <item>Conexiune Wi-Fi slabă. Schimbați benzile wireless sau reporniți routerul.</item>
+        <item>Nu se poate accesa rețeaua. Reconectați-vă la Wi-Fi sau reporniți routerul.</item>
+    </string-array>
+    <string-array name="net_diag_err_link_quality_china">
+        <item>Conexiune Wi-Fi slabă. Schimbați benzile wireless sau reporniți routerul.</item>
+        <item>Nu se poate accesa rețeaua. Reconectați-vă la Wi-Fi sau reporniți routerul.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity">
+        <item>Este necesară autentificarea pentru accesul la rețea</item>
+        <item>Accesul la rețea este restricționat. Reglați ora pe acest dispozitiv și verificați setările de rețea ale routerului.</item>
+        <item>Eroare de rețea. Verificați setările proxy HTTP.</item>
+        <item>Eroare de rețea. Verificați dacă routerul poate accesa internetul.</item>
+        <item>Nu se poate conecta la rețea. Reconectați-vă la Wi-Fi sau reporniți routerul.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity_china">
+        <item>Este necesară autentificarea pentru accesul la rețea</item>
+        <item>Accesul la rețea este restricționat. Reglați ora pe acest dispozitiv și verificați setările de rețea ale routerului.</item>
+        <item>Eroare de rețea. Verificați setările proxy HTTP.</item>
+        <item>Eroare de rețea. Verificați dacă routerul poate accesa internetul.</item>
+        <item>Nu se poate conecta la rețea. Reconectați-vă la Wi-Fi sau reporniți routerul.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns">
+        <item>Eroare de server DNS. Verificați configurația DNS a routerului.</item>
+        <item>Întârzieri majore de la serverul DNS. Verificați configurația DNS a routerului.</item>
+        <item>Nu se poate accesa gateway-ul. Reconectați-vă la Wi-Fi sau reporniți routerul.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns_china">
+        <item>Eroare de server DNS. Verificați configurația DNS a routerului.</item>
+        <item>Întârzieri majore de la serverul DNS. Verificați configurația DNS a routerului.</item>
+        <item>Nu se poate accesa gateway-ul. Reconectați-vă la Wi-Fi sau reporniți routerul.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_latency">
+        <item>Întârzieri majore din rețeaua locală. Reporniți routerul sau conectați-vă la o altă rețea.</item>
+        <item>Întârzieri majore de la internet. Verificați setările rețelei operatorului sau conectați-vă la o altă rețea.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_parameters">
+        <item>Comutați de la IP static la DHCP</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol">
+        <item>Eroare de protocol de rețea. Reconectați-vă la Wi-Fi sau reporniți dispozitivul.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol_china">
+        <item>Eroare de protocol de rețea. Reconectați-vă la Wi-Fi sau reporniți dispozitivul.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi">
+        <item>Mutați-vă într-o zonă cu o acoperire Wi-Fi mai bună</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi_china">
+        <item>Mutați-vă într-o zonă cu o acoperire Wi-Fi mai bună</item>
+    </string-array>
+    <string-array name="net_diag_err_network_topology">
+        <item>Verificați setările DHCP ale routerului și conexiunea prin cablu</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="btn_cancel_msg">Revocare</string>
+    <string name="btn_ok_msg">Amânare</string>
+    <string name="msg_battery_low_temperature">Temperatura acumulatorului este prea scăzută, deconectați încărcătorul!</string>
+    <string name="msg_battery_over_temperature">Temperatura acumulatorului este prea ridicată; scoateți-l din telefon!</string>
+    <string name="msg_battery_over_voltage">Tensiunea acumulatorului este prea mare; scoateți-l din telefon!</string>
+    <string name="msg_charger_over_voltage">Tensiunea încărcătorului este prea mare; deconectați-l!</string>
+    <string name="msg_over_current_protection"> Intensitatea curentului din acumulator este prea mare; scoateți acumulatorul din telefon!</string>
+    <string name="msg_safety_timer_timeout">Timpul de încărcare este prea lung; deconectați incărcătorul!</string>
+    <string name="title_battery_low_temperature">Temperatură scăzută a acumulatorului</string>
+    <string name="title_battery_over_temperature">Temperatură ridicată a acumulatorului</string>
+    <string name="title_battery_over_voltage">Tensiune ridicată a acumulatorului</string>
+    <string name="title_charger_over_voltage">Tensiune ridicată a încărcătorului</string>
+    <string name="title_over_current_protection">Protecție la supra-curent</string>
+    <string name="title_safety_timer_timeout">Durată de încărcare prea mare</string>
+</resources>

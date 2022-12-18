@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Ștergeți %1$s conversații selectate?</item>
+        <item quantity="one">Ștergeți această conversație?</item>
+    </plurals>
+</resources>

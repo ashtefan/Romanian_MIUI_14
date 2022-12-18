@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">Server media</string>
+    <string name="cancel">Renunțați</string>
+    <string name="enable_wifi_btn">Activați</string>
+    <string name="enable_wifi_message">Activați Wi-Fi-ul pentru a căuta și a vă conecta la dispozitivele din apropiere.</string>
+    <string name="enable_wifi_title">Activați Wi-Fi</string>
+    <string name="media_feature_projection">Proiectare ecran</string>
+    <string name="media_route_controller_disconnect">Deconectați</string>
+    <string name="media_status_error">Eroare</string>
+    <string name="media_status_started">Conectat</string>
+    <string name="media_status_starting">Conectare…</string>
+    <string name="media_status_stopped">Oprit</string>
+    <string name="media_status_stopping">Oprire…</string>
+    <string name="noti_projection_status_desc_on">Proiectarea ecranului este activată</string>
+    <string name="noti_projection_status_title">Ecran wireless Mi Play</string>
+    <string name="prjection_title">Ecran wireless</string>
+    <string name="search_for_devices">Reîmprospătați</string>
+  <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
+    <string name="wifi_display_certification_heading">Certificare</string>
+    <string name="wifi_display_details">Setări ecran</string>
+    <string name="wifi_display_enable_menu_item">Activați Ecran wireless</string>
+    <string name="wifi_display_listen_channel">Canal ascultare</string>
+    <string name="wifi_display_listen_mode">Activați modul Ascultare</string>
+    <string name="wifi_display_no_devices_found">"Nu s-au găsit dispozitive în apropiere."</string>
+    <string name="wifi_display_operating_channel">Canal de operare</string>
+    <string name="wifi_display_options_done">Finalizat</string>
+    <string name="wifi_display_options_forget">Uitați</string>
+    <string name="wifi_display_options_name">Nume</string>
+    <string name="wifi_display_options_title">Opțiuni ecran wireless</string>
+    <string name="wifi_display_pause">Pauză</string>
+    <string name="wifi_display_resume">Reluați</string>
+    <string name="wifi_display_session_info">Informații sesiune</string>
+    <string name="wifi_display_settings_title">Proiectare</string>
+    <string name="wifi_display_status_connected">Conectat</string>
+    <string name="wifi_display_status_connecting">Conectare</string>
+    <string name="wifi_display_status_in_use">În uz</string>
+    <string name="wifi_display_status_not_available">Indisponibil</string>
+    <string name="wifi_display_wps_config">Configurare WPS</string>
+</resources>

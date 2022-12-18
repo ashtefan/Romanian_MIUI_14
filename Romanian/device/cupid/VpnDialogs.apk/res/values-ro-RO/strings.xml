@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="always_on_disconnected_message">%1$s este setat să stea conectat permanent, dar nu se poate conecta în prezent. Telefonul va utiliza o rețea publică până când se va putea reconecta la %1$s.</string>
+    <string name="always_on_disconnected_message_lockdown">%1$s este setat să stea conectat permanent, dar nu se poate conecta în prezent. Nu veți avea o conexiune până când VPN-ul se va putea reconecta.</string>
+    <string name="always_on_disconnected_message_separator">" "</string>
+    <string name="always_on_disconnected_message_settings_link">Modificați setările VPN</string>
+    <string name="always_on_disconnected_title">Nu se poate conecta la VPN-ul activ permanent</string>
+    <string name="data_value_format">%1$s octeți / %2$s pachete</string>
+    <string name="dismiss">Respingeți</string>
+    <string name="open_app">Deschideți aplicația</string>
+</resources>

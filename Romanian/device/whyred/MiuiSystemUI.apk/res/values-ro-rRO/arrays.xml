@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Utilizați selecția sistemului (Implicit)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>LHDC</item>
+        <item>Activați codecurile opționale</item>
+        <item>Dezactivați codecurile opționale</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Utilizați selecția sistemului (Implicit)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Qualcomm® aptX™ audio</item>
+        <item>Qualcomm® aptX™ HD audio</item>
+        <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>LHDC</item>
+        <item>Activați codecurile opționale</item>
+        <item>Dezactivați codecurile opționale</item>
+    </string-array>
+</resources>

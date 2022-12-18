@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">BSPTelephonyDevTool</string>
+    <string name="data_connection">Conexiune de date</string>
+    <string name="network_status_and_signal_strength">Stare rețea și Nivel semnal</string>
+    <string name="no">Nu</string>
+    <string name="no_sim_inserted">Nicio cartelă SIM introdusă</string>
+    <string name="off">Oprit</string>
+    <string name="perform_switch">Comutare...</string>
+    <string name="phone">TELEFON</string>
+    <string name="phone1">TELEFON 1</string>
+    <string name="phone2">TELEFON 2</string>
+    <string name="phone3">TELEFON 3</string>
+    <string name="phone4">TELEFON 4</string>
+    <string name="please_wait">Așteptați, vă rog...</string>
+  <string name="plug_in_all_sims">Plug-in all SIMs</string>
+  <string name="plug_out_all_sims">Plug-out all SIMs</string>
+    <string name="reboot_confirm_notice">Reporniți telefonul pentru a modifica telefonul implicit?</string>
+    <string name="restarting_device">Repornire telefon...</string>
+    <string name="sim">SIM</string>
+    <string name="sim1">SIM 1</string>
+    <string name="sim2">SIM 2</string>
+    <string name="sim3">SIM 3</string>
+    <string name="sim4">SIM 4</string>
+  <string name="sim_hot_plug_in">SIM Hot Plug In</string>
+  <string name="sim_hot_plug_out">SIM Hot Plug Out</string>
+    <string name="sim_missing">Lipsă cartelă SIM</string>
+    <string name="sim_recovery">Recuperare SIM</string>
+    <string name="sim_switch">Comutare cartelă SIM</string>
+    <string name="start_status_bar_notification">Pornire afișare notificări bară de stare</string>
+    <string name="stop_statusbar_notification">Oprire afișare notificări bară de stare</string>
+    <string name="test_button">Buton testare</string>
+    <string name="yes">Da</string>
+</resources>

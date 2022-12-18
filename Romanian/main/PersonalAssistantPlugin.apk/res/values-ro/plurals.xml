@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="mins_ago">
+        <item quantity="other">cu %1$d min în urmă</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">cu %1$d h în urmă</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">cu %1$d z în urmă</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">cu %d minute în urmă</item>
+        <item quantity="one">cu %d minut în urmă</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">cu %d ore în urmă</item>
+        <item quantity="one">cu %d oră în urmă</item>
+    </plurals>
+    <plurals name="step_km">
+        <item quantity="other">%d km</item>
+        <item quantity="one">%d km</item>
+    </plurals>
+    <plurals name="steps">
+        <item quantity="other">%d| pași</item>
+        <item quantity="zero">%d|pas</item>
+        <item quantity="one">%d|pas</item>
+    </plurals>
+    <plurals name="assistant_day">
+        <item quantity="other">În %d zile</item>
+        <item quantity="one">În %d zi</item>
+    </plurals>
+    <plurals name="sms_minute_suffix">
+        <item quantity="other">În %d minute</item>
+        <item quantity="one">În %d minut</item>
+    </plurals>
+    <plurals name="sms_hour_suffix">
+        <item quantity="other">În %d ore</item>
+        <item quantity="one">În %d oră</item>
+    </plurals>
+</resources>

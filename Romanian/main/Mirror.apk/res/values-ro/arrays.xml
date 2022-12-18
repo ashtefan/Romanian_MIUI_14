@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="settings_search_mirror">
+        <item>Dispozitive conectate</item>
+        <item>Conexiune și partajare/Dispozitive conectate</item>
+        <item>MIUI+, MIUIPLUS, handoff, multiscreen, interconectivitate, oglindire ecran, mouse și tastatură, extensie ecran, transfer aplicație, Mi Smart Hub, oglindă, extensie, multitask, partajare, mouse, tastatură, conectați dispozitive</item>
+    </string-array>
+    <string-array name="settings_tips_message">
+        <item>"1. Dezactivați hotspot-ul portabil, Partajarea Mi sau partajarea dispozitivului mobil înainte de a utiliza această funcție.
+2. Dezactivați Wi-Fi-ul atât pe dispozitivul mobil, cât și pe computer.
+3. Asigurați-vă că dispozitivul dvs. mobil este aproape de computer. Nu veți putea conecta dispozitivele dacă acestea se află în locuri diferite"</item>
+        <item>Computerul dvs. utilizează Bluetooth-ul pentru a detecta dispozitivele mobile din apropiere care au fost conectate anterior. Verificați dacă Bluetooth-ul este activat pe dispozitivul dvs. mobil.</item>
+        <item>Dispozitivele mobile nu pot sincroniza date cu computerele atunci când ecranul este blocat. În mod implicit, această aplicație nu permite blocarea ecranului atunci când dispozitivul dvs. mobil este conectat la un computer. Puteți modifica acest lucru din Setări.</item>
+        <item>"1. Dispozitive mobile compatibile: Mi 11, Mi 10 Ultra, Mi 10 Pro, Mi 10, Mi 9 Pro 5G, Mi 9, Redmi K30s Ultra, Redmi K20 Pro, Redmi K30 Pro. Dacă sunteți redirecționat către site-ul nostru oficial după scanarea codului QR, dispozitivul dvs. nu este încă acceptat.
+2. Computere compatibile: 小米笔记本Pro 15 增强版, 小米笔记本Pro 15.6 2020款, Redmi G 游戏本, RedmiBook 16, RedmiBook 14 II, RedmiBook Air 13. Descărcați MIUI+ Beta pentru computer de aici: https://plus.miui.com."</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>Nu vă puteți conecta utilizând codul QR?</item>
+        <item>Nu găsiți dispozitive mobile de pe computer?</item>
+        <item>Nu vă puteți bloca dispozitivul mobil?</item>
+        <item>Compatibilitate</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="agree">De acord</string>
+    <string name="app_label">Localizare prin rețea</string>
+    <string name="disagree">Nu sunt de acord</string>
+    <string name="location_warning_do_not_show_again">"Nu arăta din nou"</string>
+    <string name="location_warning_message">"Permiteți serviciului de localizare AutoNavi colectarea datelor anonime despre locație. Unele date pot fi stocate pe telefonul dumneavoastră, iar colectarea se poate efectua chiar dacă nu rulează nicio aplicație. Se pot aplica taxe de utilizare a serviciului de date în timpul procesului."</string>
+    <string name="location_warning_title">Consimțământ localizare</string>
+    <string name="persmission_close">ÎNCHIDE</string>
+    <string name="persmission_message">Pentru a funcționa în mod normal, acest serviciu necesită permisiuni suplimentare. Acceptați acordarea permisiunilor atunci când vi se va cere acest lucru.</string>
+    <string name="persmission_message2">Pentru a funcționa în mod normal, acest serviciu trebuie să aibe acces la spațiul de stocare. Acceptați acordarea permisiunii atunci când vi se va cere acest lucru.</string>
+    <string name="persmission_message3">Pentru a funcționa în mod normal, acest serviciu trebuie să aibe acces la localizarea telefonului. Acceptați acordarea permisiunii atunci când vi se va cere acest lucru.</string>
+    <string name="persmission_message4">Pentru a funcționa în mod normal, acest serviciu trebuie să aibe acces la aplicația de Telefon. Acceptați acordarea permisiunii atunci când vi se va cere acest lucru.</string>
+    <string name="persmission_message5">"Pentru a funcționa în mod normal, acest serviciu necesită permisiuni suplimentare. Puteți gestiona permisiunile Localizării prin intermediul rețelei în Setări"</string>
+    <string name="persmission_message6">"Pentru a funcționa în mod normal, acest serviciu trebuie să aibe acces la localizarea telefonului. Puteți gestiona permisiunile Localizării prin intermediul rețelei în Setări."</string>
+    <string name="persmission_message7">"Pentru a funcționa în mod normal, acest serviciu trebuie să aibe acces la aplicația de Telefon. Puteți gestiona permisiunile Localizării prin intermediul rețelei în Setări."</string>
+    <string name="persmission_message8">"Pentru a funcționa în mod normal, acest serviciu trebuie să aibe acces la spațiul de stocare. Puteți gestiona permisiunile Localizării prin intermediul rețelei în Setări."</string>
+    <string name="persmission_notification_text">Atingeți pentru a acorda permisiunea</string>
+    <string name="persmission_notification_title">Localizarea prin intermediul rețelei solicită acordarea unor permisiuni</string>
+    <string name="persmission_ok">OK</string>
+    <string name="persmission_settings">SETĂRI</string>
+</resources>

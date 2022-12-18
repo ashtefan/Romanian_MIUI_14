@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="carrier_name">(Nume operator)</string>
+    <string name="change">Setați</string>
+    <string name="close">Închideți</string>
+    <string name="default_sim_setting">Setări implicite cartelă SIM:</string>
+    <string name="lte_checkbox_text">Setați datele mobile cartelei SIM selectate la schimbarea cartelei SIM 4G/3G implicite</string>
+    <string name="lte_recognition_title">Recunoaștere cartelă SIM</string>
+    <string name="lte_recognize_summary">Au fost detectate două cartele SIM 4G/3G ; trebuie să decideți care va fi cartela SIM implicită 4G/3G:</string>
+    <string name="lte_select_summary">Subscripția selectată va fi recunoscută ca și cartelă 4G/3G iar cealaltă ca și cartelă 2G.</string>
+    <string name="lte_select_title">Cartelă SIM 4G/3G implicită</string>
+    <string name="lte_set">Setați</string>
+    <string name="lte_setting">Cartela SIM implicită 4G/3G este setată</string>
+    <string name="lte_switch_unavailable">Comutarea cartelelor 4G/3G nu este disponibilă</string>
+    <string name="mobile_data">"Date mobile: "</string>
+    <string name="mobile_data_off">oprite</string>
+    <string name="mobile_data_on">pornite</string>
+    <string name="multi_sim_settings_title">Setări Dual SIM</string>
+    <string name="new_sim_detected">A fost detectată o nouă cartelă SIM:</string>
+    <string name="reg_failed">Înregistrare eșuată</string>
+    <string name="reg_failed_msg">Înregistrarea cartelei implicite 4G/3G a eșuat; %1$s va fi recunoscută ca și cartelă 2G.</string>
+    <string name="reg_suc">Înregistrare cu succes</string>
+    <string name="select_cancel">Renunțați</string>
+    <string name="select_ok">OK</string>
+    <string name="sim_absent">Absentă</string>
+    <string name="sim_card_number_title">Cartelă SIM %1$d</string>
+    <string name="sim_info">Informații cartelă SIM</string>
+    <string name="sim_unknown">Necunoscut</string>
+    <string name="slot">Slot</string>
+</resources>

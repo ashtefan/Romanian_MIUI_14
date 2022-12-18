@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sound_source_entries">
+        <item>Microfon</item>
+        <item>Sunete de sistem</item>
+    </string-array>
+</resources>

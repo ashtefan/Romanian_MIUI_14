@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bootup_mode">
+        <item>Dual SIM</item>
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+    </string-array>
+    <string-array name="gprs_mode_1">
+        <item>SIM 1</item>
+        <item>Nu conecta datele mobile.</item>
+        <item>Renunțați</item>
+    </string-array>
+    <string-array name="gprs_mode_2">
+        <item>SIM 2</item>
+        <item>Nu conecta datele mobile.</item>
+        <item>Renunțați</item>
+    </string-array>
+</resources>

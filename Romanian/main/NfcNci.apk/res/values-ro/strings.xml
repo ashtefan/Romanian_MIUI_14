@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="accessibility_nfc_enabled">NFC activat.</string>
+    <string name="android_beam">Android Beam</string>
+    <string name="app_name">Serviciu NFC</string>
+    <string name="ask_nfc_tap">Atingeți un alt dispozitiv pentru finalizare</string>
+    <string name="beam_busy">Transferul este în prezent ocupat. Încercați din nou după încheierea transferului anterior.</string>
+    <string name="beam_canceled">Transfer anulat</string>
+    <string name="beam_complete">Transfer încheiat</string>
+    <string name="beam_failed">Transferul nu s-a încheiat</string>
+    <string name="beam_handover_not_supported">"Dispozitivul destinatarului nu suportă transferul de fișiere mari prin NFC."</string>
+    <string name="beam_outgoing">Transferare...</string>
+    <string name="beam_progress">Primire fișier...</string>
+    <string name="beam_requires_nfc_enabled">Transferul Android Beam necesită activarea serviciului NFC. Doriți să-l activați?</string>
+    <string name="beam_touch_to_view">Atingeți pentru a vedea</string>
+    <string name="beam_try_again">Readuceți dispozitivele în apropiere</string>
+    <string name="cancel">Renunțați</string>
+    <string name="complete_with">Finalizați prin</string>
+    <string name="confirm_pairing">Sunteți sigur că doriți să asociați dispozitivul Bluetooth %1$s?</string>
+    <string name="connect_peripheral_failed">Nu s-a putut conecta la %1$s</string>
+    <string name="connected_peripheral">Conectat la %1$s</string>
+    <string name="connecting_peripheral">Conectare la %1$s</string>
+    <string name="could_not_use_app">"Nu s-a putut utiliza %1$s."</string>
+    <string name="default_pay_app_removed">Serviciul dvs. preferat pentru atingere și plată a fost eliminat. Selectați un altul?</string>
+    <string name="device">dispozitiv</string>
+    <string name="disconnected_peripheral">Deconectat de la %1$s</string>
+    <string name="disconnecting_peripheral">Deconectare de la %1$s</string>
+    <string name="failed_to_enable_bt">Nu s-a putut activa Bluetooth-ul</string>
+    <string name="inbound_me_profile_text">Atingeți pentru a adăuga această persoană în agendă.</string>
+    <string name="inbound_me_profile_title">Contact primit prin NFC</string>
+    <string name="nfcUserLabel">NFC</string>
+    <string name="nfc_enabled_dialog">"Serviciul NFC este dezactivat în prezent. 
+Doriți să-l activați?"</string>
+    <string name="no">NU</string>
+    <string name="ok">OK</string>
+    <string name="outbound_me_profile_text">Atingeți pentru a trimite acestei persoane datele dumneavoastră de contact.</string>
+    <string name="outbound_me_profile_title">Interacțiune NFC finalizată</string>
+    <string name="pair_no">Nu</string>
+    <string name="pair_yes">Da</string>
+    <string name="pairing_peripheral">Asociere %1$s</string>
+    <string name="pairing_peripheral_failed">Nu s-a putut realiza asocierea cu %1$s</string>
+    <string name="pay_with">Plătiți prin</string>
+    <string name="permdesc_nfcReceiveEvent">Permite aplicației să primească informații despre tranzacțiile NFC realizate</string>
+    <string name="permlab_nfcReceiveEvent">Cunoaștere tranzacții NFC</string>
+    <string name="prompt_connect_to_network">Vă conectați la rețeaua %1$s?</string>
+    <string name="status_unable_to_connect">Nu s-a putut conecta la rețea</string>
+    <string name="status_wifi_connected">Conectat</string>
+    <string name="tap_again_to_complete">Atingeți din nou pentru a finaliza cu %1$s</string>
+    <string name="tap_again_to_pay">Atingeți din nou pentru a plăti cu %1$s</string>
+    <string name="title_connect_to_network">Conectare la rețea</string>
+    <string name="touch">Atingeți pentru a transfera</string>
+    <string name="transaction_failure">"Această tranzacție nu s-a putut finaliza cu %1$s."</string>
+    <string name="wifi_connect">Conectați-vă</string>
+</resources>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="emode_app_groups">
+        <item>Aplicațiile de sistem</item>
+        <item>Alte aplicații</item>
+        <item>Aplicațiile selectate</item>
+    </string-array>
+    <string-array name="hmode_app_classify1">
+        <item>Personalizat</item>
+        <item>Economisire acumulator MIUI</item>
+    </string-array>
+    <string-array name="hmode_app_classify2">
+        <item>Aplicații active</item>
+        <item>Aplicații în hibernare</item>
+    </string-array>
+    <string-array name="pc_manage_active_app_items">
+        <item>Puneți aplicațiile în hibernare</item>
+        <item>Economisiți energia</item>
+    </string-array>
+        <string-array name="power_mode_entries">
+        <item>Performanță</item>
+        <item>Echilibrat</item>
+    </string-array>
+     <string-array name="group_name_translate">
+        <item>Prestabilit</item>
+        <item>Mod Ascuns</item>
+        <item>Mod Citire</item>
+        <item>Mod Media</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>Aplicaţia se execută în prim plan</item>
+        <item>Ecran pornit</item>
+        <item>Ecran oprit</item>
+        <item>Oprire ecran peste 10 minute</item>
+        <item>Ecran complet</item>
+        <item>Ieşire din ecran complet</item>
+        <item>Aplicaţia se execută în fundal</item>
+        <item>Telefonul se încarcă</item>
+        <item>"Telefonul nu se încarcă"</item>
+        <item>Telefonul este inactiv</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>Luminozitate maximă</item>
+        <item>Frecvenţă maximă a procesorului</item>
+        <item>Modul ecranului</item>
+        <item>Utilizare procesor</item>
+        <item>Conexiune de date</item>
+        <item>Locaţie</item>
+        <item>Prima notificare</item>
+        <item>Notificări blocare ecran</item>
+        <item>Restricţionare conexiune de date în fundal</item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>Mod implicit control temperatură</item>
+        <item>Mod performanță</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>Prioritizați controlul temperaturii</item>
+        <item>Prioritizați performanța</item>
+        <item>Nu este suportat de Economizorul extrem al acumulatorului</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>Nimic</item>
+        <item>Prestabilit</item>
+        <item>Imagini</item>
+        <item>Filme</item>
+        <item>Economisire acumulator</item>
+        <item>Echilibrat</item>
+        <item>Performanţă</item>
+        <item>Activat</item>
+        <item>Dezactivat</item>
+        <item>Imediat</item>
+        <item>După 10 min</item>
+        <item>După 30 min</item>
+        <item>Când ecranul este oprit</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>În acest mod</item>
+        <item>Neselectată</item>
+        <item>Selectată în alt mod</item>
+    </string-array>
+    <string-array name="hmode_app_groups">
+        <item>Personalizat</item>
+        <item>Economisire acumulator</item>
+    </string-array>
+    <string-array name="power_checker_group_prefix">
+        <item>Acum</item>
+        <item>În fundal</item>
+        <item>Recent</item>
+    </string-array>
+    <string-array name="power_checker_running_group_titles">
+        <item>Blocare mod Deep Sleep</item>
+        <item>Blocare mod Sleep</item>
+        <item>Căutare Wi-Fi</item>
+        <item>Utilizare GPS</item>
+        <item>Utilizare CPU</item>
+        <item>Trezire frecventă a telefonului</item>
+    </string-array>
+    <string-array name="power_checker_recent_group_titles">
+        <item>Blocare mod Deep Sleep</item>
+        <item>Blocare mod Sleep</item>
+        <item>Căutare Wi-Fi</item>
+        <item>Utilizare GPS</item>
+        <item>Ocupare procesor</item>
+        <item>Treziri frecvente ale telefonului</item>
+    </string-array>
+    <string-array name="power_checker_group_suffix">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="invisible_app_groups">
+        <item>selectate</item>
+        <item>neselectate</item>
+    </string-array>
+</resources>

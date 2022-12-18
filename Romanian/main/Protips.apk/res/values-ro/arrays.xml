@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tips2">
+        <item>"Ecranul Acasă este ca o grădină 
+ Atingeți și mențineți apăsat un loc gol
+Pentru a planta noi pictograme"</item>
+        <item>"Telefonul nu este rezistent la apă
+Nu îl scufundați în apă
+sau în alte fluide"</item>
+        <item>"Mai doriți câteva ecrane de pornire? 
+Glisați la stânga și la dreapta pentru a le găsi
+(Nu este nevoie de furt)"</item>
+        <item>"Micile puncte ale ecranului de pornire
+Ce ar putea face? 
+Atingeți și mențineți apăsat pentru a vedea."</item>
+        <item>"Pictogramele barei de stare
+Pentru a le descoperi secretele
+Trageți de fereastră"</item>
+        <item>"Există un truc pentru a 
+Tragerea articolelor în două ecrane de pornire
+Pauză la margini"</item>
+        <item>"Atingeți Market pentru aplicații 
+Ca o cutie de bomboane de ciocolată
+Fiecare o surpriză"</item>
+        <item>"A, și apropo: 
+Ceci n’est pas une trombone 
+Sunt un Android"</item>
+    </string-array>
+</resources>

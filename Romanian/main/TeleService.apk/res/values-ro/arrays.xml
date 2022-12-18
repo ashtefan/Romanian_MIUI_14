@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animație oprită</item>
+        <item>Animație la scara 0,5x</item>
+        <item>Animație la scara 1x</item>
+        <item>Animație la scara 1,5x</item>
+        <item>Animație la scara 2x</item>
+        <item>Animație la scara 5x</item>
+        <item>Animație la scara 10x</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Limita standard</item>
+        <item>Niciun proces de fundal</item>
+        <item>Cel mult 1 proces</item>
+        <item>Cel mult 2 procese</item>
+        <item>Cel mult 3 procese</item>
+        <item>Cel mult 4 procese</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Utilizați Selecția Sistemului (Implicit)</item>
+        <item>16 biți/eșantion</item>
+        <item>24 biți/eșantion</item>
+        <item>32 biți/eșantion</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Utilizați Selecția Sistemului (Implicit)</item>
+        <item>16 biți/eșantion</item>
+        <item>24 biți/eșantion</item>
+        <item>32 biți/eșantion</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Utilizați Selecția Sistemului (Implicit)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Utilizați Selecția Sistemului (Implicit)</item>
+        <item>Mono</item>
+        <item>Stereo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Optimizat pentru Calitate Audio</item>
+        <item>Echilibrat între Calitate Audio și Calitate Conexiune</item>
+        <item>Optimizat pentru Calitatea Conexiunii</item>
+        <item>Cea mai bună (Bit Rate Adaptiv)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Optimizat pentru Calitate Audio (990kbps/909kbps)</item>
+        <item>Echilibrat între Calitate Audio și Calitate Conexiune (660kbps/606kbps)</item>
+        <item>Optimizat pentru Calitatea Conexiunii (330kbps/303kbps)</item>
+        <item>Cea mai bună (Bit Rate Adaptiv)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Utilizați Selecția Sistemului (Implicit)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Utilizați Selecția Sistemului (Implicit)</item>
+        <item>44,1 kHz</item>
+        <item>48,0 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96,0 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Utilizați Selecția Sistemului (Implicit)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>Activați Codecurile Opționale</item>
+        <item>Dezactivați Codecurile Opționale</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Utilizați Selecția Sistemului (Implicit)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Qualcomm® aptX™ Adaptive audio</item>
+        <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>Activați Codecurile Opționale</item>
+        <item>Dezactivați Codecurile Opționale</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, activ</item>
+        <item>, activ (media)</item>
+        <item>, activ (telefon)</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (Implicit)</item>
+        <item>AVRCP 1.3</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>MAP 1.2 (Implicit)</item>
+        <item>MAP 1.3</item>
+        <item>MAP 1.4</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_entries">
+        <item>Dezactivată</item>
+        <item>Filtrare activată</item>
+        <item>Activată</item>
+        <item>Filtrare anteturi activată</item>
+        <item>Filtrare Media Pkts activată</item>
+        <item>Activat</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Doar domiciliu</item>
+        <item>Automat</item>
+    </string-array>
+    <string-array name="clir_display_values">
+        <item>Setat de rețea</item>
+        <item>Ascunde numărul</item>
+        <item>Afișează numărul</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Culori accentuate</item>
+        <item>Culori naturale, așa cum sunt percepute de ochiul uman</item>
+        <item>Culori optimizate pentru conținut digital</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Vibrant (implicit)</item>
+        <item>Natural</item>
+        <item>Standard</item>
+    </string-array>
+    <string-array name="config_rcs_provision_error_on_publish_response">
+        <item>404 negăsit</item>
+    </string-array>
+    <string-array name="config_volte_provision_error_on_publish_response">
+        <item>403 neautorizat pentru prezență</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Oprit</item>
+        <item>Arată zonele conturate/overdraw</item>
+        <item>Arată zonele cu Deuteranomalie</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Niciunul</item>
+        <item>Logcat</item>
+        <item>Systrace (Graphics)</item>
+        <item>Call stack on glGetError</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Nu utiliza niciodată verificarea HDCP</item>
+        <item>Utilizează verificarea HDCP doar pentru conținutul DRM</item>
+        <item>Utilizează întotdeauna verificarea HDCP</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Nu verifica niciodată</item>
+        <item>Verifică doar conținutul DRM</item>
+        <item>Verifică întotdeauna</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Engleză</item>
+        <item>Franceză</item>
+        <item>Spaniolă</item>
+        <item>Japoneză</item>
+        <item>Coreeană</item>
+        <item>Chineză</item>
+        <item>Ebraică</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Niciuna</item>
+        <item>480p</item>
+        <item>480p (securizat)</item>
+        <item>720p</item>
+        <item>720p (securizat)</item>
+        <item>1080p</item>
+        <item>1080p (securizat)</item>
+        <item>4K</item>
+        <item>4K (securizat)</item>
+        <item>4K (scalat)</item>
+        <item>4K (scalat, securizat)</item>
+        <item>720p, 1080p (ecran dual)</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>De preferat GSM/WCDMA</item>
+        <item>Doar GSM</item>
+        <item>Doar WCDMA</item>
+        <item>GSM/WCDMA auto</item>
+        <item>CDMA/EvDo auto</item>
+        <item>CDMA w/o EvDo</item>
+        <item>Doar EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>Global</item>
+        <item>LTE</item>
+        <item>LTE / WCDMA</item>
+        <item>Doar TDSCDMA</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>Doar NR</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
+        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_world_mode">
+        <item>Global</item>
+        <item>LTE / CDMA</item>
+        <item>LTE / GSM / UMTS</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Oprit</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Off</item>
+        <item>64K per jurnal tampon</item>
+        <item>256K per jurnal tampon</item>
+        <item>1M per jurnal tampon</item>
+        <item>4M per jurnal tampon</item>
+        <item>16M per jurnal tampon</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Oprit</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Oprit</item>
+        <item>Toate jurnalele tampon</item>
+        <item>Toate doar jurnale tampon radio</item>
+        <item>Doar jurnal tampon kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Oprit</item>
+        <item>Toate</item>
+        <item>Toate înafară de radio</item>
+        <item>doar kernel</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Oprit</item>
+        <item>Desenează decupările nerectangulare în albastru</item>
+        <item>Evidențiază comenzile de desenare testate în verde</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Oprit</item>
+        <item>Ca bare pe ecran</item>
+        <item>In adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animație oprită</item>
+        <item>Animație la scara 0,5x</item>
+        <item>Animație la scara 1x</item>
+        <item>Animație la scara 1,5x</item>
+        <item>Animație la scara 2x</item>
+        <item>Animație la scara 5x</item>
+        <item>Animație la scara 10x</item>
+    </string-array>
+    <string-array name="transport_types">
+        <item>UDP</item>
+        <item>TCP</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+        <item>이것은 한국어 음성 합성의 예입니다.</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Foarte încet</item>
+        <item>Încet</item>
+        <item>Normal</item>
+        <item>Rapid</item>
+        <item>Mai rapid</item>
+        <item>Foarte rapid</item>
+        <item>Rapid</item>
+        <item>Foarte rapid</item>
+        <item>Cel mai rapid</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_td_choices">
+        <item>GSM</item>
+        <item>TD-SCDMA</item>
+        <item>LTE</item>
+        <item>Mod triplu</item>
+    </string-array>
+    <string-array name="uplmn_prefer_network_mode_w_choices">
+        <item>GSM</item>
+        <item>WCDMA</item>
+        <item>LTE</item>
+        <item>Mod triplu</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Încărcare</item>
+        <item>MTP (Protocol Transfer Multimedia)</item>
+        <item>PTP (Protocol Transfer Fotografii)</item>
+        <item>RNDIS (Internet prin USB)</item>
+        <item>Sursă audio</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Scanare…</item>
+        <item>Conectare…</item>
+        <item>Autentificare…</item>
+        <item>Obținere adresă IP…</item>
+        <item>Conectat</item>
+        <item>Suspendat</item>
+        <item>Deconectare…</item>
+        <item>Deconectat</item>
+        <item>Fără succes</item>
+        <item>Blocat</item>
+        <item>Se evită temporar conexiunea slabă</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Scanare…</item>
+        <item>Conectare la %1$s…</item>
+        <item>Autentificare cu %1$s…</item>
+        <item>Obținere adresă IP de la %1$s…</item>
+        <item>Conectat la %1$s</item>
+        <item>Suspendat</item>
+        <item>Deconectare de la %1$s…</item>
+        <item>Deconectat</item>
+        <item>Fără succes</item>
+        <item>Blocat</item>
+        <item>Se evită temporar conexiunea slabă</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animație oprită</item>
+        <item>Animație la scara 0,5x</item>
+        <item>Animație la scara 1x</item>
+        <item>Animație la scara 1,5x</item>
+        <item>Animație la scara 2x</item>
+        <item>Animație la scara 5x</item>
+        <item>Animație la scara 10x</item>
+    </string-array>
+</resources>

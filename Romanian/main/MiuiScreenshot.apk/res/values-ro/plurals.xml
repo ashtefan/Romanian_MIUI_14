@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Cu o oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Cu o oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Cu o jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Într-o oră</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Într-o jumătate de oră</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">într-un minut</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">Cu %d minute în urmă</item>
+        <item quantity="one">Cu 1 minut în urmă</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">%1$d fișiere</item>
+        <item quantity="one">%1$d fișier</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Cu o jumătate de oră în urmă</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Într-o oră</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">În jumătate de oră</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Imediat</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">în %d minute</item>
+        <item quantity="one">într-un minut</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Chiar acum</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elemente selectate</item>
+        <item quantity="one">%d element selectat</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">cu %d minute în urmă</item>
+        <item quantity="one">cu 1 minut în urmă</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d pachete de instalare (%3$s) de la %1$s</item>
+        <item quantity="one">%2$d pachet de instalare (%3$s) de la %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">S-au primit %2$d pachete de instalare (%3$s) de la %1$s</item>
+        <item quantity="one">S-a primit %2$d pachet de instalare (%3$s) de la %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">Se primesc %2$d pachete de instalare (%3$s) de la %1$s…</item>
+        <item quantity="one">Se primește %2$d pachet de instalare (%3$s) de la %1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d fișiere audio (%3$s) de la %1$s</item>
+        <item quantity="one">%2$d fișier audio (%3$s) de la %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">S-au primit %2$d fișiere audio (%3$s) de la %1$s</item>
+        <item quantity="one">S-a primit %2$d fișier audio (%3$s) de la %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">Se primesc %2$d fișiere audio (%3$s) from %1$s…</item>
+        <item quantity="one">Se primește %2$d fișier audio (%3$s) from %1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d %3$s fișiere (%4$s) de la %1$s</item>
+        <item quantity="one">%2$d %3$s fișier (%4$s) de la %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">S-au primit %2$d %3$s fișiere (%4$s) de la %1$s</item>
+        <item quantity="one">S-a primit %2$d %3$s fișer (%4$s) de la %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">Se primesc %2$d %3$s fișiere (%4$s) de la %1$s…</item>
+        <item quantity="one">Se primește %2$d %3$s fișier (%4$s) de la %1$s…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%2$d imagini de la %1$s</item>
+        <item quantity="one">%2$d imagine de la %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">S-au primit %2$d imagini de la %1$s</item>
+        <item quantity="one">S-a primit %2$d imagine de la %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">Se primesc %2$d imagini de la %1$s…</item>
+        <item quantity="one">Se primește %2$d imagine de la %1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%2$d imagini și videoclipuri de la %1$s</item>
+        <item quantity="one">%2$d imagine sau videoclip de la %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">S-au primit %2$d imagini și videoclipuri de la %1$s</item>
+        <item quantity="one">S-a primit %2$d image or video de la %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">Se primesc %2$d imagini și videoclipuri de la %1$s…</item>
+        <item quantity="one">Se primește %2$d imagine sau videoclip de la %1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%2$d fișiere de la %1$s</item>
+        <item quantity="one">%2$d fișier de la %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">S-au primit %2$d fișiere de la %1$s</item>
+        <item quantity="one">S-a primit %2$d fișier de la %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">Se primesc %2$d fișiere de la %1$s…</item>
+        <item quantity="one">Se primește %2$d fișier de la %1$s…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%2$d videoclipuri de la %1$s</item>
+        <item quantity="one">%2$d videoclip de la %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">S-au primit %2$d videoclipuri de la %1$s</item>
+        <item quantity="one">S-a primit %2$d videoclip de la %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">S-au primit %2$d videoclipuri de la %1$s…</item>
+        <item quantity="one">Se primește %2$d videoclip de la %1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d arhive (%3$s) de la %1$s</item>
+        <item quantity="one">%2$d arhivă (%3$s) de la %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">S-au primit %2$d arhive (%3$s) de la %1$s</item>
+        <item quantity="one">S-a primit %2$d arhivă (%3$s) de la %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">Se primesc %2$d arhive (%3$s) de la %1$s…</item>
+        <item quantity="one">Se primește %2$d arhivă (%3$s) de la %1$s…</item>
+    </plurals>
+</resources>

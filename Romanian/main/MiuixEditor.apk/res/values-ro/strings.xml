@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_frequent_phrases">Adăugare expresii frecvente</string>
+    <string name="app_name">textaction</string>
+    <string name="call">Apel</string>
+    <string name="edit_frequent_phrases">Editați frazele frecvente</string>
+    <string name="floating_toolbar_close_overflow_description">Închideți preaplinul</string>
+    <string name="floating_toolbar_menu_item_text_tag">floating_toolbar_menu_item_text</string>
+    <string name="floating_toolbar_open_overflow_description">Mai multe opțiuni</string>
+    <string name="frequent_phrases">Fraze frecvente</string>
+    <string name="google_call">Apel</string>
+    <string name="google_email">E-mail</string>
+    <string name="google_map">Hărți</string>
+    <string name="google_open">Deschideți</string>
+    <string name="google_translate">Traduceți</string>
+    <string name="open">Navigați</string>
+    <string name="query">Interogare</string>
+    <string name="select">Selectați</string>
+    <string name="translate">Traduceți</string>
+    <string name="translation_more">Mai multe</string>
+    <string name="translation_query_error">Nu s-au găsit rezultate</string>
+    <string name="translation_query_error_network">Nu s-au putut obține informații; verificați conexiunea la rețea și încercați din nou</string>
+</resources>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bookshelf__general_shared__main_categories">
+        <item>书架</item>
+        <item>raft de cărți</item>
+        <item>書架</item>
+    </string-array>
+    <string-array name="google">
+        <item>Google</item>
+        <item>google.com</item>
+        <item>http://www.google.com/favicon.ico</item>
+        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
+        <item>UTF-8</item>
+        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;market={language}</item>
+    </string-array>
+    <string-array name="pref_fling_gesture_entries">
+        <item>Derulare înainte-înapoi</item>
+        <item>Comutare file</item>
+        <item>Nimic</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Implicită</item>
+        <item>Adresă personalizată</item>
+    </string-array>
+    <string-array name="pref_homepage_choices_with_simplehome">
+        <item>Pagina de pornire implicită</item>
+        <item>Pagină de pornire goală</item>
+        <item>Personalizată</item>
+    </string-array>
+    <string-array name="pref_nav_mode_summary">
+        <item>Telefon</item>
+        <item>Tabletă</item>
+    </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Vizualizare tip dale</item>
+        <item>Vizualizare verticală</item>
+        <item>Vizualizare orizontală</item>
+    </string-array>
+    <string-array name="pref_tab_restore_array">
+        <item>Întreabă întotdeauna</item>
+        <item>Deschide</item>
+        <item>Închide</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Foarte mic</item>
+        <item>Mic</item>
+        <item>Normal</item>
+        <item>Mare</item>
+        <item>Uriaș</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="quick_link_tabs">
+        <item>Semne de carte</item>
+        <item>Istoric</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Ștergeți</item>
+        <item>Nu, mulțumesc</item>
+    </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>OK</item>
+        <item>Urmăriți</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Mesaj din Browser</item>
+        <item>Urmăriți olimpiada cu Mi</item>
+    </string-array>
+    <string-array name="suggestion_topic_tips">
+        <item>Privind spre Focus</item>
+        <item>Problemă centrală</item>
+    </string-array>
+    <string-array name="suggestion_weather_condition_message">
+        <item>Senin</item>
+        <item>Parțial înnorat</item>
+        <item>Înnorat</item>
+        <item>Averse?</item>
+        <item>Furtună</item>
+        <item>Grindină</item>
+        <item>Lapoviţă</item>
+        <item>Ploaie ușoară</item>
+        <item>Ploaie moderată</item>
+        <item>Ploaie torențială</item>
+        <item>Furtună</item>
+        <item>Ploaie torențială</item>
+        <item>Uragan</item>
+        <item>Averse de ninsoare</item>
+        <item>Ninsoare slabă</item>
+        <item>Ninsoare moderată</item>
+        <item>Ninsoare puternică</item>
+        <item>Viscol</item>
+        <item>Ceață</item>
+        <item>Ploaie ce îngheață</item>
+        <item>Furtună de nisip</item>
+        <item>Ploaie slabă spre moderată</item>
+        <item>Ploaie medie spre puternică</item>
+        <item>Ploaie puternică spre torențială</item>
+        <item>Ploaie torențială spre moderată?</item>
+        <item>Ploaie torențială spre furtună puternică</item>
+        <item>Ninsoare slabă spre moderată</item>
+        <item>Ninsoare moderată spre puternică</item>
+        <item>Ninsoare puternică spre viscol</item>
+        <item>Praf în suspensie</item>
+        <item>Nisip care se ridică</item>
+        <item>Furtună de nisip</item>
+        <item>Ceață densă</item>
+        <item>Ceață groasă</item>
+        <item>Negură</item>
+        <item>Negură moderată</item>
+        <item>Negură densă</item>
+        <item>Negură severă</item>
+        <item>Ceață densă</item>
+        <item>Ceață foarte deasă</item>
+        <item>Nimic</item>
+        <item>Ploaie</item>
+        <item>Ninsoare</item>
+    </string-array>
+</resources>

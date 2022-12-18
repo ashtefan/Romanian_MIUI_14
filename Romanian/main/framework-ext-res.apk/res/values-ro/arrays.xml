@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>Încercați din nou</item>
+        <item></item>
+        <item></item>
+        <item>Acoperiți complet senzorul de amprentă și aplicați presiune</item>
+        <item></item>
+        <item>Acoperiți complet senzorul de amprentă și aplicați presiune</item>
+        <item>Curățați senzorul de amprentă și încercați din nou</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Acoperiți complet senzorul de amprentă și aplicați presiune</item>
+        <item>Acoperiți complet senzorul de amprentă și aplicați presiune</item>
+        <item>Prea rapid! Nu s-a putut recunoaște amprenta</item>
+        <item>Mutați puțin degetul și încercați din nou</item>
+        <item>Ridicați degetul și puneți-l înapoi pe senzor</item>
+        <item>Țineți degetul pe senzor mai mult timp</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Mișcați încet degetul</item>
+        <item>Această amprentă a fost adăugată; utilizați un deget diferit</item>
+    </string-array>
+</resources>

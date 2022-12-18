@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="trans_cancel_survey_title">
+        <item>Experiența generală</item>
+        <item>Durata transferului</item>
+        <item>Simplitatea procesului</item>
+        <item>Claritatea instrucțiunilor</item>
+        <item>Această unealtă este utilă</item>
+    </string-array>
+    <string-array name="trans_succeed_rating_hint">
+        <item>Foarte dezamăgit</item>
+        <item>Oarecum dezamăgit</item>
+        <item>Neutru</item>
+        <item>Oarecum satisfăcut</item>
+        <item>Foarte satisfăcut</item>
+    </string-array>
+    <string-array name="trans_succeed_survey_title">
+        <item>Apreciere generală</item>
+        <item>Durata transferului</item>
+        <item>Simplitatea procesului</item>
+        <item>Claritatea instrucțiunilor</item>
+    </string-array>
+</resources>

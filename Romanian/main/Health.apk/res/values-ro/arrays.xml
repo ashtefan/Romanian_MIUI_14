@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="HomePageTabTitle">
+        <item>Sănătate</item>
+        <item>Exerciții</item>
+    </string-array>
+    <string-array name="MediaControlView_playback_speeds">
+        <item>0,25x</item>
+        <item>0,5x</item>
+        <item>0,75x</item>
+        <item>1,25x</item>
+        <item>1,5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="ShareTabTitle">
+        <item>Imagine</item>
+        <item>Rută</item>
+        <item>Card</item>
+    </string-array>
+    <string-array name="SportTabTitle">
+        <item>Alergare</item>
+        <item>Plimbare</item>
+        <item>Ciclism</item>
+        <item>Coardă de sărit</item>
+        <item>Antrenament</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="arr_prompt_label">
+        <item>Rezonabil</item>
+        <item>Lung</item>
+        <item>Prea lung</item>
+    </string-array>
+    <string-array name="arr_sedentary_reminder">
+        <item>Este timpul să vă mișcați!</item>
+        <item>Aflați mai multe</item>
+        <item>Beți puțină apă și faceți o plimbare.</item>
+        <item>Aflați mai multe</item>
+        <item>Urcați câteva trepte</item>
+        <item>Aflați mai multe</item>
+        <item>Nu stați nemișcat prea mult timp</item>
+        <item>Aflați mai multe</item>
+    </string-array>
+    <string-array name="arr_time_label">
+        <item>1 oră</item>
+        <item>2 ore</item>
+    </string-array>
+    <string-array name="blood_types">
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+        <item>A(-)</item>
+        <item>A(+)</item>
+        <item>B(-)</item>
+        <item>B(+)</item>
+        <item>AB(-)</item>
+        <item>AB(+)</item>
+        <item>O(-)</item>
+        <item>O(+)</item>
+    </string-array>
+    <string-array name="contact_relation_array">
+        <item>Nesetat</item>
+        <item>Părinte</item>
+        <item>Soră</item>
+        <item>Frate</item>
+        <item>Soț</item>
+        <item>Partener</item>
+        <item>Prieten</item>
+        <item>Coleg</item>
+        <item>Coleg de clasă</item>
+    </string-array>
+    <string-array name="energy_unit">
+        <item>" kcal"</item>
+        <item>" kJ"</item>
+    </string-array>
+    <string-array name="gender_array">
+        <item>Nesetat</item>
+        <item>Bărbat</item>
+        <item>Femeie</item>
+    </string-array>
+    <string-array name="length_unit">
+        <item>" cm"</item>
+        <item>" m"</item>
+        <item>" km"</item>
+    </string-array>
+    <string-array name="normal_blood_array">
+        <item>nesetat</item>
+        <item>Grupa A</item>
+        <item>Grupa B</item>
+        <item>Grupa AB</item>
+        <item>Grupa O</item>
+    </string-array>
+    <string-array name="normal_blood_types">
+        <item>Nesetat</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="pager_titles">
+        <item>Zi</item>
+        <item>Săptămână</item>
+        <item>Lună</item>
+    </string-array>
+    <string-array name="references">
+        <item>中华人民共和国卫生行业标准 WS/T 476-2015 营养名词术语</item>
+        <item>Ito H, Ohshima A, Ohto N, Ogasawara M, Tsuzuki M, Takao K, Hijii C, Tanaka H, Nishioka K. Relation between body composition and age in healthy Japanese subjects. Eur J Clin Nutr. 55(6):462-70, 2001</item>
+        <item>Lee RD and Nieman DC. Nutritional Assessment(second edition), pp.264</item>
+        <item>Lohman TG. Advanced in body composition assessment - Currenet issues in exercise science series. Champaign-IL: Human Kinetics. pp 80. 1992</item>
+        <item>"Mahan LK and Escott-stump S. Krause's Food, nutrition &amp; diet therapy 9th edition. WB Saunders Co. pp 455"</item>
+        <item>《神经病学》第9版 第二十二章 睡眠障碍 人民卫生出版社</item>
+        <item>《生理学》第9版 第十章 神经系统的功能 人民卫生出版社</item>
+        <item>《睡眠医学：理论与实践》第4版 第一章 正常睡眠和睡眠变异 人民卫生出版社</item>
+        <item>《中国居民膳食指南2016》第一部分 一般人群膳食指南 中国营养学会 编著</item>
+        <item>Advanced fitness assessment and exercise prescription. Heyward VH. Human Kinetics. pp. 162</item>
+        <item>"American College of Sports Medicine. ACSM's Guidelines for Exercise Testing Prescription[M]. Wolters Kluwer/Lippincott Williams &amp; Wilkins Health, 2014."</item>
+        <item>Bray GA. Contemporary Diagnosis and Management of Obesity. pp.13, 1998</item>
+        <item>Brown JE. Nutrition Now 2nd edition. Wadsworth Publishing Company. pp 9-3. 1999</item>
+        <item>Brozek J. Grande F, Anderson JT, Keys A. Densitometric analysis of body composition: Revision of some quantitative assumptions. Ann N Y Acad Sci. 1963 Sep 26;110:113-40</item>
+        <item>Heymsfield SB, Smith R, Aulet M, Bensen B, Lichtman S, Wang J, Pierson RN Jr. Appendicular skeletal muscle mass: measurement by dual-photon absorptiometry. Am J Clin Nutr. 52(2):214-8, 1990</item>
+        <item>Pollock, Michael L, Gaesser, Glenn A, Butcher, Janus D,等. ACSM Position Stand: The, Recommended Quantity and Quality of Exercise for Developing and Maintaining Cardiorespiratory, and Muscular Fitness, and Flexibility in Healthy Adults[J]. Medicine &amp; Science, in Sports &amp; Exercise, 30(6):975-991.</item>
+        <item>Tahara Y, Moji K, Aoyagi K, Tsunawake N, Muraki S, Mascie-Taylor CG. Age-related pattern of body density and body composition of Japanese men and women 18-59 years of age. Am J Hum Biol. 14(6):743-52, 2002</item>
+        <item>Wang ZM, Pierson RN Jr, Heymsfield SB. The five-level model: a new approach to organizing body-composition research. Am J Clin Nutr. 1992 Jul;56(1):19-28.</item>
+        <item>WHO guidelines for BMI</item>
+        <item>儿科学辞典. 北京科学技术出版社. 2003</item>
+        <item>临床医学概要 第2版 第二章 体格检查人民卫生出版社</item>
+        <item>苏亮，陆峥. 2017 年中国失眠症诊断和治疗指南解读[J]. 世界临床药物, 2018, 39(4).</item>
+        <item>卫生部“十二五”规划教材【诊断学】 第8版 第三篇 体格检查</item>
+        <item>营养与食品卫生学（第八版）第一章 第五节 孙长颢主编 人民卫生出版社</item>
+        <item>中国超重肥胖医学营养治疗专家共识编写委员会. 中国超重/肥胖医学营养治疗专家共识(2016年版)[J].</item>
+        <item>中国高血压防治指南-2005年修订版 中国高血压防治指南2010年修订版</item>
+        <item>中华人民共和国卫生行业标准 WS/T 476-2015 营养名词术语</item>
+        <item>Amato M C, Giordano C, Galia M, et al. Visceral Adiposity Index[J]. 2010, 33(4):920-922.</item>
+        <item>章振林. 骨质疏松诊断与骨密度检查报告的解读[J]. 中国全科医学, 2010, 13(2):117-117.</item>
+        <item>谢幸.妇产科学（第9版）[M].北京:人民卫生出版社.2018.</item>
+        <item>窗敲雨. 安全期真的安全吗[J]. 康复, 2013(1):16-16.</item>
+        <item>肖玮, 阿丹. 安全期避孕安全吗?[J]. 健康必读, 2002(4).</item>
+        <item>2018 Physical Activity Guidelines Advisory Committee Submits Scientific Report</item>
+    </string-array>
+    <string-array name="repeat_mode_mild_abnormal_array">
+        <item>Lun, Mie, Vin</item>
+        <item>Mar, Joi, Sâm</item>
+        <item>Mie, Vin, Dum</item>
+    </string-array>
+    <string-array name="repeat_mode_week_array">
+        <item>În fiecare Luni</item>
+        <item>În fiecare Marți</item>
+        <item>În fiecare Miercuri</item>
+        <item>În fiecare Joi</item>
+        <item>În fiecare Vineri</item>
+        <item>În fiecare Sâmbătă</item>
+        <item>În fiecare Duminică</item>
+    </string-array>
+    <string-array name="rh_blood_array">
+        <item>Nesetat</item>
+        <item>Negativ</item>
+        <item>Pozitiv</item>
+    </string-array>
+    <string-array name="run_in_background_state">
+        <item>Nicio restricție</item>
+        <item>Limitați activitatea din fundal</item>
+        <item>Opriți după 10 minute</item>
+        <item>Niciodată</item>
+    </string-array>
+    <string-array name="speed_unit">
+        <item>" km/h"</item>
+        <item>" m/s"</item>
+    </string-array>
+    <string-array name="splash_loading">
+        <item>Se calculează obiectivul activității…</item>
+        <item>Obiectivul activității: %1$d pași</item>
+        <item>Ați făcut %1$d pași astăzi</item>
+        <item>Se calculează obiectivul somnului…</item>
+        <item>Obiectivul somnului: %1$d ore</item>
+        <item>Nu există date despre somn momentan</item>
+        <item>Se deschide Mi Health</item>
+    </string-array>
+    <string-array name="stand_guide_page_content1">
+        <item>Sedentarismul cauzează multe probleme de sănătate. Dacă timpul total de ședere nu poate fi redus, ridicarea de pe scaun din când în când este o idee bună.</item>
+        <item>Această caracteristică vă va aminti să vă ridicați cel puțin un minut la fiecare oră de ședere pe scaun. O perioadă de 12 ore în care aveți pauze în care vă și ridicați, vă va ajuta să evitați riscul unei vieți sedentare.</item>
+        <item>Atingeți \"Continuați\" pentru a afla mai multe și pentru a activa această caracteristică.</item>
+    </string-array>
+    <string-array name="stand_guide_page_content2">
+        <item>Aplicația Sănătate Xiaomi poate detecta și înregistra perioadele în care vă ridicați. De asemenea puteți primi memento-uri pentru a vă ridica după o oră de inactivitate.</item>
+        <item>Această funcție vă va monitoriza mișcările și vă va trimite memento-uri bazate pe rezultatul acesteia.</item>
+    </string-array>
+    <string-array name="temperature_unit">
+        <item>℃</item>
+        <item>°F</item>
+    </string-array>
+    <string-array name="week">
+        <item>Duminică</item>
+        <item>Luni</item>
+        <item>Marți</item>
+        <item>Miercuri</item>
+        <item>Joi</item>
+        <item>Vineri</item>
+        <item>Sâmbătă</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>Dum</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mie</item>
+        <item>Joi</item>
+        <item>Vin</item>
+        <item>Sâm</item>
+    </string-array>
+    <string-array name="week_short">
+        <item>Dum</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mie</item>
+        <item>Joi</item>
+        <item>Vin</item>
+        <item>Sâm</item>
+    </string-array>
+    <string-array name="weight_unit">
+        <item>" g"</item>
+        <item>" kg"</item>
+        <item>" t"</item>
+        <item>" liang"</item>
+        <item>" jin"</item>
+        <item>" lb"</item>
+    </string-array>
+    <string-array name="yes_no_array">
+        <item>Nesetat</item>
+        <item>Da</item>
+        <item>Nu</item>
+    </string-array>
+</resources>

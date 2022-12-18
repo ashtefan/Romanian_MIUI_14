@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="Default_Account_Selection_Content">Selectare cont implicit</string>
+    <string name="MMRejectCause13">SOS/Doar apeluri de urgență</string>
+    <string name="MMRejectCause2">SIM not provisioned MM #2</string>
+    <string name="MMRejectCause3">SIM not allowed MM #3</string>
+    <string name="MMRejectCause5">Apel eșuat MM #5</string>
+  <string name="MMRejectCause6">Phone not allowed MM #6</string>
+    <string name="Pin2Mmi">Modificare cod PIN 2</string>
+    <string name="Puk2Mmi">Deblocare PIN 2</string>
+    <string name="PukMmi">Deblocare cod PIN</string>
+    <string name="RejectCauseTitle">Cauză respingere rețea</string>
+    <string name="Special_Card_Type_Title_Lte_Not_Available">Rețeaua LTE nu este disponibilă.</string>
+    <string name="Suggest_To_Change_USIM">Vă sugerăm să înlocuiți cartela SIM cu una compatibilă 4G.</string>
+    <string name="VideoView_error_text_bad_file">Fișier corupt; nu se poate reda videoclipul.</string>
+    <string name="VideoView_error_text_cannot_connect_to_server">Nu se poate conecta la server.</string>
+    <string name="VideoView_error_text_drm_not_supported">Nu se poate reda videoclipul; are protecție DRM.</string>
+    <string name="VideoView_error_text_invalid_connection">Conexiune invalidă. (403 Forbidden)</string>
+    <string name="VideoView_error_text_type_not_supported">Fișier media nesuportat.</string>
+    <string name="account_always_ask_title">Întreabă mai întâi</string>
+    <string name="aerr_application_lowstorage">Spațiul de stocare internă este epuizat, aplicația s-a oprit. Eliberați spațiu de stocare și încercați din nou.</string>
+    <string name="aerr_process_lowstorage">Spațiul de stocare internă este epuizat, procesul s-a oprit. Eliberați spațiu de stocare și încercați din nou.</string>
+    <string name="badPin2">Vechiul cod PIN 2 pe care l-ați introdus este incorect.</string>
+    <string name="badPuk2">Codul PUK 2 introdus este incorect.</string>
+  <string name="callBarringFailMmi">Fail on Call Barring.</string>
+  <string name="cfServiceNotForwarded">Not forwarded</string>
+    <string name="checkPwdLen">Verificați dacă parola are între 4 și 8 cifre.</string>
+    <string name="color_picker_select">-&gt;</string>
+    <string name="config_mm_package_name">com.aspire.mm</string>
+    <string name="confirm_button_cancel">Renunțați</string>
+    <string name="confirm_button_no">Nu</string>
+    <string name="confirm_button_ok">OK</string>
+    <string name="confirm_button_turn_off">Dezactivați</string>
+    <string name="confirm_button_turn_on">Activați</string>
+    <string name="confirm_button_unlock">Deblocați</string>
+    <string name="confirm_button_yes">Da</string>
+    <string name="confirm_flight_mode_msg">Pentru a utiliza numărul, dezactivați mai întâi modul Avion.</string>
+    <string name="confirm_flight_mode_radio_msg">Pentru a utiliza numărul, dezactivați mai întâi modul Avion și activați cartela SIM.</string>
+    <string name="confirm_flight_mode_radio_title">Modul Avion este activat și cartela SIM este dezactivată</string>
+    <string name="confirm_flight_mode_title">Modul Avion activ</string>
+    <string name="confirm_radio_msg">Pentru a utiliza numărul, activați mai întâi.</string>
+    <string name="confirm_radio_title">Cartela SIM este dezactivată</string>
+    <string name="confirm_roaming_msg">Cartela SIM este în roaming. Continuați să o utilizați?</string>
+    <string name="confirm_roaming_title">Avertizare roaming</string>
+    <string name="confirm_unlock_msg">Pentru a utiliza cartela SIM card, mai întâi deblocați-o.</string>
+    <string name="confirm_unlock_title">SIM blocat</string>
+    <string name="contact_widget_loading">Încărcare…</string>
+    <string name="ct_net_name">CTNET</string>
+    <string name="ct_wap_name">CTWAP</string>
+  <string name="cu_3gnet_name">沃3G连接互联网</string>
+  <string name="cu_3gnet_name_in_lte">沃宽带用户连接互联网</string>
+  <string name="cu_3gwap_name">沃3G手机上网</string>
+  <string name="cu_3gwap_name_in_lte">沃宽带用户手机上网</string>
+    <string name="data_conn_only">Doar conexiune de date mobile</string>
+    <string name="day_month_year_wday" formatted="false">%s %s %s, %s</string>
+    <string name="day_year_month_wday" formatted="false">%s %s %s, %s</string>
+    <string name="default_wallpaper_name">Implicit</string>
+    <string name="delete">Ștergeți</string>
+    <string name="deleteMail">Arhivați e-mailurile și eliberați spațiu</string>
+    <string name="deleteMails">Ștergeți e-mailurile</string>
+    <string name="description_direction_down">Glisați în jos pentru a reduce la tăcere</string>
+    <string name="description_direction_left">Glisați spre stânga pentru a opri sunetul</string>
+    <string name="description_direction_right">Glisați spre dreapta pentru a anula</string>
+    <string name="description_direction_up">Glisați în sus pentru a anula</string>
+    <string name="drm_begin">Început:</string>
+    <string name="drm_can_forward">Poate fi redirecționat.</string>
+    <string name="drm_can_not_forward">Nu poate fi redirecționat.</string>
+    <string name="drm_consume_message">Acțiunea dvs. va consuma drepturile DRM.</string>
+    <string name="drm_consume_title">Consumare drepturi DRM</string>
+    <string name="drm_end">Sfârșit:</string>
+    <string name="drm_forwardforbidden_message">Unele fișiere protejate nu pot fi redirecționate.</string>
+    <string name="drm_forwardforbidden_title">Redirecționare interzisă</string>
+    <string name="drm_license_install_fail">Instalarea licenței DRM a eșuat.</string>
+    <string name="drm_license_install_success">Instalarea licenței DRM s-a realizat cu succes.</string>
+    <string name="drm_licenseacquisition_message">%1$s nu are o licență DRM validă. Puteți apăsa butonul Reînnoire pentru a obține licența DRM.</string>
+    <string name="drm_licenseacquisition_title">Achiziție licență DRM</string>
+    <string name="drm_no_license">Nicio licență DRM disponibilă.</string>
+    <string name="drm_no_limitation">Nicio limitare.</string>
+    <string name="drm_protection_status">Stare protecție:</string>
+    <string name="drm_protectioninfo_renew">Reînnoire</string>
+    <string name="drm_protectioninfo_title">Informații protecție</string>
+    <string name="drm_secure_timer_message">Nu puteți utiliza fișiere protejate DRM. Asigurați-vă că aveți o conexiune de date disponibilă.</string>
+    <string name="drm_secure_timer_title">Ceas de siguranță DRM invalid</string>
+    <string name="drm_toast_license_expired">Licența DRM a expirat.</string>
+  <string name="drm_use_left">Count left:</string>
+    <string name="fdnFailMmi">Verificarea FDN a eșuat.</string>
+    <string name="free_memory_btn">Spațiu disponibil</string>
+    <string name="gps_time_sync_fail_str">Obținerea orei furnizate de GPS a eșuat</string>
+    <string name="hdmi_audio_output">Ieșire audio</string>
+  <string name="hdmi_audio_output_multi_channel">Multi Channel</string>
+    <string name="hdmi_audio_output_stereo">Stereo</string>
+    <string name="hdmi_hdvideo_toast">HDMI nu poate rula videoclipul 4K, conexiunea se va întrerupe.</string>
+    <string name="hdmi_mutex_call_content">Ne pare rău. HDMI s-a oprit datorită apelului curent.</string>
+    <string name="hdmi_notification_content">Atingeți pentru a configura conexiunea HDMI</string>
+    <string name="hdmi_notification_title">Cablu HDMI conectat</string>
+    <string name="hdmi_replace_hdmi">HDMI</string>
+    <string name="hdmi_replace_mhl">MHL</string>
+    <string name="headset_pin_recognition">Căștile dvs. nu sunt compatibile cu acest telefon. Încercați cu alte căști</string>
+    <string name="invalidPuk">Introduceți 8 cifre.</string>
+    <string name="invalid_card">Card nevalid</string>
+    <string name="invalid_imei">IMEI nevalid</string>
+    <string name="lockscreen_password_too_many_failed_attempts_dialog_message" formatted="false">"Ați introdus parola incorect de %d ori. 
+
+Încercați din nou în %d secunde."</string>
+    <string name="lockscreen_pin_too_many_failed_attempts_dialog_message" formatted="false">"Ați introdus codul PIN incorect de %d ori. 
+
+Încercați din nou în %d secunde."</string>
+    <string name="low_internal_storage_view_title">Memoria internă este epuizată</string>
+    <string name="low_storage_warning_message">Eliberați spațiu de stocare sau unele aplicații și funcții de sistem pot fi afectate.</string>
+    <string name="media_controller_buffering">Încărcare memorie tampon %d%%...</string>
+    <string name="media_controller_connecting">Conectare...</string>
+    <string name="media_controller_live">Live</string>
+    <string name="media_controller_playing">Rulează</string>
+    <string name="media_info_audio_not_supported">Nu s-a putut rula piesa audio.</string>
+    <string name="media_info_video_not_supported">Acest videoclip nu este suportat.</string>
+    <string name="month_day_year_wday" formatted="false">%s %s, %s, %s</string>
+    <string name="month_year_day_wday" formatted="false">%s %s %s, %s</string>
+    <string name="network_forbidden">interzis</string>
+    <string name="new_sim">SIM nou</string>
+    <string name="oper_long_46000">CMCC</string>
+    <string name="oper_long_46001">CU</string>
+    <string name="oper_long_46003">China Telecom</string>
+    <string name="oper_long_46601">Far EasTone</string>
+    <string name="oper_long_46692">Chunghwa Telecom</string>
+    <string name="oper_long_46697">Taiwan Mobile</string>
+    <string name="oper_long_99998">Android1</string>
+    <string name="oper_long_99999">Android</string>
+    <string name="oper_short_46000">CMCC</string>
+    <string name="oper_short_46001">CU-GSM</string>
+    <string name="oper_short_46003">China Telecom</string>
+    <string name="oper_short_46601">FET</string>
+    <string name="oper_short_46692">Chunghwa</string>
+    <string name="oper_short_46697">TWN</string>
+    <string name="oper_short_99997">AD1</string>
+    <string name="oper_short_99999">AD</string>
+    <string name="permdesc_bindTerminal">"O aplicație care primește această permisiune se poate conecta la terminalele de sistem OMAPI. Doar serviciile SmartcardService ar trebui să îl utilizeze."</string>
+    <string name="permdesc_receiveCbSms">Permite aplicației să primească și să proceseze mesajele CB SMS. Aplicațiile rău intenționate vă pot monitoriza mesajele sau vi le pot șterge fără a vi le afișa.</string>
+    <string name="permdesc_receiveDmRegisterSms">Permite aplicației să primească și să proceseze mesajele DM Register. Doar aplicația DM APP ar trebui să le utilizeze</string>
+    <string name="permdesc_systemTerminal">O aplicație cu această permisiune indică că este un terminal OMAPI de sistem.</string>
+    <string name="permdesc_wake_device_sensorhub">Permite aplicației să trezească telefonul când este în modul inactiv.</string>
+    <string name="permlab_bindTerminal">Asociere terminal OMAPI</string>
+    <string name="permlab_systemTerminal">Terminal OMAPI de sistem</string>
+    <string name="permlab_wake_device_sensorhub">trezire telefon</string>
+    <string name="pinNotEnabled">Activați codul PIN înainte de a-l schimba.</string>
+    <string name="press_color_to_apply">Atingeți Culoare pentru a aplica</string>
+    <string name="puk1Blocked">Codul PIN este blocat.</string>
+    <string name="puk2Blocked">Codul PIN 2 este blocat.</string>
+    <string name="same_imei">Același IMEI</string>
+    <string name="save_password_label">Confirmați</string>
+    <string name="save_password_message">Doriți ca browser-ul să memoreze această parolă?</string>
+    <string name="save_password_never">Niciodată</string>
+    <string name="save_password_notnow">Nu acum</string>
+    <string name="save_password_remember">Memorează</string>
+    <string name="sdcard_default_path_change">Diskul implicit pentru scriere a fost modificat.</string>
+    <string name="sdcard_ready_title">Card SD pregătit</string>
+    <string name="sdcard_select_default_path">Doriți să schimbați discul implicit pentru scriere?</string>
+    <string name="searching_simcard">Detectare...</string>
+    <string name="serviceClassVideo">Videoclip</string>
+  <string name="serviceProvisioned">Service provisioned.</string>
+    <string name="serviceUnknown">Problemă de conexiune sau cod MMI nevalid.</string>
+  <string name="sim_close">SIM card close</string>
+    <string name="sim_missing">Nicio cartelă SIM detectată</string>
+    <string name="sim_missing_card">Niciun card detectat</string>
+    <string name="sim_missing_detail">Verificați vă rog dacă este pregătită cartela SIM</string>
+    <string name="sim_missing_detail_card">Verificați dacă este pregătită cartela</string>
+    <string name="sim_missing_slot1">Slot 1: Nicio cartelă SIM detectată</string>
+    <string name="sim_missing_slot1_card">Slot 1: Nicio cartelă SIM detectată</string>
+    <string name="sim_missing_slot2">Slot 2: Nicio cartelă SIM detectată</string>
+    <string name="sim_missing_slot2_card">Slot 2: Nicio cartelă SIM detectată</string>
+    <string name="sim_missing_slot3">Slot 3: Nicio cartelă SIM detectată</string>
+    <string name="sim_missing_slot4">Slot 4: Nicio cartelă SIM detectată</string>
+    <string name="storage_sd">Cardul SD nu are destul spațiu disponibil. Eliberați spațiu de stocare sau schimbați discul implicit pentru scriere din Setări.</string>
+    <string name="storage_withoutsd">Stocarea telefonului este insuficientă. Eliberați spațiu de stocare sau introduceți un card SD.</string>
+    <string name="storage_withsd">Stocarea telefonului este insuficientă. Eliberați spațiu de stocare sau modificați discul implicit pentru scriere din Setări.</string>
+    <string name="tethered_notification_message_bandwidth_set">Lățimea de bandă este setată</string>
+    <string name="tethered_notification_message_for_hotspot">%1$d conectat, %2$d blocat</string>
+    <string name="url_dialog_choice_message">Va deschide browser-ul, continuați?</string>
+    <string name="url_dialog_choice_title">Mesaje</string>
+    <string name="usb_autorun_cdrom_notification_title">Conectat ca și CDROM cu autorun</string>
+    <string name="usb_charging_notification_title">Doar încărcare USB</string>
+    <string name="usb_storage_ready_title">Stocarea USB externă este pregătită</string>
+    <string name="usb_ums_notification_title">Conectat ca și stocare USB</string>
+    <string name="virtual_sim_on">SIM virtual activ</string>
+    <string name="virtual_sim_on_slot1">SIM virtual 1 activ</string>
+    <string name="virtual_sim_on_slot2">SIM virtual 2 activ</string>
+    <string name="virtual_sim_on_slot3">SIM virtual 3 activ</string>
+    <string name="virtual_sim_on_slot4">SIM virtual 4 activ</string>
+    <string name="wap_browser_component">com.myriad.android.kunbrowser.BrowserActivity</string>
+    <string name="wap_browser_keyword">s.139.com</string>
+    <string name="wap_browser_pakcage">com.myriad.android.kunbrowser</string>
+    <string name="wap_browser_url_flag">search_url</string>
+    <string name="wday_day_month_year" formatted="false">%s, %s %s %s</string>
+    <string name="wday_day_year_month" formatted="false">%s, %s %s %s</string>
+    <string name="wday_month_day_year" formatted="false">%s, %s %s, %s</string>
+    <string name="wday_month_year_day" formatted="false">%s, %s %s %s</string>
+    <string name="wday_year_day_month" formatted="false">%s, %s %s %s</string>
+    <string name="wday_year_month_day" formatted="false">%s, %s %s %s</string>
+    <string name="wifi_display_bt_hdmi_off_wfd_on">Conexiunea HDMI va fi dezactivată atunci când veți activa wireless display. Doriți să continuați?</string>
+    <string name="wifi_display_build_connection">Creare conexiune.</string>
+    <string name="wifi_display_change_resolution_reminder">Modificarea rezoluției va reconecta în mod automat wireless display.</string>
+    <string name="wifi_display_channel_confliction">Conflict canal</string>
+    <string name="wifi_display_confirm_connection">dorește să se conecteze cu dvs.</string>
+    <string name="wifi_display_connected_to_wifi_network">Conectat la rețeaua Wi-Fi %1$s.</string>
+    <string name="wifi_display_connection_is_not_steady">Conexiunea curentă wireless display nu este stabilă.</string>
+    <string name="wifi_display_disconnect_then_reconnect">Wireless display deconectat. Doriți să vă reconectați?</string>
+    <string name="wifi_display_disconnected">Wireless display deconectat.</string>
+    <string name="wifi_display_do_not_remind_again">Nu îmi aminti din nou.</string>
+    <string name="wifi_display_reconnect">Reconectați</string>
+    <string name="wifi_display_sound_path_reminder">"Sunetul multimedia nu va rula în căști."</string>
+    <string name="wifi_display_unstable_connection">Conexiune instabilă</string>
+    <string name="wifi_display_unstable_suggestion">Conexiunea curentă wireless display nu este stabilă; vă rugăm să vă apropiați de dispozitiv.</string>
+    <string name="wifi_display_wait_connection">Se așteaptă invitațiile de conectare de la alte dispozitive.</string>
+    <string name="wifi_display_wfd_and_wifi_are_turned_on">Wireless display și Wi-Fi sunt active.</string>
+    <string name="wifi_display_wfd_off_hdmi_on">Wireless display va fi dezactivat atunci când veți activa conexiunea HDMI. Doriți să continuați?</string>
+    <string name="wifi_display_wifi_ap_affects_quality">Punctul de acces curent poate afecta calitatea wireless display.</string>
+    <string name="wifi_display_wifi_network_cannot_coexist">Rețeaua Wi-Fi curentă nu poate coexista cu conexiunea de clonare ecran.</string>
+    <string name="wifi_display_wifi_network_disconnected">Rețeaua Wi-Fi %1$s este deconectată.</string>
+    <string name="wifi_display_wifi_p2p_disconnect_wfd_connect">Conexiunea Wi-Fi direct curentă va fi deconectată atunci când vă veți conecta la dispozitivul wireless display. Doriți să continuați?</string>
+    <string name="wifi_p2p_frequency_conflict_message">"Telefonul se va deconecta temporar de la Wi-Fi atunci când va fi conectat la %1$s (doar dacă se va modifica canalul și ID-ul rețelei Wi-Fi curente în %2$s)"</string>
+    <string name="wifi_tether_configure_ssid_default_for_cmcc">MTK Athens15</string>
+    <string name="wifi_wps_failed_overlap">A fost detectată o altă sesiune WPS. Încercați din nou în câteva minute.</string>
+    <string name="year_day_month_wday" formatted="false">%s %s %s, %s</string>
+    <string name="year_month_day_wday" formatted="false">%s %s %s, %s</string>
+</resources>

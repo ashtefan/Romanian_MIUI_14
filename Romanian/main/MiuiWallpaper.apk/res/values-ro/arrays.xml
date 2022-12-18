@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="region_support_mihome">
+        <item>CN</item>
+        <item>IN</item>
+        <item>HK</item>
+        <item>TW</item>
+        <item>SG</item>
+        <item>US</item>
+        <item>TR</item>
+    </string-array>
+    <string-array name="settings_search_earth">
+        <item>Acasă</item>
+        <item>Imagine de fundal/Super imagini de fundal/Acasă</item>
+        <item>Pământ;Super imagini de fundal;Ediție Pământ;Imagine de fundal</item>
+    </string-array>
+    <string-array name="settings_search_geometry">
+        <item>Geometrie</item>
+        <item>Imagine de fundal/Super imagini de fundal/Geometrie</item>
+        <item>Geometrie;Abstract;Super imagini de fundal;Imagine de fundal</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>Planeta roșie</item>
+        <item>Imagine de fundal/Super imagini de fundal/Planeta roșie</item>
+        <item>Marte;Ediție Marte;Super imagini de fundal;Imagine de fundal</item>
+    </string-array>
+    <string-array name="settings_search_saturn">
+        <item>Inelele lui Saturn</item>
+        <item>Imagine de fundal/Super imagini de fundal/Inelele lui Saturn</item>
+        <item>Planetă;Saturn;Super imagini de fundal;Imagine de fundal</item>
+    </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>Vârfuri înzăpezite</item>
+        <item>Imagine de fundal/Super imagini de fundal/Vârfuri înzăpezite</item>
+        <item>Pământ;Munți;Super imagine de fundal;Imagine de fundal</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>Super imagini de fundal</item>
+        <item>Imagine de fundal/Super imagini de fundal</item>
+        <item>Super imagini de fundal;Imagine de fundal;Imagine de fundal dinamică;Imagine de fundal 3D</item>
+    </string-array>
+    <string-array name="settings_search_weather">
+        <item>Vremea</item>
+        <item>Imagine de fundal/Super imagini de fundal/Vreme</item>
+        <item>Vreme;Informații meteo;Super imagine de fundal;Imagine de fundal</item>
+    </string-array>
+</resources>

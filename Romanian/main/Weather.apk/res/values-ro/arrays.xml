@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="aqi_detail_title">
+        <item>Bună</item>
+        <item>Moderată</item>
+        <item>Cu risc pentru persoanele sensibile</item>
+        <item>Nocivă</item>
+	<item>Foarte nocivă</item>
+	<item>Periculoasă pentru sănătate</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+        <item>ICA %1$s</item>
+    </string-array>
+    <string-array name="aqi_value">
+        <item>Bună</item>
+        <item>Satisfăcătoare</item>
+        <item>Poluată moderat</item>
+        <item>Rea</item>
+        <item>Foarte rea</item>
+        <item>Severă</item>
+        <item>Peste indice</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;Forța 2</item>
+        <item>&lt;6 km/h</item>
+        <item>&lt;1,7 m/s</item>
+        <item>&lt;3,7 mph</item>
+        <item>&lt;3,2 kn</item>
+    </string-array>
+    <string-array name="dislike_alert_dialog_selectitems">
+        <item>neinteresat</item>
+        <item>calitate slabă a conținutului</item>
+    </string-array>
+    <string-array name="hot_city">
+        <item>București</item>
+        <item>Iași</item>
+        <item>Cluj-Napoca</item>
+        <item>Timișoara</item>
+        <item>Constanța</item>
+        <item>Craiova</item>
+        <item>Galați</item>
+        <item>Brașov</item>
+        <item>Ploiești</item>
+        <item>Brăila</item>
+        <item>Bârlad</item>
+        <item>Londra</item>
+        <item>Singapore</item>
+        <item>Berlin</item>
+        <item>Roma</item>
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+        <item>Tokyo</item>
+        <item>Paris</item>
+        <item>Bangkok</item>
+        <item>Seul</item>
+        <item>Kuala Lumpur</item>
+    </string-array>
+    <string-array name="minute_rain_array">
+        <item>Torențială</item>
+        <item>Moderată</item>
+        <item>Ușoară</item>
+    </string-array>
+    <string-array name="pollution_level_desc_arr">
+        <item>Excelent</item>
+        <item>Bun</item>
+        <item>Poluat ușor</item>
+        <item>Poluat moderat</item>
+        <item>Poluat grav</item>
+        <item>Poluat sever</item>
+        <item>Peste indice</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Senin</item>
+        <item>Înnorat</item>
+        <item>Înnorat</item>
+        <item>Ceaţă</item>
+        <item>Ploaie torenţială</item>
+        <item>Ploaie torențială</item>
+        <item>Furtună</item>
+        <item>Furtună cu trăsnete</item>
+        <item>Averse</item>
+        <item>Precipitații puternice</item>
+        <item>Ploaie moderată</item>
+        <item>Ploaie ușoară</item>
+        <item>Lapoviţă</item>
+        <item>Viscol</item>
+        <item>Ninsoare</item>
+        <item>Ninsoare puternică</item>
+        <item>Ninsoare moderată</item>
+        <item>Ninsoare slabă</item>
+        <item>Furtună de nisip puternică</item>
+        <item>Furtună de nisip</item>
+        <item>Nisip</item>
+        <item>Vânt</item>
+        <item>Grindină</item>
+        <item>Praf</item>
+        <item>Negură</item>
+        <item>Ploaie ce îngheaţă</item>
+        <item></item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Nord</item>
+        <item>Nord-est</item>
+        <item>Est</item>
+        <item>Sud-est</item>
+        <item>Sud</item>
+        <item>Sud-vest</item>
+        <item>Vest</item>
+        <item>Nord-vest</item>
+    </string-array>
+    <string-array name="wind_direction_simple">
+        <item>din N</item>
+        <item>din NE</item>
+        <item>din E</item>
+        <item>din SE</item>
+        <item>din S</item>
+        <item>din SV</item>
+        <item>din V</item>
+        <item>din NV</item>
+    </string-array>
+    <string-array name="wind_unit_detail">
+        <item>Scala Beaufort</item>
+        <item>Kilometri pe oră (km/h)</item>
+        <item>Metri pe secundă (m/s)</item>
+        <item>Mile pe oră (mph)</item>
+        <item>Knot (kn)</item>
+    </string-array>
+    <string-array name="wind_unit_replace">
+        <item>Forța %1$s</item>
+        <item>%1$s km/h</item>
+        <item>%1$s m/s</item>
+        <item>%1$s mph</item>
+        <item>%1$s kn</item>
+    </string-array>
+</resources>

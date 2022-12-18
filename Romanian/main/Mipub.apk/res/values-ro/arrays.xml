@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>1 dată</item>
+        <item>de 2 ori</item>
+        <item>de 3 ori</item>
+        <item>de 5 ori</item>
+        <item>de 10 ori</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Recepționate</item>
+        <item>Trimise</item>
+    </string-array>
+</resources>

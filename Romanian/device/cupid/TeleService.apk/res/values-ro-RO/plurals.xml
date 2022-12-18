@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alert_dialog_exit_ecm_without_data_restriction_hint">
+        <item quantity="other">"Telefonul va fi în modul de apel invers de urgență timp de %s minute.
+Doriți să ieșiți acum?"</item>
+        <item quantity="one">"Telefonul va fi în modul de apel invers de urgență timp de %s minut.
+Doriți să ieșiți acum?"</item>
+        <item quantity="few">"Telefonul va fi în modul de apel invers de urgență timp de %s minute.
+Doriți să ieșiți acum?"</item>
+        <item quantity="many">"Telefonul va fi în modul de apel invers de urgență timp de %s minute.
+Doriți să ieșiți acum?"</item>
+    </plurals>
+</resources>

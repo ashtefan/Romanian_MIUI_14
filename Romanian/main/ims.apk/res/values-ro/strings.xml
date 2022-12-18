@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="call_hold_label">Apel în așteptare :</string>
+    <string name="call_resume_label">Apel încheiat :</string>
+    <string name="device_is_hd_capable">Dispozitivul are capabilități HD</string>
+    <string name="error_msg_cancelled">Anulat</string>
+    <string name="error_msg_failed">Eșuat</string>
+  <string name="error_msg_reinvite_collision">Reinvite Collision</string>
+    <string name="incoming_call_failed_low_battery">Apelul primit a eșuat datorită nivelului redus al acumulatorului.</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="app_name">StepsProvider</string>
+    <string name="permstep_description">"Permite aplicației să citească pașii"</string>
+    <string name="permstep_label">Citire pași</string>
+</resources>

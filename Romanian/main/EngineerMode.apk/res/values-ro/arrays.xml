@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bt_chip_eco">
+        <item>NECUNOSCUT</item>
+        <item>E1</item>
+        <item>E2</item>
+        <item>E3</item>
+        <item>E4</item>
+        <item>E5</item>
+        <item>E6</item>
+        <item>E7</item>
+    </string-array>
+    <string-array name="tx_pattern">
+        <item>0000</item>
+        <item>1111</item>
+        <item>1010</item>
+        <item>Pseudo bit aleator</item>
+        <item>11110000</item>
+    </string-array>
+    <string-array name="tx_channels">
+        <item>Frecvență singulară</item>
+        <item>79 Canale</item>
+    </string-array>
+    <string-array name="tx_Pocket_type">
+        <item>NULL(0x00)</item>
+        <item>POLL(0x01)</item>
+        <item>FHS(0x02)</item>
+        <item>DM1(0x03)</item>
+        <item>DH1(0x04)</item>
+        <item>HV1(0x05)</item>
+        <item>HV2(0x06)</item>
+        <item>HV3(0x07)</item>
+        <item>DV(0x08)</item>
+        <item>AUX(0x09)</item>
+        <item>DM3(0x0A)</item>
+        <item>DH3(0x0B)</item>
+        <item>DM5(0x0E)</item>
+        <item>DH5(0x0F)</item>
+        <item>EV3(0x17)</item>
+        <item>EV4(0x1C)</item>
+        <item>EV5(0x1D)</item>
+        <item>2-DH1(0x24)</item>
+        <item>3-DH1(0x28)</item>
+        <item>2-DH3(0x2A)</item>
+        <item>3-DH3(0x2B)</item>
+        <item>2-DH5(0x2E)</item>
+        <item>3-DH5(0x2F)</item>
+        <item>2-EV3(0x36)</item>
+        <item>3-EV3(0x37)</item>
+        <item>2-EV5(0x3C)</item>
+        <item>3-EV5(0x3D)</item>
+        <item>ne-modulat</item>
+    </string-array>
+    <string-array name="nsrx_pattern">
+        <item>0000</item>
+        <item>1111</item>
+        <item>1010</item>
+        <item>Pseudo bit aleator</item>
+        <item>11110000</item>
+    </string-array>
+    <string-array name="modem_test_cta_options">
+        <item>Verififcare integritate</item>
+        <item>RLC TL1</item>
+        <item>K1297</item>
+        <item>Conflict SN</item>
+        <item>Solicitare CF</item>
+        <item>Blocare DLMN</item>
+        <item>Măsurare deschidere</item>
+        <item>Dezactivare DPA</item>
+        <item>Intra CMR</item>
+    </string-array>
+    <string-array name="modem_test_iot_options_6589">
+        <item>General</item>
+        <item>NSN</item>
+        <item>DCM CB</item>
+        <item>ERICSSON</item>
+    </string-array>
+    <string-array name="modem_test_operator_options_6589">
+        <item>MS_USIM_COMPATIPLE</item>
+        <item>ATNT</item>
+        <item>TMOBILE</item>
+        <item>ORANGE</item>
+        <item>VODAFONE</item>
+        <item>O2</item>
+        <item>TELEFONICA</item>
+        <item>DOCOMO</item>
+        <item>SOFTBANK</item>
+        <item>VIVO</item>
+        <item>CLARO</item>
+        <item>TIM</item>
+        <item>CU</item>
+    </string-array>
+    <string-array name="modem_test_iot_options">
+        <item>Fast Dormancy</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/TD (mod auto)</item>
+        <item>Doar TD</item>
+        <item>Doar GSM</item>
+    </string-array>
+    <string-array name="device_mgr_entries">
+        <item>Dezactivat</item>
+        <item>Activat</item>
+    </string-array>
+    <string-array name="device_mgr_dm_conf_switch_entries">
+        <item>Mediu testare</item>
+        <item>Mediu producție</item>
+    </string-array>
+    <string-array name="audio_functions">
+        <item>Mod normal</item>
+        <item>Mod set cu cască</item>
+        <item>Mod difuzor</item>
+        <item>Mod Set cu cască_Difuzor</item>
+        <item>Speech Enhancement</item>
+        <item>Informații depanare</item>
+        <item>Sesiune depanare</item>
+        <item>Speech Logger</item>
+        <item>Audio Logger</item>
+        <item>Audio Wake Lock</item>
+    </string-array>
+    <string-array name="mode_type0">
+        <item>Sip</item>
+        <item>Mic</item>
+        <item>Sph</item>
+        <item>Sid</item>
+        <item>Media</item>
+    </string-array>
+    <string-array name="mode_type1">
+        <item>Sip</item>
+        <item>Mic</item>
+        <item>FMR</item>
+        <item>Sph</item>
+        <item>Sid</item>
+        <item>Media</item>
+        <item>Matv</item>
+    </string-array>
+    <string-array name="mode_type2">
+        <item>Ring</item>
+        <item>Sip</item>
+        <item>Mic</item>
+        <item>FMR</item>
+        <item>Sph</item>
+        <item>Sid</item>
+        <item>Media</item>
+        <item>Matv</item>
+    </string-array>
+    <string-array name="mode_level">
+        <item>Nivel 0</item>
+        <item>Nivel 1</item>
+        <item>Nivel 2</item>
+        <item>Nivel 3</item>
+        <item>Nivel 4</item>
+        <item>Nivel 5</item>
+        <item>Nivel 6</item>
+    </string-array>
+    <string-array name="mode_fir">
+        <item>FIR 0</item>
+        <item>FIR 1</item>
+        <item>FIR 2</item>
+        <item>FIR 3</item>
+        <item>FIR 4</item>
+        <item>FIR 5</item>
+    </string-array>
+    <string-array name="speech_enhance_mode">
+        <item>Parametru comun</item>
+        <item>Mod normal</item>
+        <item>Mod set cu cască</item>
+        <item>Mod difuzor</item>
+        <item>Mod cască BT</item>
+        <item>Mod fără fir BT</item>
+        <item>Mod carkit BT</item>
+        <item>Mod AUX1</item>
+        <item>Mod AUX2</item>
+    </string-array>
+    <string-array name="camera_items">
+        <item>AF EM</item>
+        <item>Mod captură Raw</item>
+        <item>Tip Raw</item>
+        <item>Pâlpâire</item>
+        <item>ISO</item>
+        <item>Start previzualizare</item>
+        <item>Ajutor</item>
+    </string-array>
+    <string-array name="af_mode_dialog">
+        <item>AF Normal</item>
+        <item>AF Bracket</item>
+        <item>Scanare completă</item>
+        <item>Repetare scanare completă</item>
+        <item>Repetare AF</item>
+        <item>Repetare AF și completă</item>
+    </string-array>
+    <string-array name="capture_mode_dialog">
+        <item>Mod previzualizare</item>
+        <item>Mod captură</item>
+        <item>Doar JPEG</item>
+    </string-array>
+    <string-array name="raw_type_dialog">
+        <item>RAW procesat</item>
+        <item>RAW nativ</item>
+    </string-array>
+    <string-array name="anti_flicker_dialog">
+        <item>50 Hz</item>
+        <item>60 Hz</item>
+    </string-array>
+    <string-array name="iso_dialog">
+        <item>AUTO</item>
+        <item>ISO 100</item>
+        <item>ISO 150</item>
+        <item>ISO 200</item>
+        <item>ISO 300</item>
+        <item>ISO 400</item>
+        <item>ISO 600</item>
+        <item>ISO 800</item>
+        <item>ISO 1600</item>
+    </string-array>
+    <string-array name="normal_captrue_size">
+        <item>Dimensiune preview</item>
+        <item>Dimensiune captură</item>
+        <item>Dimensiune captură(ZSD)</item>
+        <item>Dimensiune videoclip</item>
+        <item>Slim Video1</item>
+        <item>Slim Video2</item>
+        <item>Personalizat1</item>
+        <item>Personalizat2</item>
+        <item>Personalizat3</item>
+        <item>Personalizat4</item>
+        <item>Personalizat5</item>
+    </string-array>
+    <string-array name="normal_captrue_name_prefix">
+        <item>Previzualizare</item>
+        <item>Captură</item>
+        <item>Captură</item>
+        <item>Videoclip</item>
+        <item>SlimVideo1</item>
+        <item>SlimVideo2</item>
+        <item>Personalizat1</item>
+        <item>Personalizat2</item>
+        <item>Personalizat3</item>
+        <item>Personalizat4</item>
+        <item>Personalizat5</item>
+    </string-array>
+    <string-array name="mPreferredNetworkLabels">
+        <item>GSM/WCDMA (auto)</item>
+        <item>GSM/WCDMA (de preferat WCDMA)</item>
+        <item>Doar WCDMA</item>
+        <item>Doar GSM</item>
+        <item>Doar LTE</item>
+        <item>4G/3G/2G(auto)</item>
+        <item>4G/3G</item>
+        <item>Nespecificat</item>
+    </string-array>
+    <string-array name="mTddPreferredNetworkLabels">
+        <item>GSM/TD-SCDMA(auto)</item>
+        <item>De preferat TD-SCDMA</item>
+        <item>Doar TD-SCDMA</item>
+        <item>Doar GSM</item>
+        <item>Doar LTE</item>
+        <item>4G/3G/2G(auto)</item>
+        <item>4G/3G</item>
+        <item>Nespecificat</item>
+    </string-array>
+    <string-array name="mTddNetworkLabels">
+        <item>Doar GSM</item>
+        <item>Doar TD-SCDMA</item>
+        <item>GSM/TD-SCDMA(auto)</item>
+        <item>Doar LTE</item>
+        <item>4G/3G/2G(auto)</item>
+        <item>4G/3G</item>
+    </string-array>
+    <string-array name="mWcdmaNetworkLabels">
+        <item>GSM/WCDMA (de preferat WCDMA)</item>
+        <item>Doar GSM</item>
+        <item>Doar WCDMA</item>
+        <item>GSM/WCDMA (auto)</item>
+        <item>Doar LTE</item>
+        <item>4G/3G/2G(auto)</item>
+        <item>4G/3G</item>
+    </string-array>
+    <string-array name="mCdmaNetworkLabels">
+        <item>Hibrid</item>
+        <item>Doar CDMA 1X</item>
+        <item>Doar EVDO</item>
+    </string-array>
+    <string-array name="host_type">
+        <item>Gazdă numărul 0</item>
+        <item>Gazdă numărul 1</item>
+        <item>Gazdă numărul 2</item>
+        <item>Gazdă numărul 3</item>
+        <item>Gazdă numărul 4</item>
+    </string-array>
+    <string-array name="host_data">
+        <item>4 mA</item>
+        <item>8 mA</item>
+        <item>12 mA</item>
+        <item>16 mA</item>
+    </string-array>
+    <string-array name="hopping_bit">
+        <item>Niciunul</item>
+        <item>2,26 Mhz</item>
+        <item>4,52 Mhz</item>
+        <item>9,04 Mhz</item>
+    </string-array>
+    <string-array name="hopping_time">
+        <item>30,5 us</item>
+        <item>61,0 us</item>
+        <item>122,1 us</item>
+        <item>244,1 us</item>
+        <item>488,3 us</item>
+    </string-array>
+    <string-array name="msdc_select">
+        <item>Driving SET</item>
+        <item>Hopping SET</item>
+        <item>SD3.0 TEST</item>
+    </string-array>
+    <string-array name="msdc_sd3_mode">
+        <item>SDHC HIGHSPEED</item>
+        <item>UHS SDR12</item>
+        <item>UHS SDR25</item>
+        <item>UHS SDR50</item>
+        <item>UHS SDR104</item>
+        <item>UHS DDR50</item>
+        <item>HS400</item>
+    </string-array>
+    <string-array name="msdc_sd3_max_current">
+        <item>MAX CURRENT 200</item>
+        <item>MAX CURRENT 400</item>
+        <item>MAX CURRENT 600</item>
+        <item>MAX CURRENT 800</item>
+    </string-array>
+    <string-array name="msdc_sd3_drive">
+        <item>DRIVER Tip A</item>
+        <item>DRIVER Tip B</item>
+        <item>DRIVER Tip C</item>
+        <item>DRIVER Tip D</item>
+    </string-array>
+    <string-array name="msdc_sd3_power_control">
+        <item>SDXC FĂRĂ CONTROL PUTERE</item>
+        <item>SDXC CU CONTROL PUTERE</item>
+    </string-array>
+    <string-array name="nfc_lang">
+        <item>implicit</item>
+        <item>de</item>
+        <item>en</item>
+        <item>fr</item>
+    </string-array>
+    <string-array name="auto_calib_capture_mode1">
+        <item>Dimensiune captură</item>
+        <item>Tip captură</item>
+    </string-array>
+    <string-array name="auto_calib_capture_type">
+        <item>RAW procesat</item>
+        <item>RAW pur</item>
+        <item>Doar jpeg</item>
+    </string-array>
+    <string-array name="auto_calib_capture_type1">
+        <item>RAW procesat</item>
+        <item>RAW pur</item>
+    </string-array>
+    <string-array name="auto_calib_capture_mode2">
+        <item>Număr captură</item>
+        <item>Multiple Frame Raw Dump</item>
+        <item>Video Clip Raw Dump</item>
+    </string-array>
+    <string-array name="auto_calib_capture_number">
+        <item>Simplu</item>
+        <item>Dublu</item>
+        <item>Triplu</item>
+    </string-array>
+    <string-array name="auto_calib_multi_frame">
+        <item>4 cadre</item>
+        <item>8 cadre</item>
+        <item>12 cadre</item>
+    </string-array>
+    <string-array name="auto_calib_video_clip">
+        <item>Pastrează rezoluția</item>
+        <item>Micșorează rezoluția</item>
+    </string-array>
+    <string-array name="auto_calib_iso">
+        <item>Nu selectați nimic</item>
+        <item>Selectați tot</item>
+        <item>Auto</item>
+        <item>ISO 100</item>
+        <item>ISO 150</item>
+        <item>ISO 200</item>
+        <item>ISO 300</item>
+        <item>ISO 400</item>
+        <item>ISO 600</item>
+        <item>ISO 800</item>
+        <item>ISO 1200</item>
+        <item>ISO 1600</item>
+        <item>ISO 2000</item>
+        <item>ISO 2400</item>
+        <item>ISO 2800</item>
+        <item>ISO 3200</item>
+    </string-array>
+    <string-array name="auto_calib_special_iso">
+        <item>Auto</item>
+        <item>ISO 100</item>
+        <item>ISO 150</item>
+        <item>ISO 200</item>
+        <item>ISO 300</item>
+        <item>ISO 400</item>
+        <item>ISO 600</item>
+        <item>ISO 800</item>
+        <item>ISO 1200</item>
+        <item>ISO 1600</item>
+        <item>ISO 2400</item>
+        <item>ISO 3200</item>
+    </string-array>
+    <string-array name="auto_calib_flicker_type">
+        <item>50 Hz</item>
+        <item>60 Hz</item>
+    </string-array>
+    <string-array name="auto_calib_led_flash">
+        <item>AUTO</item>
+        <item>PORNIT</item>
+        <item>OPRIT</item>
+    </string-array>
+    <string-array name="auto_calib_af">
+        <item>AF</item>
+    </string-array>
+    <string-array name="auto_calib_af_mode">
+        <item>Auto</item>
+        <item>AF Bracket</item>
+        <item>Scanare completă</item>
+        <item>Prin focus?</item>
+    </string-array>
+    <string-array name="auto_calib_af_through_direct">
+        <item>Macro to Inf.</item>
+        <item>Inf. to Macro</item>
+        <item>Configurare manuală</item>
+    </string-array>
+    <string-array name="auto_calib_capture">
+        <item>Start previzualizare</item>
+    </string-array>
+    <string-array name="desense_camera_items">
+        <item>2 mA</item>
+        <item>4 mA</item>
+        <item>6 mA</item>
+        <item>8 mA</item>
+        <item>Șterge fișierul de configurare</item>
+    </string-array>
+    <string-array name="auto_clib_shutter_delay_vals">
+        <item>0 sec</item>
+        <item>5 sec</item>
+        <item>10 sec</item>
+    </string-array>
+    <string-array name="auto_clib_shading_table_items">
+        <item>Auto</item>
+        <item>Scăzut</item>
+        <item>Mediu</item>
+        <item>Înalt</item>
+        <item>TSF</item>
+    </string-array>
+    <string-array name="auto_clib_output_sdblk_options">
+        <item>OPRIT</item>
+        <item>PORNIT</item>
+    </string-array>
+    <string-array name="matv_frame_rate_entries">
+        <item>Rată 30 cadre</item>
+        <item>Rată 20 cadre</item>
+        <item>Rată 15 cadre</item>
+    </string-array>
+    <string-array name="matv_nr_level_entries">
+        <item>NR Nivel 0x31</item>
+        <item>NR Nivel 0x32</item>
+        <item>NR Nivel 0x33</item>
+        <item>NR Nivel 0x34</item>
+        <item>NR Nivel 0x35</item>
+    </string-array>
+    <string-array name="always_on_module">
+        <item>Tip A</item>
+        <item>Tip B</item>
+        <item>Tip F</item>
+        <item>Nicio modulație</item>
+    </string-array>
+    <string-array name="always_on_bitrate">
+        <item>106 Kbps</item>
+        <item>212 Kbps</item>
+        <item>424 Kbps</item>
+    </string-array>
+    <string-array name="card_emul_mode_type">
+        <item>MifareUL</item>
+        <item>MifareStd</item>
+        <item>ISO14443_4A</item>
+        <item>ISO14443_4B</item>
+        <item>Jewel</item>
+        <item>Felica</item>
+        <item>ISO15693</item>
+    </string-array>
+    <string-array name="card_emul_mode_prot">
+        <item>ISO14443A</item>
+        <item>ISO14443B</item>
+        <item>Felica212</item>
+        <item>Felica424</item>
+        <item>ISO15693</item>
+    </string-array>
+    <string-array name="rf_desense_tx_test_gsm_modulation">
+        <item>GMSK</item>
+        <item>EDGE</item>
+    </string-array>
+    <string-array name="rf_desense_tx_test_gsm_band">
+        <item>GSM 850</item>
+        <item>P-GSM 900</item>
+        <item>E-GSM 900</item>
+        <item>R-GSM 900</item>
+        <item>DCS 1800</item>
+        <item>PCS 1900</item>
+    </string-array>
+    <string-array name="rf_desense_tx_test_td_band">
+        <item>Banda A</item>
+        <item>Banda E</item>
+        <item>Banda F</item>
+    </string-array>
+    <string-array name="rf_desense_tx_test_fd_band">
+        <item>Banda 1</item>
+        <item>Banda 2</item>
+        <item>Banda 3</item>
+        <item>Banda 4</item>
+        <item>Banda 5</item>
+        <item>Banda 6</item>
+        <item>Banda 7</item>
+        <item>Banda 8</item>
+        <item>Banda 9</item>
+        <item>Banda 10</item>
+        <item>Banda 11</item>
+        <item>Banda 12</item>
+        <item>Banda 13</item>
+        <item>Banda 14</item>
+        <item>Banda 19</item>
+        <item>Banda 20</item>
+        <item>Banda 21</item>
+        <item>Banda 22</item>
+    </string-array>
+    <string-array name="rf_desense_tx_test_lte_bandwidth">
+        <item>1,4 M</item>
+        <item>3 M</item>
+        <item>5 M</item>
+        <item>10 M</item>
+        <item>15 M</item>
+        <item>20 M</item>
+    </string-array>
+    <string-array name="rf_desense_tx_test_lte_mcs">
+        <item>QPSK</item>
+        <item>16QAM</item>
+        <item>64QAM</item>
+    </string-array>
+    <string-array name="hspa_info_mode_array_td">
+        <item>HSDPA oprit</item>
+        <item>"HSDPA pornit
+HSUPA oprit"</item>
+        <item>"HSDPA pornit
+HSUPA pornit"</item>
+        <item>"HSDPA pornit
+HSUPA pornit"</item>
+    </string-array>
+    <string-array name="hspa_info_mode_array_fd">
+        <item>HSDPA oprit</item>
+        <item>"HSDPA pornit
+HSUPA oprit"</item>
+        <item>"HSDPA pornit
+HSUPA pornit
+HSPA+ oprit"</item>
+        <item>"HSDPA pornit
+HSUPA pornit
+HSPA+ pornit"</item>
+    </string-array>
+    <string-array name="dcm_lpm_ref_clk_entries">
+        <item>CLOCK_104M</item>
+        <item>CLOCK_32K</item>
+    </string-array>
+    <string-array name="dcm_lpm_signal_entries">
+        <item>CONN_SRCCLKENA_ACK</item>
+        <item>CONN_SRCCLKENA</item>
+        <item>MD_SRCCLKENA</item>
+        <item>MD_SRCCLKENA_ACK</item>
+        <item>CLKSQ_OFF</item>
+        <item>INFRASYS_TOP_MTCMOS_POWER_ON</item>
+        <item>CA7_CORE0_MTCMOS_POWER_ON</item>
+        <item>CA7_CORE1_MTCMOS_POWER_ON</item>
+        <item>DCM_ALL_IDLE</item>
+        <item>MDSYS_BUS_PORT_IDLE</item>
+        <item>EMI_CONTROLLER_IDLE</item>
+        <item>EMI_BUS_SLAVE_PORT_IDLE</item>
+        <item>INFRASYS_BUS_IDLE</item>
+        <item>PERISYS_BUS_IDLE</item>
+        <item>CA7_CORE0_STANDBYWFI</item>
+        <item>CA7_CORE1_STANDBYWFI</item>
+    </string-array>
+    <string-array name="device_register_entries">
+        <item>Activați</item>
+        <item>Dezactivați</item>
+    </string-array>
+    <string-array name="lte_threshold_operation_on_off">
+        <item>Nefolosit (0)</item>
+        <item>Utilizat (1)</item>
+    </string-array>
+    <string-array name="lte_threshold_operation_and_or">
+        <item>SAU (0)</item>
+        <item>ȘI (1)</item>
+    </string-array>
+    <string-array name="lte_threshold">
+        <item>prag măsurat 2G RSSI (0~63):</item>
+        <item>curent 2G RSSI minimal (0~63):</item>
+        <item>prag măsurat 3G RSCP (0~96):</item>
+        <item>curent 3G RSCP minimal (0~96):</item>
+        <item>prag măsurat LTE RSRP (0~97):</item>
+        <item>curent LTE RSRP minimal (0~97):</item>
+        <item>prag măsurat LTE RSRQ (0~34):</item>
+        <item>curent LTE RSRQ minimal (0~34):</item>
+    </string-array>
+    <string-array name="lte_preferred_network_labels">
+        <item>Doar 2G</item>
+        <item>Doar 3G</item>
+        <item>3G și 2G</item>
+        <item>4G și 2G</item>
+        <item>Doar 4G</item>
+        <item>4G/3G</item>
+        <item>4G/3G și 2G</item>
+        <item>De preferat 3G/2G</item>
+    </string-array>
+    <string-array name="lte_network_info_labels">
+        <item>4G ERRC Misc Info</item>
+        <item>Benzi 4G LTE suportate</item>
+        <item>4G Active Intra-RAT Meas (LTE)</item>
+        <item>4G Active Inter-RAT Meas (UMTS)</item>
+        <item>4G Active Inter-RAT Meas (GSM)</item>
+        <item>4G SIB Receive Status</item>
+        <item>4G CSG Autonomous Search</item>
+        <item>4G Config Info</item>
+        <item>ESM</item>
+        <item>EMM</item>
+        <item>MMDC</item>
+        <item>EL1</item>
+        <item>TDD TAS</item>
+        <item>GSM TAS</item>
+        <item>WCDMA TAS</item>
+    </string-array>
+    <string-array name="ct_network_selection">
+        <item>Mod Global</item>
+        <item>Doar CDMA</item>
+        <item>Doar WCDMA(GSM)</item>
+    </string-array>
+    <string-array name="antenna_modes_4g">
+        <item>RX1 și RX2</item>
+        <item>RX1</item>
+        <item>RX2</item>
+    </string-array>
+    <string-array name="antenna_modes_3g">
+        <item>Selectați un mod:</item>
+        <item>RX1</item>
+        <item>RX2</item>
+        <item>RX1 și RX2</item>
+        <item>Reveniți la setările implicite</item>
+    </string-array>
+    <string-array name="band_mode_lte_fdd">
+        <item>Banda 1</item>
+        <item>Banda 2</item>
+        <item>Banda 3</item>
+        <item>Banda 4</item>
+        <item>Banda 5</item>
+        <item>Banda 6</item>
+        <item>Banda 7</item>
+        <item>Banda 8</item>
+        <item>Banda 9</item>
+        <item>Banda 10</item>
+        <item>Banda 11</item>
+        <item>Banda 12</item>
+        <item>Banda 13</item>
+        <item>Banda 14</item>
+        <item>Banda 15</item>
+        <item>Banda 16</item>
+        <item>Banda 17</item>
+        <item>Banda 18</item>
+        <item>Banda 19</item>
+        <item>Banda 20</item>
+        <item>Banda 21</item>
+        <item>Banda 22</item>
+        <item>Banda 23</item>
+        <item>Banda 24</item>
+        <item>Banda 25</item>
+        <item>Banda 26</item>
+        <item>Banda 27</item>
+        <item>Banda 28</item>
+        <item>Banda 29</item>
+        <item>Banda 30</item>
+        <item>Banda 31</item>
+        <item>Banda 32</item>
+    </string-array>
+    <string-array name="band_mode_lte_tdd">
+        <item>Banda 33</item>
+        <item>Banda 34</item>
+        <item>Banda 35</item>
+        <item>Banda 36</item>
+        <item>Banda 37</item>
+        <item>Banda 38</item>
+        <item>Banda 39</item>
+        <item>Banda 40</item>
+        <item>Banda 41</item>
+        <item>Banda 42</item>
+        <item>Banda 43</item>
+        <item>Banda 44</item>
+    </string-array>
+    <string-array name="misc_features">
+        <item>Caracteristică doar 2G</item>
+        <item>Vibrează când se răspunde la apelul efectuat</item>
+    </string-array>
+</resources>

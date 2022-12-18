@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="CFA_DEACT"/>
+    <string name="CFActivate">Activați</string>
+    <string name="CFB_ACT"/>
+    <string name="CFB_DEACT"/>
+    <string name="CFDeactivate">Dezactivați</string>
+    <string name="CFNRC_ACT"/>
+    <string name="CFNRC_DEACT"/>
+    <string name="CFNRY_ACT"/>
+    <string name="CFNRY_DEACT"/>
+    <string name="CFU_ACT"/>
+    <string name="CFU_DEACT"/>
+    <string name="CW_ACT"/>
+    <string name="CW_DEACT"/>
+    <string name="call_forwarding_settings">Setări redirecționare apeluri</string>
+    <string name="call_waiting_settings">Setări apel în așteptare</string>
+    <string name="change_num">Actualizați</string>
+    <string name="disable">Dezactivați</string>
+    <string name="enable">Activați</string>
+    <string name="labelCF">Redirecționare apel</string>
+    <string name="labelCFB">Când este ocupat</string>
+    <string name="labelCFDeactAll">Dezactivați tot</string>
+    <string name="labelCFNRc">Când este indisponibil</string>
+    <string name="labelCFNRc_cdma">redirecționare implicită</string>
+    <string name="labelCFNRy">Când nu răspunde</string>
+    <string name="labelCFU">Redirecționare permanentă</string>
+    <string name="labelCW">Apel în așteptare</string>
+    <string name="messageCFB">Număr când este ocupat</string>
+    <string name="messageCFNRc">Număr când este indisponibil</string>
+    <string name="messageCFNRy">Număr când nu răspunde</string>
+    <string name="messageCFU">Utilizați întotdeauna acest număr</string>
+    <string name="null_phone_number">Numărul de telefon nu poate fi necompletat !</string>
+    <string name="selectContact">selectare contact</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+     <string name="app_label">Furnizor căutare aplicații</string>
+     <string name="application_desc">Aplicaţie</string>
+     <string name="search_label">Aplicaţii</string>
+     <string name="settings_description">Numele aplicaţiilor instalate</string>
+</resources>

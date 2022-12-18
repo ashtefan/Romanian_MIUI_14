@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="copy_begin">
+        <item quantity="other">Se copie %1$d fișiere.</item>
+        <item quantity="one">Se copie %1$d fișier.</item>
+    </plurals>
+    <plurals name="move_begin">
+        <item quantity="other">Se mută %1$d fișiere.</item>
+        <item quantity="one">Se mută %1$d fișier.</item>
+    </plurals>
+    <plurals name="deleting">
+        <item quantity="other">Se șterg %1$d fișiere.</item>
+        <item quantity="one">Se șterge %1$d fișier.</item>
+    </plurals>
+    <plurals name="copy_error_notification_title">
+        <item quantity="other">Nu s-au putut copia %1$d fișiere</item>
+        <item quantity="one">Nu s-a putut copia %1$d fișier</item>
+    </plurals>
+    <plurals name="move_error_notification_title">
+        <item quantity="other">Nu s-au putut muta %1$d fișiere</item>
+        <item quantity="one">Nu s-a putut muta %1$d fișier</item>
+    </plurals>
+    <plurals name="delete_error_notification_title">
+        <item quantity="other">Nu s-au putut șterge %1$d fișiere</item>
+        <item quantity="one">Nu s-a putut șterge %1$d fișier</item>
+    </plurals>
+    <plurals name="clipboard_files_clipped">
+        <item quantity="other">S-au copiat %1$d fișiere în clipboard.</item>
+        <item quantity="one">S-a copiat %1$d fișier în clipboard.</item>
+    </plurals>
+    <plurals name="elements_selected">
+        <item quantity="other">%1$d selectate</item>
+        <item quantity="one">%1$d selectat</item>
+    </plurals>
+    <plurals name="elements_dragged">
+        <item quantity="other">%1$d elemente</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
+    <plurals name="delete_files_confirmation_message">
+        <item quantity="other">Ștergeți %1$d fișiere?</item>
+        <item quantity="one">Ștergeți %1$d fișier?</item>
+    </plurals>
+    <plurals name="delete_folders_confirmation_message">
+        <item quantity="other">Ștergeți %1$d dosare și conținutul lor?</item>
+        <item quantity="one">Ștergeți %1$d dosar și conținutul lui?</item>
+    </plurals>
+    <plurals name="delete_items_confirmation_message">
+        <item quantity="other">Ștergeți %1$d elemente?</item>
+        <item quantity="one">Ștergeți %1$d element?</item>
+    </plurals>
+</resources>

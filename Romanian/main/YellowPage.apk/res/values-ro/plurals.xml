@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="more_coupons_count">
+        <item quantity="other">%d cupoane</item>
+        <item quantity="one">1 cupon</item>
+    </plurals>
+    <plurals name="review_count">
+        <item quantity="other">Vizualizați %d comentarii</item>
+        <item quantity="one">Vizualizați 1 comentariu</item>
+    </plurals>
+</resources>

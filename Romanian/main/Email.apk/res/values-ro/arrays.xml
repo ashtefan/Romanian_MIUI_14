@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_chars">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+        <item>∅</item>
+    </string-array>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>La noapte</item>
+        <item>Mâine</item>
+        <item>În weekend</item>
+        <item>Săptămâna viitoare</item>
+        <item>Luna viitoare</item>
+        <item>Alegeți o dată</item>
+    </string-array>
+    <string-array name="error_message_respond">
+        <item>AUTENTIFICARE Eroare de conectare sau eroare de parolă</item>
+        <item>AUTENTIFICARE Eroare de conectare Eroare de parolă</item>
+        <item>Nume de utilizator sau parolă de conectare nevalide</item>
+        <item>Eroare de AUTENTIFICARE, nume de utilizator/parolă nevalide</item>
+        <item>Eroare de AUTENTIFICARE:1424, contul nu există (md return:2100001)</item>
+        <item>ERR.LOGIN.DOMAINNOTEXIST</item>
+        <item>Vă rugăm să utilizați codul autorizat pentru a vă autentifica. Mai multe informații la https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>Codul autorizat este incorect. Mai multe informații la https://service.mail.qq.com/cgi-bin/help?subtype=1&amp;&amp;no=1001607&amp;&amp;id=28</item>
+        <item>AUTENTIFICARE Eroare de conectare utilizator suspendat</item>
+        <item>Eroare de AUTENTIFICARE, 楠岃瘉澶辫触锛\ufffd</item>
+        <item>Eroare de AUTENTIFICARE:1423, eroare parolă utilizator (sp return:2200019)</item>
+        <item>AUTHENTICATIONFAILED LOGIN Acreditări nevalide</item>
+        <item>Conectare eșuată. Parola este incorectă sau serviciul nu este deschis</item>
+        <item>AUTENTIFICARE imap4 nosupport</item>
+        <item>Eroare de AUTENTIFICARE:1328, imap personalizat dezactivat</item>
+        <item>AUTENTIFICARE Eroare de conectare utilizator suspendat</item>
+        <item>AUTENTIFICARE utilizator pe lista neagră</item>
+        <item>AUTENTIFICAREA a eșuat. Contul este blocat. Conectați-vă la contul dvs. printr-un browser web pentru a vă verifica identitatea.</item>
+        <item>AUTENTIFICARE utilizator pe lista neagră</item>
+        <item>Eroare de AUTENTIFICARE:1412 stare=51 Parola nu a fost schimbată de mult timp. Vă rugăm să modificați parola. http://mail.10086.cn</item>
+        <item>AUTENTIFICARE imap4 nosupport</item>
+        <item>AUTENTIFICAREA a eșuat. Contul este blocat. Conectați-vă la contul dvs. printr-un browser web pentru a vă verifica identitatea.</item>
+        <item>EROARE Nume de utilizator sau parolă de conectare nevalide</item>
+        <item>Autentificarea eșuează. Vă rugăm să utilizați parola aplicației pentru a vă autentifica. Mai multe informații la http://service.exmail.qq.com/cgi-bin/help?subtype=1&amp;&amp;id=10000&amp;&amp;no=1001494</item>
+        <item>EROARE pop3 personalizat dezactivat</item>
+        <item>AUTENTIFICARE Eroare de conectare eroare nume de utilizator sau parolă</item>
+        <item>nume utilizator sau parolă incorecte</item>
+        <item>în lista neagră, vă rugăm să vă schimbați rețeaua sau să vă conectați la https://mail.sohu.com pentru a configura lista albă de ip client</item>
+        <item>java.net.UnknownHostException: Nu se poate rezolva gazda</item>
+        <item>client dezactivat, vă rugăm să schimbați starea pe site https://mail.sohu.com</item>
+        <item>fără parolă inițială, vă rugăm să vă conectați la https://mail.sohu.com pentru a genera parola client</item>
+    </string-array>
+    <string-array name="invoice_card_pdf_keyword">
+        <item>发票</item>
+        <item>factură</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Recent vizualizate</item>
+        <item>Format</item>
+        <item>Nume</item>
+        <item>Expeditor</item>
+        <item>Data recepţionării</item>
+    </string-array>
+    <string-array name="prefEntries_contact_add">
+        <item>Toți</item>
+        <item>Doar expeditorii</item>
+    </string-array>
+    <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Site:</item>
+        <item>E-mail:</item>
+        <item>mobil:</item>
+        <item>Telefon:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-mail:</item>
+        <item>Tel:</item>
+        <item>Fax:</item>
+        <item>Mail:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Adresă:</item>
+        <item>Tel:</item>
+        <item>Nume:</item>
+        <item>E-mail:</item>
+        <item>Mobil:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Cod poştal:</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Act de renunțare:</item>
+        <item>Act de renunțare e-mail</item>
+        <item>Trimis prin WPSMail</item>
+        <item>Trimis de la</item>
+        <item>Trimis cu</item>
+        <item>Mulţumesc,</item>
+        <item>Salutări</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Mulţumesc,</item>
+        <item>Salutări</item>
+        <item>Trimis de pe al meu</item>
+        <item>E-mail original</item>
+        <item>Trimis de pe al meu</item>
+        <item>Trimis de la</item>
+        <item>De la</item>
+        <item>Acest e-mail</item>
+        <item>Act de renunțare</item>
+        <item>Act de renunțare e-mail</item>
+    </string-array>
+</resources>

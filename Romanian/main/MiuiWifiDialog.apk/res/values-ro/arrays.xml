@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_16384_carrier_overrides">
+        <item>:::1839:::%1$s : A apărut o problemă la conectarea la Verizon Wi-Fi Access din cauza erorii 16384.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_16385_carrier_overrides">
+        <item>:::1839:::%1$s : A apărut o problemă la conectarea la Verizon Wi-Fi Access din cauza erorii 16385.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32756_carrier_overrides">
+        <item>:::1839:::</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32760_carrier_overrides">
+        <item>:::1839:::%1$s : Nu vă puteți conecta la Verizon Wi-Fi Access din afara zonei de acoperire Verizon. (Eroare = 32760)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32761_carrier_overrides">
+        <item>:::1839:::%1$s : Nu sunteți abonat la Verizon Wi-Fi Access. Vă rugăm să ne sunați la 800-922-0204. (Eroare = 32761)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32762_carrier_overrides">
+        <item>:::1839:::%1$s : Există o problemă cu contul dvs. Verizon Wi-Fi Access. Vă rugăm să ne sunați la 800-922-0204. (Eroare = 32762)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32763_carrier_overrides">
+        <item>:::1839:::%1$s : Sunteți deja conectat la Verizon Wi-Fi Access. (Eroare = 32763)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32764_carrier_overrides">
+        <item>:::1839:::%1$s : A apărut o problemă la conectarea la Verizon Wi-Fi Access. Vă rugăm să ne sunați la 800-922-0204. (Eroare = 32764)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32765_carrier_overrides">
+        <item>:::1839:::%1$s : Există o problemă cu contul dvs. Verizon Wi-Fi Access. Vă rugăm să ne sunați la 800-922-0204. (Eroare = 32765)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32766_carrier_overrides">
+        <item>:::1839:::%1$s : Accesul Wi-Fi Verizon nu este disponibil din locația dvs. Încercați din nou mai târziu sau încercați dintr-o altă locație. (Eroare = 32766)</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_code_32767_carrier_overrides">
+        <item>:::1839:::%1$s : A apărut o problemă la conectarea la Verizon Wi-Fi Access. Încercați din nou mai târziu sau încercați dintr-o altă locație.</item>
+    </string-array>
+    <string-array name="wifi_eap_error_message_unknown_error_code_carrier_overrides">
+        <item>:::1839:::%1$s : A apărut o problemă la conectarea la Verizon Wi-Fi Access.</item>
+    </string-array>
+</resources>

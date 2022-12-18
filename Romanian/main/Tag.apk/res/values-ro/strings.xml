@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_call">Apelați %s</string>
+    <string name="action_text">Trimiteți un mesaj text către %s</string>
+    <string name="app_name">Etichete</string>
+    <string name="button_done">Finalizat</string>
+    <string name="call_phone_permission_denied">Această aplicație trebuie să poată accesa aplicația de Telefon pentru a putea realiza apeluri. Puteți gestiona permisiunile aplicației Tag din Setări</string>
+    <string name="empty_tag_prompt">Această etichetă nu are conținut.</string>
+    <string name="external_storage_permission_denied">Această aplicație trebuie să aibă permisiunea de a accesa Stocarea Externă pentru a putea accesa fișierele. Puteți gestiona permisiunile aplicației Tag din Setări</string>
+    <string name="import_vcard">Importați ^1</string>
+    <string name="mime_display_name">Date din eticheta NFC</string>
+    <string name="tag_empty">Etichetă fără conținut</string>
+    <string name="tag_unknown">Tip de etichetă necunoscut</string>
+    <string name="title_existing_tag">Etichetă</string>
+    <string name="title_scanned_tag">Etichetă nouă colectată</string>
+    <string name="vcard_title">Informații de contact pentru ^1</string>
+</resources>

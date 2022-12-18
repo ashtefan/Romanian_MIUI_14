@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="alert_dialog_cancel">Renunțare</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_two_buttons_message">Telefonul trebuie să se răcească cât mai rapid!</string>
+    <string name="alert_dialog_two_buttons_title">Alertă de temperatură crescută!</string>
+    <string name="app_name">Manager de temperatură MTK</string>
+    <string name="apply_new_thermal_policy">Aplicați noua politică referitoare la temperatură</string>
+    <string name="coolers">Răcitoare</string>
+    <string name="thermal_logger">Înregistrări ale temperaturii</string>
+    <string name="thermal_policy_file_colon">"Fișierul pentru politica referitoare la temperatură: "</string>
+    <string name="thermal_protection">Protecție termică</string>
+    <string name="thermal_sensors">Senzori de temperatură</string>
+    <string name="tz_device_info">Informații TZ Dispozitiv</string>
+</resources>

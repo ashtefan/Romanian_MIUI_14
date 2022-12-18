@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_settings">Setări</string>
+  <string name="app_name">Serviciul de printare vocală</string>
+  <string name="hello_world">Salutare lume!</string>
+</resources>

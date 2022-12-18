@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ai_scene_names">
+        <item>nimic</item>
+        <item>document</item>
+        <item>floare</item>
+        <item>mâncare</item>
+        <item>ppt</item>
+        <item>cer</item>
+        <item>apus_răsărit</item>
+        <item>pisică</item>
+        <item>câine</item>
+        <item>plante verzi</item>
+        <item>noapte</item>
+        <item>ninsoare</item>
+        <item>ocean</item>
+        <item>toamnă</item>
+        <item>lumânare</item>
+        <item>mașină</item>
+        <item>iarbă</item>
+        <item>frunză de arțar</item>
+        <item>suculent</item>
+        <item>clădire</item>
+        <item>oraș</item>
+        <item>înnorat</item>
+        <item>acoperit de nori</item>
+        <item>portret iluminat din spate</item>
+        <item>siluetă</item>
+        <item>portret</item>
+        <item>bijuterii</item>
+        <item>buddha</item>
+        <item>vacă</item>
+        <item>curry</item>
+        <item>motocicletă</item>
+        <item>templu</item>
+        <item>plajă</item>
+        <item>subacvatic</item>
+        <item>turn</item>
+        <item>lună</item>
+        <item>fotografie de grup</item>
+        <item>statuie</item>
+        <item>id_card</item>
+    </string-array>
+    <string-array name="live_filter_directory_name">
+        <item></item>
+        <item>LIVE-FAIR</item>
+        <item>LIVE-MOUSSE</item>
+        <item>LIVE-SOLAR</item>
+        <item>LIVE-BLUE</item>
+        <item>LIVE-CONTRAST</item>
+        <item>LIVE-YEARS</item>
+        <item>LIVE-DEEPBLACK</item>
+    </string-array>
+    <string-array name="pref_video_hfr_entries">
+        <item>720p, 120fps</item>
+        <item>1080p, 120fps</item>
+        <item>720p, 240fps</item>
+        <item>1080p, 240fps</item>
+    </string-array>
+</resources>

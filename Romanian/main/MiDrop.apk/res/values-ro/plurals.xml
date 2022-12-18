@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sender_file_num">
+        <item quantity="other">Se așteaptă %1$d fișiere…</item>
+        <item quantity="one">Se așteaptă %1$d fișier…</item>
+    </plurals>
+    <plurals name="receiver_file_num">
+        <item quantity="other">%2$d fișiere de la %1$s</item>
+        <item quantity="one">%2$d fișier de la %1$s</item>
+    </plurals>
+    <plurals name="receiver_file_current">
+        <item quantity="other">Se primesc %2$d fișiere de la %1$s…</item>
+        <item quantity="one">Se primește %2$d fișier de la %1$s…</item>
+    </plurals>
+    <plurals name="receiver_pic_file_num">
+        <item quantity="other">%2$d imagini de la %1$s</item>
+        <item quantity="one">%2$d imagine de la %1$s</item>
+    </plurals>
+    <plurals name="receiver_pic_file_current">
+        <item quantity="other">Se primesc %2$d imagini de la %1$s…</item>
+        <item quantity="one">Se primește %2$d imagine de la %1$s…</item>
+    </plurals>
+    <plurals name="receiver_audio_file_num">
+        <item quantity="other">%2$d melodii de la %1$s</item>
+        <item quantity="one">%2$d melodie de la %1$s</item>
+    </plurals>
+    <plurals name="receiver_audio_file_current">
+        <item quantity="other">Se primesc %2$d melodii de la %1$s…</item>
+        <item quantity="one">Se primește %2$d melodie de la %1$s…</item>
+    </plurals>
+    <plurals name="receiver_video_file_num">
+        <item quantity="other">%2$d videclipuri de la %1$s</item>
+        <item quantity="one">%2$d videoclip de la %1$s</item>
+    </plurals>
+    <plurals name="receiver_video_file_current">
+        <item quantity="other">Se primesc %2$d videoclipuri de la %1$s…</item>
+        <item quantity="one">Se primește %2$d videoclip de la %1$s…</item>
+    </plurals>
+    <plurals name="receiver_apk_file_num">
+        <item quantity="other">%2$d aplicații de la %1$s</item>
+        <item quantity="one">%2$d aplicație de la %1$s</item>
+    </plurals>
+    <plurals name="receiver_apk_file_current">
+        <item quantity="other">Se primesc %2$d aplicații de la %1$s…</item>
+        <item quantity="one">Se primește %2$d aplicație de la %1$s…</item>
+    </plurals>
+    <plurals name="notif_receive_progress">
+        <item quantity="other">Se primesc %1$s fișiere…</item>
+        <item quantity="one">Se primește %1$s fișier…</item>
+    </plurals>
+    <plurals name="notif_receive_cancel">
+        <item quantity="other">Transferul de la %1$s a fost întrerupt</item>
+        <item quantity="one">Transferul de la %1$s a fost întrerupt</item>
+    </plurals>
+    <plurals name="notif_receive_success">
+        <item quantity="other">S-au primit %1$s fișiere</item>
+        <item quantity="one">S-a primit %1$s fișier</item>
+    </plurals>
+</resources>

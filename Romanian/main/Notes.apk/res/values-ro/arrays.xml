@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>Cameră</item>
+        <item>Galerie</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Nume</item>
+        <item>Pseudonim</item>
+        <item>Telefon</item>
+        <item>E-mail</item>
+        <item>Companie</item>
+        <item>IM</item>
+        <item>Telefon SIP</item>
+        <item>Zi de naştere</item>
+        <item>Site web</item>
+        <item>Adresă</item>
+        <item>Notă</item>
+    </string-array>
+    <string-array name="first_guide_contents">
+        <item>Bine ați venit în aplicația de Notițe!</item>
+        <item>Luați notițe</item>
+        <item>Puteți utiliza text, imagini și înregistrări vocale în notițele dumneavoastră. O librărie bogată de stiluri și fonturi va face ca ceea ce notați să arate extraordinar.</item>
+        <item>Listele de verificare și memento-urile vă ajută atunci când vă planificați următoarea călătorie sau atunci când întocmiți o listă de cumpărături.</item>
+        <item>Partajați notițele</item>
+        <item>Puteți crea capturi de ecran derulante în mod automat și apoi le puteți partaja prietenilor.</item>
+        <item>Creați și navigați printre dosare</item>
+        <item>Atingeți săgeata de mai jos pentru a crea un dosar nou sau a naviga printre cele existente.</item>
+    </string-array>
+    <string-array name="folder_operations">
+        <item>Redenumiți</item>
+        <item>Ștergeți</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Mic</item>
+        <item>Mediu</item>
+        <item>Mare</item>
+        <item>Foarte mare</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>După data creării</item>
+        <item>După data ultimei modificări</item>
+    </string-array>
+    <string-array name="second_guide_contents">
+        <item>Notițe vocale</item>
+        <item>Creați notițe utilizând motorul nostru integrat de recunoaștere vocală și atașați înregistrările vocale notițelor dvs.</item>
+    </string-array>
+    <string-array name="second_guide_contents_pad_or_inter">
+        <item>Notițe vocale</item>
+        <item>Acum puteți crea notițe vocale. Doar apăsați pictograma, înregistrați vocea și salvați fișierul audio în cadrul notiței.</item>
+    </string-array>
+</resources>

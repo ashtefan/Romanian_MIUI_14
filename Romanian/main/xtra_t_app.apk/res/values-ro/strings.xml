@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="IZAT_AGREE">De acord</string>
+  <string name="IZAT_DISAGREE">Nu sunt de acord</string>
+  <string name="IZat_MENU_TEXT">Localizare accelerată</string>
+  <string name="IZat_SUB_TITLE_TEXT">Utilizați localizarea hardware accelerată Qualcomm® IZat™</string>
+  <string name="POLICY_LINK">&lt;a href=\"http://xt.qsp.qualcomm.com/privacy/privacy_policy.html\"&gt;Termenii și Politica de Confidențialitate&lt;/a&gt;</string>
+  <string name="POPUP_BOX_TEXT">Pentru a activa accelerarea hardware, permiteți IZat să colecteze date despre locație. IZat stochează unele date pe dispozitivul dumneavoastră și poate opera chiar dacă nu rulează nicio aplicație.</string>
+  <string name="POPUP_BOX_TITLE">Consimțământ locație</string>
+  <string name="XT_APP_TITLE">Qualcomm IZat</string>
+  <string name="setup_wizard_back_button_label">Înapoi</string>
+  <string name="setup_wizard_next_button_label">Următorul</string>
+  <string name="suw_back_button_label">Înapoi</string>
+  <string name="suw_more_button_label">Mai multe</string>
+  <string name="suw_next_button_label">Următorul</string>
+</resources>

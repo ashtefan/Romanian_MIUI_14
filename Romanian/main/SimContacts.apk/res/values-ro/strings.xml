@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="account_phone">TELEFON</string>
+    <string name="account_sim">Cartelă SIM</string>
+    <string name="app_name">Contacte SIM</string>
+</resources>

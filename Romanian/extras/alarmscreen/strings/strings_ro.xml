@@ -1,0 +1,4 @@
+<strings>
+    <string name="slider_text" value="Glisaţi spre stânga pentru a închide" />
+    <string name="snooze_message" value="Amânaţi pentru %d minute" />
+</strings>
