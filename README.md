@@ -1,2 +1,2 @@
-# Romanian_MIUI_13
-Traducere în limba română pentru MIUI v13 realizată de Adi ȘTEFAN(ashtefan)
+# Romanian_MIUI_14
+Traducere în limba română pentru MIUI v14 realizată de Adi ȘTEFAN(ashtefan)
