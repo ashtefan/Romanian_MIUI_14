@@ -14,6 +14,10 @@
         <item>Selectați imaginea</item>
         <item>Fundal transparent</item>
     </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Bărbat</item>
+        <item>Femeie</item>
+    </string-array>
     <string-array name="activities_title">
         <item>Zi specială</item>
         <item>O zi memorabilă</item>

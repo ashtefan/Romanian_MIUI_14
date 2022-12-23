@@ -80,6 +80,14 @@
         <item quantity="other">Se restaurează %d fișiere</item>
         <item quantity="one">Se restaurează %d fișier</item>
     </plurals>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">S-a făcut copie de rezervă pentru %d aplicații</item>
+        <item quantity="one">S-a făcut copie de rezervă pentru %d aplicație</item>
+    </plurals>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">S-au restaurat %d aplicații</item>
+        <item quantity="one">S-a restaurat %d aplicație</item>
+    </plurals>
     <plurals name="session_time_remain">
         <item quantity="other">Circa %s minute rămase</item>
         <item quantity="one">Circa %s minut rămas</item>

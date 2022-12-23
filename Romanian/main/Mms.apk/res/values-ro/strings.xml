@@ -565,6 +565,7 @@ Verificați cartela SIM."</string>
 Este posibil ca acest mesaj să nu fie solicitat."</string>
     <string name="mms_block_hint_highlight">Blocare MMS</string>
     <string name="mms_main_purpose">"Pentru a obține acces deplin la funcționalitatea aplicației de Mesagerie, activați Mesageria Mi și Mesageria Inteligentă."</string>
+    <string name="mms_main_purpose_new">Această aplicație trebuie să se conecteze la internet pentru a vă oferi servicii de bază. Vă recomandăm să activați serviciile Mi Message și Smart Messaging.</string>
     <string name="mms_mi_message_main_purpose">Bun venit la Mesageria Mi! Este necesar un mesaj SMS de ieșire pentru a activa Mesageria Mi. Operatorul dvs. vă va taxa pentru acest mesaj.</string>
     <string name="mms_mi_message_request_notice">Vrem să profitați la maximum de Mesageria Mi.</string>
     <string name="mms_mx_privacy_policy">Politica de confidențialitate a Mesageriei Mi</string>
@@ -1303,6 +1304,7 @@ Aruncați o privire peste recomandări!"</string>
     <string name="system_permission_declare_agree">De acord</string>
     <string name="system_permission_declare_disagree">Renunțați</string>
     <string name="system_permission_declare_double_link" formatted="false">Citiți și acceptați %1s și %2s înainte de a utiliza această caracteristică.</string>
+    <string name="system_permission_declare_exit">Ieșiți</string>
     <string name="system_permission_declare_main_purpose" formatted="false">Bine ați venit la %1s! %2s</string>
     <string name="system_permission_declare_no_say_no">"Vă vom proteja informațiile personale în concordanță cu legile, regulamentele și politicile de confidențialitate relevante.
 Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să încărcați datele personale, nu veți putea utiliza această aplicație."</string>
@@ -1447,6 +1449,7 @@ Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să
     <string name="voice_report_anytime">Întotdeauna</string>
     <string name="voice_report_off">Oprit</string>
     <string name="voice_report_wiredon">Prin căști</string>
+    <string name="wait_for_sp_mark_as_read">Doar o secundă…</string>
     <string name="wap_push_title">"[WAP Push] "</string>
     <string name="warning_show">Trimitere în %ds</string>
     <string name="web_content_invalid_hint">Afișarea acestui articol este restricționată de legile și reglementările locale</string>

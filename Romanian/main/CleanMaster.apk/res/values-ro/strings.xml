@@ -257,6 +257,7 @@
     <string name="conn_of_function_safe">Conexiune la rețea</string>
     <string name="connecting">Conectare…</string>
     <string name="copy">Copiați</string>
+    <string name="copy_toast_msg">Link copiat în clipboard</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="dc_activity_title">Curățare profundă</string>
@@ -371,6 +372,9 @@
     <string name="facebook_group_gif">GIF-uri</string>
     <string name="facebook_group_image">Imagini</string>
     <string name="facebook_group_video">Videoclipuri</string>
+    <string name="fallback_menu_item_copy_link">Copiați link-ul</string>
+    <string name="fallback_menu_item_open_in_browser">Deschideți în browser</string>
+    <string name="fallback_menu_item_share_link">Partajați link-ul</string>
     <string name="file">Fișiere</string>
     <string name="file_not_found">Fișier negăsit</string>
     <string name="flow_rank_title">Utilizare date</string>

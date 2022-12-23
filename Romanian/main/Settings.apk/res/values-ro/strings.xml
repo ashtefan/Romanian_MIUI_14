@@ -2234,6 +2234,7 @@ Acest lucru afectează alte aplicații sau conversații în care ați activat an
     <string name="common_issue">Întrebări frecvente</string>
     <string name="common_settings">Setări rapide</string>
     <string name="complete_parameters">Specificații complete</string>
+    <string name="complete_parameters_new">Informații și specificații detaliate</string>
     <string name="complete_settings">Toate setările</string>
     <string name="computer_backup_summary">Faceți copii de rezervă și restaurați elementele folosind un computer</string>
     <string name="computer_backup_title">Computer</string>
@@ -2557,6 +2558,7 @@ Pentru a relua utilizarea telefonului, trebuie să efectuaţi o resetare la valo
     <string name="dark_ui_title">Mod Întunecat</string>
     <string name="dark_wallpaper_mode">Ajustați imaginea de fundal la modul Întunecat</string>
     <string name="dashboard_title">Setări</string>
+    <string name="data_acceleration_summery">Utilizați atât Wi-Fi-ul cât și datele mobile pentru a crește viteza atunci când conexiunea Wi-Fi este slabă</string>
     <string name="data_connection_3_5g">H</string>
     <string name="data_connection_3_5g_plus">H+</string>
     <string name="data_connection_3g">3G</string>
@@ -2729,6 +2731,7 @@ Acest lucru afectează toți utilizatorii acestui dispozitiv."</string>
     <string name="dc_light_summary_new">Atenuarea continuă previne pâlpâirea extinsă și reduce oboseala ochilor în condiții de lumină slabă. Cu toate acestea, calitatea imaginii poate fi afectată atunci când această funcție este activată.</string>
     <string name="dc_light_title">Mod Anti-pâlpâire</string>
     <string name="dclight_unavailable_prompt">Modul anti-pâlpâire este acceptat doar de ecranul exterior</string>
+    <string name="dds_preference_smart_dds_switch_is_on">Comutatorul inteligent DDS este activat</string>
     <string name="debug_app">Selectaţi aplicaţia de depanare</string>
     <string name="debug_app_not_set">Nu aţi setat o aplicaţie de depanare</string>
     <string name="debug_app_set">Aplicaţie de depanare: %1$s</string>
@@ -3218,6 +3221,7 @@ Puteți vizualiza rapoartele generate în Managerul de Fișiere."</string>
     <string name="emergency_info_contextual_card_summary">Informații medicale, contacte de urgență</string>
     <string name="emergency_info_summary">Informații și contacte pentru %1$s</string>
     <string name="emergency_info_title">Informații de urgență</string>
+    <string name="emergency_settings_preference_title">Siguranță și urgență</string>
     <string name="emergency_sos_title">Mesaj SOS</string>
     <string name="emergency_tone_alert">Alertă</string>
     <string name="emergency_tone_silent">Silențios</string>
@@ -3225,6 +3229,7 @@ Puteți vizualiza rapoartele generate în Managerul de Fișiere."</string>
     <string name="emergency_tone_title">Ton de urgenţă</string>
     <string name="emergency_tone_vibrate">Vibrații</string>
     <string name="empty_networks_list">Nu s-a găsit nicio rețea.</string>
+    <string name="emulate_sd_data">Date emulate ale cardului SD</string>
     <string name="enableNetwork">activare rețea</string>
     <string name="enable_2g_summary">2G este mai puțin sigur, dar vă poate îmbunătăți conexiunea în unele locații. Pentru apelurile de urgență, 2G este întotdeauna permis.</string>
     <string name="enable_2g_summary_disabled_carrier">%1$s necesită ca 2G să fie disponibil</string>
@@ -3258,6 +3263,7 @@ Puteți vizualiza rapoartele generate în Managerul de Fișiere."</string>
     <string name="enable_sizecompat_freeform">Forțați permisiunea redimensionării ferestrelor</string>
     <string name="enable_sizecompat_freeform_summary">Permiteți aplicațiilor cu restricții de compatibilitate să ruleze în ferestre redimensionabile</string>
     <string name="enable_snapshot_screenlock">Apăsați lung butonul Înapoi pentru a realiza o fotografie</string>
+    <string name="enable_snpn">Activați SNPN</string>
     <string name="enable_terminal_summary">Activați aplicația terminal care oferă acces la shell local</string>
     <string name="enable_terminal_title">Aplicație terminal locală</string>
     <string name="enable_text">Activaţi</string>
@@ -4072,6 +4078,11 @@ Zona în care puteți confirma blocarea ecranului se va muta la dreapta."</strin
     <string name="handy_mode_tips_full_screen">"Atunci când utilizați gesturi pe ecranul complet, puteți activa modul Utilizare cu o mână utilizând Asistentul de ecran. Puteți de asemenea comuta la utilizarea butoanelor în locul gesturilor pe ecran complet."</string>
     <string name="haptic_agent_completion_01_content_description">Sarcină finalizată</string>
     <string name="haptic_cursor_movement_07_content_description">Reglarea luminozității</string>
+    <string name="haptic_descripthion_for_max_level">Puternic</string>
+    <string name="haptic_descripthion_for_middle_level">Implicit</string>
+    <string name="haptic_descripthion_for_min_level">Ușor</string>
+    <string name="haptic_experience">Demo</string>
+    <string name="haptic_experience_details">Feedback tactil și accesibilitate</string>
     <string name="haptic_feedback_enable_title">Vibrare la atingere</string>
     <string name="haptic_feedback_level">Intensitate vibrare</string>
     <string name="haptic_feedback_progress">Nivel feedback tactil</string>
@@ -4243,6 +4254,7 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="imitate_real_keyboard_summary">Convenabil atunci când dispozitivul este întins pe o suprafață plană</string>
     <string name="immediately_destroy_activities">Nu păstra activităţile</string>
     <string name="immediately_destroy_activities_summary">Opreşte orice activitate de îndată ce utilizatorul o părăseşte</string>
+    <string name="immersive_audio_sources">Audio imersiv</string>
     <string name="importance_default">Implicit</string>
     <string name="importance_high">Ridicată</string>
     <string name="importance_low">Redusă</string>
@@ -4596,6 +4608,7 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="keywords_wifi_notify_open_networks">notificare Wi-Fi, notificare wifi</string>
     <string name="keywords_write_settings">modificare setări de sistem</string>
     <string name="keywords_zen_mode_settings">Nu deranjați, program, notificări, blocare, silențios, vibrații, somn, servici, focusat, sunet, mut, zi, zi lucrătoare, weekend, weeknight, eveniment</string>
+    <string name="kid_space_forbidden_set_unlock_password_msg">Nu se poate seta sau modifica parola în Spațiul pentru copii</string>
     <string name="kid_space_settings">Spațiul de lucru al Copilului</string>
     <string name="kilobyteShort">KB</string>
     <string name="kilobyte_per_second">KB/s</string>
@@ -4675,6 +4688,7 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="legacy_control_center_title">Versiunea veche</string>
     <string name="legacy_navigation_summary">Reveniți, navigați Acasă și comutați aplicațiile cu ajutorul butoanelor din partea de jos a ecranului.</string>
     <string name="legacy_navigation_title">Navigare cu 3 butoane</string>
+    <string name="legacy_power_menu">Meniu de pornire moștenit</string>
     <string name="legal_information">Informaţii de ordin juridic</string>
     <string name="legal_workday">Zile lucrătoare legale</string>
     <string name="legal_workday_invalidate">Lu-Vi (informaţiile despre sărbători au expirat)</string>
@@ -4696,6 +4710,7 @@ Accesați Xiaomi Cloud și restaurați elementele de acolo."</string>
     <string name="link_turbo_usage_state_today_total">Astăzi</string>
     <string name="list_bg_header_text">"Dacă restricționați conectarea în fundal, noile aplicații nu se vor putea conecta la internet în fundal după ce le veți instala. Este posibil ca acestea să nu poată primi mesaje sau să descarce conținut după aceasta."</string>
     <string name="list_empty_text">Gol</string>
+    <string name="lite_font_weight_title">Grosimea fontului</string>
     <string name="live_caption_summary">Captare multimedia în mod automat</string>
     <string name="live_caption_title">Captare Live</string>
     <string name="load_networks_progress">Căutare…</string>
@@ -5530,6 +5545,8 @@ Continuați pentru a accesa setările adiționale."</string>
     <string name="miui_special_feature">Funcții speciale</string>
     <string name="miui_touch_filtered_touchassistant_warning">Căsuța de dialog pentru permisiuni este acoperită de Asistentul de ecran. Mutați Asistentul de ecran sau dezactivați această funcție.</string>
     <string name="miui_touch_filtered_warning">Dacă o aplicație blochează fereastra de dialog cu permisiuni, trageți elementul deoparte sau închideți aplicația.</string>
+    <string name="miui_type_style_summary">Stilul de tastare aplicat când Cititorul de ecran este activat</string>
+    <string name="miui_type_style_title">Stil de tastare</string>
     <string name="miui_updater">Actualizare de sistem</string>
     <string name="miui_userguide">Ghidul utilizatorului</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
@@ -5675,6 +5692,7 @@ Comutarea la %1$s nu va anula serviciul %2$s."</string>
     <string name="more_account_settings_title">Alte conturi</string>
     <string name="more_dangerous_option_hint">Sunt activate funcții cu risc ridicat, printre care și \"%1$s\". Atingeți pentru a modifica setările.</string>
     <string name="more_dark_mode_settings">Mai multe opțiuni pentru Modul întunecat</string>
+    <string name="more_font_pref_title">Mai multe Fonturi</string>
     <string name="more_installed_services_title">Mai multe servicii descărcate</string>
     <string name="more_settings_button">Mai multe setări</string>
     <string name="morning">Dimineață</string>
@@ -5789,6 +5807,7 @@ Selectaţi sistemul de operare:"</string>
     <string name="multi_face_name_prefix">"Chip "</string>
     <string name="multi_face_number_reach_limit">Nu se pot adăuga mai mult de 2 chipuri</string>
     <string name="multi_network_acceleration_app_settings">Accelerare viteză de rețea pentru aplicații</string>
+    <string name="multi_network_acceleration_summery">Conectați-vă la mai multe rețele Wi-Fi în același timp pentru a crește viteza</string>
     <string name="multi_touch_points_category_title">Puncte multi-touch</string>
     <string name="multi_touch_points_preference">Reporniţi pentru a activa</string>
     <string name="multi_window_cvw_summary">Trageți colțul pentru a comuta la o fereastră plutitoare și ajustați dimensiunea acesteia</string>
@@ -5914,12 +5933,15 @@ Selectaţi sistemul de operare:"</string>
     <string name="network_4G">4G (recomandat)</string>
     <string name="network_4G_pure">4G</string>
     <string name="network_5G_recommended">5G (recoandat)</string>
+    <string name="network_acceleration">Accelararea rețelei</string>
     <string name="network_alarm">Nu redu la tăcere apelurile prin internet</string>
     <string name="network_alarm_summary">Notă: Unele aplicații nu sunt compatibile cu această funcție. %1$s</string>
     <string name="network_alarm_summary_reg">Vedeți aplicațiile suportate</string>
     <string name="network_alarm_support_apps">Aplicații suportate</string>
     <string name="network_and_internet_preferences_title">Preferințe de rețea</string>
     <string name="network_assistant">Utilizare date</string>
+    <string name="network_auto_switch">Comutați între rețele</string>
+    <string name="network_auto_switch_summery">Treceți la date mobile când semnalul Wi-Fi este slab sau când rețeaua nu este disponibilă</string>
     <string name="network_changed_noti_summary">Se utilizează datele mobile</string>
     <string name="network_changed_noti_title">Deconectat de la Wi-Fi</string>
     <string name="network_changed_notification_text">Rețeaua dvs. mobilă s-a schimbat</string>
@@ -8418,6 +8440,7 @@ Atingeți de două ori pentru a deschide Recente.</string>
     <string name="solar_term_white_dews">Rouă</string>
     <string name="solar_term_winter_begins">Începutul iernii</string>
     <string name="solar_term_winter_solstice">Solstițiul de iarnă</string>
+    <string name="solid_text">Utilizează feedback tactil de joasă frecvență și tranzițiile vizuale corespunzătoare pentru a crea o experiență gestuală solidă și puternică</string>
     <string name="sometimes_running">Utilizată uneori (%s)</string>
     <string name="sort_avg_use">Sortați după media utilizării</string>
     <string name="sort_max_use">Sortați după utilizarea maximă</string>
@@ -8927,6 +8950,7 @@ Aplicațiile stocate pe acest ^2 pot să nu funcționeze în mod normal, iar tra
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
+    <string name="sunlight_low_power_notification">Nu se poate activa modul Răsărit. Nivelul acumulatorului este prea scăzut.</string>
     <string name="sunlight_mode">Mod Răsărit</string>
     <string name="sunlight_mode_summary">Ajustează iluminarea la lumina ambientală puternică când iluminarea automată este oprită</string>
     <string name="super_resolution_access_title">Aplicații accesibile</string>
@@ -10031,10 +10055,10 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="wallpaper_settings_title">Imagine de fundal</string>
     <string name="wallpaper_suggestion_summary">Personalizați-vă ecranul</string>
     <string name="wallpaper_suggestion_title">Modificare imagine de ecran</string>
-    <string name="wapi_all_sel_mode">Selectați</string>
+    <string name="wapi_all_sel_mode">Selectați modul</string>
     <string name="wapi_auto_sel_cert">Selectați în mod automat</string>
     <string name="wapi_auto_sel_cert_fail">Nu se pot selecta certificatele în mod automat. Selectați un certificat din listă și apoi încercați să vă conectați.</string>
-    <string name="wapi_cert_is_not_exist">Niciun certificat disponibil. Adăugați un certificat mai întâi.</string>
+    <string name="wapi_cert_is_not_exist">Niciun certificat disponibil. Instalați un certificat mai întâi.</string>
     <string name="wapi_cert_is_not_selected">Selectați certificatul mai întâi</string>
     <string name="wapi_cert_manage_error">Nu s-a putut seta certificatul WAPI.</string>
     <string name="wapi_cert_manage_summary">Adăugați sau ștergeți certificatul WAPI</string>
@@ -10044,7 +10068,7 @@ Atingeți butonul (+) pentru a adăuga cuvinte"</string>
     <string name="wapi_no">Nu</string>
     <string name="wapi_no_vaild_cert">Se pare că certificatele necesare nu sunt instalate. Le instalați acum?</string>
     <string name="wapi_password_empty">Introduceți parola</string>
-    <string name="wapi_password_hex_format_add">Trebuie să utilizați un număr par de caractere hexazecimale</string>
+    <string name="wapi_password_hex_format_add">Numărul de caractere hexazecimale nu poate fi un număr impar</string>
     <string name="wapi_password_hex_format_invalid">Format nevalid pentru parolă</string>
     <string name="wapi_password_hex_length_invalid">Numărul caracterelor hexazecimale trebuie să fie par</string>
     <string name="wapi_password_is_empty">Parola nu poate fi lăsată necompletată</string>
@@ -10369,6 +10393,7 @@ Consultați politica de confidențialitate a operatorului dvs. pentru detalii."<
     <string name="wifi_generation_summary">Adaugă numărul generației tehnologiei wireless lângă pictograma Wi-Fi</string>
     <string name="wifi_generation_title">Tehnologia</string>
     <string name="wifi_hand_sel_wapi_cert">Certificat WAPI</string>
+    <string name="wifi_hidden_gbk">Codare GBK</string>
     <string name="wifi_hidden_network">Rețea ascunsă</string>
     <string name="wifi_hidden_network_warning">"Dacă routerul dvs nu emite un ID de rețea dar doriți să vă conectați la el în viitor, puteți marca rețeaua ca ascunsă.
 
@@ -10483,6 +10508,7 @@ Setarea rețelei ca ascunsă nu va modifca setările routerului."</string>
     <string name="wifi_password">Parolă</string>
     <string name="wifi_poor_network_detection">Evitaţi conexiunile slabe</string>
     <string name="wifi_poor_network_detection_summary">"Nu utilizaţi o reţea Wi-Fi decât dacă are o conexiune bună"</string>
+    <string name="wifi_primary">Rețeaua primară</string>
     <string name="wifi_priority_changed">Valoarea veche %1$s | Valoarea nouă %2$s</string>
     <string name="wifi_priority_label">Prioritate</string>
     <string name="wifi_priority_settings_label">Setări prioritate</string>
@@ -10503,8 +10529,9 @@ Setarea rețelei ca ascunsă nu va modifca setările routerului."</string>
     <string name="wifi_required_info_text">Pentru a finaliza configurarea, este necesar ca dispozitivul să aibă acces la Wi-Fi. După configurare, puteţi opta să utilizaţi datele mobile sau Wi-Fi.</string>
     <string name="wifi_sap_no_channel_error">Banda de 5 GHz nu este disponibilă în această țară</string>
     <string name="wifi_save">Salvaţi</string>
+    <string name="wifi_saved_access_point">Rețele salvate</string>
     <string name="wifi_saved_access_points_label">Rețele salvate</string>
-    <string name="wifi_saved_access_points_titlebar">Rețele salvate</string>
+    <string name="wifi_saved_other_networks_tab">Alte rețele</string>
     <string name="wifi_scan_always_available">Scanare mereu disponibilă</string>
     <string name="wifi_scan_always_available_summary">Permiteți serviciului de localizare Google și altor aplicații să caute rețele, chiar dacă rețeaua Wi-Fi este dezactivată</string>
     <string name="wifi_scan_always_confirm_allow">Permiteți</string>
@@ -10745,11 +10772,11 @@ puteţi utiliza, de asemenea, reţelele altor utilizatori."</string>
     <string name="wifi_wapi_cert_mgmt_user_dont_exist">Introduceţi numele certificatului de utilizator</string>
     <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">Formatul certificatului de utilizator este incorect</string>
     <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Introduceţi numele certificatului de utilizator</string>
-    <string name="wifi_wapi_cert_mode_hand_text">Selectați manual</string>
+    <string name="wifi_wapi_cert_mode_hand_text">Selectați manual certificatul</string>
     <string name="wifi_wapi_cert_uninstall">Dezinstalaţi certificat WAPI</string>
     <string name="wifi_wapi_cert_uninstall_button">Dezinstalaţi</string>
     <string name="wifi_wapi_certification_dont_exist">Parola de reţea introdusă este incorectă</string>
-    <string name="wifi_wapi_fail_to_auth">"Nu s-a putut finaliza autentificarea WAPI.
+    <string name="wifi_wapi_fail_to_auth">"Autentificarea WAPI a eșuat.
 Asigurați-vă că certificatele sunt valide."</string>
     <string name="wifi_wapi_fail_to_init">"Nu se pot deschide certificatele WAPI.
 Se pare că stocarea credențialelor nu este activată."</string>

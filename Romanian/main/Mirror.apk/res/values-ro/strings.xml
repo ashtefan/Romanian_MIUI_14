@@ -91,6 +91,7 @@
     <string name="enable_wifi_alert_title_china">Pornește Wi-Fi</string>
     <string name="evening">După amiază</string>
     <string name="expand_button_title">Avansat</string>
+    <string name="file_transferring">Așteptați până când transferurile în curs sunt finalizate și încercați din nou</string>
     <string name="fingerprint_dialog_touch_sensor">Atingeți senzorul de amprentă</string>
     <string name="fingerprint_error_hw_not_available">Hardware-ul pentru amprente nu este disponibil.</string>
     <string name="fingerprint_error_hw_not_present">Acest dispozitiv nu are senzor de amprentă</string>

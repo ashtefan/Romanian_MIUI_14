@@ -137,6 +137,14 @@
         <item quantity="other">în %d minute</item>
         <item quantity="one">într-un minut</item>
     </plurals>
+    <plurals name="large_icon_batch_has_update_text">
+        <item quantity="other">Este disponibilă o actualizare pentru %1$d Super pictograme</item>
+        <item quantity="one">Este disponibilă o actualizare pentru %1$d Super pictogramă</item>
+    </plurals>
+    <plurals name="large_icon_batch_updating_text">
+        <item quantity="other">Se actualizează %1$d Super pictograme</item>
+        <item quantity="one">Se actualizează %1$d Super pictogramă</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Chiar acum</item>
     </plurals>
@@ -163,6 +171,10 @@
     <plurals name="resource_download_notification_title_many">
         <item quantity="other">S-au descărcat cu succes %1$d elemente</item>
         <item quantity="one">S-a descărcat cu succes %1$d element</item>
+    </plurals>
+    <plurals name="resource_mibi_per_set">
+        <item quantity="other">%1$s Monede Mi/set</item>
+        <item quantity="one">%1$s Monedă Mi/set</item>
     </plurals>
     <plurals name="resource_rating">
         <item quantity="other">%1$.1f puncte</item>

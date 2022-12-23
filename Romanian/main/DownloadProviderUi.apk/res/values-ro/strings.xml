@@ -296,7 +296,7 @@ Vă rugăm să trimiteți acest cod tehnicianului."</string>
     <string name="insufficient_space">Nu există spațiu de stocare suficient</string>
     <string name="invalid_address">Calea fișierului introdusă este greşită</string>
     <string name="jump_rank_hint">Aruncați o privire la topul descărcărilor de astăzi ></string>
-    <string name="keep_queued_download">Păstraţi</string>
+    <string name="jump_rank_hint2">Vedeți topul descărcărilor</string>
     <string name="kilobyteShort"> KB</string>
     <string name="load_finish_hint">Puteți continua vizionarea mâine</string>
     <string name="loading">Doar o secundă…</string>

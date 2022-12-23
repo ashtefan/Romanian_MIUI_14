@@ -62,6 +62,9 @@
     <string name="app_name">Note</string>
     <string name="app_notification_info">Aplicația Note rulează în fundal</string>
     <string name="app_widget">Note</string>
+    <string name="app_widget_name_create_note">Creați notițe</string>
+    <string name="app_widget_name_create_todo">Creați sarcini</string>
+    <string name="app_widget_name_fast_entry">Scurtături</string>
     <string name="app_widget_name_new">Notițe</string>
     <string name="application_icon">Pictograma aplicației</string>
     <string name="audio_btn_mode_meeting">Întâlnire</string>

@@ -53,6 +53,7 @@
     <string name="accessibility_volume_expand">Extindeți</string>
     <string name="actionbar_button_up_description">Înapoi</string>
     <string name="afternoon">După amiază</string>
+    <string name="airplane">Avion</string>
     <string name="airplane_mode">Mod Avion</string>
     <string name="already_in_small_freeform">Unele aplicații sunt deschise în ferestre plutitoare</string>
     <string name="am">AM</string>
@@ -61,6 +62,7 @@
     <string name="auto_brightness_on">Luminozitatea automată este pornită</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">Butoanele de navigare sunt dezactivate, atingeți de două ori orice buton pentru a le reactiva.</string>
     <string name="auto_disable_screenbuttons_enable_toast_text">Butoanele de navigare sunt activate</string>
+    <string name="bootloader">Fastboot</string>
     <string name="bt_is_off">Bluetooth-ul este dezactivat</string>
     <string name="character_counter_content_description">Caractere introduse %1$d din %2$d</string>
     <string name="character_counter_overflowed_content_description">Limita de caractere a depășit %1$d din %2$d</string>
@@ -452,6 +454,7 @@
     <string name="quick_settings_wireless_label">Încărcare inversă wireless</string>
     <string name="reboot_info_auto_boot">Alarma următoare: %s</string>
     <string name="reboot_info_shutdown_alarm">Alarmă oprire: %s</string>
+    <string name="recovery">Recuperare</string>
     <string name="reset">Resetați</string>
     <string name="restart">Reporniți</string>
     <string name="safe_media_volume_warning">"Creșteți volumul peste nivelul recomandat?
@@ -463,7 +466,10 @@ Expunerea îndelungată la sunete puternice poate cauza probleme de auz."</strin
     <string name="save">Salvați</string>
     <string name="search_menu_title">Căutați</string>
     <string name="send">Trimiteți</string>
+    <string name="silent">Silențios</string>
     <string name="slider_view_content_description">Glisați în sus pentru a opri sau în jos pentru a reporni</string>
+    <string name="slider_view_content_left_description">Glisați în sus pentru a reporni în modul Fastboot sau glisați în jos pentru a reporni în modul Recuperare</string>
+    <string name="slider_view_content_right_description">Glisați în sus pentru a comuta în modul Avion sau glisați în jos pentru a comuta în modul Silențios</string>
     <string name="smart_home_title">Dispozitive inteligente</string>
     <string name="solar_term_autumn_begins">Începutul toamnei</string>
     <string name="solar_term_autumn_equinox">Echinocțiul de toamnă</string>

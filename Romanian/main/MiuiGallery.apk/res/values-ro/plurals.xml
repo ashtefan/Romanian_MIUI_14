@@ -268,6 +268,18 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Chiar acum</item>
     </plurals>
+    <plurals name="migrate_gp_data_num">
+        <item quantity="other">%1$d elemente</item>
+        <item quantity="one">%1$d elemente</item>
+    </plurals>
+    <plurals name="miplay_time_minute_unit">
+        <item quantity="other">%d minute</item>
+        <item quantity="one">%d minut</item>
+    </plurals>
+    <plurals name="miplay_time_second_unit">
+        <item quantity="other">%d secunde</item>
+        <item quantity="one">%d secundă</item>
+    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elemente selectate</item>
         <item quantity="one">%d element selectat</item>
@@ -516,6 +528,10 @@
         <item quantity="other">%1$d camere</item>
         <item quantity="one">%1$d cameră</item>
     </plurals>
+    <plurals name="share_album_home_pref_screen_devices">
+        <item quantity="other">%1$d ecrane</item>
+        <item quantity="one">%1$d ecran</item>
+    </plurals>
     <plurals name="share_album_home_pref_screens">
         <item quantity="other">%1$d ecrane</item>
         <item quantity="one">%1$d ecran</item>
@@ -632,6 +648,14 @@
         <item quantity="other"></item>
         <item quantity="one"></item>
     </plurals>
+    <plurals name="tran_notification_complete_msg">
+        <item quantity="other">Nu s-au putut transfera %1$d elemente</item>
+        <item quantity="one">Nu s-a putut transfera %1$d element</item>
+    </plurals>
+    <plurals name="transfer_status_banner_msg_file_failed">
+        <item quantity="other">Nu s-au putut transfera %1$d elemente. Vizitați i.mi.com pentru a le descărca.</item>
+        <item quantity="one">Nu s-a putut transfera %1$d element. Vizitați i.mi.com pentru a-l descărca.</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_cloud">
         <item quantity="other">%d elemente selectate vor fi șterse definitiv din cloud și din toate dispozitivele sincronizate. Ștergeți oricum?</item>
         <item quantity="one">%d element selectat va fi șters definitiv din cloud și din toate dispozitivele sincronizate. Ștergeți oricum?</item>
@@ -655,6 +679,14 @@
     <plurals name="trash_vip_info_text_login">
         <item quantity="other">Elementele pot fi stocate aici timp de %1$d zile (%2$s)</item>
         <item quantity="one">Elementele pot fi stocate aici timp de %1$d zi (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login_medium_or_low_level">
+        <item quantity="other">Articolele pot fi stocate aici pentru %1$s zile. Atingeți pentru a prelungi această perioadă.</item>
+        <item quantity="one">Articolele pot fi stocate aici pentru %1$s zi. Atingeți pentru a prelungi această perioadă.</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_no_sync_server">
+        <item quantity="other">Elementele șterse sunt stocate în cloud pentru %1$d zile</item>
+        <item quantity="one">Elementele șterse sunt stocate în cloud pentru %1$d zi</item>
     </plurals>
     <plurals name="trash_vip_info_text_unlogin">
         <item quantity="other">Elementele pot fi stocate aici timp de %1$d zile. Actualizați-vă planul pentru a extinde această perioadă.</item>

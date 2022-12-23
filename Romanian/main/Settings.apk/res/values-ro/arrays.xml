@@ -1666,8 +1666,17 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="switch_to_user_zero_when_docked_timeout_entries">
         <item>Niciodată</item>
-        <item>După 1 minut</item>
+        <item>După un minut</item>
         <item>După 5 minute</item>
+    </string-array>
+    <string-array name="tabs_taptic_detail">
+        <item>Crocant</item>
+        <item>Bază</item>
+        <item>Pop</item>
+    </string-array>
+    <string-array name="tabs_taptic_detail_m2">
+        <item>Crocant</item>
+        <item>Solid</item>
     </string-array>
     <string-array name="tare_modifiers_subfactors">
         <item>Încărcare</item>
@@ -1751,6 +1760,11 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Normală</item>
         <item>Rapidă</item>
         <item>Cea mai rapidă</item>
+    </string-array>
+    <string-array name="typing_style_entries">
+        <item>Standard</item>
+        <item>Atingere</item>
+        <item>Atingere directă</item>
     </string-array>
     <string-array name="uplmn_prefer_network_mode_td_choices">
         <item>GSM</item>
@@ -1912,6 +1926,10 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Doar 2,4 GHz</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
+        <item>Nu</item>
+        <item>Da</item>
+    </string-array>
+    <string-array name="wifi_hidden_gbk_entries">
         <item>Nu</item>
         <item>Da</item>
     </string-array>

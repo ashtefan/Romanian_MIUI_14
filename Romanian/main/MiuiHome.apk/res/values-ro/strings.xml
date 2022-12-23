@@ -88,6 +88,7 @@
     <string name="all_apps_setting_drawer_tips_desc">Sertarul de aplicații se deschide glisând în sus pe Ecranul principal. Comutarea la modul Ecran principal cu Sertarul de aplicații va face funcția de căutare indisponibilă. Comutați oricum?</string>
     <string name="all_apps_setting_drawer_tips_title">Se utilizează Sertarul de aplicații</string>
     <string name="all_apps_setting_drawer_title">Cu Sertarul de aplicații</string>
+    <string name="all_apps_setting_jeejen_title">Modul Ușor</string>
     <string name="all_apps_setting_letter_scrollbar">A-Z</string>
     <string name="all_apps_setting_original_scrollbar">Aspect original</string>
     <string name="all_apps_setting_scroll_bar">Bară de derulare</string>
@@ -154,6 +155,7 @@
     <string name="app_drawer_guide_description">Găsiți ceea ce căutați în aplicațiile preferate</string>
     <string name="app_drawer_guide_title">Sertarul de aplicații</string>
     <string name="app_drawer_tip_title">Am înlocuit fluxul de conținut cu sertarul de aplicații.</string>
+    <string name="app_edit_icon">Editați pictograma</string>
     <string name="app_install_state">Instalată</string>
     <string name="application_name">Lansator de sistem</string>
     <string name="apply">Aplicați</string>
@@ -309,6 +311,7 @@
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="early_morning">Dimineață</string>
     <string name="edit">Editați</string>
+    <string name="edit_folder">Editați dosarul</string>
     <string name="edit_folder_title">Editaţi numele dosarului</string>
     <string name="edit_mode_dual_app">Creați o aplicație clonată</string>
     <string name="edit_mode_group">Grupați</string>
@@ -392,9 +395,16 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
+    <string name="fold_pair_install_shortcut_launcher_success">Creat cu succes</string>
     <string name="fold_pair_install_shortcut_long_click">Apăsați lung pentru a adăuga la Ecranul principal</string>
     <string name="fold_pair_installed_shortcut_launcher">Această comandă rapidă există deja</string>
     <string name="folder_name">Dosar</string>
+    <string name="folder_not_edit_icon_tip">Pentru a edita, mai întâi mutați aplicația din dosar</string>
+    <string name="folder_picker_big_text">Mărită</string>
+    <string name="folder_picker_default_text">Obișnuită</string>
+    <string name="folder_picker_options_tab_text">Dimensiune</string>
+    <string name="folder_picker_sliding_button_tab_text">Sugerați aplicații evidențiate</string>
+    <string name="folder_picker_tab_text">Dosar</string>
     <string name="frame_load_failed">"Încărcarea cadrului a eşuat"</string>
     <string name="free_style_apps_title">Selectaţi aplicaţia</string>
     <string name="free_style_drawer_title">Toate aplicaţiile</string>
@@ -476,6 +486,7 @@
     <string name="image_too_small_message">Imaginea originală nu este destul de mare</string>
     <string name="in_app_result_by">Rezultate în aplicație de</string>
     <string name="install">Instalaţi</string>
+    <string name="intelligent_exposed_button_summary_text">Utilizați sugestii inteligente bazate pe utilizarea aplicației dvs. pentru a evidenția aplicațiile din dosarele extinse</string>
     <string name="invalid_contact_shortcut">Contact nevalid</string>
     <string name="is_setting_wallpaper_message">Setare imagine de fundal…</string>
     <string name="is_system_wallpaper_message">"Nu se pot șterge resurse de sistem"</string>
@@ -568,6 +579,7 @@ Securitate sporită."</string>
     <string name="minus_one_screen">Asistentul inteligent</string>
     <string name="miui_screen_config_title">Setări pentru Ecranul principal</string>
     <string name="miui_widget_menu_replace_text">Comutați</string>
+    <string name="miui_widget_toast_for_not_support_by_pa">"Asistentul inteligent nu acceptă widget-uri de această dimensiune"</string>
     <string name="miuix_access_state_desc">Selectat</string>
     <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
@@ -758,6 +770,9 @@ Securitate sporită."</string>
     <string name="open_personal_assistant_dialog_desc_international">"Nu veți mai putea utiliza cardurile Asistentului inteligent (Stocuri, Scurtături, etc.) și primi actualizări după ce veți dezactiva această funcție."</string>
     <string name="open_personal_assistant_dialog_title">Dezactivați Asistentul inteligent</string>
     <string name="open_personal_assistant_settings">Setări Asistent inteligent</string>
+    <string name="open_personal_assistant_settings_off">Oprit</string>
+    <string name="open_personal_assistant_settings_on">Pornit</string>
+    <string name="open_personal_assistant_settings_simplified">Asistent inteligent</string>
     <string name="open_personal_assistant_title">Asistent inteligent</string>
     <string name="ota_layout_adjustment_button_text">Am înțeles</string>
     <string name="ota_layout_adjustment_content">Aspectele interioare și exterioare ale ecranului de pornire au fost sincronizate în noua versiune.</string>

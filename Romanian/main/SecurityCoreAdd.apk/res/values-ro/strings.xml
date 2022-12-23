@@ -272,6 +272,8 @@ controlați aplicațiile instalate și restricționați utilizarea"</string>
     <string name="greenguard_install_confirm">Instalați</string>
     <string name="greenguard_install_message">Protecția Familială este o aplicație de sistem. Nu aveți nevoie de internet pentru a o instala.</string>
     <string name="greenguard_install_title">Instalați Protecția Familială</string>
+    <string name="greenguard_new_install_message">Protecția Familială este o aplicație de sistem. Puteți instala această aplicație fără a o descărca.</string>
+    <string name="greenguard_new_install_title">Instalați Protecția Familială</string>
     <string name="greenguard_parent_des">Gestionați dispozitivele prietenilor și ale familiei​</string>
     <string name="greenguard_parent_des_title">Utilizați Kite Guard pentru a adăuga dispozitive</string>
     <string name="guide_contact_sub_title_desc">"Contactele adăugate în Spațiul Secundar vor fi private.

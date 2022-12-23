@@ -85,6 +85,18 @@
         <item>2x</item>
         <item>4x</item>
     </string-array>
+    <string-array name="gb_gpu_custom_cut_anti">
+        <item>2x</item>
+        <item>4x</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>Balansat</item>
+        <item>Calitate ridicată</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture_value">
+        <item>Balansat</item>
+        <item>Implicit</item>
+    </string-array>
     <string-array name="gb_gpu_custom_texture">
         <item>Viteză crescută</item>
         <item>Echilibrat</item>

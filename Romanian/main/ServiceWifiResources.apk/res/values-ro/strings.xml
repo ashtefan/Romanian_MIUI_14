@@ -112,6 +112,9 @@ Această modificare poate determina monitorizarea locației telefonului de cătr
     <string name="wifi_suggestion_imsi_privacy_title">%s dorește să se conecteze în mod automat</string>
     <string name="wifi_suggestion_title">Permiteți rețele Wi-Fi sugerate?</string>
     <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
+    <string name="wifi_tofu_invalid_cert_chain_message">Lanțul de certificate de server este invalid.</string>
+    <string name="wifi_tofu_invalid_cert_chain_ok_text">OK</string>
+    <string name="wifi_tofu_invalid_cert_chain_title">Nu se poate conecta la %1$s</string>
     <string name="wifi_wakeup_enabled_content">Vă aflați în apropierea unei rețele salvate: %1$s</string>
     <string name="wifi_wakeup_enabled_title">Wi-Fi a fost activat în mod automat</string>
     <string name="wifi_wakeup_onboarding_action_disable">Nu activa din nou</string>

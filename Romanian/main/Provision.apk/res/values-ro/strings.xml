@@ -57,6 +57,7 @@
     <string name="boot_video_skip">Omiteți</string>
     <string name="calculator_introduction">Puteți utiliza această aplicație pentru calcule, conversie de unități și valute și pentru estimarea rambursărilor ipotecare.</string>
     <string name="camera_introduction">Puteți utiliza aplicația Camera pentru a face fotografii și a filma videoclipuri.</string>
+    <string name="check_box_label"><Data>"Prin activarea acestei funcții, sunteți de acord cu &lt;a href=%1$s>Politica de confidențialitate a serviciilor de interconectivitate Xiaomi&lt;/a >."</Data></string>
     <string name="carrier_introduction">Pentru a vă oferi servicii mai bune, dispozitivul dvs. poate trimite periodic informații despre versiunea dispozitivului, datele de identificare a acestuia (inclusiv IMEI/IMSI/MSISDN/adresa MAC, MEID/ICCID) și informații despre locația aproximativă (inclusiv codul stației de bază) către operator prin: Wi-Fi, rețeaua de date mobile sau SMS gratuit. Operatorul promite să analizeze informațiile relevante doar pentru îmbunătățirea calității serviciilor sau pentru furnizarea de servicii sau tehnologii personalizate și nu va dezvălui informații relevante care se vă identifice persoanelor terțe sub nicio formă. Declarația specifică a operatorului trebuie să prevaleze. Consultați operatorul dvs. cu privire la costul utilizării acestui serviciu.</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="clock_introduction">Puteți utiliza această aplicație pentru a vedea ora, precum și pentru a utiliza cronometrul, ora pe glob, temporizatorul, să setați alarme și multe altele.</string>
@@ -172,6 +173,38 @@
     <string name="input_method_category">Selectați tastatura prestabilită pe care o veți utiliza pentru scriere e-mailuri, note, etc. Rețineți că puteți instala alte tastaturi mai târziu.</string>
     <string name="input_method_setting">Selectați tastatura prestabilită</string>
     <string name="install_preinstall_app">Încărcare aplicaţii…</string>
+    <string name="interconnection_service_summary">"Serviciile de interconectivitate Xiaomi permit dispozitivelor dvs. să interacționeze între ele fără fir. Aceste servicii includ Mi Smart Hub, Mi Smart Play, MIUI+ Beta, Mi Share și partajare.
+Pentru a putea funcționa normal, aceste servicii trebuie să se conecteze la internet și necesită următoarele permisiuni:
+\u0009\u0009Mi Smart Hub:
+\u0009\u0009Activare și dezactivare Wi-Fi
+\u0009\u0009Pentru transferul de articole prin Wi-Fi
+\u0009\u0009Înregistrare audio
+\u0009\u0009Pentru transferul redării audio pe dispozitivele conectate în timpul proiecției sau oglindirii ecranului
+\u0009\u0009Accesarea spațiului de stocare
+\u0009\u0009Pentru transferul și primirea de fișiere fără fir
+\u0009\u0009Partajare Mi:
+\u0009\u0009Accesarea și salvarea fișierelor și a fotografiilor pe dispozitiv
+\u0009\u0009Pentru transferul și primirea de fișiere fără fir
+\u0009\u0009Accesarea locației
+\u0009\u0009Pentru a transfera articole pe dispozitivele din apropiere prin Wi-Fi și Bluetooth
+\u0009\u0009Activare și dezactivare Bluetooth
+\u0009\u0009Pentru a găsi dispozitive în apropiere
+\u0009\u0009Activare și dezactivare Wi-Fi
+\u0009\u0009Pentru a găsi dispozitive în apropiere și pentru a transfera fișiere fără fir
+\u0009\u0009Conectarea la dispozitivele din apropiere
+\u0009\u0009Pentru a găsi dispozitive în apropiere și a vă conecta la acestea
+\u0009\u0009Difuzare:
+\u0009\u0009Activare și dezactivare Bluetooth
+\u0009\u0009Pentru a găsi dispozitive în apropiere
+\u0009\u0009Activare și dezactivare Wi-Fi
+\u0009\u0009Pentru a găsi dispozitive în apropiere
+\u0009\u0009Accesarea locației
+\u0009\u0009Pentru a obține informații despre dispozitivele din apropiere
+\u0009\u0009Înregistrare audio
+\u0009\u0009Pentru transferul redării audio către conectat în timpul difuzării
+Dacă nu sunteți de acord să acordați astfel de permisiuni, nu veți putea utiliza Serviciile de interconectare Xiaomi.
+Caracteristicile pot fi modificate. Este posibil ca unele dintre funcțiile de mai sus să nu fie disponibile pe toate modelele de dispozitive sau pentru toate versiunile de sistem. Consultați site-ul web MIUI (www.miui.com) pentru a verifica compatibilitatea."</string>
+    <string name="interconnection_service_title">Serviciile de interconectivitate Xiaomi</string>
     <string name="item_contents_wwarning">Dacă vă pierdeți dispozitivul, nu veți putea împiedica alte persoane să îl folosească și să vă acceseze datele decât dacă setați o blocare a ecranului. Omiteți oricum?</string>
     <string name="item_facerecognition">Deblocare facială</string>
     <string name="item_fingerprint">Amprentă</string>

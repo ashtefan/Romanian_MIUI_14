@@ -177,6 +177,7 @@
     <string name="app_update_install">Pregătit pentru instalarea versiunii actualizate</string>
     <string name="application">Aplicații</string>
     <string name="application_name">Browser</string>
+    <string name="application_upgrade">Actualizări</string>
     <string name="aqi_quality_index_break">Extrem de periculos</string>
     <string name="aqi_quality_index_dangerous">Periculos</string>
     <string name="aqi_quality_index_good">Bun</string>
@@ -215,6 +216,7 @@
     <string name="bookmark_btn_select_all">Selectați tot</string>
     <string name="bookmark_btn_select_none">Deselectați tot</string>
     <string name="bookmark_cannot_save_url">Această adresă URL nu poate fi marcată</string>
+    <string name="bookmark_file_privacy_nightmode_moved_here">Comenzile rapide pentru funcții și modurile de navigare pot fi găsite aici</string>
     <string name="bookmark_folder_needs_title">Introduceţi numele grupului</string>
     <string name="bookmark_group_lable">Grup</string>
     <string name="bookmark_needs_title">Marcajul trebuie să poarte un nume</string>
@@ -460,9 +462,12 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="choose_to_signin">Da</string>
     <string name="choose_to_signup">Nu, voi crea unul</string>
     <string name="choosertitle_sharevia">Partajați via</string>
+    <string name="clean_cache">Goliți memoria cache</string>
     <string name="clear">Goliți</string>
     <string name="clear_history">Ştergeţi istoricul</string>
     <string name="clear_most_visited">Istoric recent</string>
+    <string name="clear_result_page_more_content">Descoperiți mai multe</string>
+    <string name="clear_result_page_show_more">Vedeți mai mult</string>
     <string name="clear_search_history">Goliți istoricul</string>
     <string name="clear_transfer_summary">Ștergeți steagurile de setări ale sistemului, astfel încât să puteți transfera din nou</string>
     <string name="clear_transfer_title">Ștergeți steagurile de transfer</string>
@@ -578,6 +583,7 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="connection_lost">Deconectat</string>
     <string name="consume">De ieșire</string>
     <string name="content_collection_done">Adăugată cu succes la favorite</string>
+    <string name="content_recommend_trending_title">Google</string>
     <string name="contextmenu_add_contact">Adăugaţi o persoană în agendă</string>
     <string name="contextmenu_copy">Copiaţi</string>
     <string name="contextmenu_copylink">Copiaţi adresa URL a linkului</string>
@@ -687,6 +693,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="dkmibrowsershopad__ad_view_video_replay">Reluați</string>
     <string name="doc_viewer_label">Cititor (Mi Browser)</string>
     <string name="doc_viewer_open_out_file_prompt">Pentru a deschide și a vizualiza un fișier primit din surse externe, această aplicație trebuie să creeze mai întâi o copie a fișierului. Continuați?</string>
+    <string name="doc_viewer_user_guide_profile">Vizualizați articolul pe care îl căutați aici</string>
     <string name="document_download_background_btn">Descărcare în fundal</string>
     <string name="document_download_cancel_btn">Renunțați</string>
     <string name="document_download_failed">Descărcarea a eșuat</string>
@@ -1049,6 +1056,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
     <string name="gaid">GAID(Click pentru a Exporta)</string>
+    <string name="game_center">Jocuri</string>
     <string name="game_center_recommend_play">Redați</string>
     <string name="game_center_recommend_title">Recomandat pentru tine</string>
     <string name="game_news_flow_download_bar_download">Descărcați</string>
@@ -1262,6 +1270,9 @@ Trimiteți acest cod supervisorului."</string>
     <string name="homepage_setting">Setări pentru pagina de pornire</string>
     <string name="homepage_top_card_menu">Top</string>
     <string name="hot_games">Populare</string>
+    <string name="hot_news_notify_summary">Notificări push pentru știrile de top</string>
+    <string name="hot_news_notify_tips_light">Puteți dezactiva notificările pentru știri din &lt;font color=#0D84FF>Setări&lt;/font></string>
+    <string name="hot_news_notify_title">Notificări pentru știri</string>
     <string name="i_know">OK</string>
     <string name="identity">Identificare</string>
     <string name="if_cancel">Anulați această operație?</string>
@@ -1351,6 +1362,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="local_apps">Aplicații locale</string>
     <string name="local_bookmarks">Mi</string>
     <string name="local_file">Fișiere locale</string>
+    <string name="local_video_player_label">Player video (Browser Mi)</string>
     <string name="location_permission_name">Acces la locație</string>
     <string name="lockpattern_continue_button_text">Următorul</string>
     <string name="lockpattern_need_to_confirm">Confirmați modelul de deblocare</string>
@@ -1386,6 +1398,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="media_error_video_not_exist">"Videoclipul nu există"</string>
     <string name="memory_clear_nothing_result">Nimic de șters în cache</string>
     <string name="memory_clear_result">%1$s degajat</string>
+    <string name="memory_management">Gestionați stocarea</string>
     <string name="memory_usage">Memorie</string>
     <string name="menu_addtodesk">Adăugați la Ecranul principal</string>
     <string name="menu_exit_nightmode">Ieșiți</string>
@@ -1769,6 +1782,7 @@ Părăsiți această pagină acum?"</string>
     <string name="my_account">Contul meu</string>
     <string name="my_cahnnel">Canalele mele</string>
     <string name="my_channel">Canalele mele</string>
+    <string name="my_prize_entry">Recompensele mele</string>
     <string name="name_empty">Trebuie să introduceți un nume.</string>
     <string name="nav_bottom_bar_back">Înapoi</string>
     <string name="nav_bottom_bar_close_all">Închideţi tot</string>
@@ -1828,6 +1842,7 @@ Părăsiți această pagină acum?"</string>
     <string name="no_network">Verificați conexiunea la rețea și încercați din nou.</string>
     <string name="no_phone">Niciun număr de telefon</string>
     <string name="no_recent_files">Nu există fișiere recente</string>
+    <string name="no_scalable_applications">Toate aplicațiile sunt actualizate</string>
     <string name="no_space_alert_cancel">Mai târziu</string>
     <string name="no_space_alert_clean">Obțineți spațiu suplimentar</string>
     <string name="no_space_alert_text">Nu există spațiu suficient de stocare</string>
@@ -1864,6 +1879,7 @@ Părăsiți această pagină acum?"</string>
     <string name="novel_continue_read_popup">Citiți</string>
     <string name="novel_tab_popup">Vedeți aici cele mai noi cărți</string>
     <string name="novel_tab_popup_ok">OK</string>
+    <string name="occupy">%s ocupat</string>
     <string name="offline_notification_text">Atingeți pentru a deschide reclama</string>
     <string name="offline_notification_title">Vedeți reclama salvată atunci când sunteți offline</string>
     <string name="offline_opt_in_confirm">OK</string>
@@ -1887,6 +1903,7 @@ Părăsiți această pagină acum?"</string>
     <string name="operation_rename">Redenumiți</string>
     <string name="operation_rename_message">Introduceți noul nume</string>
     <string name="operation_send">Trimiteți</string>
+    <string name="opr_activity_title">Urmăriți sezonul și obțineți recompense</string>
     <string name="other_channel">Atingeți pentru a adăuga mai multe canale.</string>
     <string name="page_info">Informaţii pagină</string>
     <string name="page_info_address">Adresă:</string>
@@ -2236,6 +2253,7 @@ Părăsiți această pagină acum?"</string>
     <string name="popup_video">Videoclip popup</string>
     <string name="popup_window_attempt">Permiteţi acestui site să deschidă o fereastră de tip pop-up?</string>
     <string name="positive_confirm_message">Opriți oricum</string>
+    <string name="power_saving_settings">Economisire acumulator</string>
     <string name="pref_accessibility">Accesibilitate</string>
     <string name="pref_accessibility_title">Accesibilitate</string>
     <string name="pref_adblock_summary">Paginile se pot încărca mai lent atunci când această funcție este activată</string>
@@ -2509,6 +2527,9 @@ Unele site-uri nu vor folosi istoricul de navigare anterior pentru a-și persona
     <string name="reading__auto_pagedown_menu_view__speed">viteza automată de întoarcere a paginii: %1$d</string>
     <string name="reading__bookmark_empty_view__hint">adăugați marcaje la ecranul derulant în timp ce citiți</string>
     <string name="reading__bookmark_empty_view__no_bookmark">temporar fără marcaje</string>
+    <string name="reading__business_recommend_at_end_more">Vedeți mai mult</string>
+    <string name="reading__business_recommend_at_end_other_docs">Lectură în continuare</string>
+    <string name="reading__business_recommend_at_end_title">Conținut recomandat</string>
     <string name="reading__cancel">Renunțați</string>
     <string name="reading__chapter_error_view__content_error">Capitolul nu a putut fi încărcat. Verificați setările de rețea și încercați din nou.</string>
     <string name="reading__chapter_error_view__drm_error">Nu am putut obține certificatul digital</string>
@@ -2593,6 +2614,7 @@ Editați"</string>
     <string name="reading__reading_book_introduction">introducere de carte</string>
     <string name="reading__reading_brightness_view__brightness">luminozitate</string>
     <string name="reading__reading_brightness_view__eyes_saving">Confortul ochilor</string>
+    <string name="reading__reading_end">Sfârșit</string>
     <string name="reading__reading_error_commit">trimiteți</string>
     <string name="reading__reading_error_report">eroare de raport de capitol</string>
     <string name="reading__reading_feedback_dialog_email_error_toast">Introduceți o adresă de email validă</string>
@@ -3069,6 +3091,11 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="splash__access_dialog_agree">De acord</string>
     <string name="splash__access_dialog_protect">Termeni și condiții</string>
     <string name="split_line">%1$s | %2$s</string>
+    <string name="sport_card_match_week">Săptămâna %d</string>
+    <string name="sports_card_match_season">Sezon</string>
+    <string name="sports_card_match_status_1">În viitor</string>
+    <string name="sports_card_match_status_2">În curs</string>
+    <string name="sports_card_match_status_3">Finalizat</string>
     <string name="srl_component_falsify" formatted="false">"%s falsifică zona,
   Reprezintă înălțimea[%.1fdp] de glisare în timpul rulării,
   Nu arată nimic."</string>
@@ -3131,6 +3158,7 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_command_mode">Porniți pentru a intra în modul Comandă</string>
     <string name="summary_detail_page">Schimbați stilul paginii cu detalii</string>
+    <string name="summary_use_local_ad_config">Activați pentru a utiliza configurația de anunțuri locale</string>
     <string name="summary_use_sandbox_domain">Activați pentru a utiliza domeniul Sandbox</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
@@ -3216,6 +3244,7 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="the_united_nations_day">Ziua Națiunilor Unite</string>
     <string name="the_valentines_day">Ziua Îndrăgostiților</string>
     <string name="the_water_lantern_festival">Festivalul felinarelor de apă</string>
+    <string name="third_image_viewer_label">Vizualizator imagini (Browser Mi)</string>
     <string name="thursday">Joi</string>
     <string name="thursday_short">Joi</string>
     <string name="thursday_shortest">Jo</string>
@@ -3235,6 +3264,7 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="title_expire_video">Pe cale să expire</string>
     <string name="title_recent">Recente</string>
     <string name="title_select_volume">Selectați dosarul</string>
+    <string name="title_use_local_ad_config">Utilizați configurația de anunțuri locale</string>
     <string name="title_use_sandbox_domain">Utilizați domeniul Sandbox</string>
     <string name="toast_exit_browser">Atingeți din nou pentru a ieși din browser</string>
     <string name="today">Astăzi</string>
@@ -3279,6 +3309,7 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="update_no_network_toast">"Nu se poate conecta la reţea"</string>
     <string name="update_now">ACTUALIZAȚI ACUM</string>
     <string name="update_phone_notice">Schimbați setările de securitate</string>
+    <string name="upgrade">Actualizați</string>
     <string name="upload_error_log">Încărcați jurnalul</string>
     <string name="upload_usage_statistics">Activați pentru a ne trimite statisticile de utilizare când modul Incognito este activat</string>
     <string name="uploads_disabled">Încărcarea fişierelor este dezactivată</string>
@@ -3514,6 +3545,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_tag_desc">Afișați miniaturile paginilor vizitate anterior</string>
     <string name="web_tag_tips">Atingeți aici pentru a revedea o pagină</string>
     <string name="web_tag_title">Miniaturi ale paginilor web</string>
+    <string name="web_tools_moved_here">Uneltele au fost mutate aici</string>
     <string name="web_video_accelerate">Viteză</string>
     <string name="web_video_default_time">%1$s :%2$s</string>
     <string name="web_video_download">Descărcați</string>

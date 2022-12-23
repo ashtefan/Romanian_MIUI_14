@@ -129,6 +129,7 @@
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="click_to_save">Apăsați \"Finalizat\" pentru a seta un sunet de apel general.</string>
     <string name="close">Închideți</string>
+    <string name="closed_high_refresh_options">Aplicații care nu folosesc o rată de reîmprospătare ridicată</string>
     <string name="color_gamut">Gamă de culori</string>
     <string name="common_brushtail">Oposum cu coadă perie</string>
     <string name="common_ostrich">Struț</string>
@@ -147,6 +148,8 @@
     <string name="created_successfully">Creată cu succes</string>
     <string name="crowned_hornbill">Hornar încoronat</string>
     <string name="cu_confirm">Setați</string>
+    <string name="customize_high_refresh_summary">Această caracteristică acceptă o rată de reîmprospătare de până la %d Hz. Rata de reîmprospătare adecvată poate fi selectată automat în funcție de preferințele dispozitivului.</string>
+    <string name="customize_high_refresh_title">Aplicații care folosesc o rată de reîmprospătare ridicată</string>
     <string name="customize_radio_btn_summary">De preferat rata de reîmprospătare selectată</string>
     <string name="customize_radio_btn_title">Personalizat</string>
     <string name="dall_sheep">Oaie Dall</string>
@@ -299,6 +302,7 @@ nu sunt generate în Spațiul Secundar"</string>
     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d la %d minute</string>
     <string name="focus_mode_timer_pick_dialog_title">Introduceți durata</string>
     <string name="focus_time_exception_tip">Se pare că ora sistemului s-a modificat. S-a dezactivat modul Focusat.</string>
+    <string name="follow_apps_settings">Bazat pe setările aplicațiilor</string>
     <string name="follow_sim1">Aplicați setările SIM 1</string>
     <string name="force_rest">Folosiți pauzele de sesiune</string>
     <string name="force_rest_summary">Luați pauze obligatorii când sesiunile ating limita stabilită</string>
@@ -352,6 +356,7 @@ nu sunt generate în Spațiul Secundar"</string>
     <string name="helmeted_guineafowl">Păsări de Guineea</string>
     <string name="high_fps_description">Rată mare de reîmprospătare a ecranului. Consum crescut de energie.</string>
     <string name="high_fps_tip_footer">Utilizarea ratelor de reîmprospătare mai mari face experiența de vizionare mai fluidă, dar consumă mai multă energie.</string>
+    <string name="high_refresh_options_title">Aplicații suportate</string>
     <string name="hippopotamus">Hipopotam</string>
     <string name="holiday_limit">Zile libere</string>
     <string name="hsv_space_color">Spațiu de culoare HSV</string>
@@ -502,6 +507,7 @@ nu sunt generate în Spațiul Secundar"</string>
     <string name="nature_mix_summary">Creați un mixaj personalizat</string>
     <string name="nazca_booby">Naiba Nazca</string>
     <string name="network_error">A apărut o eroare de rețea. Încercați din nou</string>
+    <string name="new_customize_high_refresh_title">Rată de reîmprospătare ridicată</string>
     <string name="next_day">"(Ziua următoare) "</string>
     <string name="night">Seară</string>
     <string name="nine_banded_armadillo">Armadillo</string>
@@ -518,6 +524,7 @@ nu sunt generate în Spațiul Secundar"</string>
     <string name="notification_sound">Sunete de notificare</string>
     <string name="ocelot">Ocelot</string>
     <string name="olive_baboon">Babuin de măslin</string>
+    <string name="opened_high_refresh_options">Aplicații care folosesc o rată de reîmprospătare ridicată</string>
     <string name="orange_winged_amazon">Amazon cu aripi portocalii</string>
     <string name="orca">Balena ucigașă</string>
     <string name="ostrich_info">Struții sunt păsări mari, care nu zboară, din Africa, care depun cele mai mari ouă dintre toate animalele de pe pământ.</string>
@@ -583,6 +590,7 @@ nu sunt generate în Spațiul Secundar"</string>
     <string name="sea_otter">Vidră de mare</string>
     <string name="seal_info">Focile sunt mamifere marine care se pot deplasa rapid în apele adânci, hrănindu-se cu pești și creveți.</string>
     <string name="search_app_name">Căutați aplicații</string>
+    <string name="search_app_tips">Căutați aplicații</string>
     <string name="search_empty">Nicio aplicație găsită</string>
     <string name="search_menu_title">Căutați</string>
     <string name="send">Trimiteți</string>
@@ -594,6 +602,13 @@ nu sunt generate în Spațiul Secundar"</string>
     <string name="silver_pheasant">Fazan argintiu</string>
     <string name="sim_slot_1">" (SIM 1)"</string>
     <string name="sim_slot_2">" (SIM 2)"</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s %2$s</string>
+    <string name="size_tera_byte">TB</string>
     <string name="skywalker_hoolock_gibbon">Gibon Skywalker hoolock</string>
     <string name="small_ground_finch">Cintez mic</string>
     <string name="sms_delivered_sound_title">Mesaj trimis</string>

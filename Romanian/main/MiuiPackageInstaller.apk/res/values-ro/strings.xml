@@ -311,6 +311,14 @@ Toate datele anterioare ale utilizatorului vor fi păstrate."</string>
     <string name="exposed_dropdown_menu_content_description">Afișează meniul de glisare în jos</string>
     <string name="external_sources_settings_negative">Restricționați</string>
     <string name="external_sources_settings_positive">Permiteți o dată</string>
+    <string name="face_unlock_be_on_the_screen">Țineți dispozitivul în fața feței</string>
+    <string name="face_unlock_check_failed">"Nu v-am putut recunoaște"</string>
+    <string name="face_unlock_face_start_title">Se verifică datele faciale…</string>
+    <string name="face_unlock_not_found">Nu v-am putut recunoaște</string>
+    <string name="face_unlock_open_eye">Deschideți ochii puțin mai larg</string>
+    <string name="face_unlock_reveal_eye">Faceți-vă ochii vizibili</string>
+    <string name="face_unlock_reveal_mouth">Faceți-vă buzele vizibile</string>
+    <string name="face_unlock_verity_tips_succeed">Verificat cu succes</string>
     <string name="fingerprint_authrioze_done">Verificată cu succes</string>
     <string name="fingerprint_authrioze_retry">Încercați din nou</string>
     <string name="fingerprint_authrioze_tips">Pune degetul pe senzor</string>
@@ -936,6 +944,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="screen_zoom_summary_very_large">Mai mare</string>
     <string name="search_menu_title">Căutați</string>
     <string name="second_recomment_ad_title">Persoanele care instalează &lt;font color=#0BAE73>%1$s&lt;/font> apreciază de asemenea</string>
+    <string name="security_auth_msg">Verificați-vă identitatea</string>
     <string name="security_mode_close_feedback">Vă mulțumim pentru utilizarea modului Securizat</string>
     <string name="security_mode_feedback_commit">Trimiteți</string>
     <string name="security_mode_feedback_input_count">%1$s/50</string>

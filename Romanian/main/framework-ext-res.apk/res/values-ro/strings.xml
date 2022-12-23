@@ -48,6 +48,9 @@
     <string name="autofill_save_sub_message">Veți putea gestiona parolele salvate în Setări > Parole și Securitate > %s.</string>
     <string name="autofill_save_title">Salvează parolele în mod automat</string>
     <string name="autofill_service_name">Gestionați parolele</string>
+    <string name="back_double_tap">Atingeți de două ori Înapoi</string>
+    <string name="back_tap">Atingeți Înapoi</string>
+    <string name="back_triple_tap">Atingeți de trei ori Înapoi</string>
     <string name="backup_suspend_hint">Se face o copie de rezervă pentru această aplicație acum. Așteptați până când copia de rezervă este completă și încercați din nou.</string>
     <string name="battery_authentic_failed_button">Am înțeles</string>
     <string name="battery_authentic_failed_title">Atenție</string>
@@ -89,6 +92,7 @@
     <string name="candy">Bomboane</string>
     <string name="carousel">Carusel</string>
     <string name="celesta">Celesta</string>
+    <string name="change_brightness">Reglați luminozitatea</string>
     <string name="child">Copilărie</string>
     <string name="childhood">Copilărie</string>
     <string name="chimes">Clopoţei</string>
@@ -97,6 +101,7 @@
     <string name="citylight">Luminile orașului</string>
     <string name="clank">Clank</string>
     <string name="close">Oprit</string>
+    <string name="close_app">Închideți aplicația curentă</string>
     <string name="configure_input_methods">Selectați tastatura</string>
     <string name="confirm_cancel_task_files">Anulați trimiterea fișierelor către %1$s?</string>
     <string name="confirm_cancel_task_images">Anulați trimiterea imaginilor către %1$s?</string>
@@ -147,6 +152,9 @@
     <string name="dock_tip_splitscreen_portrait_drag">Trageți bara pe verticală pentru a schimba pozițiile celor două ferestre ale aplicației.</string>
     <string name="dock_tip_splitscreen_portrait_float">Țineți apăsat și trageți în partea stângă sau dreaptă a ecranului pentru a comuta la o fereastră plutitoare.</string>
     <string name="double_click_power_key">niciuna</string>
+    <string name="double_click_volume_down_when_lock">Apăsați de două ori pentru a reduce volumul când ecranul este blocat</string>
+    <string name="double_knock">Atingeți de două ori</string>
+    <string name="dump_log">Obțineți jurnalele legate de probleme</string>
     <string name="echo">Ecou</string>
     <string name="eighthours">8 ore</string>
     <string name="enable_livetalk_summary">Economisiți 70% din costurile apelurilor</string>
@@ -166,6 +174,7 @@
     <string name="file_cannot_print">Nu se poate tipări acest element.</string>
     <string name="file_cannot_screen_throw">Nu se poate proiecta acest element.</string>
     <string name="file_sending">Se transferă fișierele…</string>
+    <string name="fingerprint_double_tap">Atingeți de două ori senzorul de amprentă</string>
     <string name="fireflies">Licurici</string>
     <string name="first_back_long_press_message">Pentru a personaliza apăsarea și menținerea apăsată a butoanelor de navigare accesaţi Setări > Setări adiționale > Butoane</string>
     <string name="flip_screen_camera_tip">Rotiți telefonul pentru a utiliza camera</string>
@@ -189,6 +198,7 @@
     <string name="frog">Broască</string>
     <string name="functions_are_being_developed">Această funcție va fi disponibilă în curând. Fiți pe fază!</string>
     <string name="game">Joc</string>
+    <string name="gesture_function_dialog_message">%1$s este utilizat pentru \"%2$s\". Înlocuiți cu \"%3$s\"?</string>
     <string name="glee">Bucurie</string>
     <string name="global_actions_airplane_mode">Modul Avion</string>
     <string name="global_actions_reboot">Repornire</string>
@@ -199,6 +209,7 @@
     <string name="global_phone">Telefonul meu</string>
     <string name="glockenspiel">Glockenspiel</string>
     <string name="glorious">Glorie</string>
+    <string name="go_to_sleep">Închideți ecranul</string>
     <string name="greenandblue">Curcubeu</string>
     <string name="guitar">Chitară</string>
     <string name="hallofmemories">Amintiri</string>
@@ -246,6 +257,11 @@
     <string name="kb_reset_toast">Tastatură resetată cu succes</string>
     <string name="key_btn_ok">OK</string>
     <string name="key_btn_space">Spaţiu</string>
+    <string name="key_combination_power_back">Pornire + Înapoi</string>
+    <string name="key_combination_power_home">Pornire + Acasă</string>
+    <string name="key_combination_power_menu">Pornire + Meniu</string>
+    <string name="key_combination_power_volume_down">Reducere volum + Pornire</string>
+    <string name="key_none">Niciuna</string>
     <string name="keyboard_connect_failed">Nu s-a putut conecta tastatura. Atașați-o din nou.</string>
     <string name="keyboard_identity_reject_confirm">Am înțeles</string>
     <string name="keyboard_identity_reject_message">Se pare că tastatura dvs. nu este compatibilă cu acest dispozitiv.</string>
@@ -253,6 +269,9 @@
     <string name="keyboard_upgrade_failed">"Nu s-a putut actualiza tastatura"</string>
     <string name="keyboard_upgrade_start">Se actualizează tastatura…</string>
     <string name="keyboard_upgrade_success">Tastatura a fost actualizată cu succes</string>
+    <string name="knock_gesture_v">Desenați litera V cu un deget</string>
+    <string name="knock_long_press_horizontal_slid">Apăsați și glisați orizontal cu un deget</string>
+    <string name="knock_slide_shape">Desenați un cerc cu un deget</string>
     <string name="ks_back_home">Ecranul principal</string>
     <string name="ks_close_window">Închide fereastra curentă</string>
     <string name="ks_launch_control_center">Centrul de control</string>
@@ -262,6 +281,21 @@
     <string name="ks_regional_screen_shot">Captură de ecran (parțială)</string>
     <string name="ks_screenshot">Captură de ecran (întregul ecran)</string>
     <string name="kungfu">Kung fu</string>
+    <string name="launch_ai_shortcut">Scurtătură Mi AI</string>
+    <string name="launch_alipay_health_code">Codul de sănătate Alipay</string>
+    <string name="launch_alipay_payment_code">Cod de plată Alipay</string>
+    <string name="launch_alipay_scanner">Scaner Alipay</string>
+    <string name="launch_calculator">Calculator</string>
+    <string name="launch_camera">Lansați camera</string>
+    <string name="launch_control_center">Centrul de Control</string>
+    <string name="launch_google_search">Lansați Asistentul Google</string>
+    <string name="launch_notification_center">Perdeaua de notificări</string>
+    <string name="launch_recents">Lansați fila Recente</string>
+    <string name="launch_smarthome">Xiaomi Magic Control</string>
+    <string name="launch_voice_assistant">Lansați asistentul vocal</string>
+    <string name="launch_wechat_health_code">Codul de sănătate WeChat</string>
+    <string name="launch_wechat_payment_code">Codul de plată WeChat</string>
+    <string name="launch_wechat_scanner">Scaner WeChat</string>
     <string name="leisure">Timp liber</string>
     <string name="lenovo">Lenovo</string>
     <string name="lenovo_phone">Telefon Lenovo</string>
@@ -274,6 +308,14 @@
     <string name="lockscreen_access_pattern_start">Model început</string>
     <string name="lockscreen_carrier_customized">Serviciu limitat</string>
     <string name="lollipop">Acadea</string>
+    <string name="long_press_back_key">Apăsați lung butonul Înapoi</string>
+    <string name="long_press_buttom_key">Apăsați lung Acasă pe ecranul de blocare</string>
+    <string name="long_press_home_key">Apăsați lung butonul Acasă</string>
+    <string name="long_press_menu_key">Apăsați lung butonul Meniu</string>
+    <string name="long_press_menu_key_when_lock">Apăsați lung Meniu pe ecranul de blocare</string>
+    <string name="long_press_power_key">Apăsați lung butonul Pornire</string>
+    <string name="long_press_power_key_half_second">Apăsați și mențineți apăsat butonul de pornire timp de %ss</string>
+    <string name="long_press_volume_down">Apăsați lung Volum-</string>
     <string name="magic_window_toast">Multiplicator Aplicație activat.</string>
     <string name="makewishes">Dorință pentru ziua de naștere</string>
     <string name="maml_component_customization_title">Setări</string>
@@ -288,6 +330,7 @@
     <string name="mi_9t_pro">Mi 9T Pro</string>
     <string name="mi_a3">Mi A3</string>
     <string name="mi_drop">Partajare Mi</string>
+    <string name="mi_pay">Portofel Mi</string>
     <string name="miaudiovisual_notification_summary">Activați pentru a vedea efectele în Blocarea ecranului</string>
     <string name="miaudiovisual_notification_title">Efecte audio și vizuale</string>
     <string name="mihouse">Mi Electronic</string>
@@ -315,6 +358,7 @@
     <string name="morning">Dimineață</string>
     <string name="mountainspring">Izvor de munte</string>
     <string name="multi_file_name">%1$s，%2$s</string>
+    <string name="mute">Mod Silențios</string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
     <string name="nearby_share">Partajare în apropiere</string>
     <string name="notice_audition">Sunete naturale</string>
@@ -340,6 +384,7 @@
     <string name="package_delete_confirm_step_1">Dezinstalați %s?</string>
     <string name="package_delete_confirm_step_2">Dezinstalarea acestei aplicații poate face sistemul instabil.</string>
     <string name="package_delete_confirm_step_3">Nu veți mai putea deschide această aplicație după ce o veți dezinstala.</string>
+    <string name="partial_screen_shot">Captură de ecran parțială</string>
     <string name="passionflower">Pasiune</string>
     <string name="paste">Lipiți</string>
     <string name="pc_device_model_name">Computer</string>
@@ -434,6 +479,7 @@
     <string name="screen_on_proximity_sensor_title">Prevenire apelare în buzunar/poșetă</string>
     <string name="screen_paper_mode_enter_toast">Modul lectură este activat. Pentru a dezactiva această caracteristică, mergeți la Setări > Afișaj > Mod lectură.</string>
     <string name="screen_rotation_freeze_message">Rotire automată dezactivată.</string>
+    <string name="screen_shot">Faceți o captură de ecran</string>
     <string name="screenshot_gesture_detect_alert_button">Activați din Setări</string>
     <string name="screenshot_gesture_detect_alert_dont_again">Nu arăta din nou</string>
     <string name="screenshot_gesture_detect_alert_msg">Glisați în jos cu 3 degete simultan pentru a realiza o captură de ecran?</string>
@@ -457,6 +503,7 @@
     <string name="set_password_message">Setați o parolă pentru a putea utiliza această caracteristică.</string>
     <string name="set_password_title">Setați o parolă</string>
     <string name="shortcut_no_support_on_pc_mode">"Acest gest nu este acceptat în modul PC"</string>
+    <string name="show_menu">Afișează meniul</string>
     <string name="shutdown_confirm_title">Opriți telefonul acum?</string>
     <string name="shutdown_progress">Se închide telefonul…</string>
     <string name="silence_mode">Modul silențios</string>
@@ -482,6 +529,7 @@
     <string name="softap_notifif_title">Hotspot-ul \"%s\" este pornit</string>
     <string name="southwestmountain_preview">Munți</string>
     <string name="spaceage">Era spațială</string>
+    <string name="split_screen">Deschideți Ecran scindat</string>
     <string name="spring">Primăvară</string>
     <string name="standard">Silențios</string>
     <string name="standard_description">Redu la tăcere sunetul pentru apelurile primite și pentru notificări</string>
@@ -529,6 +577,10 @@
     <string name="talk_back_conflict_with_handy_mode">Nu se poate utiliza modul Operare cu o mână cât timp TalkBack este activ</string>
     <string name="talk_back_water_mark_string1">TalkBack este activat</string>
     <string name="talk_back_water_mark_string2">Apăsați și mențineți apăsate butoanele \"Volum+\" și \"Volum-\" timp de 3 secunde pentru a dezactiva</string>
+    <string name="three_gesture_down">Glisați cu 3 degete în jos</string>
+    <string name="three_gesture_horizontal">Glisați orizontal cu %d degete</string>
+    <string name="three_gesture_long_press">Apăsați și mențineți apăsat cu %d degete</string>
+    <string name="three_gesture_pc_mode">Activați modul PC</string>
     <string name="throwing_print">Tipăriți</string>
     <string name="throwing_screen">Proiectați</string>
     <string name="tip_close_screen_phone">Comutați la Mâini libere sau pliați dispozitivul pentru a utiliza difuzorul încorporat</string>
@@ -547,8 +599,9 @@
     <string name="trial_mode_dialog_message">\"%s\" rulează în modul încercare. Repornirea dispozitivului sau comutarea la modul Viteza luminii va șterge acest joc. Salvați jocul în stocarea internă?</string>
     <string name="trial_mode_dialog_title">Mod Încercare</string>
     <string name="turn_off">Opriți</string>
-    <string name="turn_on_work_profile">activați</string>
+    <string name="turn_on_torch">Porniți lanterna</string>
     <string name="twohours">1 oră</string>
+    <string name="under_keyguard">Ecran oprit</string>
     <string name="unknown_caller">Număr necunoscut</string>
     <string name="unrecognized_manufacture">Necunoscut</string>
     <string name="unrecognized_model">Dispozitiv necunoscut</string>
@@ -560,6 +613,7 @@
     <string name="vigor">Vigoare</string>
     <string name="vivo">vivo</string>
     <string name="vivo_phone">vivo</string>
+    <string name="voice_assist">Mi AI</string>
     <string name="voice_begin">Ce anume căutați?</string>
     <string name="voice_button_action_down">Eliberați pentru a căuta</string>
     <string name="voice_button_action_up">Atingeți pentru a vorbi</string>
@@ -571,15 +625,19 @@
     <string name="wallpaper_group_concerto_title">Concerto</string>
     <string name="wallpaper_group_crystallization_subtitle">Frumusețea științei</string>
     <string name="wallpaper_group_crystallization_title">Cristalizare</string>
+    <string name="wallpaper_group_curves_title">Curbe</string>
     <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
     <string name="wallpaper_group_dynamic_nebula_title">Nebuloasă dinamică</string>
     <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>
     <string name="wallpaper_group_geometric_title">Geometrie</string>
+    <string name="wallpaper_group_light_cycles_title">Cercuri cu neon</string>
+    <string name="wallpaper_group_macaron_title">Pietricele</string>
     <string name="wallpaper_group_minimalist_scenery_title">Minimalism</string>
     <string name="wallpaper_group_molten_glass_title">Sticlă topită</string>
     <string name="wallpaper_group_more_system_wallpaper_title">Mai multe imagini de fundal de sistem</string>
     <string name="wallpaper_group_natural_texture_subtitle">Tom Hegen și alții</string>
     <string name="wallpaper_group_natural_texture_title">Tipare de natură</string>
+    <string name="wallpaper_group_petros_koublis_title">Vise cu ochii deschiși</string>
     <string name="wallpaper_group_red_mars_subtitle">NASA, JPL, Universitatea din Arizona</string>
     <string name="wallpaper_group_red_mars_title">Marte</string>
     <string name="wallpaper_group_sgn_mountain_title">Muntele Siguniang</string>
