@@ -29,13 +29,14 @@
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="app_name">CQR</string>
     <string name="close">Închideți</string>
+    <string name="close_app">Închideți</string>
     <string name="close_drawer">Închideți meniul de navigare</string>
     <string name="close_hit_again">Apăsați din nou pentru a părăsi ecranul</string>
     <string name="close_sheet">Închideți foaia</string>
     <string name="default_error_message">Intrare nevalidă</string>
     <string name="default_popup_window_title">Fereastră Pop-Up</string>
     <string name="dropdown_menu">Meniu glisare în jos</string>
-    <string name="important_ration_info">Informații importante</string>
+    <string name="hint_close_app">Faceți dublu clic rapid pentru a închide</string>
     <string name="in_progress">În curs</string>
     <string name="indeterminate">Nici bifat, nici nebifat</string>
     <string name="navigation_menu">Meniu navigare</string>
@@ -46,6 +47,11 @@
     <string name="qr_load">Se încarcă... Vă rugăm să așteptați...</string>
     <string name="qualitative_info">Informații calitative</string>
     <string name="qualitative_title">Informații de consistență</string>
+    <string name="range_end">Sfârșitul intervalului</string>
+    <string name="range_start">Începutul intervalului</string>
     <string name="ration_title">Informații clasă ID</string>
     <string name="search_menu_title">Căutați</string>
+    <string name="selected">Selectat</string>
+    <string name="tab">Filă</string>
+    <string name="template_percent">%1$d procent.</string>
 </resources>

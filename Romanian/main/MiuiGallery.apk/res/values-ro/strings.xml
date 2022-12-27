@@ -794,6 +794,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="enable_secret_album_upload_message">Toate elementele private vor fi sincronizate în cloud după ce activați această funcție. Porniți acum?</string>
     <string name="enter_choice_mode">S-a accesat dialogul de Partajare</string>
     <string name="enter_email_hint">Introduceţi adresa de e-mail</string>
+    <string name="equivalent_focal_length">(Distanța focală echivalentă %d mm)</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="error_album_not_exist">"Albumul nu există"</string>
