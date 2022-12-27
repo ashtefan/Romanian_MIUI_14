@@ -32,6 +32,7 @@
     <string name="abc_toolbar_collapse_description">Restrângere</string>
     <string name="about_pure_mode">Despre modul Securizat</string>
     <string name="about_safe_mode">Aflați mai multe despre modul Securizat</string>
+    <string name="access_denied_info">Prea multe incercari. Așteptați un minut sau două și încercați din nou.</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Această caracteristică este experimentală și poate afecta performanța.</string>
     <string name="accessibility_display_daltonizer_preference_title">Corecție de culoare</string>
     <string name="accessibility_no_wifi">Wi-Fi deconectat.</string>
@@ -637,7 +638,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="miui_install_fail_reason">Motivul</string>
     <string name="miui_install_failed_reason">Această aplicație nu este compatibilă cu dispozitivul dvs</string>
     <string name="miui_install_failed_suggestion">Utilizați o versiune compatibilă a acestei aplicații</string>
-    <string name="miui_install_source_unkown">Necunoscut</string>
+    <string name="miui_install_source_unkown">necunoscut</string>
     <string name="miui_install_success">Instalată cu succes</string>
     <string name="miui_install_version">Versiune: %1$s | Dimensiune: %2$s</string>
     <string name="miui_install_version_3">Versiunea: %1$s -> %2$s | Dimensiune: %3$s</string>
@@ -778,6 +779,8 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="mtrl_timepicker_confirm">OK</string>
     <string name="net_work_error_msg">Nu s-a putut conecta la rețea pentru a efectua o verificare de securitate</string>
     <string name="net_work_error_retry">Încercați din nou</string>
+    <string name="network_error_info">A apărut o eroare de rețea. Verificați setările de rețea și încercați din nou.</string>
+    <string name="network_timeout_info">Nu s-a putut conecta la rețea. Încercați din nou.</string>
     <string name="night">Seară</string>
     <string name="no_apps">Nicio aplicaţie</string>
     <string name="no_check_risk">Niciun risc detectat</string>
@@ -863,7 +866,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="pref_key_app_store_title">Recomandă versiuni sigure</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="prepare_install">Pregătire instalare…</string>
-    <string name="privacyPerms">Confidențialitate</string>
+    <string name="progressbar_title">Se caută probleme de securitate…</string>
     <string name="privacy_relative">Confidențialitate</string>
     <string name="pure_function_introduction">Caracteristicile modului securizat</string>
     <string name="pure_guarding">Activat</string>
@@ -1054,6 +1057,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
     <string name="sure_ok">Am înțeles</string>
+    <string name="system_error_info">Sistemul este ocupat. Așteptați un minut sau două și încercați din nou.</string>
     <string name="system_warning">Dacă refuzați această permisiune, este posibil ca funcțiile de bază ale dispozitivului să nu mai funcționeze corespunzător.</string>
     <string name="telephony_monitor_switch">Monitorizare Telefon</string>
     <string name="telephony_monitor_switch_summary">Monitorizarea Telefonului va colecta jurnale când va detecta o problemă cu funcționalitatea telefonului/modemului și va afișa o notificare de trimitere raport</string>
@@ -1177,6 +1181,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="unknown_apps_admin_dlg_text">Administratorul nu permite instalarea aplicațiilor obținute din surse necunoscute.</string>
     <string name="unknown_apps_dlg_text">Din motive de securitate, telefonul este configurat să blocheze instalarea aplicațiilor obținute din surse necunoscute.</string>
     <string name="unknown_apps_user_restriction_dlg_text">"Aplicațiile necunoscute nu pot fi instalate de către acest utilizator"</string>
+    <string name="unknown_error_info">Eroare necunoscută</string>
     <string name="unknown_installer">Unelte PC neidentificate</string>
     <string name="unknown_source_allow">Permiteți</string>
     <string name="unknown_source_forbidden">Restricționați</string>

@@ -583,6 +583,8 @@ Asigurați-vă că utilizați contul Mi curent ca și cont de sistem MIUI."</str
     <string name="storage_unit_mb">%s MB</string>
     <string name="storage_usb">Dispozitiv USB</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="talkback_close">Închideți</string>
+    <string name="talkback_close_open_picture">Renunțați</string>
     <string name="temporary_not_available">Această caracteristică nu este încă disponibilă</string>
     <string name="text_select_all">Selectați tot</string>
     <string name="text_select_nothing">Deselectați tot</string>

@@ -57,6 +57,12 @@
     <string name="boot_video_skip">Omiteți</string>
     <string name="calculator_introduction">Puteți utiliza această aplicație pentru calcule, conversie de unități și valute și pentru estimarea rambursărilor ipotecare.</string>
     <string name="camera_introduction">Puteți utiliza aplicația Camera pentru a face fotografii și a filma videoclipuri.</string>
+    <string name="carousel_cookies_content"><Data>Când atingeți imagini și povești în Wallpaper Carusel, versiunile lor complete vor fi deschise în browser. Furnizorul nostru de conținut terț de încredere vă poate recomanda apoi conținut suplimentar și anunțuri adaptate intereselor dvs. Dacă sunteți de acord să activați această funcție, aceștia vor plasa cookie-uri în browser, așa cum este descris în această &lt;a href=\"%1$s\">Politica privind cookie-urile&lt;/a>. Dacă refuzați cookie-urile, Wallpaper Carusel va funcționa în continuare, dar conținutul și recomandările sale ar putea să nu mai fie relevante pentru dvs. Vă puteți schimba oricând preferințele în Setări.</Data></string>
+    <string name="carousel_cookies_subtitle">Cookie-urile ne permit să vă personalizăm experiența cu ecranul de blocare.</string>
+    <string name="carousel_cookies_title">Conținut personalizat și cookie-uri</string>
+    <string name="carousel_privacy"><Data>"Citiți și sunteți de acord cu &lt;a href=\"%1$s\">Politica de confidențialitate&lt;/a> și &lt;a href=\"%2$s\">Acordul de utilizare&lt;/a a furnizorului nostru de servicii terț de încredere > înainte de a utiliza Caruselul de imagini de fundal."</Data></string>
+    <string name="carousel_setting">Configurați blocarea ecranului</string>
+    <string name="carousel_setting_sub">Caruselul de imagini de fundal vă va arăta povești noi de fiecare dată când vă deblocați dispozitivul</string>
     <string name="check_box_label"><Data>"Prin activarea acestei funcții, sunteți de acord cu &lt;a href=%1$s>Politica de confidențialitate a serviciilor de interconectivitate Xiaomi&lt;/a >."</Data></string>
     <string name="carrier_introduction">Pentru a vă oferi servicii mai bune, dispozitivul dvs. poate trimite periodic informații despre versiunea dispozitivului, datele de identificare a acestuia (inclusiv IMEI/IMSI/MSISDN/adresa MAC, MEID/ICCID) și informații despre locația aproximativă (inclusiv codul stației de bază) către operator prin: Wi-Fi, rețeaua de date mobile sau SMS gratuit. Operatorul promite să analizeze informațiile relevante doar pentru îmbunătățirea calității serviciilor sau pentru furnizarea de servicii sau tehnologii personalizate și nu va dezvălui informații relevante care se vă identifice persoanelor terțe sub nicio formă. Declarația specifică a operatorului trebuie să prevaleze. Consultați operatorul dvs. cu privire la costul utilizării acestui serviciu.</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
@@ -70,7 +76,7 @@
     <string name="congratulation_swipe">Glisați în sus pentru a accesa sistemul</string>
     <string name="congratulation_title">Configurare finalizată</string>
     <string name="content_description_complete">Finalizat</string>
-    <string name="content_description_miui_version">MIUI 12.5</string>
+    <string name="content_description_miui_version">MIUI 14</string>
     <string name="content_description_start">Start</string>
     <string name="content_introduction">Content Center agregă conținutul și serviciile de pe mai multe canale. Aici puteți citi articole, viziona videoclipuri, vizualiza articole prezentate zilnic și să primiți recomandări de conținut.</string>
     <string name="continue_to_enable_accessibility">Mențineți două degete glisat în jos pentru a activa accesibilitatea.</string>

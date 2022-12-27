@@ -1188,7 +1188,7 @@ să pară mai mari în fotografii"</string>
     <string name="module_name_pixel_48m">48 MP</string>
     <string name="module_name_pixel_50m">50 MP</string>
     <string name="module_name_pixel_64m">64 MP</string>
-    <string name="module_name_pixel_xxxm">50 MP</string>
+    <string name="module_name_pixel_xxxm">200 MP</string>
     <string name="module_name_portrait">Portret</string>
     <string name="module_name_professional">Pro</string>
     <string name="module_name_scanner">Scaner</string>
@@ -2212,7 +2212,7 @@ Menține subiectul clar în timp ce fundalul este încețoșat."</string>
     <string name="ultra_pixel_photography_close_tip">%s Ultra HD oprit</string>
     <string name="ultra_pixel_photography_open_tip">%s Ultra HD pornit</string>
     <string name="ultra_pixel_portrait_hint">Portret în lumină scăzută</string>
-    <string name="ultra_pixel_xxxmp">50 MP</string>
+    <string name="ultra_pixel_xxxmp">200 MP</string>
     <string name="ultra_pixel_zoom_no_support_tip">"Zoom-ul nu funcționează în %s modul Ultra HD"</string>
     <string name="ultra_tele_use_hint_text_body">"Utilizați zoomul 50X pentru a capta obiecte de la distanță
 în detalii remarcabile"</string>

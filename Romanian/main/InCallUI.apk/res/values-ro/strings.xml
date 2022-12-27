@@ -545,9 +545,12 @@ Atingeți \"%1$s\" și apoi selectați \"%2$s\"."</string>
     <string name="video_call_downgrade_insufficient_bandwidth">Insuficientă lățime de bandă; retrogradați la apel vocal</string>
     <string name="video_conference_caller_info_name">"Apel videoconferință al lui %1$s"</string>
     <string name="video_crbt_title">"Se redă videoclipul de apel al apelantului"</string>
+    <string name="vilte_call">ViLTE</string>
+    <string name="viwifi_call">ViWiFi</string>
     <string name="voice_control_deny_permission_msg">Nu se pot folosi comenzile vocale acum. Permiteți mai întâi acestei aplicații să înregistreze sunete audio.</string>
     <string name="voicemail">Căsuța vocală</string>
-    <string name="volte_call">Apel VoLTE</string>
+    <string name="volte_call">"Vo
+LTE"</string>
     <string name="volume_boost_text">Creșterea volumului a reușit</string>
     <string name="wait_prompt_str">"Trimiteţi următoarele tonuri?
 "</string>
@@ -555,7 +558,8 @@ Atingeți \"%1$s\" și apoi selectați \"%2$s\"."</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>
-    <string name="wifi_call">Apel VoWifi</string>
+    <string name="wifi_call">"Vo
+WiFi"</string>
     <string name="xiaoai_assistant">Asistent apelare Mi AI</string>
     <string name="yesterday">Ieri</string>
 </resources>

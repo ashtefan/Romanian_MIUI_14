@@ -139,6 +139,15 @@ Acum vă puteți conecta la contul dvs. Xiaomi utilizând %s."</string>
     <string name="cloud_member_vipname_premium">Premium</string>
     <string name="cloud_member_vipname_ultra">Ultra</string>
     <string name="cloud_service">Xiaomi Cloud</string>
+    <string name="cloud_service_cloud_open">Activați</string>
+    <string name="cloud_service_space_full">Spațiul de stocare este epuizat</string>
+    <string name="cloud_service_space_not_enough">Spațiu de stocare insuficient</string>
+    <string name="cloud_service_space_used">Ocupat</string>
+    <string name="cloud_service_state_error">Nu s-a putut încărca</string>
+    <string name="cloud_service_status_backup_not_open">Copiile de rezervă sunt oprite</string>
+    <string name="cloud_service_status_cloud_not_open">Oprit</string>
+    <string name="cloud_service_status_storage_full">Spațiul de stocare este epuizat</string>
+    <string name="cloud_service_status_storage_not_enough">Nu mai există spațiu de stocare</string>
     <string name="collect_diagnosis_log">Generați un raport de diagnoză</string>
     <string name="com_facebook_device_auth_instructions">Vizitați &lt;b>facebook.com/device&lt;/b> și introduceți codul de mai jos.</string>
     <string name="com_facebook_image_download_unknown_error">Eroare neașteptată la descărcarea unei imagini.</string>
@@ -217,6 +226,8 @@ Acum vă puteți conecta la contul dvs. Xiaomi utilizând %s."</string>
     <string name="diagnosis_log_sent_format">"Jurnal trimis cu succes.
 ID:%s
 Trimmiteți acest cod supervizorului."</string>
+    <string name="dind_device_service_not_open">Oprit</string>
+    <string name="dind_device_service_opened">Pornit</string>
     <string name="download_file">Se descarcă %s…</string>
     <string name="early_morning">Dimineață</string>
     <string name="empty_device_list_notice">Niciun dispozitiv</string>
@@ -231,6 +242,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="facebook_login">Conectați-vă prin Facebook</string>
     <string name="failed_dup_secure_phone_number">Acest număr de telefon este deja asociat cu un alt cont Xiaomi.</string>
     <string name="family_service">Servicii pentru familie</string>
+    <string name="family_service_not_open">Invitați membri</string>
     <string name="find_device">Găsiți dispozitivul</string>
     <string name="find_device_access_denied">Nu s-a putut verifica starea; accesul a fost refuzat</string>
     <string name="find_device_account_error">Nu s-a putut obține starea datorită unei erori de cont</string>
@@ -731,6 +743,11 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="push_notify_dialog_title">Verificare cont</string>
     <string name="pwd_width_phone_number_or_mail_num">Parola nu poate conține numărul dvs. de telefon, adresa de e-mail sau ID-ul contului Xiaomi</string>
     <string name="qq">QQ</string>
+    <string name="qrcode_login_entry_text"><Data>V-ați conectat pe un alt dispozitiv? Utilizați &lt;a href=>conectare rapidă&lt;/a></Data></string>
+    <string name="qrcode_login_load_refresh"><Data>Acest cod QR a expirat. Atingeți pentru a &lt;a href=>reîmprospăta&lt;/a>.</Data></string>
+    <string name="qrcode_login_load_retry"><Data>"Nu s-a putut încărca. &lt;a href=>Încercați din nou&lt;/a>."</Data></string>
+    <string name="qrcode_login_message">Scanați cu aplicația Scanner a telefonului sau tabletei Xiaomi, Mi Home sau altă aplicație Xiaomi pentru a vă conecta</string>
+    <string name="qrcode_login_title">Scanați pentru a vă conecta</string>
     <string name="recycle_phone_notification_msg">Se pare că numărul dvs. de telefon a fost reciclat. Atingeți pentru a actualiza.</string>
     <string name="recycle_phone_notification_title">Risc de securitate cont Xiaomi</string>
     <string name="remove_device_success_notice">Dacă eliminați acest dispozitiv din lista dispozitivelor de încredere, ar putea fi necesar să parcurgeţi din nou procesul de verificare atunci când vă conectați.​</string>
@@ -878,6 +895,9 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="two_factor_auth_need_code_summary">Veți vedea un cod pe celelalte dispozitive Mi conectate. Introduceți acest cod pe un dispozitiv nou pentru a vă conecta.</string>
     <string name="two_factor_auth_summary">Când încercați să vă conectați pe un dispozitiv nou sau dintr-o locație nouă, veți fi notificat despre acest lucru pe alte dispozitive conectate. Va trebui să confirmați dacă aceste încercări de conectare sunt autorizate de dvs.</string>
     <string name="unbind_sns_description">După ce vă veți deconecta de la acest cont, nu veți putea utiliza %s pentru a vă accesa contul dvs. Xiaomi.</string>
+    <string name="unit_gb">" GB"</string>
+    <string name="unit_mb">" MB"</string>
+    <string name="unknown_error_info">Eroare necunoscută</string>
     <string name="unlock_help_notice">"Ajutor:
 1. Dacă v-ați uitat parola, accesați id.mi.com pentru a o reseta.
 2. Dacă nu vă puteți reseta parola sau altcineva v-a blocat telefonul, accesați i.mi.com pentru a-l debloca.
@@ -900,6 +920,23 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="user_agreement_wlan_permission_title_china">Activați și dezactivați Wi-Fi</string>
     <string name="user_avatar_update_title">Schimbaţi imaginea de profil</string>
     <string name="user_avatar_uploading">Doar o secundă…</string>
+    <string name="user_license_with_3rd_app_mobile"><Data>"Am citit și am fost de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a> ale acestei aplicații, contul Xiaomi &lt;a href =%3$s>Acordul de utilizare&lt;/a> și &lt;a href=%4$s>Politica de confidențialitate&lt;/a> și &lt;a href=%5$s>Termenii și condițiile pentru autentificarea mobilă din China&lt;/a>.
+"</Data></string>
+    <string name="user_license_with_3rd_app_no_operator"><Data>"Am citit și am fost de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a> ale acestei aplicații și cu contul Xiaomi &lt;a href =%3$s>Acordul de utilizare&lt;/a> și &lt;a href=%4$s>Politica de confidențialitate&lt;/a>.
+"</Data></string>
+    <string name="user_license_with_3rd_app_telcom"><Data>"Am citit și am fost de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a> ale acestei aplicații, contul Xiaomi &lt;a href =%3$s>Acordul de utilizare&lt;/a> și &lt;a href=%4$s>Politica de confidențialitate&lt;/a> și &lt;a href=%5$s>Termenii și condițiile pentru autentificarea China Telecom&lt;/a>.
+"</Data></string>
+    <string name="user_license_with_3rd_app_unicom"><Data>"Am citit și am fost de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a> ale acestei aplicații, contul Xiaomi &lt;a href =%3$s>Acordul de utilizare&lt;/a> și &lt;a href=%4$s>Politica de confidențialitate&lt;/a> și &lt;a href=%5$s>Termenii și condițiile pentru autentificarea China Unicom&lt;/a>.
+"</Data></string>
+    <string name="user_license_with_out_3rd_app_no_operator"><Data>"Am citit și am fost de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate pentru contul Xiaomi&lt;/a>.
+"</Data></string>
+    <string name="user_license_without_3rd_app"><Data>"Am citit și am fost de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și cu &lt;a href=%2$s>Politica de confidențialitate a contului Xiaomi&lt;/a>."</Data></string>
+    <string name="user_license_without_3rd_mobile"><Data>"Am citit și am fost de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a> și &lt;a href= %3$s>Termenii și condițiile pentru autentificarea mobilă China&lt;/a>.
+"</Data></string>
+    <string name="user_license_without_3rd_telcom"><Data>"Am citit și am fost de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a> și &lt;a href= %3$s>Termeni și condiții pentru autentificarea China Telecom&lt;/a>.
+"</Data></string>
+    <string name="user_license_without_3rd_unicom"><Data>"Am citit și am fost de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a> și &lt;a href= %3$s>Termeni și condiții pentru autentificarea China Unicom&lt;/a>.
+"</Data></string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="verified_apps">Aplicații verificate</string>
@@ -914,6 +951,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="weixin">WeChat</string>
     <string name="weixin_login">Conectați-vă cu WeChat</string>
     <string name="xiao_mi_vip">Mi VIP</string>
+    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Nu acum</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Actualizați</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Este disponibilă o actualizare</string>

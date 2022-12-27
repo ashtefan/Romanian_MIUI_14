@@ -29,6 +29,14 @@
         <item quantity="other">Cu %d minute în urmă</item>
         <item quantity="one">Cu 1 minut în urmă</item>
     </plurals>
+    <plurals name="area_code_search_result_size">
+        <item quantity="other">S-au găsit %d rezultate</item>
+        <item quantity="one">S-a găsit %d rezultat</item>
+    </plurals>
+    <plurals name="family_service_member_count">
+        <item quantity="other">%d persoane</item>
+        <item quantity="one">%d persoană</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Cu o jumătate de oră în urmă</item>
     </plurals>

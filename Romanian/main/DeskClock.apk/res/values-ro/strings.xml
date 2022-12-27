@@ -237,6 +237,8 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
+    <string name="force_start_permission_desc">Permite alarmelor să funcționeze normal chiar și atunci când ați închis aplicația</string>
+    <string name="force_start_permission_title">Pornire automată</string>
     <string name="force_touch_add_alarm">Adăugați o alarmă</string>
     <string name="force_touch_enter_stopwatch">Cronometru</string>
     <string name="force_touch_enter_timer">Temporizator</string>

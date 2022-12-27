@@ -148,7 +148,7 @@
     <string name="character_counter_overflowed_content_description">Limita de caractere a depășit %1$d din %2$d</string>
   <string name="chip_text">Fragment de text</string>
     <string name="choose_to_signin">Da</string>
-    <string name="choose_to_signup">"Nu, voi crea unul"</string>
+    <string name="choose_to_signup">Nu, voi crea unul</string>
     <string name="clear_history">Goliți istoricul de căutare</string>
     <string name="clear_search_edittext">Goliți</string>
     <string name="clear_text_end_icon_content_description">Goliți textul</string>
@@ -665,7 +665,7 @@ mm"</string>
     <string name="passport_access_denied">Acces refuzat</string>
     <string name="passport_account_label">Cont Mi</string>
     <string name="passport_account_name">"Cont: %1$s "</string>
-    <string name="passport_activate_token_expired">Codul de verificare a expirat; vă rugăm să reîncercați.</string>
+    <string name="passport_activate_token_expired">Codul de verificare a expirat. Încercați din nou.</string>
     <string name="passport_area_code_title">Codul regiunii</string>
     <string name="passport_auth_title"/>
     <string name="passport_bad_authentication">Nume de utilizator sau parolă invalide</string>
@@ -676,8 +676,8 @@ mm"</string>
     <string name="passport_close">Închideți</string>
     <string name="passport_delete_account">Deconectați-vă</string>
     <string name="passport_email">Adresa de e-mail</string>
-    <string name="passport_empty_password">"Parola nu poate fi necompletată"</string>
-    <string name="passport_empty_user_name">"Numele de utilizator nu poate fi necompletat"</string>
+    <string name="passport_empty_password">Parola nu poate fi necompletată</string>
+    <string name="passport_empty_user_name">Numele de utilizator nu poate fi necompletat</string>
     <string name="passport_error_auth_fail">Sesiunea a expirat. Conectați-vă din nou.</string>
     <string name="passport_error_device_id">Nu se poate obține ID-ul dispozitivului</string>
     <string name="passport_error_email">Adresa de e-mail introdusă nu este validă</string>

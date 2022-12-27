@@ -2078,7 +2078,10 @@ pentru a afișa widgeturi."</string>
     <string name="pa_shopping_widget_no_cta_content_desc">Atingeți pentru a acorda permisiunea de a folosi Cumpărături</string>
     <string name="pa_shopping_widget_no_network_content_desc">Nu s-a putut conecta la rețea</string>
     <string name="pa_shopping_widget_no_privacy_content_desc">Sunteți de acord cu Politica de confidențialitate pentru Cumpărături pentru a putea folosi această funcție. Atingeți pentru a vizualiza.</string>
+    <string name="pa_shopping_widget_no_privacy_content_main_desc">Cumpărături</string>
+    <string name="pa_shopping_widget_no_privacy_content_sub_desc">Acordați permisiunile acestui widget pentru a obține cupoane și oferte pentru platformele dvs. preferate de comerț electronic</string>
     <string name="pa_shopping_widget_no_setting_content_desc">Setări</string>
+    <string name="pa_shopping_widget_np_privacy_bottom_text">Permiteți</string>
     <string name="pa_shopping_widget_title">Cumpărături</string>
     <string name="pa_shortcut_accessibility_description">Asistentul inteligent oferă comenzi rapide pentru aplicațiile terțe selectate. Aceste comenzi rapide nu vor funcționa dacă dezactivați funcția.</string>
     <string name="pa_shortcut_accessibility_service">Asistentul inteligent</string>

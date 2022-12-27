@@ -244,6 +244,7 @@ Vă rugăm să accesați secțiunea Ajutor dacă întâmpinați probleme la cone
     <string name="hang_up_alert_dialog_neg">Renunțați</string>
     <string name="hang_up_alert_dialog_pos">Ok</string>
     <string name="hang_up_alert_dialog_title">Despre proiectarea cu ecranul închis…</string>
+    <string name="headset_circulate_connect_success">conectat</string>
     <string name="help_page_text_01">Ajutor</string>
     <string name="help_page_text_02">Ce se proiectează?</string>
     <string name="help_page_text_03">"Proiectarea înseamnă redarea elementelor din telefon pe un ecran extern mai mare. Aceasta vă permite să partajați imagini și videoclipuri cu prietenii și familia și chiar să jucați jocuri împreună. În mod normal, consumul de energie al telefonului nu se modifică atunci când folosiți această funcție."</string>

@@ -276,6 +276,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="download_failed">Nu s-a putut descărca</string>
     <string name="download_preview_failed">Încărcarea previzualizării a eşuat</string>
     <string name="download_success">Descărcare finalizată</string>
+    <string name="dynamic_large_icon_not_support_current_type">%s nu este acceptată pentru această pictogramă dinamică</string>
     <string name="dynamic_video_wallpaper">Imagine de fundal 24H</string>
     <string name="early_morning">Dimineață</string>
     <string name="enable_accessibility">Sunt necesare permisiuni de accesibilitate</string>
@@ -531,9 +532,14 @@ Pentru a dezactiva această funcție, mergeți la Setări > Sunete și vibrații
     <string name="large_icon_apply_fail_for_in_oldmode">Super pictogramele nu sunt acceptate în modul Simplificat</string>
     <string name="large_icon_apply_fail_for_not_in_launcher">Nu se pot folosi Super pictogramele pentru aplicațiile care nu sunt pe ecranul de pornire</string>
     <string name="large_icon_detail_title">%s Super pictograme</string>
+    <string name="large_icon_detail_warning_dialog_btn_keep">Super pictograme</string>
+    <string name="large_icon_detail_warning_dialog_btn_not_keep">Pictograme implicite</string>
+    <string name="large_icon_detail_warning_dialog_msg">Unele aplicații folosesc Super pictograme. Continuați să utilizați Super pictogramele sau reveniți la pictogramele implicite ale temei?</string>
+    <string name="large_icon_detail_warning_dialog_title">Setări Super pictograme</string>
     <string name="large_icon_no_more">Nimic aici deocamdată</string>
     <string name="large_icon_no_network">Nu s-a putut conecta la rețea</string>
     <string name="large_icon_not_support">Nu se pot seta pictogramele pentru %s</string>
+    <string name="large_icon_not_support_current_type">%s nu este acceptat pentru această pictogramă</string>
     <string name="large_icon_official">Implicit</string>
     <string name="large_icon_picker_haven">Pictograme disponibile</string>
     <string name="large_icon_picker_more">Mai mult</string>

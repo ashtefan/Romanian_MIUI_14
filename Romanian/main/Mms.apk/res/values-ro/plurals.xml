@@ -87,6 +87,26 @@
         <item quantity="other">Marcat ca %2$s de către %1$d persoane</item>
         <item quantity="one">Marcat ca %2$s de către %1$d persoană</item>
     </plurals>
+    <plurals name="max_audio_length">
+        <item quantity="other">Mesajele audio pot dura până la %1$4d secunde</item>
+        <item quantity="one">Mesajele audio pot dura până la %1$4d secundă</item>
+    </plurals>
+    <plurals name="max_file_size">
+        <item quantity="other">Trimiteți fișiere de până la %1$4d MB</item>
+        <item quantity="one">Trimiteți fișiere de până la %1$4d MB</item>
+    </plurals>
+    <plurals name="max_recipients_size">
+        <item quantity="other">Trimiteți mesaj către până la %1$4d persoane de contact</item>
+        <item quantity="one">Trimiteți mesaj către până la %1$4d persoană de contact</item>
+    </plurals>
+    <plurals name="max_text_size">
+        <item quantity="other">Mesajele pot conține până la %1$4d caractere</item>
+        <item quantity="one">Mesajele pot conține până la %1$4d caracter</item>
+    </plurals>
+    <plurals name="max_video_length">
+        <item quantity="other">Videoclipurile pot dura până la %1$4d secunde</item>
+        <item quantity="one">Videoclipurile pot dura până la %1$4d secundă</item>
+    </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s mesaje</item>
         <item quantity="one">%1$s mesaj</item>

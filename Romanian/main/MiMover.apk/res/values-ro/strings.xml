@@ -384,6 +384,22 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="lack_perm_msg">Mi Mover necesită acordarea următoarelor permisiuni pentru a funcționa în mod normal: &lt;b>%s&lt;/b>.</string>
     <string name="lack_perm_title">Sunt necesare permisiuni</string>
     <string name="launcher">Dispunerea ecranului principal</string>
+    <string name="league_acquire_accept">De acord</string>
+    <string name="league_acquire_message1">Pentru a putea transfera aplicații terțe și datele acestora de pe acest dispozitiv pe noul dvs. dispozitiv %s, sunt necesare următoarele permisiuni:</string>
+    <string name="league_acquire_message2">Permiteți Mi Mover să acceseze datele aplicațiilor terțelor părți</string>
+    <string name="league_acquire_message3">Aceasta este o permisiune unică folosită doar pentru a transfera date. Odată ce transferul este finalizat, Mi Mover va înceta automat să mai folosească această permisiune.</string>
+    <string name="league_acquire_message4">Dacă nu sunteți de acord să acordați această permisiune, nu veți putea transfera aplicații terțe și datele acestora.</string>
+    <string name="league_acquire_refuse">Nu sunt de acord"</string>
+    <string name="league_acquire_title">Permisiuni necesare</string>
+    <string name="league_check_service_content">Mi Mover oferă servicii de transfer pentru %s și nu este disponibil momentan.</string>
+    <string name="league_check_service_title">Transferați folosind %s</string>
+    <string name="league_client_acquire">Deschideți %s</string>
+    <string name="league_client_hint_text">Cloning Alliance poate ajuta la transferul datelor aplicațiilor terțelor părți (de exemplu, istoriile de chat WeChat și QQ). Atingeți \"%s\" pentru a continua cu noi sau atingeți \"Nu acum\" pentru a continua fără a transfera aplicații și date terță parte.</string>
+    <string name="league_client_install">Instalați %s</string>
+    <string name="league_client_title">Transferați cu Mi Mover</string>
+    <string name="league_client_traditional">Nu acum</string>
+    <string name="league_client_update">Actaulizați %s</string>
+    <string name="league_mi_device">Xiaomi</string>
     <string name="less_than_1_minute">Mai puțin de 1 minut</string>
     <string name="loading_data">Doar o secundă…</string>
     <string name="location_permission_desc">Pentru descoperirea dispozitivelor din apropiere</string>
@@ -672,6 +688,7 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
 - Mesajele text
 - Stocare"</string>
     <string name="request_all_permission_title">Sunt necesare unele permisiuni</string>
+    <string name="request_permission">Permiteți</string>
     <string name="restore_data_to_device_content">"Elementele dvs. au fost sincronizate în Xiaomi Cloud.
 Conectați-vă la contul Xiaomi pentru a le restaura."</string>
     <string name="restore_data_to_device_title">Restaurați elementele pe acest dispozitiv</string>

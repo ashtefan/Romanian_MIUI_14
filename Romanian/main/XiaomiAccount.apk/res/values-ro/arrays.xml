@@ -19,6 +19,16 @@
         <item>Modificați parola contului Xiaomi</item>
         <item>Modificați parola;Actualizați parola;Cont Xiaomi;Cont</item>
     </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Spatiu de stocare familial</item>
+        <item>Vizualizați/activați spațiul de stocare familial</item>
+        <item>Spațiu de stocare familial; Partajare stocare</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Servicii pentru familie</item>
+        <item>Vizualizați/activați serviciile pentru familie</item>
+        <item>Familie;Servicii pentru familie;Partajare în familie</item>
+    </string-array>
     <string-array name="settings_search_help_center">
         <item>Ajutor</item>
         <item>Obțineți ajutor și suport referitor la Contul Xiaomi</item>

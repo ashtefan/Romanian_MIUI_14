@@ -297,6 +297,8 @@
     <string name="dialog_work_profile_content_2">Datele și aplicațiile de servici sunt vizibile administratorului IT</string>
     <string name="dialog_work_profile_title">Profil de servici</string>
     <string name="disable_wallpaper_scroll">Dezactivare derulare fundal</string>
+    <string name="dock_and_folder_not_edit_icon_tip">Pentru a edita, mai întâi mutați aplicația din dock și din dosar</string>
+    <string name="dock_not_edit_icon_tip">Pentru a edita, mai întâi mutați aplicația din dock</string>
     <string name="double_tap_to_lock_title">Atingeți de două ori pentru a debloca ecranul</string>
     <string name="download_action">Descărcare</string>
     <string name="drag_icon_to_homescreen_guide">Țineți apăsată pictograma unei aplicații, apoi trageți-o pentru a adăuga o comandă rapidă pe ecranul de pornire</string>
@@ -829,6 +831,8 @@ Securitate sporită."</string>
     <string name="quick_search_guide_quick_search">Căutare rapidă</string>
     <string name="quick_search_guide_title">Selectați modul implicit</string>
     <string name="recent_apps">Recente</string>
+    <string name="recent_menu_item_add_pair">Creați o comandă rapidă pe Ecranul principal pentru această combinație de ecran scindat</string>
+    <string name="recent_menu_item_add_pair_first_toast">Creați o comandă rapidă pe Ecranul principal pentru această combinație de ecran scindat</string>
     <string name="recent_menu_item_info">Informații</string>
     <string name="recent_menu_item_lock">Blocați</string>
     <string name="recent_menu_item_multi_window">Scindați</string>

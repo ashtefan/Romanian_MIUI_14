@@ -5515,7 +5515,7 @@ Continuați pentru a accesa setările adiționale."</string>
     <string name="miui_sos_exit_dialog_ok">OK</string>
     <string name="miui_sos_exit_dialog_title">Se dezactivează mesajele SOS</string>
     <string name="miui_sos_green_guard_summary">Partajați informațiile despre locație în timp real</string>
-    <string name="miui_sos_green_guard_title">Controale parentale</string>
+    <string name="miui_sos_green_guard_title">Control parental</string>
     <string name="miui_sos_launch_error">"Nu s-au putut activa mesajele SOS"</string>
     <string name="miui_sos_launch_error_confirm">Am înțeles</string>
     <string name="miui_sos_launch_error_message">"Nu se poate conecta la rețeaua mobilă. Nu se pot utiliza mesajele SOS."</string>
@@ -5933,7 +5933,7 @@ Selectaţi sistemul de operare:"</string>
     <string name="network_4G">4G (recomandat)</string>
     <string name="network_4G_pure">4G</string>
     <string name="network_5G_recommended">5G (recoandat)</string>
-    <string name="network_acceleration">Accelararea rețelei</string>
+    <string name="network_acceleration">Accelerarea rețelei</string>
     <string name="network_alarm">Nu redu la tăcere apelurile prin internet</string>
     <string name="network_alarm_summary">Notă: Unele aplicații nu sunt compatibile cu această funcție. %1$s</string>
     <string name="network_alarm_summary_reg">Vedeți aplicațiile suportate</string>
@@ -7337,6 +7337,7 @@ Această setare afectează toţi utilizatorii acestui telefon."</string>
     <string name="rx_link_speed">%1$d Mbps</string>
     <string name="rx_link_speed_label">Viteza de primire link:</string>
     <string name="rx_wifi_speed">Viteza de primire link</string>
+    <string name="safe_install_mode_settings">Mi Protect</string>
     <string name="safety_and_regulatory_info">Manual de securitate și reglementare</string>
     <string name="safety_center_summary">Securitatea aplicației, blocarea dispozitivului, permisiunile</string>
     <string name="safety_center_title">Securitate și intimitate</string>

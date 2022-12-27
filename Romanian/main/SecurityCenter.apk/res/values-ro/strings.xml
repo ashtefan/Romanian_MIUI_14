@@ -946,7 +946,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="battery_status_level_poor">Nesatisfăcătoare</string>
     <string name="battery_status_overheat">Supraîncălzire</string>
     <string name="battery_status_unknown">Eroare necunoscută</string>
-    <string name="battery_temperature_title">Temperatură</string>
+    <string name="battery_temperature_title">Temperatura</string>
     <string name="beauty_fc_assistant">Asistent cameră frontală</string>
     <string name="beauty_fc_assistant_summary_common">Utilizați funcții suplimentare cu camera frontală</string>
     <string name="beauty_fc_auto_brightness">Reglați automat luminozitatea luminii de umplere</string>
@@ -3781,7 +3781,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="power_center_surface_temp_higher">Cald</string>
     <string name="power_center_surface_temp_low">Rece</string>
     <string name="power_center_surface_temp_lower">Rece</string>
-    <string name="power_center_surface_temp_normal">Normal</string>
+    <string name="power_center_surface_temp_normal">Normală</string>
     <string name="power_center_time_to_boot">Ora de pornire</string>
     <string name="power_center_time_to_shutdown">Ora de oprire</string>
     <string name="power_center_title">Acumulator</string>

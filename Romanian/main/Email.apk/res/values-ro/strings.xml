@@ -359,7 +359,7 @@ căii pentru accesul IMAP</string>
     <string name="default_setup">SETĂRI PRESTABILITE</string>
     <string name="default_signature">Trimis de pe dispozitivul Xiaomi</string>
     <string name="default_signature_2">Trimis de pe %s</string>
-    <string name="default_signature_pad">Trimis de pe dispozitivul Xiaomi</string>
+    <string name="default_signature_pad">Trimis de pe dispozitivul meu Xiaomi</string>
     <string name="default_signature_phone">Trimis de pe dispozitivul meu Xiaomi</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_contact_content">Ștergeți acest contact acum?</string>
