@@ -234,6 +234,7 @@ Atingeți pentru a o vizualiza"</string>
     <string name="preference_copied">\"%1$s\" a fost copiat în clipboard.</string>
     <string name="privacy_settings">Confidențialitate</string>
     <string name="quit_recording">Ieșiți din Înregistrare ecran</string>
+    <string name="record_time_too_short">Videoclipul înregistrat este prea scurt</string>
     <string name="recording_failure">"Nu s-a putut înregistra; reluați înregistrarea"</string>
     <string name="recording_max_size">"Înregistrarea a fost oprită și salvată datorită atingerii dimensiunii maxime a videoclipului. Reluați înregistrarea de unde ați rămas dacă nu ați finalizat captarea."</string>
     <string name="recording_without_mic">"Microfonul este în uz și nu poate înregistra sunetele"</string>

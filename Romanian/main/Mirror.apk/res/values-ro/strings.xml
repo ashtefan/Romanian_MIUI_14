@@ -41,7 +41,9 @@
     <string name="cast_mcc_tips_button_cancel">Ignorați</string>
     <string name="cast_mcc_tips_button_ok">Setări</string>
     <string name="cast_mcc_tips_message">Pentru a evita întârzierile în timpul utilizării MIUI+, conectați ambele dispozitive la aceeași rețea Wi-Fi.</string>
+    <string name="cast_mcc_tips_message_china">Pentru a evita întârzierile în timpul utilizării MIUI+, conectați ambele dispozitive la aceeași rețea Wi-Fi.</string>
     <string name="cast_mcc_tips_title">Modificați setările Wi-Fi</string>
+    <string name="cast_mcc_tips_title_china">Modificați setările Wi-Fi</string>
     <string name="circulate_cta_agree">Accept</string>
     <string name="circulate_cta_app_name">Mi Smart Hub</string>
     <string name="circulate_cta_desc_phone">Bun venit la Mi Smart Hub! Puteți folosi această aplicație pentru a proiecta conținut pe ecran, a transfera redarea multimedia pe dispozitive, a utiliza Mi Smart Play, MIUI+ și transferul aplicației. Această aplicație trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a putea funcționa normal:</string>
@@ -52,7 +54,9 @@
     <string name="circulate_cta_premission_storage_subtitle">Pentru trimiterea și primirea fișierelor transferate</string>
     <string name="circulate_cta_premission_storage_title">Accesare și salvare articole în spațiul de stocare</string>
     <string name="circulate_cta_premission_wlan_subtitle">Pentru transferul de articole și conectarea dispozitivelor prin Wi-Fi</string>
+    <string name="circulate_cta_premission_wlan_subtitle_china">Pentru transferul de articole și conectarea dispozitivelor prin Wi-Fi</string>
     <string name="circulate_cta_premission_wlan_title">Activați și dezactivați Wi-Fi-ul</string>
+    <string name="circulate_cta_premission_wlan_title_china">Activați și dezactivați Wi-Fi-ul</string>
     <string name="circulate_cta_user_agreement">Citiți și acceptați &lt;txt href=\"%1$s\">Acordul pentru utilizator&lt;/txt> și &lt;txt href=\"%2$s\">Politica de confidențialitate&lt;/txt> înainte de a continua.</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="close">Închideți</string>
@@ -85,6 +89,7 @@
     <string name="enable_wifi_alert_cancel">Renunțați</string>
     <string name="enable_wifi_alert_message">MIUI+ Beta conectează dispozitivele utilizând Wi-Fi. Activați Wi-Fi-ul acum?</string>
     <string name="enable_wifi_alert_message_china">MIUI+ Beta conectează dispozitivele utilizând Wi-Fi. Activați Wi-Fi-ul acum?</string>
+    <string name="enable_wifi_alert_message_for_photo_relay">MIUI+ vă permite să comutați fără probleme între dispozitive atunci când trebuie să editați fotografiile făcute cu telefonul pe tabletă. Activați Wi-Fi pentru a utiliza transferul?</string>
     <string name="enable_wifi_alert_message_for_photo_relay_china">MIUI+ vă permite să comutați fără probleme între dispozitive atunci când trebuie să editați fotografiile făcute cu telefonul pe tabletă. Activați Wi-Fi pentru a utiliza transferul?</string>
     <string name="enable_wifi_alert_ok">Pornește</string>
     <string name="enable_wifi_alert_title">Pornește Wi-Fi</string>
@@ -157,6 +162,15 @@
     <string name="generic_error_no_device_credential">Niciun cod PIN, model sau parolă setate.</string>
     <string name="generic_error_no_keyguard">Acest dispozitiv nu acceptă codul PIN, modelul sau parola.</string>
     <string name="generic_error_user_canceled">Autentificare anulată de către utilizator.</string>
+    <string name="global_cta_agree">De acord</string>
+    <string name="global_cta_desc">Bun venit la %s! Aplicația noastră oferă următoarele servicii:</string>
+    <string name="global_cta_exit">Nu sunt de acord</string>
+    <string name="global_cta_feature_connect">Conectarea telefoanelor și a tabletelor folosind contul dvs. Xiaomi</string>
+    <string name="global_cta_feature_control">Vizualizarea și utilizarea aplicațiilor pentru smartphone pe tabletă</string>
+    <string name="global_cta_user_agreement">Înainte de a utiliza %1$s, citiți și acceptați &lt;txt href=\"%2$s\">Acordul nostru de utilizare&lt;/txt> și &lt;txt href=\"%3$s\">Politica de confidențialitate&lt;/txt>.</string>
+    <string name="guide_window_btn_know">Am înțeles</string>
+    <string name="guide_window_operation">Glisați din lateral spre centrul ecranului</string>
+    <string name="guide_window_title">Mergeți înapoi</string>
     <string name="http_buffer_size">Dimensiune cache HTTP</string>
     <string name="loading">Doar o secundă…</string>
     <string name="loading_view_abort_close_text">Închideți</string>
@@ -166,9 +180,16 @@
     <string name="loading_view_load_timeout_close">Am înțeles</string>
     <string name="loading_view_load_timeout_sub">"Asigurați-vă că Wi-Fi este activat pe ambele dispozitive și că acestea sunt aproape unul de celălalt.
 Puteți începe o altă sesiune pe computer."</string>
+    <string name="loading_view_load_timeout_sub_china">"Asigurați-vă că Wi-Fi este activat pe ambele dispozitive și că acestea sunt aproape unul de celălalt.
+Puteți începe o altă sesiune pe computer."</string>
     <string name="lock_layout_sub">Deblocați pentru a continua</string>
     <string name="lock_layout_title">Computerul este blocat</string>
     <string name="log_warning">Comutarea butoanelor de jurnal poate crește riscurile de securitate și poate afecta performanța. Folosiți aceste comutatoare numai atunci când este necesar.</string>
+    <string name="login_xiaomi_account_cancel">Renunțați</string>
+    <string name="login_xiaomi_account_goto_login">Conectați-vă</string>
+    <string name="login_xiaomi_account_summary_pad">Pentru a vă putea conecta la alte telefoane, utilizați același cont Xiaomi pe ambele dispozitive conectate. Vă conectați acum?</string>
+    <string name="login_xiaomi_account_summary_phone">Pentru a vă putea conecta la alte tablete, utilizați același cont Xiaomi pe ambele dispozitive conectate. Vă conectați acum?</string>
+    <string name="login_xiaomi_account_title">Conectați-vă la contul Xiaomi</string>
     <string name="low_battery_notification_action">Activați</string>
     <string name="low_battery_notification_content">Mai puțin de %2$d%% acumulator disponibil pe %1$s. Activați Economisirea acumulatorului.</string>
     <string name="low_battery_notification_title">Acumulator descărcat</string>
@@ -251,6 +272,9 @@ Puteți începe o altă sesiune pe computer."</string>
     <string name="not_set">Nesetat</string>
     <string name="notification_channel_description_download">Afișează progresul descărcării în Perdeaua de notificări</string>
     <string name="notification_channel_name_download">Afișează progresul descărcării</string>
+    <string name="notification_state_cancel">Deconectați-vă</string>
+    <string name="notification_state_content">Acest dispozitiv este conectat la computerul lui %1$s. Puteți partaja acum dispozitive de intrare, fișiere și imagini.</string>
+    <string name="notification_state_title">Conectat cu succes</string>
     <string name="notify_clip_action_browser">Vizitați</string>
     <string name="notify_clip_action_call">Apelați</string>
     <string name="notify_clip_action_navigation">Navigați</string>
@@ -264,6 +288,7 @@ Puteți începe o altă sesiune pe computer."</string>
     <string name="pad_mirror_device_locked_tips_3">Atingeți de două ori pentru a trezi</string>
     <string name="pad_mirror_disconnect_tips_1">S-a pierdut conexiunea</string>
     <string name="pad_mirror_disconnect_tips_2">Asigurați-vă că Wi-Fi și Bluetooth sunt activate pe ambele dispozitive și încercați din nou.</string>
+    <string name="pad_mirror_disconnect_tips_2_china">Asigurați-vă că Wi-Fi și Bluetooth sunt activate pe ambele dispozitive și încercați din nou.</string>
     <string name="pad_pc_app_introduction_summary">Utilizați aplicații pentru tabletă pe computer</string>
     <string name="pad_pc_app_introduction_title">Aplicații</string>
     <string name="pad_pc_extend_introduction_summary">Extindeți ecranul computerului la tabletă</string>
@@ -272,6 +297,8 @@ Puteți începe o altă sesiune pe computer."</string>
     <string name="pad_pc_message_introduction_title">Clipboard partajat</string>
     <string name="pad_pc_mirror_introduction_summary">Oglindiți ecranul computerului pe tabletă</string>
     <string name="pad_pc_mirror_introduction_title">Oglindire ecran</string>
+    <string name="pad_pc_share_introduction_summary">Utilizați mouse-ul și tastatura computerului cu această tabletă</string>
+    <string name="pad_pc_share_introduction_title">Dispozitive de intrare</string>
     <string name="pad_settings_bluetooth_enable_summary">Activați Bluetooth-ul pentru a putea găsi dispozitive în apropiere. Porniți acum?</string>
     <string name="pad_settings_bluetooth_enable_title">Activați Bluetooth-ul</string>
     <string name="pad_settings_click_toast_msg">Conectați-vă folosind Mi Smart Hub pe computer</string>
@@ -333,6 +360,7 @@ Puteți începe o altă sesiune pe computer."</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="privacy_all_purpose">Bine ați venit la MIUI + Beta! Puteți utiliza această aplicație pentru a vă conecta telefonul la un computer și a combina cele 2 dispozitive într-o singură stație de lucru.</string>
     <string name="privacy_describe_change_wifi_state">Pentru conectarea dispozitivelor și transferul fișierelor utilizând Wi-Fi</string>
+    <string name="privacy_describe_change_wifi_state_china">Pentru conectarea dispozitivelor și transferul fișierelor utilizând Wi-Fi</string>
     <string name="privacy_describe_location">Pentru găsirea computerelor din apropiere și transferul de fișiere</string>
     <string name="privacy_describe_record_audio">Pentru redirecționarea redării audio către computer</string>
     <string name="privacy_describe_storage">Pentru trimiterea și primirea de fișiere</string>
@@ -408,6 +436,18 @@ Puteți începe o altă sesiune pe computer."</string>
     <string name="settings_trusted_device_group">Dispozitive care se conectează automat</string>
     <string name="settings_trusted_device_none">Niciun dispozitiv aici</string>
     <string name="settings_trusted_tips">Conectați-vă automat la dispozitivele din apropiere selectate atunci când Bluetooth și Wi-Fi sunt activate</string>
+    <string name="settings_trusted_tips_china">Conectați-vă automat la dispozitivele selectate din apropiere când Bluetooth și Wi-Fi sunt activate</string>
+    <string name="share_pc_abort_dialog_message">Asigurați-vă că Bluetooth și Wi-Fi sunt activate pe ambele dispozitive și reporniți sesiunea pe computer.</string>
+    <string name="share_pc_abort_dialog_message_china">Asigurați-vă că Bluetooth și Wi-Fi sunt activate pe ambele dispozitive și reporniți sesiunea pe computer.</string>
+    <string name="share_pc_abort_dialog_ok">Am înțeles</string>
+    <string name="share_pc_abort_dialog_title">Conexiunea a fost înteruptă</string>
+    <string name="share_pc_file_transfer_finish">Transferat cu succes</string>
+    <string name="share_pc_folder_error_dialog_message">Tragerea dosarelor pentru a le transfera nu este acceptată în prezent.</string>
+    <string name="share_pc_folder_error_dialog_ok">Am înțeles</string>
+    <string name="share_pc_folder_error_dialog_title">Nu s-a putut transfera</string>
+    <string name="share_pc_folder_multi_error_dialog_message">Fișierele selectate au fost transferate cu succes. Transferul dosarelor nu este acceptat momentan.</string>
+    <string name="share_pc_folder_multi_error_dialog_ok">Am înțeles</string>
+    <string name="share_pc_folder_multi_error_dialog_title">Nu s-au putut transfera toate elementele</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
@@ -448,9 +488,12 @@ pentru a continua"</string>
     <string name="switch_wlan_action">Conectați-vă</string>
     <string name="switch_wlan_failed">Nu s-a putut conecta</string>
     <string name="switch_wlan_failed_desc">Nu s-a putut conecta automat la această rețea Wi-Fi. Încercați să vă conectați manual din Setări.</string>
+    <string name="switch_wlan_failed_desc_china">Nu s-a putut conecta automat la această rețea Wi-Fi. Încercați să vă conectați manual din Setări.</string>
     <string name="switch_wlan_success">Conectat cu succes</string>
     <string name="switch_wlan_tips">Conectați-vă la aceeași rețea</string>
+    <string name="switch_wlan_tips_china">Conectați-vă la aceeași rețea</string>
     <string name="switch_wlan_tips_desc">Vă puteți conecta la aceeași rețea Wi-Fi ca și celălalt dispozitiv pentru o experiență mai bună. Vă conectați acum?</string>
+    <string name="switch_wlan_tips_desc_china">Vă puteți conecta la aceeași rețea Wi-Fi ca și celălalt dispozitiv pentru o experiență mai bună. Vă conectați acum?</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversarea ridicării Legii Marțiale</string>
     <string name="the_anti_aggression_day">Ziua anti-agresiune</string>
     <string name="the_arbor_day">Ziua Copacului</string>

@@ -33,6 +33,12 @@
         <item>Microfon</item>
         <item>Sunete de sistem</item>
     </string-array>
+    <string-array name="screenrecorder_settings_sound_native">
+        <item>Niciunul</item>
+        <item>Microfon</item>
+        <item>Sistem</item>
+        <item>Ambele</item>
+    </string-array>
     <string-array name="screenrecorder_settings_storage_location">
         <item>Stocarea internă</item>
         <item>Stocarea externă</item>

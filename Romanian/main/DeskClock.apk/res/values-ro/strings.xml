@@ -77,7 +77,7 @@
     <string name="am">AM</string>
     <string name="analog_gadget">Ceas analogic</string>
     <string name="app_label">Ceas</string>
-    <string name="app_name">MiuiSettingsCommonLib</string>
+    <string name="app_name">miuiclock</string>
     <string name="auto_silence_never">Niciodată</string>
     <string name="auto_silence_summary">Setați timpul după care alarmele și temporizatoarele vor fi reduse la tăcere</string>
     <string name="auto_silence_title">Dezactivare automată a sunetului</string>
@@ -307,6 +307,24 @@
     <string name="menu_item_sort_by_gmt_offset">Sortaţi după fusul orar</string>
     <string name="menu_item_sort_by_name">Sortaţi după nume</string>
     <string name="midnight">Noapte</string>
+    <string name="miui_clock_city_name_local">Local</string>
+    <string name="miui_clock_city_name_second">Ceas secundar</string>
+    <string name="miui_clock_fancy_colon"></string>
+    <string name="miui_digital_clock_dot">:</string>
+    <string name="miui_lock_screen_date">EEE, dd MMM</string>
+    <string name="miui_lock_screen_date_12">EEE, dd MMM</string>
+    <string name="miui_lock_screen_date_two_lines">"dd MMM
+EEE"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"dd MMM
+EEE"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+d/M"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+d/M"</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
     <string name="miuix_access_state_desc">Selectat</string>
     <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>

@@ -76,10 +76,10 @@
     <string name="close_invisible_mode_dialog_ok">Setări</string>
     <string name="close_invisible_mode_dialog_title">Sunteți în modul Incognito</string>
     <string name="control_center_notification_switch_guide">Glisați pentru a comuta între Centrul de control și Perdeaua de notificare</string>
-    <string name="controls_add_device_guide">Încă nu există dispozitive aici</string>
-    <string name="controls_click_to_add_device">Adăugați dispozitive</string>
+    <string name="controls_add_device_guide">Nu ați adăugat niciun dispozitiv inteligent pentru casă încă</string>
+    <string name="controls_click_to_add_device">Adăugați</string>
     <string name="controls_confirmation_message">Confirmați modificarea pentru %s</string>
-    <string name="controls_default_structure">Dispozitive inteligente de acasă</string>
+    <string name="controls_default_structure">Casă inteligentă</string>
     <string name="controls_dialog_confirmation">Controale actualizate</string>
     <string name="controls_dialog_message">%s a sugerat să adăugați acest control la favorite.</string>
     <string name="controls_dialog_ok">Adăugați la favorite</string>
@@ -92,7 +92,7 @@
     <string name="controls_dismiss_dialog_message_international">Eliminați cardul \"Casa inteligentă\" acum? Îl veți putea restaura din Setări > Centrul de Control.</string>
     <string name="controls_dismiss_dialog_title">Dispozitive din casa inteligentă</string>
     <string name="controls_dismiss_dialog_title_international">Eliminați cardul</string>
-    <string name="controls_edit_add_device_guide">Nu există dispozitive disponibile de adăugat</string>
+    <string name="controls_edit_add_device_guide">Niciun dispozitiv aici deocamdată</string>
     <string name="controls_edit_added_subtitle">Trageți elementele pentru a le rearanja</string>
     <string name="controls_edit_added_title">Adăugat</string>
     <string name="controls_edit_done_button">Finalizat</string>
@@ -112,7 +112,7 @@
     <string name="controls_favorite_removed">Toate controalele au fost eliminate</string>
     <string name="controls_favorite_subtitle">Alegeți controalele pe care doriți să le accesați din meniul de pornire</string>
     <string name="controls_favorite_toast_no_changes">Modificările nu au fost salvate</string>
-    <string name="controls_loading_device">Se schimbă locațiile</string>
+    <string name="controls_loading_device">Se schimbă locațiile…</string>
     <string name="controls_media_title">Media</string>
     <string name="controls_menu_add">Adăugați controale</string>
     <string name="controls_mijia_setup_subtitle">Selectați aplicațiile pentru a adăuga dispozitive și pentru a le gestiona aici</string>
@@ -121,8 +121,8 @@
     <string name="controls_no_device_subtitle">Adăugați mai întâi dispozitivele în %s.</string>
     <string name="controls_no_device_title">Nu s-au putut găsi dispozitive</string>
     <string name="controls_no_favorites_title">Selectați aplicațiile pentru gestionarea dispozitivelor inteligente aici</string>
-    <string name="controls_not_found_device_toast">Acest articol a fost eliminat din aplicație</string>
-    <string name="controls_not_found_device_toast_mihome">Acest articol a fost eliminat din aplicație</string>
+    <string name="controls_not_found_device_toast">Acest articol a fost deja eliminat din aplicație</string>
+    <string name="controls_not_found_device_toast_mihome">Acest articol a fost deja eliminat din aplicație</string>
     <string name="controls_offline_device_toast">Acest dispozitiv este offline. Apăsați lung pentru a deschide aplicația.</string>
     <string name="controls_pin_instructions">Introduceți codul PIN</string>
     <string name="controls_pin_instructions_retry">Încercați alt cod PIN</string>
@@ -133,7 +133,7 @@
     <string name="controls_removed">eliminat</string>
     <string name="controls_seeding_in_progress">Se încarcă recomandările</string>
     <string name="controls_structure_tooltip">Glisați pentru a vedea mai mult</string>
-    <string name="controls_unsupport_toggle_toast">Nu pot controla acest dispozitiv de aici. Apăsați lung pentru a deschide aplicația.</string>
+    <string name="controls_unsupport_toggle_toast">Acest dispozitiv nu acceptă acțiuni rapide. Apăsați lung pentru a deschide aplicația.</string>
     <string name="copy">Copiați</string>
     <string name="date_picker_lunar">Calendar Chinezesc Tradițional</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>

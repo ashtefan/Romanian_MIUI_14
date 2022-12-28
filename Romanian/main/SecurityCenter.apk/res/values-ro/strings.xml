@@ -3486,6 +3486,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_hidemode_power_save">Energie</string>
     <string name="pc_high_temp_protection_noti_bt_text">Am înțeles</string>
     <string name="pc_high_temp_protection_noti_summary">"Nu se pot folosi punctele de acces, datele mobile și serviciile de localizare acum"</string>
+    <string name="pc_high_temp_protection_noti_summary2">Nu se pot folosi punctele de acces acum</string>
     <string name="pc_high_temp_protection_noti_tile">Dispozitivul dvs. este supraîncălzit</string>
     <string name="pc_install_manager">Instalare prin USB</string>
     <string name="pc_main_activity_back">Înapoi</string>

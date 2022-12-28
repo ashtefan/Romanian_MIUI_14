@@ -151,13 +151,21 @@
     <string name="app_cache">Cache</string>
     <string name="app_id">Firebase App ID(Click Pentru Export)</string>
     <string name="app_library_category_entertainment">Divertisment</string>
+    <string name="app_library_category_financial_management">Finanțe</string>
     <string name="app_library_category_games">Jocuri</string>
+    <string name="app_library_category_health_and_exercise">Sănătate</string>
+    <string name="app_library_category_individualization">Personalizare</string>
     <string name="app_library_category_information">Media</string>
     <string name="app_library_category_lifestyle">Mod de viață</string>
+    <string name="app_library_category_originality">Creativitate</string>
     <string name="app_library_category_others">Altele</string>
     <string name="app_library_category_productivity">Productivitate</string>
+    <string name="app_library_category_reading_and_information">Știri</string>
+    <string name="app_library_category_shopping_and_food">Cumpărături</string>
     <string name="app_library_category_social">Social</string>
+    <string name="app_library_category_travel">Călătorii</string>
     <string name="app_library_category_utility">Unelte</string>
+    <string name="app_library_category_work_and_efficiency">Productivitate</string>
     <string name="app_library_title">Aplicații</string>
     <string name="app_name">ConvenientBanner</string>
     <string name="app_name_bluetooth">Bluetooth</string>
@@ -489,6 +497,7 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="close_all_tab_alert_title">Închideţi toate filele</string>
     <string name="close_cant_recommand">Nu veți primi servicii de conținut personalizat dacă dezactivați această funcție.</string>
     <string name="close_cloud_tab_tip">Închideți filele Cloud din %s?</string>
+    <string name="close_desktop">S-a dezactivat versiunea desktop</string>
     <string name="cloud_loading_tips">Glisați în jos pentru a sincroniza</string>
     <string name="cloud_no_new_data_toast">Totul este la zi</string>
     <string name="cloud_sync_closed_toast">"Nu s-a putut actualiza deoarece sincronizarea este oprită"</string>
@@ -1890,6 +1899,7 @@ Părăsiți această pagină acum?"</string>
     <string name="ok">OK</string>
     <string name="one_prefect_author">Creator</string>
     <string name="open_app_confirm_message">Permiteți acestei pagini să deschidă %s?</string>
+    <string name="open_desktop">S-a comutat cu succes la versiunea desktop</string>
     <string name="open_google_gaid">Pentru a putea folosi această funcție, asigurați-vă că nu ați renunțat la personalizarea anunțurilor în Setări > Google > Anunțuri.</string>
     <string name="open_personalized_services">Activați serviciile personalizate pentru a putea folosi această funcție.</string>
     <string name="open_private_folder">Eliberați pentru a vedea dosarele ascunse</string>
