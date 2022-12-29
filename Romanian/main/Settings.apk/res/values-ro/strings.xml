@@ -868,6 +868,8 @@ Modificați setările acum?"</string>
     <string name="app_permissions">Permisiunile aplicației</string>
     <string name="app_permissions_summary">Aplicații ce utilizează %1$s</string>
     <string name="app_permissions_summary_more">Aplicații ce utilizează %1$s și mai mult</string>
+    <string name="app_pinning_intro">Fixarea aplicației vă permite să păstrați aplicația curentă la vedere până când o anulați fixarea. Această funcție poate fi folosită, de exemplu, pentru a permite unui prieten de încredere să joace un anumit joc.</string>
+    <string name="app_pinning_main_switch_title">Utilizați fixarea aplicației</string>
     <string name="app_process_limit_title">Limita proceselor în fundal</string>
     <string name="app_restricted_settings_lockscreen_title">Permiteți setări restricționate</string>
     <string name="app_restrictions_custom_label">Setați restricțiile aplicației</string>
@@ -877,6 +879,7 @@ Modificați setările acum?"</string>
     <string name="app_special_disable_dlg_text">Dacă dezactivaţi această aplicaţie, este posibil ca alte aplicaţii să funcţioneze anormal. Datele dvs. vor fi, de asemenea, şterse.</string>
     <string name="app_special_disable_dlg_title">Ştergeţi datele şi dezactivaţi aplicaţia?</string>
     <string name="app_switch_key">Recente</string>
+    <string name="app_uninstall_sounds_enable_title">Redați un sunet când dezinstalați aplicații</string>
     <string name="app_usage_cycle">Ciclu de utilizare date mobile</string>
     <string name="app_usage_preference">Preferințe utilizare aplicație</string>
     <string name="app_version">Versiune</string>
@@ -906,6 +909,7 @@ Modificați setările acum?"</string>
     <string name="apply_password_to_category_title">Necesită deblocare</string>
     <string name="apply_update_fail">Actualizare eşuată</string>
     <string name="approve_title">Certificări</string>
+    <string name="apps_dashboard_title">Aplicații</string>
     <string name="apps_storage">Stocare aplicații</string>
     <string name="apps_summary">%1$d aplicații instalate</string>
     <string name="apps_summary_example">24 aplicații instalate</string>
@@ -925,6 +929,9 @@ Modificați setările acum?"</string>
     <string name="assist_footer">Aplicațiile de asistare vă pot ajuta bazându-se pe informațiile de pe ecran. Unele aplicații permit servicii de lansare și introducere vocală pentru a vă acorda asistență integrată.</string>
     <string name="assist_gesture_title">Gesturi de asistență</string>
     <string name="assistance_category_title">Accesibilitate</string>
+    <string name="assistant_corner_gesture_summary">Glisați în sus dintr-un colț de jos pentru a invoca aplicația de asistent digital.</string>
+    <string name="assistant_corner_gesture_title">Glisați pentru a invoca asistentul</string>
+    <string name="assistant_gesture_category_title">Asistent digital</string>
     <string name="assistant_long_press_home_gesture_summary">Apăsați și mențineți apăsat butonul Acasă pentru a invoca aplicația asistent digital.</string>
     <string name="assistant_long_press_home_gesture_title">Mențineți apăsat butonul Acasă pentru Asistent</string>
     <string name="assistant_security_warning">Asistentul va putea citi informații despre aplicațiile utilizate, inclusiv informații vizibile pe ecran sau accesibile din aplicații.</string>
@@ -940,6 +947,10 @@ Modificați setările acum?"</string>
     <string name="asst_capability_prioritizer_title">Prioritate adaptivă pentru notificări</string>
     <string name="asst_capability_ranking_summary">Clasificați automat notificările după relevanță</string>
     <string name="asst_capability_ranking_title">Clasificare adaptivă a notificărilor</string>
+    <string name="asst_feedback_indicator_summary">Indicați ajustările aduse notificărilor și afișați opțiunea de a oferi feedback sistemului</string>
+    <string name="asst_feedback_indicator_title">Feedback de notificare adaptiv</string>
+    <string name="asst_importance_reset_summary">Resetați setările de importanță modificate de utilizator și permiteți asistentului de notificare să acorde prioritate</string>
+    <string name="asst_importance_reset_title">Resetați importanța notificărilor</string>
     <string name="attempt_other_network">Comutați rețelele</string>
     <string name="au_pay">au PAY</string>
     <string name="audio_category_title">Audio</string>
@@ -1046,8 +1057,8 @@ Modificați setările acum?"</string>
     <string name="automatic_storage_manager_freed_bytes">"%1$s total obținut
 
 Ultima rulare pe %2$s"</string>
-    <string name="automatic_storage_manager_master_switch_title">Utilizați Managerul spațiului de stocare</string>
     <string name="automatic_storage_manager_preference_title">Manager spațiu de stocare</string>
+    <string name="automatic_storage_manager_primary_switch_title">Utilizați Managerul spațiului de stocare</string>
     <string name="automatic_storage_manager_settings">Gestionare spațiu de stocare</string>
     <string name="automatic_storage_manager_text">Pentru a vă ajuta să eliberați spațiu de stocare, managerul elimină de pe telefon fotografiile și videoclipurile care au fost sincronizate.</string>
     <string name="automatic_system_heap_dump_summary">Captează automat un jurnal pentru sistemul Android atunci când utilizează prea multă memorie</string>
@@ -1062,6 +1073,7 @@ Ultima rulare pe %2$s"</string>
     <string name="average_used">Medie utilizare (%)</string>
     <string name="avoid_ui">Blocare răspuns la atingere</string>
     <string name="awake">Durată de activitate a dispozitivului</string>
+    <string name="aware_summary_when_bedtime_on">Indisponibil deoarece modul Oră de culcare este activat</string>
     <string name="back">Înapoi</string>
     <string name="back_button">Înapoi</string>
     <string name="back_double_tap">Apăsare dublă a butonului înapoi</string>
@@ -1077,6 +1089,7 @@ Ultima rulare pe %2$s"</string>
 
 Pentru a restricționa aplicația, activați mai întâi optimizarea acumulatorului."</string>
     <string name="background_activity_summary">Permite aplicației să ruleze în fundal</string>
+    <string name="background_activity_summary_allowlisted">Nu poate fi restricționată utilizarea în fundal</string>
     <string name="background_activity_summary_disabled">Aplicația nu are permisiunea de a rula în fundal</string>
     <string name="background_activity_summary_whitelisted">Nu poate fi restricționată utilizarea în fundal</string>
     <string name="background_activity_title">Restricționare rulare în fundal</string>
@@ -1093,6 +1106,8 @@ Pentru a restricționa aplicația, activați mai întâi optimizarea acumulatoru
     <string name="background_traffic">În fundal %s</string>
     <string name="backtouch_enable_title">Ajustați volumul pentru partea posterioară</string>
     <string name="backup_at_once">Creați o copie de rezervă</string>
+    <string name="backup_calling_setting_summary">If %1$s este indisponibil sau în roaming, utilizați SIM-ul dvs. de date mobile pentru apeluri %1$s.</string>
+    <string name="backup_calling_settings_title">Apel de rezervă</string>
     <string name="backup_configure_account_default_summary">În prezent, niciun cont nu stochează datele cu copii de rezervă</string>
     <string name="backup_configure_account_title">Cont de rezervă</string>
     <string name="backup_data">Copii de rezervă</string>
@@ -1154,8 +1169,16 @@ Copiile de rezervă sunt stocate în Xiaomi Cloud și pot fi accesate printr-o c
     <string name="battery_action_stop">Opriţi forţat</string>
     <string name="battery_action_wifi">Setări Wi-Fi</string>
     <string name="battery_active_for">Activ pentru ^1</string>
+    <string name="battery_app_usage_for">Utilizarea aplicației pentru %s</string>
+    <string name="battery_app_usage_for_past_24">Utilizarea aplicației în ultimele 24 de ore</string>
     <string name="battery_auto_restriction_summary">Detectează când aplicațiile descarcă acumulatorul</string>
     <string name="battery_auto_restriction_title">Utilizați Gestionarea Acumulatorului</string>
+    <string name="battery_bg_usage">^1 fundal de la ultima încărcare completă</string>
+    <string name="battery_bg_usage_24hr">^1 fundal pentru ultimele 24 de ore</string>
+    <string name="battery_bg_usage_less_minute">Fundal la mai puțin de un minut de la ultima încărcare completă</string>
+    <string name="battery_bg_usage_less_minute_24hr">Fundal mai puțin de un minut în ultimele 24 de ore</string>
+    <string name="battery_bg_usage_less_minute_with_period">Fundal mai puțin de un minut pentru ^1</string>
+    <string name="battery_bg_usage_with_period">^1 fundal pentru ^2</string>
     <string name="battery_desc_apps">Acumulator utilizat de aplicaţie</string>
     <string name="battery_desc_bluetooth">Acumulator utilizat de Bluetooth</string>
     <string name="battery_desc_camera">Acumulator utilizat de Camera foto</string>
@@ -1233,7 +1256,11 @@ Copiile de rezervă sunt stocate în Xiaomi Cloud și pot fi accesate printr-o c
     <string name="battery_manager_summary">Detectează când aplicațiile consumă acumulatorul</string>
     <string name="battery_manager_summary_unsupported">Detectează când aplicațiile consumă acumulatorul</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
+    <string name="battery_missing_link_a11y_message">Atingeți pentru a afla mai multe despre această eroare</string>
+    <string name="battery_missing_message">Problemă la citirea contorului de baterie.</string>
     <string name="battery_msg_unaccounted">Utilizarea acumulatorului este o aproximare a energiei consumate și nu include orice sursă de consum. În fapt, reprezintă diferența dintre utilizarea energiei calculată aproximativ și scăderea nivelului de energie observată.</string>
+    <string name="battery_not_usage">Nicio utilizare de la ultima încărcare completă</string>
+    <string name="battery_not_usage_24hr">Nicio utilizare în ultimele 24 de ore</string>
     <string name="battery_overall_usage">%1$s din totalul acumulatorului</string>
     <string name="battery_percentage">Procent acumulator</string>
     <string name="battery_percentage_description">Afișează procentul disponibil al acumulatorului în bara de stare</string>
@@ -1247,10 +1274,13 @@ Copiile de rezervă sunt stocate în Xiaomi Cloud și pot fi accesate printr-o c
     <string name="battery_saver_auto_title">Activare automată</string>
     <string name="battery_saver_button_turn_off">Dezactivați acum</string>
     <string name="battery_saver_button_turn_on">Activați acum</string>
+    <string name="battery_saver_link_a11y">Aflați mai multe despre Economisirea acumulatorului</string>
+    <string name="battery_saver_main_switch_title">Utilizați Economisirea acumulatorului</string>
     <string name="battery_saver_master_switch_title">Utilizați Economisirea acumulatorului</string>
     <string name="battery_saver_off_scheduled_summary">Se va activa la %1$s</string>
     <string name="battery_saver_off_summary">Oprit</string>
     <string name="battery_saver_on_summary">Pornit</string>
+    <string name="battery_saver_pref_auto_routine_summary">Se va activa în funcție de rutina dvs.</string>
     <string name="battery_saver_schedule_settings_title">Setați un program</string>
     <string name="battery_saver_seekbar_title">%1$s</string>
     <string name="battery_saver_seekbar_title_placeholder">Activați</string>
@@ -1286,6 +1316,9 @@ Copiile de rezervă sunt stocate în Xiaomi Cloud și pot fi accesate printr-o c
     <string name="battery_sugg_wifi">"Dezactivaţi reţeaua Wi-Fi atunci când nu o utilizaţi sau când nu este disponibilă"</string>
     <string name="battery_suggestion_title">Îmbunătățiți durata de viață a acumulatorului</string>
     <string name="battery_summary">%1$s utilizat de la ultima încărcare completă</string>
+    <string name="battery_summary_24hr">%1$s utilizați în ultimele 24 de ore</string>
+    <string name="battery_system_usage_for">Utilizarea sistemului pentru %s</string>
+    <string name="battery_system_usage_for_past_24">Utilizarea sistemului în ultimele 24 de ore</string>
     <string name="battery_tip_dialog_message">"Ați folosit telefonul mai mult decât de obicei. Acumulatorul se poate descărca mai rapid decât se aștepta.
 
 Aplicațiile care descarcă acumulatorul:"</string>
@@ -1330,6 +1363,7 @@ Aplicații:
     <string name="beauty_camera">Înfrumusețare pentru apelurile video</string>
     <string name="beauty_camera_summary">Utilizați Înfrumusețarea pentru apelurile video WeChat</string>
     <string name="beauty_camera_switch">Înfrumusețare</string>
+    <string name="beauty_fc_assistant">Asistent cameră frontală</string>
     <string name="billing_cycle">Ciclu plată</string>
     <string name="billing_cycle_fragment_summary">Lunar începând de %1$s</string>
     <string name="billing_cycle_less_than_one_day_left">Mai puțin de o zi rămas</string>
@@ -1337,6 +1371,10 @@ Aplicații:
     <string name="bind_xiaomi_account_confirm">Adăugați</string>
     <string name="bind_xiaomi_account_dialog_summery">"Sunteți pe cale să adăugați contul Xiaomi %s. Dacă uitați parola, puteți utiliza acest cont pentru a o reseta."</string>
     <string name="bind_xiaomi_account_success">Contul Xiaomi a fost adăugat cu succes</string>
+    <string name="biometric_settings_category_ways_to_unlock">Modalități de deblocare</string>
+    <string name="biometric_settings_hand_back_to_guardian">Dă telefonul înapoi părintelui tău</string>
+    <string name="biometric_settings_hand_back_to_guardian_ok">OK</string>
+    <string name="biometric_settings_intro">Când configurați Deblocarea facială și Deblocarea cu amprentă, telefonul vă va cere amprenta atunci când purtați o mască sau vă aflați într-o zonă întunecată.</string>
     <string name="biometric_settings_use_biometric_for_apps">Verificați-vă identitatea în aplicații</string>
     <string name="biometric_settings_use_biometric_unlock_phone">Deblocați-vă telefonul</string>
     <string name="biometric_settings_use_face_or_fingerprint_preference_summary">Utilizarea chipului sau a amprentei</string>
@@ -1560,6 +1598,7 @@ Iată ce ar putea fi în neregulă:
     <string name="bluetooth_left_name">Stânga</string>
     <string name="bluetooth_lock_voice_dialing">Blocaţi apelarea vocală</string>
     <string name="bluetooth_lock_voice_dialing_summary">Împiedicaţi apelarea prin Bluetooth atunci când este blocat ecranul</string>
+    <string name="bluetooth_main_switch_title">Utilizați Bluetooth</string>
     <string name="bluetooth_map_acceptance_dialog_text">%1$s dorește să acceseze mesajele dvs. Oferiți acces pentru %2$s?</string>
     <string name="bluetooth_map_profile_summary_connected">Conectat la MAP</string>
     <string name="bluetooth_map_profile_summary_use_for">Utilizat pentru MAP</string>
@@ -1621,6 +1660,7 @@ Pentru a asocia pe cel din stânga, asigurați-vă că este pornit și gata de a
     <string name="bluetooth_pairing_rejected_error_message">Asociere respinsă de %1$s.</string>
     <string name="bluetooth_pairing_request">Solicitare de asociere prin Bluetooth</string>
     <string name="bluetooth_pairing_shares_phonebook">Permiteți accesul la agendă și la istoricul de apelare</string>
+    <string name="bluetooth_pairing_shares_phonebook_not_support_voice">Permiteți accesul la contacte</string>
     <string name="bluetooth_pairing_toast_add_to_blackfile">Blocat cu succes. Puteți gestiona elementele blocate în \"Setări adiționale\".</string>
     <string name="bluetooth_pairing_will_share_phonebook">Asocierea permite accesul la Agendă și la istoricul de apelare.</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Se perm. disp. acces la internet local</string>
@@ -1653,6 +1693,8 @@ Nu v-ați conectat la %2$s înainte."</string>
     <string name="bluetooth_profile_a2dp">Conţinut media audio</string>
     <string name="bluetooth_profile_a2dp_high_quality">Utilizați audio de înaltă calitate: %1$s</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Utilizați audio de înaltă calitate</string>
+    <string name="bluetooth_profile_bc">Profil BC</string>
+    <string name="bluetooth_profile_broadcast">Difuzare</string>
     <string name="bluetooth_profile_details">Setări pentru profil</string>
     <string name="bluetooth_profile_dun">Acces la Rețelele de tip Dial-up</string>
     <string name="bluetooth_profile_headset">Componenta audio a telefonului</string>
@@ -1715,6 +1757,8 @@ Selecție"</string>
     <string name="bluetooth_select_avrcp_version_string">Versiunea Bluetooth AVRCP</string>
     <string name="bluetooth_select_map_version_dialog_title">Selectați versiunea Bluetooth MAP</string>
     <string name="bluetooth_select_map_version_string">Versiune Bluetooth MAP</string>
+    <string name="bluetooth_setting_off">Oprit</string>
+    <string name="bluetooth_setting_on">Pornit</string>
     <string name="bluetooth_settings">Bluetooth</string>
     <string name="bluetooth_settings_summary">Gestionaţi conexiunile, setaţi numele dispozitivului şi detectabilitatea acestuia</string>
     <string name="bluetooth_settings_title">Bluetooth</string>
@@ -1771,7 +1815,8 @@ Selecție"</string>
     <string name="bluetooth_unpair_dialog_forget_confirm_button">Uitați dispozitivul</string>
     <string name="bluetooth_unpair_dialog_title">Uitați dispozitivul?</string>
     <string name="bluetooth_untether_blank">%1$s va fi deconectat.</string>
-    <string name="bluetooth_untethered_unpair_dialog_body">%1$s nu va mai fi asociat cu niciun dispozitiv legat la acest cont</string>
+    <string name="bluetooth_version">Versiune Bluetooth</string>
+    <string name="bluetooth_version_message">Actualizați</string>
     <string name="bluetooth_visibility_timeout">Timp limită pentru vizibilitate</string>
     <string name="bluetooth_wake">Trezește cu un dispozitiv audio Bluetooth</string>
     <string name="boot_sounds_title">Sunete la pornire</string>
@@ -1933,8 +1978,10 @@ Acest lucru afectează alte aplicații sau conversații în care ați activat an
     <string name="button_confirm_convert_fbe">Ștergeți și convertiți</string>
     <string name="button_convert_fbe">Ștergeți și convertiți…</string>
     <string name="button_disconnect_network">Deconectaţi de la reţea</string>
+    <string name="button_height_text">Un buton de confirmare generic (de exemplu, \"OK\", \"Terminat\")</string>
     <string name="button_light_timeout">Durată iluminare taste</string>
     <string name="button_navigation_settings_activity_title">Navigare utilizând butoane</string>
+    <string name="button_normal_text">Buton obișnuit</string>
     <string name="button_text_accept">Permiteți</string>
     <string name="button_text_accept_timer">Permiteți (%d)</string>
     <string name="button_text_cancel">Renunțați</string>
@@ -1978,9 +2025,11 @@ Acest lucru afectează alte aplicații sau conversații în care ați activat an
     <string name="call_settings_summary">Activaţi mesageria vocală, redirecţionarea apelurilor, apel în aşteptare, ID apelant</string>
     <string name="call_settings_title">Setări apel</string>
     <string name="call_volume_option_title">Volum apel</string>
+    <string name="calls_and_sms">Apeluri și SMS-uri</string>
     <string name="calls_and_sms_ask_every_time">Întreabă de fiecare dată</string>
+    <string name="calls_and_sms_category">Apelare Wi-Fi</string>
     <string name="calls_preference">Preferințe apeluri</string>
-    <string name="calls_title">Apeluri</string>
+    <string name="calls_preference_title">Apeluri</string>
     <string name="camera_double_tap_power_gesture_desc">Deschidere rapidă a aplicației de Cameră foto fără deblocarea ecranului</string>
     <string name="camera_double_tap_power_gesture_title">Atingeți de două ori pentru deschiderea Camerei foto</string>
     <string name="camera_front">Frontală %s</string>
@@ -2000,6 +2049,7 @@ Acest lucru afectează alte aplicații sau conversații în care ați activat an
     <string name="camera_key_action_toggle_title">Comutare la declanşare</string>
     <string name="camera_laser_sensor_switch">Senzor Laser Cameră</string>
     <string name="camera_rear">Posterioară %s</string>
+    <string name="camera_toggle_title">Acces la camera foto</string>
     <string name="cancel">Anulaţi</string>
     <string name="cancel_action">Anulaţi</string>
     <string name="cancel_alert">Renunțați la modificări?</string>
@@ -2032,6 +2082,7 @@ Acest lucru afectează alte aplicații sau conversații în care ați activat an
     <string name="captioning_typeface">Familie de fonturi</string>
     <string name="captioning_window_color">Culoarea ferestrelor</string>
     <string name="captioning_window_opacity">Opacitatea ferestrelor</string>
+    <string name="captions_category_title">Subtitrări</string>
   <string name="capture_system_heap_dump_title">Captează un jurnal de sistem</string>
   <string name="capturing_system_heap_dump_message">Se captează un jurnal de sistem</string>
     <string name="card_holder_header_title">Portofel</string>
@@ -2098,7 +2149,7 @@ Acest lucru afectează alte aplicații sau conversații în care ați activat an
     <string name="check_find_device_status_failure_confirm">OK</string>
     <string name="check_update">Verificaţi pentru actualizări</string>
     <string name="checkbox_notification_same_as_incoming_call">Utilizaţi volumul apelurilor pentru notificări</string>
-    <string name="checking_decryption">Verificare…</string>
+    <string name="checkbox_text">Comutați</string>
     <string name="checking_find_device_status">Se verifică starea serviciului Localizare dispozitiv…</string>
     <string name="checking_for_updates">Verificare actualizări…</string>
   <string name="chip_text">Fragment de text</string>
@@ -2117,6 +2168,7 @@ Acest lucru afectează alte aplicații sau conversații în care ați activat an
     <string name="classic_mode_summary">Treceți la culori mai calde pentru a reduce cantitatea de lumină albastră</string>
     <string name="classic_mode_title">Clasic</string>
     <string name="cleaner">Curăţare</string>
+    <string name="clear">Goliți</string>
     <string name="clear_activities">Ştergeţi valorile standard</string>
     <string name="clear_activities_summary">Activaţi acest program pentru unele operaţiuni prestabilite</string>
     <string name="clear_adb_keys">Revoc autorizații depanare USB</string>
@@ -2146,6 +2198,7 @@ Acest lucru afectează alte aplicații sau conversații în care ați activat an
     <string name="close_optimization_option">Dezactivați</string>
     <string name="close_privacy_thumbnail_blur_title">"Previzualizările nu sunt blurate"</string>
     <string name="close_slave_wifi_hint">Deconectați-vă de la rețelele Wi-Fi secundare înainte de a proiecta</string>
+    <string name="closed_beta">Stabil (Intern)</string>
     <string name="cloud_backup_section_title">Copii de rezervă în Xiaomi Cloud</string>
     <string name="cloud_backup_settings_section_title">Setări copie de rezervă</string>
     <string name="cloud_category_text">Cloud</string>
@@ -2316,10 +2369,12 @@ Acest lucru afectează alte aplicații sau conversații în care ați activat an
     <string name="connected_device_previously_connected_screen_title">Conectat anterior</string>
     <string name="connected_device_previously_connected_title">Dispozitive conectate anterior</string>
     <string name="connected_device_saved_title">Dispozitive salvate</string>
+    <string name="connected_device_see_all_summary">Bluetooth-ul se va activa</string>
     <string name="connected_devices_dashboard_android_auto_no_driving_mode_summary">Bluetooth, Android Auto, NFC</string>
     <string name="connected_devices_dashboard_android_auto_no_nfc_no_driving_mode">Bluetooth, Android Auto</string>
     <string name="connected_devices_dashboard_android_auto_no_nfc_summary">Bluetooth, Android Auto, mod condus</string>
     <string name="connected_devices_dashboard_android_auto_summary">Bluetooth, Android Auto, mod condus, NFC</string>
+    <string name="connected_devices_dashboard_default_summary">Bluetooth, asociere</string>
     <string name="connected_devices_dashboard_no_driving_mode_no_nfc_summary">Bluetooth</string>
     <string name="connected_devices_dashboard_no_driving_mode_summary">Bluetooth, NFC</string>
     <string name="connected_devices_dashboard_no_nfc_summary">Bluetooth, mod condus</string>
@@ -2368,6 +2423,7 @@ Aceste informații identifică dacă persoanele de contact pot utiliza anumite f
     <string name="controls_subtitle">Ajustaţi utilizarea energiei</string>
     <string name="convenience_key_category_title">Control sistem</string>
     <string name="conversation_category_title">Conversație</string>
+    <string name="conversation_notifs_category">Conversație</string>
     <string name="conversation_onboarding_summary">"După ce marcați o conversație ca prioritate sau faceți orice alte modificări la conversații, acestea vor apărea aici. 
 
 Pentru a modifica setările conversației: 
@@ -2375,6 +2431,7 @@ Glisați în jos din partea de sus a ecranului pentru a deschide perdeaua vertic
     <string name="conversation_onboarding_title">Conversațiile prioritare și modificările vor apărea aici</string>
     <string name="conversation_section_switch_summary">Permiteți aplicației să utilizeze secțiunea de conversație</string>
     <string name="conversation_section_switch_title">Secțiunea de conversație</string>
+    <string name="conversation_settings_clear_recents">Goliți conversațiile recente</string>
     <string name="conversations_category_title">Conversații</string>
     <string name="convert_to_fbe_warning">"Convertiți partiția de date la criptarea pe bază de fișier.
 ATENȚIE: Acest lucru va șterge TOATE DATELE dumneavoastră.
@@ -2491,6 +2548,7 @@ Pentru a relua utilizarea telefonului, trebuie să efectuaţi o resetare la valo
     <string name="daltonizer_mode_deuteranomaly_summary">Verde slab, deuteranomalie</string>
     <string name="daltonizer_mode_deuteranomaly_title">Roșu-verde</string>
     <string name="daltonizer_mode_disabled">Dezactivat</string>
+    <string name="daltonizer_mode_grayscale_title">Scală de gri</string>
     <string name="daltonizer_mode_monochromacy">Monocromie</string>
     <string name="daltonizer_mode_protanomaly">Protanomalie (roșu-verde)</string>
     <string name="daltonizer_mode_protanomaly_summary">Roșu slab, protanomalie</string>
@@ -2751,6 +2809,9 @@ Acest lucru afectează toți utilizatorii acestui dispozitiv."</string>
     <string name="decline_remote_bugreport_action">Renunțați</string>
     <string name="decryption_settings_summary">Telefonul nu este criptat</string>
     <string name="defalut_launcher_title">Lansatorul de sistem implicit</string>
+    <string name="default_active_sim_calls">apeluri</string>
+    <string name="default_active_sim_mobile_data">date mobile</string>
+    <string name="default_active_sim_sms">SMS</string>
     <string name="default_admin_support_msg">"Această acțiune este dezactivată. Contactați administratorul organizației pentru a afla mai multe detalii."</string>
     <string name="default_app">(Implicit)</string>
     <string name="default_apps_title">Implicite</string>
@@ -2776,6 +2837,7 @@ Acest lucru afectează toți utilizatorii acestui dispozitiv."</string>
     <string name="default_notification_assistant">Asistent notificări</string>
     <string name="default_phone_title">Apelare</string>
     <string name="default_rule_name">Regula programată nr. 1</string>
+    <string name="default_see_all_apps_title">Vedeți toate aplicațiile</string>
     <string name="default_sound">Sunet prestabilit</string>
     <string name="default_spell_checker">Corectorul ortografic implicit</string>
     <string name="default_suppression_title">Implicit (recomandat)</string>
@@ -2783,6 +2845,7 @@ Acest lucru afectează toți utilizatorii acestui dispozitiv."</string>
     <string name="default_usb_mode">Conexiune USB</string>
     <string name="default_user_icon_description">Pictogramă utilizator implicit</string>
     <string name="default_vol_stream_title">Control volum flux implicit</string>
+    <string name="deferred_setup_hintViewTitle">Se verifică…</string>
     <string name="delete">Ştergeţi</string>
     <string name="delete_blob_confirmation_text">Sigur doriți să ștergeți aceste date partajate?</string>
     <string name="delete_blob_text">Ștergeți datele partajate</string>

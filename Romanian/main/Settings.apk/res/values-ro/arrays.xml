@@ -5,6 +5,18 @@
         <item>Grupează și setează prioritate scăzută</item>
         <item>Nu grupa</item>
     </string-array>
+    <string-array name="accessibility_button_gesture_selector_titles">
+        <item>Buton</item>
+        <item>Gest</item>
+    </string-array>
+    <string-array name="accessibility_button_location_selector_titles">
+        <item>Plutire peste alte aplicații</item>
+        <item>Bară de navigare</item>
+    </string-array>
+    <string-array name="accessibility_button_size_selector_titles">
+        <item>Mic</item>
+        <item>Mare</item>
+    </string-array>
     <string-array name="aggregate_summaries">
         <item>Notificările promoționale și notificările push legate de conținut vor fi grupate</item>
         <item>Notificările push vor fi grupate și afișate sub alte notificări</item>
@@ -365,7 +377,7 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC_v3</item>
+        <item>LHDC v3/v4</item>
         <item>LHDC_v2</item>
         <item>LHDC_v1</item>
         <item>Activați codecurile opționale</item>
@@ -380,7 +392,7 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
-        <item>LHDC_v3</item>
+        <item>LHDC_v3/v4</item>
         <item>LHDC_v2</item>
         <item>LHDC_v1</item>
         <item>Activați codecurile opționale</item>
@@ -1171,10 +1183,9 @@
         <item>PWD</item>
     </string-array>
     <string-array name="eap_ocsp_type">
-        <item>Nu valida</item>
+        <item>Nu verifica</item>
         <item>Solicitați starea certificatului</item>
         <item>Solicitați statutul certificatului</item>
-        <item>Solicitați toate stările certificatelor care nu sunt de încredere</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Niciuna</item>
@@ -1223,9 +1234,9 @@
         <item>60 Hz</item>
     </string-array>
     <string-array name="handy_mode_size_text_entries">
-        <item>4,5 inci</item>
-        <item>4,0 inci</item>
-        <item>3,5 inci</item>
+        <item>4,5\u2033</item>
+        <item>4\u2033</item>
+        <item>3,5\u2033</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>Oprită</item>
@@ -1293,6 +1304,11 @@
         <item>După 2 minute</item>
         <item>După 5 minute</item>
         <item>Niciodată</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_list_titles">
+        <item>Scurtă</item>
+        <item>Mediem</item>
+        <item>Lungă</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Scurtă</item>
@@ -1449,7 +1465,7 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>CDMA/EvDo/GSM/WCDMA</item>
         <item>CDMA + LTE/EvDo</item>
         <item>GSM/WCDMA/LTE</item>
-        <item>Global</item>
+        <item>LTE/CDMA/EvDo/GSM/WCDMA</item>
         <item>LTE</item>
         <item>LTE / WCDMA</item>
         <item>Doar TDSCDMA</item>
@@ -1466,7 +1482,7 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>NR/LTE</item>
         <item>NR/LTE/CDMA/EvDo</item>
         <item>NR/LTE/GSM/WCDMA</item>
-        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>Global</item>
         <item>NR/LTE/WCDMA</item>
         <item>NR/LTE/TDSCDMA</item>
         <item>NR/LTE/TDSCDMA/GSM</item>
@@ -1963,12 +1979,10 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
         <item>Codul PIN de la acest dispozitiv</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
-        <item>Niciunul</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries_with_sim_auth">
-        <item>Niciunul</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
         <item>SIM</item>
@@ -2052,6 +2066,20 @@ Notă: Doar pentru Ubuntu 8.04!"</item>
     <string-array name="wifi_wapi_key_type">
         <item>WAPI ASCII</item>
         <item>WAPI hexazecimal</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Scanare…</item>
+        <item>Conectare…</item>
+        <item>Autentificare…</item>
+        <item>Obținere adresă IP…</item>
+        <item>Conectat</item>
+        <item>Suspendat</item>
+        <item>Deconectare…</item>
+        <item>Deconectat</item>
+        <item>Fără succes</item>
+        <item>Blocat</item>
+        <item>Se evită temporar conexiunile slabe</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animație oprită</item>
