@@ -1492,7 +1492,7 @@ prioritățile"</string>
     <string name="keyguard_charging_info_tip_text4">Nu utilizați intens telefonul pe durata încărcării pentru a evita supraîncălzirea.</string>
     <string name="keyguard_charging_info_tip_text5">Acumulatorii se încarcă mai greu când temperatura acestora crește mai mult decât în mod obișnuit.</string>
     <string name="keyguard_charging_info_tip_text6">Închideți ecranul și lăsați telefonul deoparte pentru a se răci.</string>
-    <string name="keyguard_charging_normal_and_level_tip">Încărcare %d%%</string>
+    <string name="keyguard_charging_normal_and_level_tip">Se încarcă(%d%%)</string>
     <string name="keyguard_charging_quick_and_level_tip">Încărcare rapidă %d%%</string>
     <string name="keyguard_charging_super_quick_and_level_tip">Se încarcă rapid %d%%</string>
     <string name="keyguard_enter_your_password">Introduceți parola</string>
