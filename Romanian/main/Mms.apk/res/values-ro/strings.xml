@@ -1165,7 +1165,6 @@ Aruncați o privire peste chatboții recomandați!"</string>
     <string name="rcs_pref_setting_entrance">Setări de mesagerie RCS</string>
     <string name="rcs_pref_user_alias_title">Alias</string>
     <string name="rcs_pref_video_message_default_quality">Opțiuni de compresie video</string>
-    <string name="rcs_process_name">:serviciu_mms</string>
     <string name="rcs_recipient_type_contact">Redirecționați către un contact</string>
     <string name="rcs_recipient_type_group">Redirecționați către grup</string>
     <string name="rcs_recipient_type_pc">Redirecționați către PC</string>
