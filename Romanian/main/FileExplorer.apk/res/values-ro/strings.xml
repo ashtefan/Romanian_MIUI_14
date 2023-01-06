@@ -441,9 +441,9 @@
     <string name="image_loading_error">"Nu s-a putut încărca imaginea"</string>
     <string name="imm_str_storage">Stocare</string>
     <string name="import_files_from_old_phones">Importați de pe vechiul dispozitiv</string>
-    <string name="input_memo_hint">Introduceți detalii suplimentare (opțional)</string>
-    <string name="install_fail">"Nu s-a putut instala"</string>
-    <string name="installing">Instalare…</string>
+    <string name="install_media_editor_button_text">Descărcați</string>
+    <string name="install_media_editor_message">Pentru a putea edita articole, descărcați mai întâi extensia. O descărcați acum?</string>
+    <string name="install_media_editor_title">Este necesară o extensie</string>
     <string name="instruction">Introduceți următoarea adresă într-un client FTP: </string>
     <string name="instruction_pre_pad">Atingeţi pentru a porni serverul FTP</string>
     <string name="instruction_pre_phone">Atingeţi pentru a porni serverul FTP</string>

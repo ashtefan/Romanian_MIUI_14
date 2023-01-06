@@ -1235,6 +1235,7 @@
     <string name="please_select_song">Selectați o melodie mai întâi</string>
     <string name="pm">PM</string>
     <string name="power_save_mode_dialog_msg">Modul Economisire energie este activ. Porniți descărcarea acum?</string>
+    <string name="pre_watched">Vizionat</string>
     <string name="pref_download_settings_title">Limita dimensiunii descărcărilor</string>
     <string name="pref_summary_any_bytes_popup">Așteaptă întotdeauna conectarea la Wi-Fi pentru a descărca fișierele</string>
     <string name="pref_summary_enable_max_bytes_popup">Notifică atunci când se utilizează datele mobile pentru descărcarea fișierelor</string>
@@ -1366,6 +1367,7 @@ Fiți fericit"</string>
     <string name="search_instant_online_music">Online</string>
     <string name="search_menu_title">Căutați</string>
     <string name="search_more">Mai multe</string>
+    <string name="search_recommend">Recomandat</string>
     <string name="search_result_local_songs">Local</string>
     <string name="search_result_online_songs">Online</string>
     <string name="search_songs">Căutați melodii</string>

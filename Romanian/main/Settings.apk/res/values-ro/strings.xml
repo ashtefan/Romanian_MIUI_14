@@ -424,7 +424,7 @@ Pentru a comuta între funcții, glisați în sus cu 3 degete și mențineți ap
     <string name="accessibility_vibration_settings_state_off">Oprit</string>
     <string name="accessibility_vibration_settings_state_on">Pornit</string>
     <string name="accessibility_vibration_settings_summary">Controlați puterea vibrațiilor pentru diferite utilizări</string>
-    <string name="accessibility_vibration_settings_title">Vibrație și haptic strength</string>
+    <string name="accessibility_vibration_settings_title">Vibrație și răspuns tactil</string>
     <string name="accessibility_vibration_summary">Sunet %1$s, notificare %2$s, atingere %3$s</string>
     <string name="accessibility_vibration_summary_high">Sunet și notificări setate la ridicat</string>
     <string name="accessibility_vibration_summary_low">Sunet și notificări setate la scăzut</string>

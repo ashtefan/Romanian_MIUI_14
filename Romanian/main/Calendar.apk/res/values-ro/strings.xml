@@ -229,7 +229,7 @@
     <string name="date_calculate_direction_content_description">Direcția curentă: %1s</string>
     <string name="date_calculate_hint">Aflați ce dată este peste un anumit număr de zile</string>
     <string name="date_calculate_result">Rezultat</string>
-    <string name="date_calculate_tab">Calculați data</string>
+    <string name="date_calculate_tab">Calcul dată</string>
     <string name="date_calculate_today">%d zile</string>
     <string name="date_calculate_when">Început</string>
     <string name="date_format_y_m">MMM yyyy</string>
