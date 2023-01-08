@@ -192,6 +192,8 @@ Acum vă puteți conecta la contul dvs. Xiaomi utilizând %s."</string>
     <string name="common_signin_button_text_long">Conectați-vă cu Google</string>
     <string name="completed">Finalizat!</string>
     <string name="confirm_activate_email">Verificată</string>
+    <string name="confirm_bundled_phone_dialog_confirm">Confirmați</string>
+    <string name="confirm_bundled_phone_dialog_confirm_timer">Confirmați (%ds)</string>
     <string name="confirm_bundled_phone_dialog_title">Confirmați numărul de telefon asociat</string>
     <string name="confirm_delete_app_message">"După ce veți elimina această aplicație, va trebui să vă verificați numărul de telefon când vă veți conecta din nou la contul Xiaomi din aplicație."</string>
     <string name="confirm_delete_browser_message">"După ce veți elimina acest browser, va trebui să vă verificați numărul de telefon când vă veți conecta din nou la contul Xiaomi cu ajutorul său."</string>

@@ -818,6 +818,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="passport_vcode_notification_title">Verificarea conectării nu este finalizată</string>
     <string name="passport_vcode_prompt_long">Introduceți codul de verificare</string>
     <string name="passport_vcode_sms_send_prompt">Cod trimis la %s</string>
+    <string name="passport_vcode_what_app_send_prompt">Codul de verificare WhatsApp va fi trimis pe telefonul de recuperare (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_verification_failed">Nu s-a putut verifica</string>
     <string name="passport_verify">Verificați</string>
     <string name="passport_wechat_not_install">Instalați mai întâi WeChat</string>
@@ -1057,6 +1058,17 @@ Dimensiune: %2$s"</string>
     <string name="update_phone_notice">Modificați setările de securitate</string>
     <string name="upload_error_log">Încărcați jurnalul</string>
     <string name="upload_log_failed">Nu s-au putut trimite rapoartele cu erori</string>
+    <string name="user_agreement_hint_3rd_app"><Data>"Am citit și am fost de acord cu &lt;a href=%1$s>Acordul utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a> și &lt;a href=%3 a Contului Mi $s>Acordul utilizatorului&lt;/a> și &lt;a href=%4$s>Politica de confidențialitate&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile"><Data>"Am citit și am fost de acord cu &lt;a href=%1$s>Acordul utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a>, &lt;a href=%3 a Contului Mi $s>Acordul de utilizare&lt;/a> și &lt;a href=%4$s>Politica de confidențialitate&lt;/a>, precum și &lt;a href=%5$s>Termenii și condițiile serviciilor de verificare China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><Data>"Am citit și am fost de acord cu &lt;a href=%1$s>Acordul utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a>, &lt;a href=%3 a Contului Mi $s>Acordul de utilizare&lt;/a> și &lt;a href=%4$s>Politica de confidențialitate&lt;/a>, precum și &lt;a href=%5$s>Termenii și condițiile serviciilor de verificare a contului eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><Data>"Am citit și am fost de acord cu &lt;a href=%1$s>Acordul utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a>, &lt;a href=%3 a Contului Mi $s>Acordul de utilizare&lt;/a> și &lt;a href=%4$s>Politica de confidențialitate&lt;/a>, precum și &lt;a href=%5$s>Termenii și condițiile serviciilor de verificare China Unicom&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_default"><Data>"Am citit și am fost de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate a Contului Mi&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_default_1"><Data>Citiți și acceptați &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate.&lt;/a></Data></string>
+    <string name="user_agreement_hint_default_extra"><Data>"Am citit și am fost de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate.&lt;/a> Prima conectare va crea automat o cont Xiaomi"</Data></string>
+    <string name="user_agreement_hint_first_login">"Vom crea un cont automat dacă utilizați numărul de telefon pentru prima dată."</string>
+    <string name="user_agreement_hint_with_mobile"><Data>"Am citit și am fost de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a> a Contului Mi, precum și cu &lt;a href =%3$s>Termenii și condițiile serviciilor de verificare China Mobile&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_telecom"><Data>"Am citit și am fost de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a> a Contului Mi, precum și cu &lt;a href =%3$s>Termenii și condițiile serviciilor de verificare a contului eSurfing&lt;/a>."</Data></string>
+    <string name="user_agreement_hint_with_unicom"><Data>"Am citit și am fost de acord cu &lt;a href=%1$s>Acordul de utilizare&lt;/a> și &lt;a href=%2$s>Politica de confidențialitate&lt;/a> a Contului Mi, precum și cu &lt;a href =%3$s>Termenii și condițiile serviciilor de verificare China Unicom&lt;/a>."</Data></string>
     <string name="user_avatar_update_title">Modificați fotografia de profil</string>
     <string name="user_avatar_uploading">Doar o secundă…</string>
     <string name="user_id_hint">E-mail/Telefon/ID cont Mi</string>

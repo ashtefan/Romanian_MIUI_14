@@ -345,7 +345,7 @@
     <string name="app_behavior_monitor_tips_if_trust">Puteți dezactiva notificările despre acțiunile senzitive dacă aveți încredere în această aplicație</string>
     <string name="app_behavior_monitor_tips_key">Notificări despre acțiunile senzitive</string>
     <string name="app_behavior_monitor_tips_summary">Puteți primi notificări când aplicațiile înregistrează sunete, vă accesează locația sau când realizează alte acțiuni senzitive în fundal.</string>
-    <string name="app_behavior_no_recorder">Nu s-au găsit rezultate</string>
+    <string name="app_behavior_no_recorder">Nimic aici deocamdată</string>
     <string name="app_behavior_notification_audio_now_one">%1s înregistrează sunete audio</string>
     <string name="app_behavior_notification_audio_now_two" formatted="false">%1s și %2s înregistrează sunete audio</string>
     <string name="app_behavior_notification_camera_one">%1s realizează fotografii</string>
@@ -382,11 +382,18 @@
     <string name="app_behavior_read_clipboard_bg">%1s a accesat elementele din clipboard în fundal</string>
     <string name="app_behavior_recognition">%1s a accesat informațiile despre activitățile dvs.</string>
     <string name="app_behavior_recognition_single">Această aplicație a accesat informațiile despre activitățile dvs.</string>
+    <string name="app_behavior_record_cancel">Renunțați</string>
+    <string name="app_behavior_record_close">Dezactivați</string>
+    <string name="app_behavior_record_close_title">Dezactivați</string>
+    <string name="app_behavior_record_hide_system">Ascunde aplicațiile de sistem</string>
+    <string name="app_behavior_record_open">Activați</string>
+    <string name="app_behavior_record_open_content_text">Înregistrările privind comportamentul aplicațiilor arată ce fac aplicațiile și vă ajută să evitați riscurile de securitate.</string>
     <string name="app_behavior_record_setting_button_title">Arată comportamentul serviciilor de sistem</string>
     <string name="app_behavior_record_setting_show_system">Arată comportamentul serviciilor de sistem</string>
     <string name="app_behavior_record_setting_show_system_desc">Activați pentru a vizualiza comportamentul serviciilor de bază ale sistemului. Pentru a asigura stabilitatea sistemului, aceste servicii vor folosi permisiunile necesare, dintre care unele nu pot fi restricționate.</string>
     <string name="app_behavior_record_setting_show_system_title">Arată comportamentul serviciilor de sistem</string>
     <string name="app_behavior_record_setting_title">Înregistrările comportamentului</string>
+    <string name="app_behavior_record_show_system">Afișează aplicațiile de sistem</string>
     <string name="app_behavior_search">Căutați</string>
     <string name="app_behavior_sensor">%1s a accesat datele senzorilor</string>
     <string name="app_behavior_sensor_single">Această aplicație a accesat datele senzorilor</string>
@@ -2469,6 +2476,11 @@ din sesiunile dvs. de joc"</string>
     <string name="get_phone_num_fail">Unknown phone number</string>
     <string name="get_sys_info">Obținere informații…</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_dock_guide_desc_with_split_screen">"· Atingeți o aplicație din bara laterală pentru a o deschide într-o fereastră plutitoare.
+· Trageți o aplicație în centrul ecranului pentru a o deschide într-o fereastră plutitoare sau în lateral pentru a utiliza Ecranul scindat.
+· Apăsați și mențineți apăsat indicatorul pentru a muta fereastra."</string>
+    <string name="global_dock_guide_desc_without_split_screen">"· Atingeți o aplicație din bara laterală pentru a o deschide într-o fereastră plutitoare.
+· Apăsați și mențineți apăsat indicatorul pentru a muta fereastra."</string>
     <string name="global_satisfaction_notification_button">Evaluați</string>
     <string name="global_satisfaction_notification_subhead">Povestiți-ne despre experiența dvs.</string>
     <string name="global_satisfaction_notification_title">Evaluați acest dispozitiv</string>

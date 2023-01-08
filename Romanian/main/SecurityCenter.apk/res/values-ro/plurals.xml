@@ -97,6 +97,10 @@
         <item quantity="other">Veți fi notificat despre acțiunile senzitive realizate de %1$d aplicații</item>
         <item quantity="one">Veți fi notificat despre acțiunile senzitive realizate de %1$d aplicație</item>
     </plurals>
+    <plurals name="app_behavior_record_close_content_text">
+        <item quantity="other">Înregistrările comportamentului aplicației sunt stocate pe acest dispozitiv timp de %d zile. Dacă dezactivați această funcție, înregistrările noi nu vor mai apărea, iar cele vechi vor fi șterse. O dezactivați oricum?</item>
+        <item quantity="one">Înregistrările comportamentului aplicației sunt stocate pe acest dispozitiv timp de %d zi. Dacă dezactivați această funcție, înregistrările noi nu vor mai apărea, iar cele vechi vor fi șterse. O dezactivați oricum?</item>
+    </plurals>
     <plurals name="app_behavior_wakepath_multiple">
         <item quantity="other">%1$1s a lansat %2$d aplicații</item>
         <item quantity="one">%1$1s a lansat %2$d aplicație</item>
