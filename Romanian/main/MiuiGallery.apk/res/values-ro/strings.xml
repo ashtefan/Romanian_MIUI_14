@@ -388,12 +388,14 @@
     <string name="blackshark_3_pro">Black Shark 3 Pro</string>
     <string name="blackshark_helo">Black Shark Helo</string>
     <string name="blackshark_phone">Black Shark</string>
+    <string name="blur_refocus_enter">Bokeh</string>
     <string name="browse_category_title">Răsfoiți</string>
     <string name="btn_cancel">Renunțați</string>
     <string name="btn_cancel_send">Anulați acest transfer</string>
     <string name="btn_exit_send">Ieșiți</string>
     <string name="btn_sure">OK</string>
     <string name="burst_image_download_item_title" formatted="false">Descărcați originalul (%s|%s)</string>
+    <string name="burst_photo_enter">Rafală</string>
     <string name="burst_preview_title">Fotografiere în rafală</string>
     <string name="burst_save_all">Păstrați toate fotografiile</string>
     <string name="burst_save_choice_title">Au fost selectate %1$d din %2$d</string>
@@ -678,7 +680,7 @@
     <string name="delete_album_msg_format_local">Ștergeți %1$s %2$s?</string>
     <string name="delete_album_success">Album șters</string>
     <string name="delete_from_all_devices_and_cloud">de pe toate dispozitivele și din Xiaomi Cloud</string>
-    <string name="delete_from_cloud">Ștergeți fotografiile din Xiaomi Cloud</string>
+    <string name="delete_from_cloud">Ștergeți fotografiile din cloud de asemenea</string>
     <string name="delete_from_devices">De pe toate dispozitivele cu sincronizare automată</string>
     <string name="delete_from_devices_album">De pe toate dispozitivele pe care s-a sincronizat acest album</string>
     <string name="delete_from_homepage_album">Din albumele din Galerie</string>
@@ -687,6 +689,7 @@
     <string name="delete_in_album">Elementele selectate vor fi șterse din cloud și de pe toate dispozitivele conectate și vor fi stocate printre elementele șterse recent timp de %d de zile dacă aveți un abonament gratuit de stocare în cloud. Le ștergeți oricum?</string>
     <string name="delete_in_home_page">Elementele selectate vor fi șterse din cloud și de pe toate dispozitivele conectate și vor fi stocate printre elementele șterse recent timp de %d de zile dacă aveți un abonament gratuit de stocare în cloud. Le ștergeți oricum?</string>
     <string name="delete_in_process">Ștergere…</string>
+    <string name="delete_media_for_cloud">Elementele selectate vor fi eliminate din cloud și de pe toate dispozitivele sincronizate în Elementele șterse recent.</string>
     <string name="delete_origin">Ștergeți imaginile din albumul original</string>
     <string name="delete_other_shared_images">"Nu puteți șterge fotografiile partajate de alte persoane"</string>
     <string name="delete_owner_and_other_shared_images_format">%1$d șterse，%2$d menținute</string>
@@ -716,7 +719,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="disconnect_migration_msg">Fotografiile și videoclipurile care au fost deja transferate vor rămâne în Google Foto.</string>
     <string name="disconnect_migration_title">Opriți transferul?</string>
     <string name="do_not_remind_me">"Nu arăta din nou"</string>
-    <string name="doc_photo_enter" />
+    <string name="doc_photo_enter">Editați în document</string>
     <string name="document_provider_guide_step_1">%d. Atingeți butonul \"Mai multe\".</string>
     <string name="document_provider_guide_step_2">%d. Atingeți \"Afișează stocarea internă\".</string>
     <string name="document_provider_guide_step_3">%d. Atingeți butonul de meniu lateral.</string>
@@ -764,7 +767,7 @@ Trimiteți acest cod supervizorului."</string>
   <string name="dump_db_info">Informații despre baza de date de descărcare</string>
     <string name="early_morning">Dimineață</string>
     <string name="edit_baby_info">Vedeți informaţiile despre copil</string>
-    <string name="edit_subtitle_enter" />
+    <string name="edit_subtitle_enter">Editați subtitrările</string>
     <string name="editor_cancel">Renunțați</string>
     <string name="editor_export">Salvați</string>
     <string name="editor_talkback_redo">Reluați</string>
@@ -1144,6 +1147,7 @@ efecte pentru fotografii"</string>
     <string name="filter_travel_charlotte">Șarlotă</string>
     <string name="finish_create_baby_album_toast">A fost creat un album pentru \"%s\" în Xiaomi Cloud</string>
     <string name="finish_fill_baby">Creare</string>
+    <string name="first_delete_media_for_cloud">Elementele selectate vor fi eliminate din cloud și de pe toate dispozitivele sincronizate în Elementele șterse recent și vor fi șterse definitiv după %d zile, cu excepția cazului în care aveți un plan de stocare în cloud. Le ștergeți oricum?</string>
     <string name="first_time_add_video_to_secret_tips">Actualizați aplicația Galerie pentru a putea adăuga videoclipuri în albumul privat</string>
     <string name="flash_off">Nu s-a utilizat blițul</string>
     <string name="flash_on">S-a utilizat blițul</string>
@@ -2032,7 +2036,9 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="permission_optional_category">Permisiuni opționale</string>
     <string name="permission_phone_desc">Pentru solicitări de rețea bazate pe ID-ul dispozitivului</string>
     <string name="permission_phone_name">Telefon</string>
+    <string name="permission_post_notification_desc">Pentru trimiterea de notificări despre albumele partajate și actualizarea stării de sincronizare</string>
     <string name="permission_prompt_point">•</string>
+    <string name="permission_read_media_images_desc">Pentru accesarea și salvarea fotografiilor și a videoclipurilor în timp ce utilizați Galeria</string>
     <string name="permission_require_category">Permisiuni obligatorii</string>
     <string name="permission_storage_desc">Pentru stocarea, afișarea, editarea, sincronizarea și descărcarea fotografiilor și a videoclipurilor</string>
     <string name="permission_storage_name">Stocare</string>
@@ -2645,6 +2651,21 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="share_album_pref_auto_add_photos_summary">Selectează persoane care să-și adauge automat fotografiile noi la acest album</string>
     <string name="share_album_pref_auto_add_photos_title">Adaugă fotografiile lor automat</string>
     <string name="share_album_qr_code">"Codul QR al albumului"</string>
+    <string name="share_album_risk_control_invalid_name">Nu se poate folosi acest nume de album. Alegeți alt nume și încercați din nou.</string>
+    <string name="share_album_risk_control_tip_off">Raportați</string>
+    <string name="share_album_risk_control_tip_off_cate">Tipul de conținut</string>
+    <string name="share_album_risk_control_tip_off_cate_illegal">Ilegal</string>
+    <string name="share_album_risk_control_tip_off_cate_other">Altul</string>
+    <string name="share_album_risk_control_tip_off_cate_political">Politic</string>
+    <string name="share_album_risk_control_tip_off_cate_sex">Sexual</string>
+    <string name="share_album_risk_control_tip_off_cate_violence">Violent</string>
+    <string name="share_album_risk_control_tip_off_dialog_message">Dacă raportați conținutul albumului partajat, numai persoana care a încărcat acest conținut îl va putea vedea. Raportați acum?</string>
+    <string name="share_album_risk_control_tip_off_dialog_title">Raportați</string>
+    <string name="share_album_risk_control_tip_off_select">Selectați tipul de conținut</string>
+    <string name="share_album_risk_control_tip_off_success">Raportat cu succes</string>
+    <string name="share_album_risk_control_too_many_albums">Nu se mai pot crea alte albume partajate</string>
+    <string name="share_album_risk_control_too_many_sharers_accept">Nu se pot adăuga mai mulți membri</string>
+    <string name="share_album_risk_control_too_many_sharers_invite">Nu se pot invita mai mulți membri</string>
     <string name="share_album_sync_textline_action_continue">Reluați</string>
     <string name="share_album_sync_textline_action_login">Conectați-vă</string>
     <string name="share_album_sync_textline_action_retry">Încercați din nou</string>
@@ -2728,6 +2749,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="slim_stop">Opriți optimizarea</string>
     <string name="slim_stop_v2">Opriți</string>
     <string name="slim_success_tip">S-a eliberat %s spațiu de stocare</string>
+    <string name="slow_motion_enter">Mișcare lentă</string>
     <string name="smartisan">Smartisan</string>
     <string name="smartisan_phone">Smartisan</string>
     <string name="sns_access_token_expired_warning">Sesiunea a expirat. Conectați-vă din nou pentru a reconecta acest cont.</string>
@@ -2850,7 +2872,7 @@ Până la %1$s, puteți să vă mutați articolele în Google Foto sau să vizit
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
-    <string name="super_slow_motion_enter" />
+    <string name="super_slow_motion_enter">Mișcare foarte lentă</string>
     <string name="support_single_image">Selectați o imagine</string>
     <string name="support_single_video">Selectați un videoclip</string>
     <string name="switch_account_continue">Reluați</string>
@@ -3131,8 +3153,7 @@ Până la %1$s, puteți să vă mutați articolele în Google Foto sau să vizit
     <string name="trash_menu_delete">Ștergeți</string>
     <string name="trash_menu_recovery">Restaurați</string>
     <string name="trash_purge_all">Toate articolele șterse recent vor fi șterse definitiv din cloud și din toate dispozitivele sincronizate. Le ștergeți oricum?</string>
-    <string name="trash_purge_all_cloud">Toate articolele șterse recent vor fi șterse definitiv din cloud și din toate dispozitivele sincronizate. Le ștergeți oricum?</string>
-    <string name="trash_purge_all_local">Toate articolele șterse recent vor fi șterse definitiv. Le ștergeți oricum?</string>
+    <string name="trash_purge_all_media">Ștergeți definitiv toate elementele din cloud și de pe toate dispozitivele sincronizate? Nu puteți anula această acțiune.</string>
     <string name="trash_purge_dialog_title">Goliți gunoiul</string>
     <string name="trash_purge_positive_button">Ștergeți</string>
     <string name="trash_size">Elemente șterse (%s)</string>
@@ -3354,7 +3375,7 @@ Până la %1$s, puteți să vă mutați articolele în Google Foto sau să vizit
     <string name="video_quality_720p_original">720P (necomprimat)</string>
     <string name="video_quality_8k">8K</string>
     <string name="video_quality_title_sub">Rezoluția curentă: %1$s (≈%2$s)</string>
-    <string name="video_tags_enter"/>
+    <string name="video_tags_enter">Afișează marcajele</string>
     <string name="video_with_time">Videoclip realizat pe %s</string>
     <string name="video_with_time_and_location">Videoclip realizat pe %1$s. Locația: %2$s.</string>
     <string name="view_by_gallery_tip">Galerie MIUI</string>

@@ -207,6 +207,7 @@ Acum vă puteți conecta la contul dvs. Xiaomi utilizând %s."</string>
     <string name="copy">Copiați</string>
     <string name="copy_link">Copiați linkul</string>
     <string name="copy_to_clipboard_successful">Copiat cu succes</string>
+    <string name="current_account_can_use_pwd_login">Introduceți parola pentru a vă conecta</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="delete_action">Ştergeţi</string>
@@ -356,6 +357,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="input_new_pwd">Introduceți noua parolă</string>
     <string name="io_error_title">Confirmați rețeaua personală</string>
     <string name="just_a_second">Doar o secundă…</string>
+    <string name="keep_phone_ticket_login">Conectați-vă utilizând codul de verificare</string>
     <string name="kr_license_desc">Trebuie să acceptați Acordul Utilizatorului și Politica de Confidențialitate înainte de a utiliza serviciile Cont Xiaomi și Xiaomi Cloud.</string>
     <string name="kr_permission_contacts_desc">Pentru accesarea informațiilor despre contacte</string>
     <string name="kr_permission_desc">Permisiuni necesare</string>
@@ -733,6 +735,8 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="permission_group_storage">Stocare</string>
     <string name="phone_num_use_for">Numărul de telefon este utilizat pentru:</string>
     <string name="phone_register">Utilizați numărul de telefon</string>
+    <string name="phone_ticket_login">Conectați-vă utilizând codul de verificare</string>
+    <string name="phone_ticket_register">Creați un cont utilizând numărul de telefon</string>
     <string name="photoPickerNotFoundText">Nicio fotografie disponibilă.</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
@@ -910,6 +914,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="update_email_address_dialog_title">Actualizare adresă de e-mail</string>
     <string name="update_phone_notice">Modificați setările de securitate</string>
     <string name="update_phone_number_notice_message">Trebuie să vă verificăm identitatea înainte de a actualiza numărul de telefon.</string>
+    <string name="use_google_account_login">Conectați-vă prin Google</string>
     <string name="used_cloud_storage_info">Utilizat %s</string>
     <string name="user_agreement_device_permission_desc">Pentru asigurarea securității mediului de conectare</string>
     <string name="user_agreement_device_permission_title">Accesare informații despre dispozitiv</string>

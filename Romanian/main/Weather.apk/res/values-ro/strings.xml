@@ -497,6 +497,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="save_to_gallery_icon_name">Salvați în Galerie</string>
     <string name="save_to_gallery_success_message">Salvată în Galerie cu succes</string>
     <string name="search_menu_title">Căutați</string>
+    <string name="select_show_city">Selectați locația</string>
     <string name="search_weather">Meteo</string>
     <string name="search_weather_keywords">Temperatură;Prognoză meteo;Meteo;Calitatea aerului;Grad de poluare;Umiditate</string>
     <string name="send">Trimiteți</string>

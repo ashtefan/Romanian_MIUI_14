@@ -73,6 +73,8 @@
     <string name="cm_terms_title">Acord Operator rețea mobilă</string>
     <string name="compass_introduction">Puteți utiliza această aplicație pentru navigare, precum și pentru vizualizarea coordonatelor geografice, a presiunii atmosferice și a altitudinii.</string>
     <string name="congratulation_label">"Sunteți gata de start!​"</string>
+    <string name="congratulation_pre_label">Doar o secundă…</string>
+    <string name="congratulation_pre_title">Pregătire sistem…</string>
     <string name="congratulation_swipe">Glisați în sus pentru a accesa sistemul</string>
     <string name="congratulation_title">Configurare finalizată</string>
     <string name="content_description_complete">Finalizat</string>
@@ -233,6 +235,7 @@ Caracteristicile pot fi modificate. Este posibil ca unele dintre funcțiile de m
     <string name="midnight">Noapte</string>
     <string name="mint_keyboard_oobe_checkbox">Am citit și acceptat Politica de Confidențialitate a tastaturii Mint</string>
     <string name="mint_keyboard_oobe_terms">Politica de Confidențialitate a tastaturii Mint</string>
+    <string name="miui14_start_up_slogan">Pe locuri. Fiți gata. Live.</string>
     <string name="miui_privacy_policy_no_network">Nu aveți o conexiune la internet. Vizualizaţi Politica de confidențialitate la %s.</string>
     <string name="miui_terms_no_network">Nu aveți conexiune la internet. Vizualizaţi Acordul Utilizatorului la %s.</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>

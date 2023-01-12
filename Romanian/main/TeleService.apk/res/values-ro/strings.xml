@@ -1794,6 +1794,7 @@ Se va utiliza în schimb rețeaua preferată."</string>
 Vă rugăm să contactați operatorii dvs"</string>
     <string name="no_vm_number">Lipsește numărul mesageriei vocale</string>
     <string name="no_vm_number_msg">Nu există niciun număr al mesageriei vocale pe cartela SIM.</string>
+    <string name="no_voice_capability">Nu am putut contacta operatorul. Așteptați un minut sau două și încercați din nou.</string>
     <string name="no_voip">Apelarea SIP nu este acceptată</string>
     <string name="no_volte_call_service_notification_content2_for_cbn">Nu se pot efectua apeluri. Serviciul de voce HD nu este înregistrat pentru SIM %d (China Broadnet).</string>
     <string name="no_volte_call_service_notification_content_for_cbn">Nu se pot efectua apeluri. Serviciul de voce HD nu este înregistrat pentru China Broadnet SIM.</string>

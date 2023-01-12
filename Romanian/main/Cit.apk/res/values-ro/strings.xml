@@ -907,11 +907,15 @@ Evaluați rezultatul testului faceți clic pe butonul de trecere sau eșuare"</s
     <string name="sar_mtk_test_title">Test de autentificare Sar Mtk</string>
     <string name="sar_sensor_set">setați senzorul sar</string>
     <string name="sar_sensor_setting">stare senzor sar</string>
+    <string name="sidebottom_mic_check_record_tip">Se înregistrează; rostiți ceva la microfonul din partea de jos a dispozitivului</string>
+    <string name="sidetop_mic_check_record_tip">Se înregistrează; rostiți ceva la microfonul din partea de sus a dispozitivului</string>
     <string name="soft_light_title">Lumină slabă</string>
   <string name="speak_from_mic">Speaking to the MIC, the speaker playback. Judge whether there is sound.</string>
   <string name="start">Start</string>
     <string name="successfully_obtained_permission">Detectarea controlului în cloud cu succes, funcția intră în vigoare</string>
     <string name="test_bottom_speaker">difuzor inferior</string>
+    <string name="test_sidebottom_mic">Microfonul din partea de jos</string>
+    <string name="test_sidetop_mic">Microfonul din partea de sus</string>
     <string name="test_top_speaker">difuzor superior</string>
     <string name="testagain">Puteți apăsa butonul ACASĂ pentru a testa din nou</string>
     <string name="testing">Rulare AutoTest...</string>

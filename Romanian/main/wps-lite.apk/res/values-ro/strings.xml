@@ -207,6 +207,7 @@
     <string name="public_cut">Tăiați</string>
     <string name="public_decryptDocument">Decriptați</string>
     <string name="public_displayPasswd">Afișează parola</string>
+    <string name="public_display_privacy_policy">Consultați Politica de Confidențialitate</string>
     <string name="public_doc_end_preview_tip">Furnizat de către WPS Office</string>
     <string name="public_edit">Editați</string>
     <string name="public_enter_phonemode">Accesați vizualizarea mobilă</string>
@@ -233,6 +234,7 @@
     <string name="public_lite_update_cloud_dialog_message">Actualizați WPS Office și bucurați-vă de serviciul %s</string>
     <string name="public_lite_update_right_now">Actualizați acum</string>
     <string name="public_lite_use_right_now">Utilizați acum</string>
+    <string name="public_loadDocumentError">Fișierul nu există sau nu poate fi deschis</string>
     <string name="public_loadDocumentFormatError">Eroare de format fișier; nu se poate deschide fișierul.</string>
     <string name="public_loadDocumentLackOfStorageError">Nu există suficient spațiu de stocare; nu se poate deschide fișierul.</string>
     <string name="public_loadDocumentOutOfMemoryError">Nu există suficient spațiu de stocare; nu se poate deschide fișierul.</string>
@@ -270,6 +272,7 @@
     <string name="public_permission_storage_disallow_msg">Nu veți putea lucra cu documente după ce revocați autorizarea.</string>
     <string name="public_play">Redați</string>
     <string name="public_ppt_label">Vizualizator de prezentări Mi</string>
+    <string name="public_privacy_update">&lt;Data>Pentru a înțelege pe deplin drepturile dumneavoastră ca utilizator, precum și modurile în care vă folosim datele, citiți și acceptați noua versiune a &lt;a href=\"%s\">Politicii noastre de confidențialitate &lt;/a> înaintea de a continua.&lt;/Data></string>
     <string name="public_re_licensing">Acordați autorizarea</string>
     <string name="public_readOnlyMode">Doar în citire</string>
     <string name="public_recory_edit_not_save_tips">S-a recuperat deja conținutul nesalvat pentru dumneavoastră.</string>
@@ -278,6 +281,10 @@
     <string name="public_refuse_jurisdiction">Sunt necesare unele permisiuni</string>
     <string name="public_replace">Înlocuiți</string>
     <string name="public_request_senior_password">Introduceți parola celei mai mari permisiuni</string>
+    <string name="public_revoke">Retrageți %s</string>
+    <string name="public_revoke_privacy_content">Dacă veți continua, vă veți retrage consimțământul cu privire la Politica de confidențialitate a Mi Doc Viewer (Furnizat de WPS). Vom înceta să colectăm informațiile dumneavoastră personale, iar informațiile personale deja colectate și reținute vor fi șterse în perioada specifică, în conformitate cu legile și reglementările aplicabile, dacă nu se cere altfel. Retragerea consimțământului dvs. va fi considerată ca un refuz de a accepta serviciile oferite de Mi Doc Viewer (Furnizat de WPS).</string>
+    <string name="public_revoke_privacy_desc">Retrageți-vă consimțământul cu privire la Politica de confidențialitate a Mi Doc Viewer (furnizat de WPS)</string>
+    <string name="public_revoke_privacy_title">Retrageți consimțământul</string>
     <string name="public_ribbon_font">Font</string>
     <string name="public_save">Salvați</string>
     <string name="public_saveAs">Salvați ca</string>
@@ -299,6 +306,7 @@
     <string name="public_sensor_ratation_land_tip">Orientare Peisaj</string>
     <string name="public_sensor_ratation_port_tip">Orientare Portret</string>
     <string name="public_service_disable_error_tips">Această caracteristică nu poate fi utilizată deoarece serviciul conex a fost dezactivat.</string>
+    <string name="public_share">Partajați</string>
     <string name="public_share_no_network">Nu s-a putut conecta la rețea</string>
     <string name="public_share_retry">Încercați din nou</string>
     <string name="public_shareplay_connect_fail">Verificați conexiunea la rețea</string>
