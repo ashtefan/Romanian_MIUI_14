@@ -244,6 +244,11 @@ Puteți vizualiza rapoartele generate în Managerul de Fișiere."</string>
     <string name="ks_screenshot">Captură de ecran</string>
     <string name="ks_search_summary">Căutați</string>
     <string name="ks_title">Scurtături tastatură</string>
+    <string name="launch_accessibility_environmental_speech_recognition">Recunoașterea sunetelor ambientale</string>
+    <string name="launch_accessibility_hear_sound">Mi Ditto</string>
+    <string name="launch_accessibility_hear_sound_subtitle">Subtitrări Mi Ditto</string>
+    <string name="launch_accessibility_talkback">TalkBack</string>
+    <string name="launch_accessibility_voice_control">Comenzi vocale</string>
     <string name="launch_ai_shortcut">Scurtătură Mi AI</string>
     <string name="launch_alipay_health_code">Cod sănătate Alipay</string>
     <string name="launch_alipay_health_code_auto_close">Comanda rapidă pentru codul de sănătate Alipay nu mai este disponibilă. Puteți comuta la o altă comandă rapidă.</string>
@@ -401,6 +406,7 @@ Puteți vizualiza rapoartele generate în Managerul de Fișiere."</string>
     <string name="navigation_type_title">Navigare în sistem</string>
     <string name="night">Seară</string>
     <string name="no_media_button_receiver">Nu</string>
+    <string name="none">Niciunul</string>
     <string name="noon">Amiază</string>
     <string name="not_set">Nesetat</string>
     <string name="other_advanced_settings">Setări adiționale</string>

@@ -88,10 +88,12 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="cloud_find_device_off">Oprită</string>
     <string name="cloud_find_device_on">Pornită</string>
     <string name="cloud_lab_title">Laborator</string>
-    <string name="cloud_space_full_gallery_notification_content_text">Actualizați abonamentul pentru a obține mai mult spațiu de stocare în cloud</string>
-    <string name="cloud_storage_already_full">Spațiul de stocare în cloud este plin: %1$s/%2$s</string>
-    <string name="cloud_storage_already_used">Ocupat: %1$s/%2$s</string>
+    <string name="cloud_manage_storage_text">Gestionați stocarea în cloud</string>
+    <string name="cloud_service_open_authorization">Bun venit la serviciile Xiaomi Cloud! Puteți folosi Xiaomi Cloud pentru a vă sincroniza notițele, fotografiile și videoclipurile, înregistrările și alte elemente din aplicațiile de sistem pe toate dispozitivele conectate. Copiile de rezervă ale aspectului Ecranului principal vor fi stocate și în Xiaomi Cloud. Veți putea vedea toate elementele sincronizate pe i.mi.com.</string>
+    <string name="cloud_storage_almost_full_upgrade_text">Depozitarea este aproape plină. Este posibil să nu se poată sincroniza fotografiile.</string>
+    <string name="cloud_storage_common_functions_text">Utilizat frecvent</string>
     <string name="cloud_storage_default_title">Stocare în cloud</string>
+    <string name="cloud_storage_full_upgrade_default_text">Spațiu de stocare insuficient. Nu s-au putut sincroniza fotografiile.</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Familie</string>
@@ -100,17 +102,20 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="cloud_storage_loading_data">Doar o secundă…</string>
     <string name="cloud_storage_manage_title">Gestionați spațiul de stocare</string>
     <string name="cloud_storage_no_data">Niciun element în cloud încă</string>
-    <string name="cloudservice_new_sync">Sincronizaţi %s cu Xiaomi Cloud</string>
-    <string name="cmcc_micloud_dspt">Utilizaţi Mi Cloud pentru a sincroniza datele, pentru a localiza dispozitivul dvs. și pentru a partaja lucruri prietenilor</string>
-    <string name="confirm_delete">Ștergeți</string>
+    <string name="cloud_storage_sufficient_text">Actualizați pentru a obține până la %d TB spațiu de stocare</string>
+    <string name="cloud_storage_upgrade_text">Actualizați</string>
+    <string name="cloud_storage_upgrade_text_now">Actualizați</string>
+    <string name="cloud_storage_zero_upgrade_button_text_now">Actualizați gratuit</string>
     <string name="confirm_save">Păstrați</string>
     <string name="connect_network">Conectați-vă la Wi-Fi sau introduceți o cartelă SIM</string>
     <string name="connect_network_china">Conectați-vă la Wi-Fi sau introduceți o cartelă SIM</string>
     <string name="connect_wlan">Conectați-vă la Wi-Fi</string>
     <string name="connect_wlan_china">Conectați-vă la Wi-Fi</string>
+    <string name="contact_alert_sync_data_merge_dialog_msg">Dacă activați sincronizarea, contactele încărcate de pe acest dispozitiv vor fi îmbinate cu contactele stocate în cloud. Activați oricum sincronizarea?</string>
     <string name="copy">Copiați</string>
     <string name="cta_notification_content_text">Permiteți %s să se conecteze la internet pentru a putea restaura elementele</string>
     <string name="cta_notification_content_title">Nu s-au putut restaura elemente din %s</string>
+    <string name="customize_notification_btn_text">Actualizați</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_more_than_two">Acest cont este utilizat și pe alt dispozitiv. Îmbinați elementele din mai multe aplicații (inclusiv %1$s și %2$s) cu elementele din acest dispozitiv?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_one">Acest cont este utilizat și pe alt dispozitiv. Îmbinați elementele din %s cu elementele din acest dispozitiv?</string>
     <string name="data_merge_dialog_alert_active_on_phone_msg_two">Acest cont este utilizat și pe alt dispozitiv. Îmbinați elementele din %1$s și %2$s cu elementele din acest dispozitiv?</string>
@@ -125,6 +130,7 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="data_protection_title">Protejați-vă datele</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
+    <string name="default_noti_quota_full_title">Stocarea în cloud este plină</string>
     <string name="detect_sim_card">Caută cartela SIM</string>
     <string name="device_activation_card_cannot_get_yet">Nu am putut obține informații. Încercați din nou peste 3-5 zile.</string>
     <string name="device_activation_card_description">Prima activare este înregistrată atunci când un dispozitiv se conectează la rețea (inclusiv, dar fără a se limita la Wi-Fi și rețele mobile) pentru prima dată. În mod normal, durează ceva timp pentru a înregistra prima activare, deci este mai bine să așteptați 3-5 zile după conectare la rețea înainte de a verifica starea activării.&lt;br>&lt;br>Activarea dispozitivului este principalul factor în determinarea perioadei de valabilitate a garanției noastre extinse. Consultați &lt;a href=%1$s>Politica noastră de Returnare, Înlocuire și Reparare&lt;/a> pentru a afla mai multe detalii.&lt;br>&lt;br>Nu ezitați să sunați la linia de asistență pentru clienți, dacă aveți întrebări: 400-100-5678.</string>
@@ -134,8 +140,12 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="device_activation_card_no_network_error">Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou.</string>
     <string name="device_activation_card_title">Prima activare</string>
     <string name="device_activation_page_title">Activarea dispozitivului</string>
-    <string name="disable_find_device_error">Nu se poate opri localizarea dispozitivului. %1$s</string>
-    <string name="disable_find_device_success">Localizarea telefonului este oprită.</string>
+    <string name="dialog_storage_full_title">Stocarea în cloud este plină</string>
+    <string name="dialog_storage_low_content">Actualizați planul de stocare pentru a continua sincronizarea articolelor.</string>
+    <string name="dialog_storage_low_title">Spațiu de stocare în cloud insuficient</string>
+    <string name="dialog_storage_upgrade_later">Nu, mulțumesc</string>
+    <string name="dialog_storage_upgrade_now">Actualizați</string>
+    <string name="dialog_title_prompt">Atenție</string>
     <string name="do_not_merge">Renunțați</string>
     <string name="download_gallery_data_summary">Accesați i.mi.com pentru a descărca fotografiile și videoclipurile sincronizate pe dispozitiv.</string>
     <string name="download_gallery_data_title">Descărcați articolele pe dispozitivul dvs</string>
@@ -158,7 +168,9 @@ Ultima copie de rezervă a fost creată la %2$s"</string>
     <string name="error_network">Nu se poate conecta la rețea</string>
     <string name="error_request_error">Eroare solicitare</string>
     <string name="error_reset_retry_exceed_limit">Prea multe încercări de resetare a codului de acces</string>
+    <string name="error_reset_retry_exceed_limit_with_retry">Prea multe încercări nereușite. Încercați din nou în %s.</string>
     <string name="error_retry_exceed_limit">Prea multe încercări nereușite</string>
+    <string name="error_retry_exceed_limit_with_retry">Prea multe încercări nereușite. Încercați din nou în %s.</string>
     <string name="error_screen_pwd_retry_exceed_limit">Prea multe încercări nereușite</string>
     <string name="error_server">Eroare de server</string>
     <string name="error_server_busy">Serverele noastre sunt ocupate. Așteptați un minut sau două și încercați din nou.</string>
@@ -762,7 +774,16 @@ Această caracteristică criptează și trimite ID-ul dispozitivului dvs. pe ser
     <string name="no_sim">Nu s-a detectat nicio cartelă SIM</string>
     <string name="noon">Amiază</string>
     <string name="not_set">Nesetat</string>
-    <string name="notification_reinstall_key_text">Verificați-vă identitatea și încercați din nou</string>
+    <string name="noti_quota_button_text">Actualizați</string>
+    <string name="noti_quota_full_sum">Actualizați planul de stocare pentru a continua sincronizarea articolelor.</string>
+    <string name="noti_quota_full_sum_without_button">Obțineți mai mult spațiu de stocare pentru a continua sincronizarea articolelor.</string>
+    <string name="noti_quota_full_title">Stocarea în cloud este &lt;font color=#F22424>plină&lt;/font></string>
+    <string name="noti_quota_full_title_without_button">Stocarea în cloud este plină</string>
+    <string name="noti_quota_low_sum">Actualizați planul de stocare pentru a continua sincronizarea articolelor.</string>
+    <string name="noti_quota_low_sum_without_button">Obțineți mai mult spațiu de stocare pentru a continua sincronizarea articolelor.</string>
+    <string name="noti_quota_low_title">Spațiu de stocare în cloud insuficient</string>
+    <string name="noti_quota_low_title_with_storage">&lt;font color=#F22424>Mai puțin de &lt;xliff:g id=remaining_storage_space example=0.5>%s&lt;/xliff:g> GB&lt;/font> spațiu de stocare în cloud disponibil</string>
+    <string name="noti_quota_low_title_without_button">Spațiu de stocare în cloud insuficient</string>
     <string name="notification_sync_fail_title">Nu s-a putut sincroniza</string>
     <string name="notification_update_key_text">Codul dvs. a fost resetat</string>
     <string name="open_micloud_sync">Porniți sincronizarea cu Mi Cloud</string>
@@ -868,6 +889,24 @@ Citiți și acceptați"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agr
     <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_domestic_charge_hint">Bine ați venit la aplicația Găsire dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele din dispozitiv dacă îl pierdeți. Puteți accesa &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> pentru a-l localiza, bloca sau reseta.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS cu plată național&lt;/b>&lt;/font> va fi trimis în mod automat pentru a activa acest serviciu. Atunci când veți schimba cartelele SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS național cu plată&lt;/b>&lt;/font> va fi trimis în mod automat pentru reactivare.&lt;br/>Toate taxele SMS generate de acțiunile menționate mai sus vor fi colectate de operatorul dvs. Xiaomi nu vă va taxa pentru aceste mesaje.&lt;br />&lt;br />Vă vom proteja informațiile personale în conformitate cu legile, reglementările și politicile de confidențialitate relevante.&lt;br />Pentru a putea funcționa în mod normal, acest serviciu trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a colecta informațiile dvs. personale:&lt;br />• Accesarea informațiilor dispozitivului:&lt;br />Pentru identificarea dispozitivului&lt;br />• Locație:&lt;br />Pentru localizarea dispozitivului și trecerea la Modul Pierdut&lt;br />Dacă nu sunteți de acord să acordați astfel de permisiuni sau să distribuiți și să încărcați informațiile dvs. personale, nu veți putea utiliza acest serviciu. Puteți alege să dezinstalați această aplicație, să vă deconectați sau să restricționați permisiunile din Setări în astfel de cazuri.&lt;br />Citiți și acceptați &lt;a href=%1$s>&lt;u>Acordul Utilizatorului&lt;/u>&lt;/a> și &lt;a href=%2$s>&lt;u>Politica noastră de Confidențialitate&lt;/u>&lt;/a> înainte de a utiliza serviciile noastre&lt;/u>&lt;/a>.&lt;br />"</string>
     <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_inter_charge_hint">Bine ați venit la aplicația Găsire dispozitiv! Puteți utiliza acest serviciu pentru a localiza, bloca sau șterge datele din dispozitiv dacă îl pierdeți. Puteți accesa &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> pentru a-l localiza, bloca sau reseta.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS cu plată internațional&lt;/b>&lt;/font> va fi trimis în mod automat pentru a activa acest serviciu. Atunci când veți schimba cartelele SIM, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internațional cu plată&lt;/b>&lt;/font> va fi trimis în mod automat pentru reactivare.&lt;br/>Toate taxele SMS generate de acțiunile menționate mai sus vor fi colectate de operatorul dvs. Xiaomi nu vă va taxa pentru aceste mesaje.&lt;br />&lt;br />Vă vom proteja informațiile personale în conformitate cu legile, reglementările și politicile de confidențialitate relevante.&lt;br />Pentru a putea funcționa în mod normal, acest serviciu trebuie să se conecteze la internet și necesită următoarele permisiuni pentru a colecta informațiile dvs. personale:&lt;br />• Accesarea informațiilor dispozitivului:&lt;br />Pentru identificarea dispozitivului&lt;br />• Locație:&lt;br />Pentru localizarea dispozitivului și trecerea la Modul Pierdut&lt;br />Dacă nu sunteți de acord să acordați astfel de permisiuni sau să distribuiți și să încărcați informațiile dvs. personale, nu veți putea utiliza acest serviciu. Puteți alege să dezinstalați această aplicație, să vă deconectați sau să restricționați permisiunile din Setări în astfel de cazuri.&lt;br />Citiți și acceptați &lt;a href=%1$s>&lt;u>Acordul Utilizatorului&lt;/u>&lt;/a> și &lt;a href=%2$s>&lt;u>Politica noastră de Confidențialitate&lt;/u>&lt;/a> înainte de a utiliza serviciile noastre&lt;/u>&lt;/a>.&lt;br />"</string>
     <string name="privacy_policy">Politica de confidențialitate</string>
+    <string name="privacy_policy_reject_confirm_msg">"Nu veți putea continua să utilizați Xiaomi Cloud decât dacă sunteți de acord cu noua versiune a &lt;a href=%1$s>&lt;u>Politicii de confidențialitate&lt;/u>&lt;/a>. Sunteți de acord cu Politica de confidențialitate actualizată acum?"</string>
+    <string name="privacy_policy_reject_confirm_title">Atenție</string>
+    <string name="privacy_policy_revoked_msg">Consimțământul pentru politica de confidențialitate a Xiaomi Cloud a fost retras pentru acest cont. Încercați să utilizați alt cont.</string>
+    <string name="privacy_policy_update_msg">Politica de confidențialitate Xiaomi Cloud a fost actualizată:&lt;br/>%1$s&lt;br/>Citiți și acceptați noua versiune a &lt;a href=%2$s>&lt;u>Politica de confidențialitate&lt;/u>&lt; /a> înainte de a continua.</string>
+    <string name="privacy_policy_update_title">Politica de confidențialitate a fost actualizată</string>
+    <string name="privacy_runtime_perm_calendar_desc">Pentru sincronizarea evenimentelor din calendar</string>
+    <string name="privacy_runtime_perm_calendar_title">Accesare calendar</string>
+    <string name="privacy_runtime_perm_call_log_desc">Pentru sincronizarea înregistrărilor apelurilor</string>
+    <string name="privacy_runtime_perm_call_log_title">Accesare și editare înregistrări apeluri</string>
+    <string name="privacy_runtime_perm_contacts_desc">Pentru sincronizarea contactelor</string>
+    <string name="privacy_runtime_perm_contacts_title">Accesare și editare contacte</string>
+    <string name="privacy_runtime_perm_external_storage_desc">Pentru sincronizarea fotografiilor de profil ale contactelor</string>
+    <string name="privacy_runtime_perm_external_storage_title">Accesare stocare</string>
+    <string name="privacy_runtime_perm_phone_state_desc">Pentru accesarea numărului de telefon și a stării dispozitivului</string>
+    <string name="privacy_runtime_perm_phone_state_title">Accesare informații despre dispozitiv</string>
+    <string name="privacy_runtime_perm_sms_desc">Pentru sincronizarea mesajelor</string>
+    <string name="privacy_runtime_perm_sms_title">Accesare mesaje</string>
+    <string name="privacy_settings">Confidențialitate</string>
     <string name="provision_back">Înapoi</string>
     <string name="provision_next">Următorul</string>
     <string name="provision_skip_underline">Omiteți</string>

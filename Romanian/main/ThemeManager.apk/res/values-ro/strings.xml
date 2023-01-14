@@ -288,6 +288,8 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="error_icon_content_description">Eroare</string>
     <string name="evening">După amiază</string>
     <string name="exchange_alert">Puteți obține coduri pe durata evenimentelor noastre și să le rescumpărați aici.</string>
+    <string name="exchange_code_dialog_title">Atenție</string>
+    <string name="exchange_code_not_match_account_dialog_content">Acest cod a fost deja valorificat de un alt cont Mi. Conectați-vă cu acel cont Mi și încercați din nou.</string>
     <string name="exit_extreme_mode_dialog_agree">De acord</string>
     <string name="exit_extreme_mode_dialog_cancel">Renunț</string>
     <string name="exit_extreme_mode_dialog_title">Dezactivați modul Extrem</string>
@@ -323,6 +325,9 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="exo_download_downloading">Se descarcă</string>
     <string name="exo_download_failed">Descărcarea a eșuat</string>
     <string name="exo_download_notification_channel_name">Descărcări</string>
+    <string name="exo_download_paused">Descărcările au fost întrerupte</string>
+    <string name="exo_download_paused_for_network">Descărcări în așteptare pentru rețea</string>
+    <string name="exo_download_paused_for_wifi">Descărcările așteaptă Wi-Fi</string>
     <string name="exo_download_removing">Se elimină descărcările</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_track_mono">Mono</string>
@@ -489,6 +494,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="hide_pull_down_negative">Nu ascunde</string>
     <string name="hide_pull_down_positive">Ascunde</string>
     <string name="hide_retract_button">Ascundeți</string>
+    <string name="historical_wallpaper">Folosită anterior</string>
     <string name="home_apply_failured">"Nu se poate aplica imaginea de fundal pentru Ecranul principal"</string>
     <string name="home_apply_success">Imagine de fundal pentru Ecranul principal aplicată</string>
     <string name="home_daily">Repere zilnice</string>

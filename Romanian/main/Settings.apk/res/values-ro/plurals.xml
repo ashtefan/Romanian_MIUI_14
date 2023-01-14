@@ -362,11 +362,11 @@
         <item quantity="one">%d categorie dezactivată</item>
     </plurals>
     <plurals name="notifications_sent_daily">
-        <item quantity="other">~%, d notificări pe zi</item>
+        <item quantity="other">~%d notificări pe zi</item>
         <item quantity="one">~%d notificare pe zi</item>
     </plurals>
     <plurals name="notifications_sent_weekly">
-        <item quantity="other">~%,d notificări pe săptămână</item>
+        <item quantity="other">~%d notificări pe săptămână</item>
         <item quantity="one">~%d notificare pe săptămână</item>
     </plurals>
     <plurals name="num_minutes_ago">

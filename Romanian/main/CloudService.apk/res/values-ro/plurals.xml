@@ -33,6 +33,10 @@
         <item quantity="other">Nu se pot sincroniza %s elemente</item>
         <item quantity="one">Nu se poate sincroniza %s element</item>
     </plurals>
+    <plurals name="cloud_storage_full_upgrade_text">
+        <item quantity="other">Spațiu de stocare insuficient. Nu s-au putut sincroniza %d fotografii.</item>
+        <item quantity="one">Spațiu de stocare insuficient. Nu s-a putut sincroniza %d fotografie</item>
+    </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d intrări din lista blocărilor</item>
         <item quantity="one">%d intrare din lista blocărilor</item>
@@ -105,9 +109,29 @@
         <item quantity="other">%d rețele Wi-Fi</item>
         <item quantity="one">%d rețea Wi-Fi</item>
     </plurals>
+    <plurals name="error_retry_hour">
+        <item quantity="other">%s ore</item>
+        <item quantity="one">%s oră</item>
+    </plurals>
+    <plurals name="error_retry_minute">
+        <item quantity="other">%s minute</item>
+        <item quantity="one">%s minut</item>
+    </plurals>
+    <plurals name="error_retry_second">
+        <item quantity="other">%s secunde</item>
+        <item quantity="one">%s secundă</item>
+    </plurals>
     <plurals name="error_screen_pwd_next_retry_time">
         <item quantity="other">Încercați din nou în %d secunde</item>
         <item quantity="one">Încercați din nou în %d secundă</item>
+    </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_red_title">
+        <item quantity="other">Nu s-au putut sincroniza &lt;font color=#F22424>%s elemente&lt;/font></item>
+        <item quantity="one">Nu s-a putut sincroniza &lt;font color=#F22424>%s element&lt;/font></item>
+    </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_title">
+        <item quantity="other">Nu s-au putut sincroniza %s elemente</item>
+        <item quantity="one">Nu s-a putut sincroniza %s element</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Cu o jumătate de oră în urmă</item>
@@ -147,6 +171,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elemente selectate</item>
         <item quantity="one">%d element selectat</item>
+    </plurals>
+    <plurals name="noti_quota_full_title_with_icon_text">
+        <item quantity="other">Spațiul de stocare este epuizat. Nu s-au putut sincroniza &lt;font color=#F22424>%d aplicații&lt;/font></item>
+        <item quantity="one">Spațiul de stocare este epuizat. Nu s-a putut sincroniza &lt;font color=#F22424>%d aplicație&lt;/font></item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Cu %d minute în urmă</item>

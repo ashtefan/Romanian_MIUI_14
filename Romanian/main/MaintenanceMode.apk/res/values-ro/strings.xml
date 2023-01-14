@@ -110,6 +110,8 @@
     <string name="maintenance_mode_title">Protecție cuprinzătoare a datelor telefonului mobil</string>
     <string name="maintenance_mode_watch_out">Protejați datele private importante precum fotografii, videoclipuri, contacte, jurnale de apeluri și mesaje text în timpul întreținerii post-vânzare</string>
     <string name="midnight">Noapte</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -124,6 +126,8 @@
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_collect">Colecții</string>
+    <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>

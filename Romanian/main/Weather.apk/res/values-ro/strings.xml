@@ -100,15 +100,21 @@
     <string name="aqi_quality_major_pollutants">Poluanți majori</string>
     <string name="aqi_quality_map_title">Harta calității aerului</string>
     <string name="aqi_quality_no2_desc">Dioxid de azot</string>
+    <string name="aqi_quality_no2_pad">NO₂: %1$s</string>
     <string name="aqi_quality_o3_desc">Ozon</string>
+    <string name="aqi_quality_o3_pad">O₃: %1$s</string>
     <string name="aqi_quality_pm10_desc">Particule grosiere inhalabile</string>
+    <string name="aqi_quality_pm10_pad">PM10: %1$s</string>
     <string name="aqi_quality_pm25_desc">Particule fine</string>
+    <string name="aqi_quality_pm25_pad">PM2,5: %1$s</string>
     <string name="aqi_quality_so2_desc">Dioxid de Sulf</string>
+    <string name="aqi_quality_so2_pad">SO₂: %1$s</string>
     <string name="aqi_settings_summary">Alerte ICA</string>
     <string name="aqi_settings_title">ICA</string>
     <string name="aqi_station_best_quality_station">Cea mai bună din zonă</string>
     <string name="aqi_station_min_distance_station">Cea mai apropiată stație</string>
     <string name="aqi_sub_desc">ICA</string>
+    <string name="aqi_title_pad">ICA: %1$s</string>
     <string name="aqi_top_pollution">Grad maxim de poluare</string>
     <string name="button_abandon">Renunțați la modificări</string>
     <string name="button_add_city">Adăugați o locație</string>
@@ -179,6 +185,11 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="dialog_msg_score_midrop">Ce părere aveți despre aplicația Meteo?</string>
     <string name="dialog_msg_score_not_good">Ne puteți trimite și un feedback?</string>
     <string name="dialog_msg_score_perfect">Drăguț! Dați un calificativ aplicației Meteo în Magazinul de Aplicații?</string>
+    <string name="dialog_score_bad">Nemulţumit</string>
+    <string name="dialog_score_general">Neutru</string>
+    <string name="dialog_score_good">Mulțumit</string>
+    <string name="dialog_score_very_bad">Foarte nemulțumit</string>
+    <string name="dialog_score_very_good">Foarte mulțumit</string>
     <string name="dialog_title_score">Evaluați aplicația Meteo</string>
     <string name="download_rsc_tips">Se încarcă sunetele de fundal…</string>
     <string name="dynamic_weather">Meteo</string>
@@ -347,6 +358,8 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="minute_rain_pull_down_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="minute_rain_refreshing_now">Reîmprospătare…</string>
     <string name="missing_required_permission">Ați dezactivat o permisiune necesară.</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -361,6 +374,8 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_collect">Colecții</string>
+    <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -433,6 +448,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="pad_keyboard_add_city">Adăugați o locație</string>
     <string name="pad_keyboard_left_switch">Locația anterioară</string>
     <string name="pad_keyboard_right_switch">Locația următoare</string>
+    <string name="pad_real_time_detail_title">Indici</string>
     <string name="particulate_matter_exceeded">Înalt</string>
     <string name="particulate_matter_not_exceeded">Normal</string>
     <string name="particulate_matter_serious_exceeded">Prea înalt</string>
@@ -660,7 +676,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="unit">Unități de măsură</string>
     <string name="unit_temperature">Unitatea de măsură pentru temperatură</string>
     <string name="unit_wind">Unitatea de măsură pentru viteza vântului</string>
-    <string name="update_night_setting_summary_text">Actualizează datele meteo între 23:00 și 07:00</string>
+    <string name="update_night_setting_summary_text">Actualizează datele meteo între %1$s și %2$s</string>
     <string name="update_night_setting_title_text">Actualizare automată peste noapte</string>
     <string name="update_notification_info">Se actualizează datele în fundal…</string>
     <string name="update_setting_title_text">Actualizează informațiile meteo</string>
@@ -692,6 +708,7 @@ Apăsați pe ecran pentru a adăuga manual sau pentru a repoziționa orașul"</s
     <string name="wednesday_shortest">Mi</string>
     <string name="welcome_app_title">Bine ați venit în aplicația Meteo!</string>
     <string name="wind_direction_no_data">Viteza vântului</string>
+    <string name="wind_power">%d</string>
     <string name="wind_power_unit_default">0</string>
     <string name="wind_unit">%1$s km/h</string>
     <string name="xiaomi_weather_description_content">"Aplicația Meteo este o aplicație de sistem. Nu veți mai putea vedea informații despre starea vremii sau să utilizați widget-urile înrudite după ce veți dezinstala aplicația."</string>

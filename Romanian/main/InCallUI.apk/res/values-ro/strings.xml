@@ -261,6 +261,7 @@
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
+    <string name="high_temperature_toast">În cazul protecției la temperaturi ridicate, funcția este temporar indisponibilă</string>
     <string name="inCallLabel">Apelare</string>
     <string name="incall_bubble_hangup_click_hint">Atingeți din nou pentru a reveni la apel</string>
     <string name="incall_call_type_label_sip">Apel prin internet</string>

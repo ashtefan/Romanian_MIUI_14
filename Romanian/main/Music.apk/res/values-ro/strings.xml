@@ -1741,5 +1741,16 @@ Dimensiunea actualizării delta: %2$s"</string>
     <string name="yesterday">Ieri</string>
     <string name="you_can_switch_mode_in_settings">Puteți comuta între moduri în Setări</string>
     <string name="you_may_like">V-ar mai putea place</string>
+    <string name="youtube_download_canl">Renunțați</string>
+    <string name="youtube_download_fail_net">Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou.</string>
+    <string name="youtube_download_fail_source">A apărut o eroare. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="youtube_download_fail_space">Nu s-a putut descărca. Nu există suficient spațiu de stocare.</string>
+    <string name="youtube_download_fail_unknown">A apărut o eroare. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="youtube_download_hint">Pista audio din acest videoclip va fi stocat pe dispozitivul dvs. în format MP3, cu titlul videoclipului ca nume de fișier. Descărcați acum?</string>
+    <string name="youtube_download_ing">Doar o secundă…</string>
+    <string name="youtube_download_start">Descărcați</string>
+    <string name="youtube_download_suc">Descărcat cu succes</string>
     <string name="youtube_play_history">Istoricul de redare</string>
+    <string name="youtube_share_guide_tip">Acum puteți partaja videoclipuri cu prietenii</string>
+    <string name="youtube_tab_explore">Descoperiți</string>
 </resources>

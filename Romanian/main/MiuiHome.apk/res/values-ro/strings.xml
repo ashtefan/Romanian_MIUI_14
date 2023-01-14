@@ -402,6 +402,7 @@
     <string name="fold_pair_installed_shortcut_launcher">Această comandă rapidă există deja</string>
     <string name="folder_name">Dosar</string>
     <string name="folder_not_edit_icon_tip">Pentru a edita, mai întâi mutați aplicația din dosar</string>
+    <string name="folder_picker_big_2x2_9_text">XXL</string>
     <string name="folder_picker_big_text">Mărită</string>
     <string name="folder_picker_default_text">Obișnuită</string>
     <string name="folder_picker_options_tab_text">Dimensiune</string>

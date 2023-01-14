@@ -123,6 +123,10 @@ Notă: Fișierul va fi de asemenea șters din telefon."</item>
         <item quantity="other">Înapoi %d secunde</item>
         <item quantity="one">Înapoi %d secundă</item>
     </plurals>
+    <plurals name="feed_play_times">
+        <item quantity="other">%s vizualizări</item>
+        <item quantity="one">%s vizualizare</item>
+    </plurals>
     <plurals name="free_downloads_num_hint">
         <item quantity="other">%d descărcări gratuite rămase</item>
         <item quantity="one">%d descărcare gratuită rămasă</item>
