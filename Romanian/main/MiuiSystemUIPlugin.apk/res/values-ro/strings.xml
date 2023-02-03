@@ -102,7 +102,7 @@
     <string name="controls_edit_panel_save_button">Finalizat</string>
     <string name="controls_edit_panel_subtitle">Trageți elementele pentru a le reordona</string>
     <string name="controls_edit_panel_title">Dispozitive adăugate</string>
-    <string name="controls_error_failed">Eroare; încercați din nou</string>
+    <string name="controls_error_failed">A apărut o eroare. Încercați din nou.</string>
     <string name="controls_error_generic">Eroare</string>
     <string name="controls_error_removed">Dispozitiv eliminat</string>
     <string name="controls_favorite_default_title">Controale</string>

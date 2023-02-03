@@ -27,9 +27,14 @@
     <string name="abc_shareactionprovider_share_with">Partajați prin</string>
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="actionbar_button_up_description">Înapoi</string>
     <string name="add_sound">Adăugați o presetare personalizată</string>
+    <string name="afternoon">După amiază</string>
+    <string name="am">AM</string>
+    <string name="app_disable_description_title">Dezactivați această aplicație?</string>
     <string name="app_name">Căști</string>
     <string name="apply_sound">Aplicați</string>
+    <string name="bottomsheet_action_expand_halfway">Extindeți pe jumătate</string>
     <string name="can_you_here">Auziți sunetul?</string>
     <string name="choose_bluetooth_device">Selectați dispozitivul</string>
     <string name="complete_dialog_button">Am înțeles</string>

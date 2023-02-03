@@ -391,6 +391,7 @@
     <string name="onscreen_audio_mode_conference">Conferinţă</string>
     <string name="onscreen_audio_mode_handset">Difuzor telefon</string>
     <string name="onscreen_audio_mode_headset">Căşti</string>
+    <string name="onscreen_audio_mode_mirror">Tabletă</string>
     <string name="onscreen_audio_mode_speaker">Difuzor</string>
     <string name="onscreen_call_record">Înregistrare</string>
     <string name="onscreen_change_to_video">Apel video</string>

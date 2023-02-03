@@ -64,6 +64,8 @@
     <string name="connect_fail_busy_mishare">Se pare că celălalt dispozitiv transferă fișiere acum. Așteptați până când transferul este finalizat și încercați din nou.</string>
     <string name="connecting_pc">Se conectează la computer…</string>
     <string name="copy">Copiați</string>
+    <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Pentru transmiterea sunetelor audio în timpul difuzării</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Pentru transferul de fișiere între dispozitive</string>
     <string name="date_picker_lunar">Calendar Tradițional Chinez</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="default_boss_terminal_name">Mi Notebook</string>
@@ -336,6 +338,7 @@ Puteți începe o altă sesiune pe computer."</string>
     <string name="pc_cooperate_guide_screenshot">Captură de ecran</string>
     <string name="pc_cooperate_guide_task">Afișează sarcinile</string>
     <string name="pc_cooperate_guide_undo">Anulează (Ctrl+Z)</string>
+    <string name="pc_settings_current_device_tip">Conectați-vă automat la un computer cu MIUI+ deschis și conectat la același cont Xiaomi</string>
     <string name="pcmode_not_support_multi_window">"Modul PC nu suportă afișarea de ferestre multiple."</string>
     <string name="phone_pad_app_introduction_summary">Continuați sarcinile în aceeași aplicație pe tabletă</string>
     <string name="phone_pad_app_introduction_title">Aplicații</string>
@@ -378,6 +381,7 @@ Puteți începe o altă sesiune pe computer."</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
     <string name="save_failed">Nu s-a putut salva</string>
+    <string name="scanner_lower_version_toast">Actualizați MIUI+ pe computer pentru a vă conecta</string>
     <string name="scanner_uninstalled_text">Se pare că aplicația Scaner nu este instalată pe dispozitivul dvs. Instalați mai întâi aplicația Scaner.</string>
     <string name="scanner_uninstalled_title">Instalați aplicația Scaner</string>
     <string name="screen_num_over_limit">Nu se mai pot deschide alte ferestre</string>
@@ -402,6 +406,7 @@ Puteți începe o altă sesiune pe computer."</string>
     <string name="settings_feature_dnd_title">Nu deranjați</string>
     <string name="settings_feature_files_drag_summary">Trageți și plasați elemente pentru a le transfera către și de pe dispozitiv</string>
     <string name="settings_feature_files_drag_title">Transferați fișiere</string>
+    <string name="settings_feature_intro">Despre această funcție</string>
     <string name="settings_feature_keep_screen_summary">Păstrați dispozitivul deblocat pentru a preveni deconectările neașteptate</string>
     <string name="settings_feature_keep_screen_title">Nu bloca ecranul</string>
     <string name="settings_handoff_enable_bluetooth">Activați Bluetooth-ul</string>
@@ -417,11 +422,13 @@ Puteți începe o altă sesiune pe computer."</string>
     <string name="settings_home_device_group">Dispozitiv conectat</string>
     <string name="settings_home_sub_title">Combinați telefonul și computerul într-o singură stație de lucru</string>
     <string name="settings_home_tips">Ecranul Combo plasează o copie a ecranului telefonului pe un computer conectat, permițându-vă să transferați fișiere și să interacționați cu dispozitivul dvs. mobil de acolo.</string>
+    <string name="settings_how_use">Se utilizează transferul</string>
     <string name="settings_log_options">Jurnale</string>
     <string name="settings_more_help">Ajutor</string>
     <string name="settings_pad">Tabletă</string>
     <string name="settings_pad_handoff_title">Conectați în mod automat</string>
     <string name="settings_pc">Computer</string>
+    <string name="settings_pc_handoff_title">Conectați-vă la computer</string>
     <string name="settings_pc_use_tile">Despre această caracteristică</string>
     <string name="settings_permission_description">Detalii permisiuni</string>
     <string name="settings_phone">Telefon</string>

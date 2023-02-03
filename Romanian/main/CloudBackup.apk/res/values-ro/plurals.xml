@@ -29,6 +29,10 @@
         <item quantity="other">Cu %d minute în urmă</item>
         <item quantity="one">Cu 1 minut în urmă</item>
     </plurals>
+    <plurals name="backup_action_long_time_not_auto_backup_content">
+        <item quantity="other">Nu ați făcut backup pentru articole de %s săptămâni. Atingeți pentru a vedea cum să activați backup-urile automate.</item>
+        <item quantity="one">Nu ați făcut backup pentru articole de %s săptămână. Atingeți pentru a vedea cum să activați backup-urile automate.</item>
+    </plurals>
     <plurals name="backup_action_long_time_not_backup_content">
         <item quantity="other">Se pare că nu ați făcut backup pentru articole de %s săptămâni. Creați copii de rezervă pentru a evita pierderea lucrurilor importante.</item>
         <item quantity="one">Se pare că nu ați făcut backup pentru articole de %s săptămână. Creați copii de rezervă pentru a evita pierderea lucrurilor importante.</item>

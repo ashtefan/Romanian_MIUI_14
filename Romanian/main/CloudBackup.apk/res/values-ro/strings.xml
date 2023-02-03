@@ -28,6 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">Partajați cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângeți</string>
     <string name="about_to_recover">Doar o secundă…</string>
+    <string name="access_denied_info">Prea multe incercari. Așteptați un minut sau două și încercați din nou.</string>
     <string name="actionbar_button_up_description">Înapoi</string>
     <string name="afternoon">După amiază</string>
     <string name="am">AM</string>
@@ -44,6 +45,7 @@
     <string name="backup_action_buy_cloud_space">Obțineți mai mult spațiu de stocare</string>
     <string name="backup_action_check_network">Verificați setările de rețea</string>
     <string name="backup_action_clean_disk_space">Eliberați spațiu</string>
+    <string name="backup_action_long_time_not_auto_backup_title">Faceți backup pentru articolele dvs.</string>
     <string name="backup_action_long_time_not_backup_action">Faceți o copie de rezervă</string>
     <string name="backup_action_long_time_not_backup_title">Nu există copii de rezervă recente</string>
     <string name="backup_action_no_space_with_wechat_off_content">Nu este suficient spațiu de stocare în cloud pentru a face copii de rezervă ale articolelor de pe acest dispozitiv. Atingeți pentru a vedea opțiunile de stocare în cloud disponibile pentru dvs.</string>
@@ -152,6 +154,8 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="cloud_backup_detail_state_summary_china">Dispozitivul trebuie să fie conectat la Wi-Fi, să fie la încărcat și să fie blocat</string>
     <string name="cloud_backup_detail_time">Data ultimei copii de rezervă: %1$s</string>
     <string name="cloud_backup_detail_title">Creați o copie de rezervă a elementelor.</string>
+    <string name="cloud_backup_get_installed_apps_summary">Pentru a face backup și a restabili aplicațiile de pe Ecranul principal</string>
+    <string name="cloud_backup_get_installed_apps_title">Accesarea listei de aplicații instalate pe acest dispozitiv</string>
     <string name="cloud_backup_have_data">A fost găsită o copie de rezervă în Xiaomi Cloud</string>
     <string name="cloud_backup_in_cancel">Renunțați</string>
     <string name="cloud_backup_in_process">Se crează copia de rezervă</string>
@@ -174,6 +178,9 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="confirm_restore_summary">Ecranul principal va reporni. Aplicațiile pentru care s-a făcut o copie de rezervă vor fi descărcate în mod automat.</string>
     <string name="confirm_restore_title">Restaurați</string>
     <string name="copy">Copiați</string>
+    <string name="cta_dialog_all_purpose">Bun venit în aplicația Cloud backup! Puteți folosi această aplicație pentru a face backup în cloud pentru aspectul Ecranului principal, aplicații, setările de sistem și datele WeChat. Asigurați-vă că utilizați cea mai recentă versiune pentru a putea profita de toate funcțiile noastre.</string>
+    <string name="cta_dialog_permission_description_get_installed_apps">Pentru a face backup și pentru a restaura aplicațiile</string>
+    <string name="cta_dialog_permission_description_storage">Pentru salvarea și restaurarea elementelor</string>
     <string name="customization"><u>Personalizaţi</u></string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
@@ -185,7 +192,17 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="desktop_wait_network">În aşteptare…</string>
     <string name="desktop_waiting">În așteptare</string>
     <string name="device_delete_prompt">Ștergeți copia de rezervă a %s?</string>
+    <string name="diagnosis_log_send_failed">Trimiterea jurnalului de diagnosticare a eșuat.</string>
+    <string name="diagnosis_log_sent_format">"Jurnalul de diagnosticare a fost trimis.
+ID:%s
+Vă rugăm să transmiteți acest cod tehnicianului."</string>
+    <string name="dialog_app_usage_consent_message">Această funcție trebuie să acceseze datele de utilizare a aplicației pentru a putea estima dimensiunea copiilor de rezervă WeChat.</string>
+    <string name="dialog_app_usage_consent_title">Permiteți accesarea datelor de utilizare a aplicației</string>
     <string name="dialog_app_usage_denied">Acordați aplicației Copie de rezervă permisiunea \"Acces la utilizare\" din Setări pentru a putea face copii de rezervă.</string>
+    <string name="dialog_auto_backup_condition_normal_content">Pentru a putea face în mod regulat copii de rezervă automate pentru toate elementele importante, asigurați-vă că aveți suficient spațiu de stocare în cloud și că acest dispozitiv este blocat, are peste %s baterie și este conectat la Wi-Fi pe timp de noapte. De asemenea, puteți face backup manual în orice moment.</string>
+    <string name="dialog_auto_backup_condition_normal_content_china">Pentru a putea face în mod regulat copii de rezervă automate pentru toate elementele importante, asigurați-vă că aveți suficient spațiu de stocare în cloud și că acest dispozitiv este blocat, are peste %s baterie și este conectat la Wi-Fi pe timp de noapte. De asemenea, puteți face backup manual în orice moment.</string>
+    <string name="dialog_auto_backup_condition_normal_positive">Am înțeles</string>
+    <string name="dialog_auto_backup_condition_normal_title">Faceți backup pentru articolele dvs.</string>
     <string name="dialog_backup_failed">Nu s-a putut face o copie de rezervă</string>
     <string name="dialog_btn_cancel_backup">Renunțați</string>
     <string name="dialog_btn_confirm2">Am înțeles</string>
@@ -193,6 +210,8 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="dialog_btn_next">Următorul</string>
     <string name="dialog_btn_overwrite_backup">Suprascrie</string>
     <string name="dialog_btn_restore_skip">Restaurați mai târziu</string>
+    <string name="dialog_button_agree">Permiteți</string>
+    <string name="dialog_button_disagree">Nu permiteți</string>
     <string name="dialog_buy_cloud_space">Actualizați</string>
     <string name="dialog_cancel_backup_cancel">Renunțați</string>
     <string name="dialog_cancel_backup_confirm">OK</string>
@@ -209,6 +228,11 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="dialog_negative_btn_cancel_restore">Opriți restaurarea</string>
     <string name="dialog_positive_btn_cancel_backup">Nu anula</string>
     <string name="dialog_positive_btn_cancel_restore">Nu opri</string>
+    <string name="dialog_recommend_wechat_backup_content">Acum puteți face backup pentru conversațiile WeChat și alte date în Xiaomi Cloud. Pentru a putea face copii de rezervă ale articolelor, asigurați-vă că aveți suficient spațiu de stocare în cloud și că acest dispozitiv este blocat, are peste %s baterie și este conectat la Wi-Fi pe timpul nopții. De asemenea, puteți face backup manual în orice moment.</string>
+    <string name="dialog_recommend_wechat_backup_content_china">Acum puteți face backup pentru conversațiile WeChat și alte date în Xiaomi Cloud. Pentru a putea face copii de rezervă ale articolelor, asigurați-vă că aveți suficient spațiu de stocare în cloud și că acest dispozitiv este blocat, are peste %s baterie și este conectat la Wi-Fi pe timpul nopții. De asemenea, puteți face backup manual în orice moment.</string>
+    <string name="dialog_recommend_wechat_backup_negative">Am înțeles</string>
+    <string name="dialog_recommend_wechat_backup_positive">Aflați mai multe</string>
+    <string name="dialog_recommend_wechat_backup_title">Faceți backup pentru datele WeChat</string>
     <string name="dialog_title_cancel_backup">Anulați copia de rezervă</string>
     <string name="dialog_title_cancel_restore">Opriți restaurarea</string>
     <string name="dialog_title_require_wlan">Conectați-vă la Wi-Fi</string>
@@ -410,6 +434,8 @@ Notă: Datele aplicațiilor instalate nu vor fi salvate în Xiaomi Cloud!"</stri
     <string name="remove_task_in_process">Eliminare…</string>
     <string name="remove_task_unfinished">Eliminare nefinalizată</string>
     <string name="remove_unfinished">Eliminare în curs; încercați din nou mai târziu</string>
+    <string name="repeat_recommend_wechat_backup_notification_content">Acum puteți face backup pentru datele WeChat. Atingeți pentru detalii.</string>
+    <string name="repeat_recommend_wechat_backup_notification_title">Faceți backup pentru datele WeChat</string>
     <string name="restore_app_order_finish">Terminat</string>
     <string name="restore_app_order_loading">Doar o secundă…</string>
     <string name="restore_app_order_retry">Încercați din nou</string>
@@ -537,9 +563,13 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="storage_unit_gb">%s GB</string>
     <string name="storage_unit_mb">%s MB</string>
     <string name="success_open_cloudbackup">A fost activată crearea copiilor de rezervă pentru aplicațiile din ecranul principal</string>
+    <string name="successful_auto_backup_recommend_wechat_backup_notification_content">S-a făcut backup pentru datele WeChat. Atingeți pentru detalii.</string>
+    <string name="successful_auto_backup_recommend_wechat_backup_notification_title">Backup automat finalizat</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
+    <string name="system_error_info">Sistemul este ocupat. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="temporary_not_available">temporar indisponibil</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversarea ridicării Legii Marțiale</string>
     <string name="the_anti_aggression_day">Ziua anti-agresiune</string>
     <string name="the_arbor_day">Ziua Copacului</string>

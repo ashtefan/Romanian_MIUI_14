@@ -243,7 +243,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="feedback_evaluation_success_dialog_title">Evaluat cu succes</string>
     <string name="feedback_guess">Părerea noastră</string>
     <string name="feedback_hint_optional">Selectați</string>
-    <string name="feedback_history_remind_login_desc">"Conectați-vă la contul Mi pentru a vedea detaliile și progresul raportului dumneavoastră"</string>
+    <string name="feedback_history_remind_login_desc">Conectați-vă la contul Xiaomi pentru a vedea detaliile și progresul raportului dumneavoastră</string>
     <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">Cheia JIRA: %s</string>
     <string name="feedback_jira_key_place_holder">Se crează o Jira…</string>
@@ -251,7 +251,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="feedback_phone_model_label">Modelul telefonului</string>
     <string name="feedback_probability_label">Probabilitate</string>
     <string name="feedback_remind_login_btn">Conectați-vă</string>
-    <string name="feedback_report_remind_login_desc">Conectați-vă la contul Mi pentru ca inginerii noștri să vă poată contacta.</string>
+    <string name="feedback_report_remind_login_desc">Conectați-vă la contul Xiaomi pentru ca inginerii noștri să vă poată contacta.</string>
     <string name="feedback_report_remind_login_desc2">"Puteți vedea, de asemenea, progresul raportului în \"Rapoartele mele\"."</string>
     <string name="feedback_reproductivity_everytime">De fiecare dată</string>
     <string name="feedback_reproductivity_occasionally">Ocazional</string>
@@ -395,7 +395,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="just_a_second">Doar o secundă…</string>
     <string name="kr_authorization_agree">Accept</string>
     <string name="kr_authorization_contact">Conturi</string>
-    <string name="kr_authorization_contact_desc">Pentru obținerea de informații despre contul Mi și verificarea contului</string>
+    <string name="kr_authorization_contact_desc">Pentru obținerea de informații despre contul Xiaomi și verificarea contului</string>
     <string name="kr_authorization_exit">Ieșiți</string>
     <string name="kr_authorization_function">Se trimite feedbackul, se generează jurnalele, se revăd întrebările frecvente</string>
     <string name="kr_authorization_log_protocol">Log Protocol (opțional)</string>
@@ -931,7 +931,7 @@ Citiți și acceptați noua versiune a %3$s înainte de a continua."</string>
     <string name="stop_full_log_dialog_title">Se generează jurnalele…</string>
     <string name="submit_dialog_cancel">Nu sunt de acord</string>
     <string name="submit_dialog_confirm">De acord</string>
-    <string name="submit_dialog_content"><Data>Citiți și acceptați &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a> și &lt;a href=\"%2$s\">Acordul Utilizatorului&lt;/a> înainte de a trimite feedback. Problemele semnalate, împreună cu elementele atașate (pot conține informații personale, dar și informații despre telefon și rețea) vor fi încărcate pe serverele MIUI. Acest lucru ne ajută să localizăm și să rezolvăm problemele pe care le raportați. Dacă raportați probleme legate de mai multe dispozitive, vor fi încărcate și jurnalele de pe celelalte dispozitive pe care este utilizat contul dvs. Mi.</Data></string>
+    <string name="submit_dialog_content"><Data>Citiți și acceptați &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a> și &lt;a href=\"%2$s\">Acordul Utilizatorului&lt;/a> înainte de a trimite feedback. Problemele semnalate, împreună cu elementele atașate (pot conține informații personale, dar și informații despre telefon și rețea) vor fi încărcate pe serverele MIUI. Acest lucru ne ajută să localizăm și să rezolvăm problemele pe care le raportați. Dacă raportați probleme legate de mai multe dispozitive, vor fi încărcate și jurnalele de pe celelalte dispozitive pe care este utilizat contul dvs. Xiaomi.</Data></string>
     <string name="submit_dialog_content_global"><Data>Feedback-ul dumneavoastră, împreună cu atașamentele(dacă există) și rapoartele cu erori(puteți debifa căsuțele corespunzătoare pentru elementele pe care nu doriți să le încărcați), vor fi încărcate pe serverele MIUI. Rapoartele cu erori pot conține informații personale și despre locație. Selectând \"De acord\" înseamnă că ați citit și sunteți de acord cu &lt;a href=\"%1$s\">Politica de Confidențialitate Xiaomi&lt;/a> și &lt;a href=\"%2$s\">Acordul Utilizatorului&lt;/a>.</Data></string>
     <string name="submit_dialog_content_global_with_contactinfo"><Data>Feedback-ul dumneavoastră, împreună cu atașamentele(dacă există) și rapoartele cu erori(puteți debifa căsuțele corespunzătoare pentru elementele pe care nu doriți să le încărcați), vor fi încărcate pe serverele MIUI. Rapoartele cu erori pot conține informații personale și despre locație. Selectând \"De acord\" înseamnă că ați citit și sunteți de acord cu &lt;a href=\"%1$s\">Politica de Confidențialitate Xiaomi&lt;/a> și &lt;a href=\"%2$s\">Acordul Utilizatorului&lt;/a>.</Data></string>
     <string name="submit_dialog_not_show_again">Nu afișa din nou</string>

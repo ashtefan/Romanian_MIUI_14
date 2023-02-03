@@ -34,6 +34,7 @@
     <string name="btn_error">A apărut o eroare, reîncercați?</string>
     <string name="btn_install">Verificați cheia MD5 și instalați</string>
     <string name="btn_no">Renunțați</string>
+    <string name="btn_not">Nu</string>
     <string name="btn_ok">OK</string>
     <string name="btn_pause">Pauză</string>
     <string name="btn_share">Partajați</string>
@@ -82,6 +83,7 @@
     <string name="delay_update_text">Actualizați mai târziu</string>
     <string name="dialog_3g_desc">Luați aminte că descărcarea actualizării utilizând datele mobile va conduce la un trafic de date important.</string>
     <string name="dialog_3g_title">Avertizare!</string>
+    <string name="dialog_ab">Dispozitivul dvs. acceptă \"Actualizări de sistem fără întreruperi\", nu uitați să selectați \"Slot A\" când vi se solicită în TWRP!</string>
     <string name="dialog_btn_3g">Continui oricum</string>
     <string name="dialog_btn_wifi">Comutați la Wi-Fi</string>
     <string name="dialog_delay_update_cancel">Renunțați</string>
@@ -100,6 +102,7 @@
     <string name="download_fail_desc">Cheia MD5 Sum nu se potrivește…</string>
     <string name="downloading">Se descarcă:</string>
     <string name="downloading_desc">Descărcare în curs; verificați starea în bara de notificări.</string>
+    <string name="fastboot_mode">Programul de actualizare este în modul Fastboot, puteți să instalați doar ROM-uri cu Terminal pe PC!</string>
     <string name="fastboot_update_warning">Această actualizare este doar pentru instalarea prin fastboot!</string>
     <string name="fetching_data">Se obține linkul de descărcare; așteptați…</string>
     <string name="download_diff">Descărcare diferenţă (diff)</string>
@@ -141,9 +144,10 @@ Partiția de date nu va fi ștearsă."</string>
     <string name="menu_more_button">Meniu</string>
     <string name="menu_title_apply_for_alpha">Înscrieți-vă în programul Beta testing</string>
     <string name="menu_title_current_version_log">Ce este nou?</string>
-    <string name="menu_title_download_current_rom">Descărcați cel mai recent ROM</string>
+    <string name="menu_title_fastboot_mode">Actualizați în modul Fastboot</string>
     <string name="menu_title_pick_rom_file">Selectaţi pachetul de actualizare</string>
     <string name="menu_title_recovery">Reporniţi în modul Recuperare</string>
+    <string name="menu_title_recovery_mode">Actualizați în modul Recuperare</string>
     <string name="menu_title_show_notifications">Afișează notificări</string>
     <string name="message_checkbox">Ascundeți mesajele viitoare de la echipa Xiaomi.eu</string>
     <string name="message_checkbox_device">Nu arăta din nou</string>
@@ -249,6 +253,7 @@ Nu sunt disponibile actualizări pentru dumneavoastră!"</string>
 http://zhushou.xiaomi.com"</string>
     <string name="recovery_failed_notification_msg">Nu se poate intra în modul Recuperare</string>
     <string name="recovery_failed_title">Utilizaţi Mi PC Suite pentru a actualiza sistemul</string>
+    <string name="recovery_mode">Aplicația Actualizare este în modul Recuperare, puteți instala ROM-uri în Actualizare!</string>
     <string name="recovery_power_need_plugged">Conectați încărcătorul pentru a putea actualiza</string>
     <string name="recovery_power_not_enough_msg">Acumulatorul trebuie să aibă cel puțin 15% disponibil pentru a putea actualiza</string>
     <string name="recovery_power_not_enough_title">Acumulator descărcat</string>
@@ -299,6 +304,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="title_toast_auto">Dispozitivul va reporni în</string>
     <string name="toast_delay_update_tonight">Telefonul va aplica actualizările între 2:00 AM și 5:00 AM</string>
     <string name="top_secret_build">Top-secret</string>
+    <string name="twrp_update_warning">Pentru a putea folosi OTA, trebuie să selectați dacă aveți sau nu instalat TWRP pe dispozitiv:</string>
     <string name="uncrypt_title">Decriptare (%s)</string>
     <string name="unkown_error_title">Nu se poate descărca</string>
     <string name="unstable_build">Instabil</string>
