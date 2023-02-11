@@ -127,6 +127,7 @@
     <string name="bh_card_order_price">Preț</string>
     <string name="bh_card_order_time">Comandă creată</string>
     <string name="bh_card_title">Cartelă SIM</string>
+    <string name="bh_cbn">China Broadnet</string>
     <string name="bh_charge_confirm">Adăugați %2$s CNY la %1$s?</string>
     <string name="bh_charge_continue">Suplimentați</string>
     <string name="bh_charge_number">Se suplimentează %1$s</string>
@@ -172,6 +173,7 @@
     <string name="bh_gb">GB</string>
     <string name="bh_get_balance_success">Verificat cu succes. Informațiile ar putea fi actualizate cu o întârziere aici.</string>
     <string name="bh_get_charge_phone_number">Selectați din contacte</string>
+    <string name="bh_goto_granted">Acordați permisiunile</string>
     <string name="bh_goto_open">Nepermis</string>
     <string name="bh_goto_set">Setați</string>
     <string name="bh_i_got_it">Am înțeles</string>
@@ -360,6 +362,8 @@
     <string name="call_home">Apelaţi numărul de la domiciliu</string>
     <string name="call_isdn">Apelaţi ISDN</string>
     <string name="call_left">Balanță apeluri</string>
+    <string name="call_limit">Restricții apeluri</string>
+    <string name="call_limit_content">Nu s-a putut apela “%s”. Puteți apela doar numerele de telefon care se află în lista dvs. de contacte aprobată.</string>
     <string name="call_log_empty_gecode">-</string>
     <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
     <string name="call_log_new_header">Noi</string>
@@ -1017,6 +1021,7 @@ Motivul: \"%s\""</string>
     <string name="item_offical">Oficial</string>
     <string name="keep_local">Nu sincroniza</string>
     <string name="keep_local_btn">Utilizaţi stocarea internă a telefonului</string>
+    <string name="know">Am înțeles</string>
     <string name="label_custom_type">Personalizat</string>
     <string name="label_no_duplicate_contacts">Niciun contact duplicat</string>
     <string name="label_notes">Note</string>

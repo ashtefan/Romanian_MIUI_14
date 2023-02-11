@@ -182,6 +182,7 @@
     <string name="head_set_tip_dialog_msg">Deconectați căștile pentru a putea înregistra sunetul cu presetările specifice (de ex. Muzică, Voce).</string>
     <string name="head_set_tip_dialog_ok">Am înțeles</string>
     <string name="head_set_tip_dialog_title">Utilizați microfonul intern</string>
+    <string name="high_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/h</string>
     <string name="icon_content_description">Pictogramă Dialog</string>
     <string name="invalid_argument">Argument invalid</string>
     <string name="invisible_mode_error_tip">Dezactivați modul Incognito din Setări pentru a putea utiliza microfonul</string>
@@ -200,11 +201,13 @@
     <string name="loading_more">Doar o secundă…</string>
     <string name="loading_order_list">Doar o secundă…</string>
     <string name="loading_order_list_empty">Nicio comandă aici.</string>
-    <string name="low_battery_error">"Acumulatorul telefonului are mai puțin de 5% disponibil. Opriți înregistrarea și salvați-o înainte de a fi pierdută."</string>
+    <string name="low_battery_error">Acumulatorul telefonului are mai puțin de %s disponibil. Opriți înregistrarea și salvați-o înainte de a fi pierdută.</string>
     <string name="low_battery_error_confirm">OK</string>
     <string name="low_battery_error_for_pad">Acumulatorul dispozitivului are mai puțin de %s disponibil. Opriți înregistrarea și salvați-o înainte de a fi pierdută.</string>
     <string name="low_battery_error_title">Acumulator descărcat</string>
+    <string name="low_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/h</string>
     <string name="lyric_item_point_count">%1$d la %2$d</string>
+    <string name="manage_external_storage">Accesați toate fișierele</string>
     <string name="mark_point_list_title">Marcaje</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Selectați AM sau PM</string>
@@ -213,9 +216,11 @@
     <string name="material_minute_suffix">%1$s minute</string>
     <string name="material_slider_range_end">Sfârșit interval,</string>
     <string name="material_slider_range_start">Început interval,</string>
+    <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Comutați la modul Ceas pentru a introduce ora.</string>
     <string name="material_timepicker_hour">Oră</string>
     <string name="material_timepicker_minute">Minute</string>
+    <string name="material_timepicker_pm">PM</string>
     <string name="material_timepicker_select_time">Selectați ora</string>
     <string name="material_timepicker_text_input_mode_description">Comutați la modul Introducere text pentru introducerea orei.</string>
     <string name="menu">Meniu</string>
@@ -223,6 +228,7 @@
     <string name="mi_account_msg">Conectați-vă utilizând contul Xiaomi pentru a transcrie fișiere în Cloud și a obține primele 60 de minute gratuit.</string>
     <string name="mi_account_ok">Conectați-vă</string>
     <string name="mi_account_title">Conectați-vă utilizând contul Xiaomi</string>
+    <string name="middle_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/h</string>
     <string name="midnight">Noapte</string>
     <string name="miuix_access_state_desc">Selectat</string>
     <string name="miuix_alphabet_indexer_name">Bara de index</string>
@@ -334,6 +340,11 @@
     <string name="network_tip_dialog_title">Este necesară conexiunea la internet</string>
     <string name="network_unavailable_tip">Conectați-vă la rețea și încercați din nou.</string>
     <string name="new_record_name">Înregistrare nouă</string>
+    <string name="new_saf_permission_dialog_content">"Permisiunile pentru aplicația Înregistrare au fost actualizate. Permiteți aplicației Înregistrare să acceseze înregistrările apelurilor.
+
+Cum să acordați permisiunea
+Atingeți „%1$s” și apoi selectați \"%2$s\"."</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Următorul</string>
     <string name="night">Seară</string>
     <string name="no_content">Niciun element aici încă</string>
     <string name="no_file">Nicio înregistrare</string>
@@ -391,6 +402,11 @@
     <string name="permission_desc">Detalii permisiuni</string>
     <string name="permission_dialog_cancel">Renunțați</string>
     <string name="permission_dialog_ok">Setări</string>
+    <string name="permission_notification_description">Pentru trimiterea de alerte la înregistrarea, redarea și descărcarea conținutului</string>
+    <string name="permission_notification_dialog_description">Pentru trimiterea de alerte privind starea actuală a aplicației</string>
+    <string name="permission_notification_title">Permisiuni necesare</string>
+    <string name="permission_read_phone_state">Accesarea informațiilor despre dispozitiv</string>
+    <string name="permission_read_phone_state_description">Pentru accesarea stării apelului pentru a opri automat înregistrarea la primirea apelurilor</string>
     <string name="permission_record">Înregistrare audio</string>
     <string name="permission_record_description">Pentru furnizarea serviciilor de înregistrare audio</string>
     <string name="permission_storage">Acces la stocare</string>
@@ -428,7 +444,7 @@
     <string name="recognition_error_cancel">Anulată</string>
     <string name="recognition_error_code">Codul erorii: %d</string>
     <string name="recognition_error_download_cancel">Mai târziu</string>
-    <string name="recognition_error_download_data_msg">Descărcați motorul de transcriere pentru a beneficia de acest serviciu. Descărcarea necesită circa 20 MB date mobile.</string>
+    <string name="recognition_error_download_data_msg">Descărcați motorul de transcriere pentru a beneficia de acest serviciu. Descărcarea necesită circa %d MB date mobile.</string>
     <string name="recognition_error_download_fail">"Nu s-a putut descărca. Verificați setările rețelei și reîncercați."</string>
     <string name="recognition_error_download_msg">Descărcați motorul de transcriere pentru a face acest seviciu disponibil.</string>
     <string name="recognition_error_download_ok">Descărcați</string>
@@ -491,6 +507,14 @@
     <string name="record_permission_dialog_title">Sunt necesare permisiuni de accesare microfon</string>
     <string name="record_quliaty_preference_title">Calitate înregistrare</string>
     <string name="record_resotre">Restaurați înregistrări</string>
+    <string name="record_scenes_summaries_HD">Tehnologia cu gamă dinamică înaltă permite microfonului să capteze mai detaliat sunete</string>
+    <string name="record_scenes_summaries_interview">Plasați telefonul între %d persoane pentru a le înregistra clar conversația</string>
+    <string name="record_scenes_summaries_music">Înregistrați muzică la o calitate mai bună</string>
+    <string name="record_scenes_summaries_stereo_HD">Tehnologia cu gamă dinamică înaltă permite microfonului să capteze sunete mai detaliat</string>
+    <string name="record_scenes_summaries_stereo_interview">Plasați telefonul între %d persoane pentru a le înregistra clar conversația</string>
+    <string name="record_scenes_summaries_stereo_music">Înregistrați prin %d canale, ascultați sunet stereo în căști</string>
+    <string name="record_scenes_summaries_stereo_voice">Mutați microfonul mai aproape de sursa sunetului pentru o calitate mai bună</string>
+    <string name="record_scenes_summaries_voice">Mutați microfonul mai aproape de sursa sunetului pentru o calitate mai bună</string>
     <string name="recorder_record">Audio</string>
     <string name="recording">Înregistrare</string>
     <string name="recording_quality_high">Calitate înaltă</string>
@@ -601,9 +625,9 @@
     <string name="tab_call">Apeluri</string>
     <string name="tab_fm">FM</string>
     <string name="tap_to_record">Apăsați butonul pentru a începe înregistrarea</string>
-    <string name="text_btn_backward_3_seconds">3 secunde înapoi</string>
+    <string name="text_btn_backward_3_seconds">%d secunde înapoi</string>
     <string name="text_btn_complete">Stop</string>
-    <string name="text_btn_forward_3_seconds">3 secunde înainte</string>
+    <string name="text_btn_forward_3_seconds">%d secunde înainte</string>
     <string name="text_btn_list">Înregistrări</string>
     <string name="text_btn_mark">Marcați</string>
     <string name="text_btn_pause">Pauză</string>

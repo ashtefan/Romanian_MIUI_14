@@ -382,6 +382,7 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="branch_give_relevant_permissions">Acordați Mi Browser permisiunile relevante din Setări</string>
     <string name="branch_grant_permission">Sunt necesare unele permisiuni</string>
     <string name="branch_local_search_settings">Setări de căutare locală</string>
+    <string name="branch_search_bar_tips">Căutați aplicații și jocuri</string>
     <string name="branch_search_guide_privacy">"Această funcție este oferită de Branch Metrics Inc. Vom împărtăși locația dvs., căutările și ID-ul Google Ads. Citiți și acceptați "<font color="#B3000000"><a href="http://url1">Termenii și Condițiile lor</a></font> precum și <font color="#B3000000"><a href="http://url2">Politica de Confidențialitate</a></font> înainte de a continua.</string>
     <string name="branch_search_in_browser">Căutați \"%1$s\" în Browser</string>
     <string name="branch_setting">Setări</string>
@@ -391,6 +392,8 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="branch_terms_condition">Termeni și condiții</string>
     <string name="branch_trending_google_news">Știri google</string>
     <string name="branch_trending_youtube_news">YouTube</string>
+    <string name="branch_viewpage_title_app_recommend">Recomandate</string>
+    <string name="branch_viewpage_title_local">Instalate</string>
     <string name="browser">Mi Browser</string>
     <string name="browserFrameFileErrorLabel">Eroare de fișier</string>
     <string name="browserFrameFormResubmitMessage">Pagina pe care încercați să o vizualizați conține date care au fost deja trimise. Dacă retrimiteți datele, acțiunile anterioare (de exemplu, căutări sau achiziții) se vor repeta.</string>
@@ -3069,6 +3072,10 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="snapshot">Local</string>
     <string name="snapshot_failed">"Nu s-a putut salva pagina"</string>
     <string name="snapshot_successed">Deschideți Semne de carte > Istoric ->LOCAL pentru a vedea pagina</string>
+    <string name="sniff_ask_every_times">Întreabă de fiecare dată</string>
+    <string name="sniff_detect_resource">Am observat conținut descărcabil pe această pagină. Vreți să îl vedeți acum?</string>
+    <string name="sniff_dialog">Conținut descărcabil</string>
+    <string name="sniff_no_resource">Nu a fost găsit niciun conținut descărcabil</string>
     <string name="sns_access_token_expired_warning">Sesiunea a expirat. Conectați-vă din nou pentru a reconecta acest cont.</string>
     <string name="sns_bind_limit">Prea multe incercari. Încercați alte modalități de conectare.</string>
     <string name="sns_sign_in">Alte modalități de conectare</string>

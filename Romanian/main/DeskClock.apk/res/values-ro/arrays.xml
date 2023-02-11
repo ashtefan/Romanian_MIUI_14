@@ -10,6 +10,15 @@
         <item>Alarmă în %2$s și %3$s</item>
         <item>Alarmă în %1$s, %2$s și %3$s</item>
     </string-array>
+    <string-array name="alarm_in_furture_new_array">
+        <item>Alarmă în %1$s</item>
+        <item>Alarmă în %2$s</item>
+        <item>Alarmă în %1$s și %2$s</item>
+        <item>Alarmă în %3$s</item>
+        <item>Alarmă în %1$s și %3$s</item>
+        <item>Alarmă în %2$s și %3$s</item>
+        <item>Alarmă în %1$s %2$s și %3$s</item>
+    </string-array>
     <string-array name="alarm_repeat_type">
         <item>O dată</item>
         <item>Zilnic</item>
@@ -33,6 +42,15 @@
         <item>Alarma va suna peste %1$s și %3$s.</item>
         <item>Alarma va suna peste %2$s și %3$s.</item>
         <item>Alarma va suna peste %1$s, %2$s și %3$s.</item>
+    </string-array>
+    <string-array name="alarm_set_new_array">
+        <item>Alarma va suna peste %1$s.</item>
+        <item>Alarma va suna peste %2$s.</item>
+        <item>Alarma va suna peste %1$s și %2$s.</item>
+        <item>Alarma va suna peste %3$s.</item>
+        <item>Alarma va suna peste %1$s și %3$s.</item>
+        <item>Alarma va suna peste %2$s și %3$s.</item>
+        <item>Alarma va suna peste %1$s %2$s și %3$s.</item>
     </string-array>
     <string-array name="aqi_value">
         <item>Bună</item>
