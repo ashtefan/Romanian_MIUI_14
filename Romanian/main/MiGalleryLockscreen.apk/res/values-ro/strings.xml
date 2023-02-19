@@ -777,6 +777,7 @@ mm"</string>
     <string name="passport_vcode_notification_title">Verificarea la conectare este incompletă</string>
     <string name="passport_vcode_prompt_long">Introduceți codul de verificare</string>
     <string name="passport_vcode_sms_send_prompt">Cod trimis la %s</string>
+    <string name="passport_vcode_what_app_send_prompt">Codul de verificare WhatsApp va fi trimis pe telefonul de recuperare (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_verification_failed">Nu s-a putut verifica</string>
     <string name="passport_verify">Verificați</string>
     <string name="passport_wechat_not_install">Mai întâi instalați WeChat</string>

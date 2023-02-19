@@ -875,6 +875,7 @@ Verificați setările de rețea și încercați din nou."</string>
   <string name="pengzu">Ciupire</string>
     <string name="permission_accounts">Pentru conectarea și gestionarea contului sistemului și asocierea elementelor cu acesta</string>
     <string name="permission_contacts">Pentru sincronizarea zilelor de naștere ale contactelor și trimiterea de memento-uri</string>
+    <string name="permission_denial">Acordați permisiunile pentru a putea utiliza această funcție</string>
     <string name="permission_description">Detalii permisiuni</string>
     <string name="permission_main_purpose">Vizualizarea și gestionarea evenimentelor din calendar, planificarea călătoriilor, primirea de memento-uri și abonarea la diferite servicii</string>
     <string name="permission_storage">Pentru salvarea memento-urilor și a sunetelor de apel</string>
@@ -923,6 +924,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="premission_description_contact">Pentru afișarea zilei de naștere a contactelor dvs.</string>
     <string name="prefsx_notify_sound_none">Silențios</string>
     <string name="premission_description_log">Pentru salvarea jurnalelor</string>
+    <string name="premission_description_notice">Pentru a trimite notificări despre evenimente și sărbători</string>
     <string name="premission_description_phone_state">Pentru identificarea dispozitivului bazat pe ID-ul acestuia</string>
     <string name="premission_description_ringtone">Pentru setarea sunetelor de apel</string>
     <string name="premission_description_title">Vizualizarea și gestionarea evenimentelor programate</string>

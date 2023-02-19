@@ -122,21 +122,26 @@
     <string name="capacitance_test">TEST DE CAPACITATE</string>
     <string name="charger_test_end">"
 Testul de încărcare s-a finalizat; deconectați încărcătorul"</string>
-    <string name="cit_DP_check_summary">Liniile DP trebuie conectate în timpul procesului de testare</string>
-    <string name="cit_DP_check_title">DP</string>
-    <string name="cit_DP_in_start_test">Vă rugăm să introduceți linia DP pentru a începe testarea</string>
-    <string name="cit_DP_plug_err">"Testul a eșuat
-  Nu am primit valoarea"</string>
-    <string name="cit_DP_plug_fail">"Testul a eșuat
-  Această linie nu este o linie DP, înlocuiți o altă linie pentru testare"</string>
+    <string name="cit_DP_check_summary">Cablul de tip C la DP trebuie conectat în timpul procesului de testare</string>
+    <string name="cit_DP_check_title">Test DP</string>
+    <string name="cit_DP_in_start_test">Vă rugăm să introduceți cablul de tip C la DP pentru a începe testarea</string>
+    <string name="cit_DP_plug_err">"Schimbarea conexiunii dispozitivului de detectare
+  Citirea valorii nodului de bază a eșuat 
+  Nu s-a obținut valoarea"</string>
+    <string name="cit_DP_plug_fail">"Schimbarea conexiunii dispozitivului de detectare
+  Citirea valorii nodului de bază a eșuat
+  Vă rugăm să introduceți rotirea de tip C la cablul DP pentru a începe testul"</string>
     <string name="cit_DP_plug_out_err">"Eșecul testului
 Nu am primit valoarea"</string>
-    <string name="cit_DP_plug_out_fail">"A fost detectată o conexiune întreruptă
-Testul a eșuat
+    <string name="cit_DP_plug_out_fail">"Schimbarea conexiunii dispozitivului de detectare
+  Citirea valorii nodului de bază a eșuat
+  Testul a eșuat 
 "</string>
     <string name="cit_DP_plug_out_pass">"A fost detectată o conexiune întreruptă
 Test trecut"</string>
-    <string name="cit_DP_plug_pass">Linia DP conectată este detectată, vă rugăm să observați dacă proiecția ecranului a reușit și să faceți clic pe butonul corespunzător</string>
+    <string name="cit_DP_plug_pass">"Schimbarea conexiunii dispozitivului de detectare
+  S-a citit cu succes valoarea nodului de bază
+  Vă rugăm să observați dacă ecranul are succes și să faceți clic pe butonul corespunzător"</string>
     <string name="cit_DP_plug_re_plugin">Testul DP a fost finalizat, vă rugăm să vedeți dacă ecranul a reușit și să faceți clic pe butonul corespunzător</string>
     <string name="cit_OTG_plug_check_summary">Pe durata testului, conectați și inversați conectorul dispozitivului USB_OTG</string>
     <string name="cit_OTG_plug_check_title">OTG</string>

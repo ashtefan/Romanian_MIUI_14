@@ -1379,6 +1379,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="verify_and_install">Instalează</string>
     <string name="verify_apps_over_usb_summary">Verificați aplicațiile instalate prin ADB/ADT pentru comportament dăunător.</string>
     <string name="verify_apps_over_usb_title">Verificați aplicațiile prin USB</string>
+    <string name="verify_failed">verificarea a eșuat</string>
     <string name="verify_to_sure_close">Dezactivați</string>
     <string name="virus_install_confirm_cancel">Renunțați</string>
     <string name="virus_install_confirm_install">Instalează</string>
