@@ -568,6 +568,7 @@ Conectați încărcătorul și opriți ecranul pentru a face să apară amintiri
     <string name="cloud_bacup_disable_processing">Se procesează…</string>
     <string name="cloud_camera_display_name">Fotografii Cameră</string>
     <string name="cloud_cancel_authorizing_to_device">Se anulează autorizarea…</string>
+    <string name="cloud_data_size">Fotografii și videoclipuri în cloud: %1$s</string>
     <string name="cloud_full_space_tip_message">Actualizați planul de stocare în cloud pentru a vă putea sincroniza toate fotografiile și videoclipurile în cloud.</string>
     <string name="cloud_full_space_tip_negative">Nu acum</string>
     <string name="cloud_full_space_tip_positive">Actualizați</string>
@@ -1360,6 +1361,7 @@ efecte pentru fotografii"</string>
     <string name="id_photo_module_finish">Pluginul \"ID\" a fost descărcat cu succes</string>
     <string name="id_photo_module_loading">Se descarcă pluginul \"ID\"…</string>
     <string name="ignore_album">Nu se afişează</string>
+    <string name="ignore_alert_dialog_title">Ignorați această persoană?</string>
     <string name="ignore_alert_title">"Ascundeţi acest album? Atingeți colțul din dreapta sus pentru a vedea fotografiile pe care le-ați ignorat"</string>
     <string name="ignore_face">Ignoraţi această persoană</string>
     <string name="ignore_faces_title">Ignorate</string>

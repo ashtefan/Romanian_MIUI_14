@@ -43,6 +43,7 @@
     <string name="afternoon">După amiază</string>
     <string name="agree">De acord</string>
     <string name="alarm_alert_alert_silenced">Alarmă oprită după %1$s.</string>
+    <string name="alarm_alert_close_entrance">Dezactivați</string>
     <string name="alarm_alert_disabled">Dezactivată</string>
     <string name="alarm_alert_now">%s alarmă</string>
     <string name="alarm_alert_snooze_button">Amânați</string>
@@ -57,6 +58,7 @@
     <string name="alarm_list_title">Alarmă</string>
     <string name="alarm_notify_snooze_label">%s amânat</string>
     <string name="alarm_notify_text">Amânaţi sau anulaţi alarma</string>
+    <string name="alarm_permanent_alert">Sună</string>
     <string name="alarm_repeat">Repetare</string>
     <string name="alarm_ringtone">Sunete de alarmă</string>
     <string name="alarm_ringtone_picker">Alarme</string>
@@ -476,8 +478,10 @@ mm"</string>
     <string name="notification_adv_time_entries3">cu <xliff id="MINUTES" refersto="30">%d</xliff> de minute înainte</string>
     <string name="notification_adv_time_entries4">cu <xliff id="HOUR" refersto="1">%d</xliff> oră înainte</string>
     <string name="notification_adv_time_entries5">Niciodată</string>
+    <string name="notification_permission_desc">Dacă nu acordați permisiunea de notificare, nu veți putea dezactiva alarmele când sună. Acordați permisiunea acum?</string>
     <string name="oneshot_alarm">Ștergeți după ce expiră</string>
     <string name="open_keep_screen">Ecranul va fi păstrat pornit</string>
+    <string name="open_notification_permission_remind">Permiteți notificările pentru a putea dezactiva alarmele</string>
     <string name="open_sleep_record">Activați</string>
     <string name="other_category_title">Altele</string>
     <string name="other_settings">Setări suplimentare</string>

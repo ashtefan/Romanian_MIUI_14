@@ -34,11 +34,11 @@
         <item>Z</item>
     </string-array>
     <string-array name="privacy_dialog_runtime_permission_desc">
-        <item>Pentru conectare utilizând Contul Mi</item>
+        <item>Pentru conectare utilizând Contul Xiaomi</item>
         <item>Pentru previzualizarea, încărcarea, descărcarea și sincronizarea fișierelor</item>
     </string-array>
     <string-array name="privacy_dialog_runtime_permission_desc_with_phone_state">
-        <item>Pentru conectare utilizând Contul Mi</item>
+        <item>Pentru conectare utilizând Contul Xiaomi</item>
         <item>Pentru previzualizarea, încărcarea, descărcarea și sincronizarea fișierelor</item>
         <item>Pentru detectarea actualizărilor disponibile</item>
     </string-array>

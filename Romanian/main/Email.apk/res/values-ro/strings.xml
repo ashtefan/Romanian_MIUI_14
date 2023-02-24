@@ -729,6 +729,7 @@ Această problemă ar putea fi cauzată de autentificarea în doi factori a cont
     <string name="message_all_body">Mesajul complet</string>
     <string name="message_body_load_set_description">Încărcați mesajele când se utilizează datele mobile</string>
     <string name="message_discarded">Mesaj eliminat</string>
+    <string name="message_forward_has_signature_pdf">Redirecționați cu atașamente .pdf semnate?</string>
     <string name="message_invite_accept">Da</string>
     <string name="message_invite_calendar_download_prompt">Descărcați aplicația Calendar pentru a putea folosi această funcție</string>
     <string name="message_invite_calendar_view">Afişaţi în Calendar</string>
