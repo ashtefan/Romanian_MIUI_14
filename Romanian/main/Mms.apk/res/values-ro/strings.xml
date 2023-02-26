@@ -935,8 +935,11 @@ Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operato
     <string name="pref_title_perm_call">Realizare apeluri</string>
     <string name="pref_title_perm_camera">Utilizare cameră foto</string>
     <string name="pref_title_perm_location">Locație</string>
+    <string name="pref_title_perm_read_audio">Accesare fișiere audio</string>
     <string name="pref_title_perm_read_call_log">Accesare istoric de apelare</string>
     <string name="pref_title_perm_read_contacts">Accesare contacte</string>
+    <string name="pref_title_perm_read_files">Accesare fișiere și documente</string>
+    <string name="pref_title_perm_read_images_video">Accesare fotografii și videoclipuri</string>
     <string name="pref_title_perm_read_mms">Citire SMS-uri</string>
     <string name="pref_title_perm_send_mms">Trimitere SMS-uri</string>
     <string name="pref_title_perm_storage">Accesare stocare</string>
@@ -1477,6 +1480,10 @@ Aruncați o privire peste chatboții recomandați!"</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
+    <string name="suspected_fraud_action">Atingeți pentru a raporta.</string>
+    <string name="suspected_fraud_action_tip">"Posibilă înșelătorie. "</string>
+    <string name="suspected_fraud_link_tip">"URL nesigur. "</string>
+    <string name="suspected_fraud_tip">Posibilă înșelătorie</string>
     <string name="switch_to_editor">Mod Editare</string>
     <string name="switch_to_menu">Mod Meniu</string>
     <string name="system_permission_declare_agree">De acord</string>
@@ -1484,6 +1491,7 @@ Aruncați o privire peste chatboții recomandați!"</string>
     <string name="system_permission_declare_double_link" formatted="false">Citiți și acceptați %1s și %2s înainte de a utiliza această caracteristică.</string>
     <string name="system_permission_declare_exit">Ieșiți</string>
     <string name="system_permission_declare_main_purpose" formatted="false">Bine ați venit la %1s! %2s</string>
+    <string name="system_permission_declare_mi_message">Bine ați venit în aplicația Mesagerie Mi!</string>
     <string name="system_permission_declare_no_say_no">"Vă vom proteja informațiile personale în concordanță cu legile, regulamentele și politicile de confidențialitate relevante.
 Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să încărcați datele personale, nu veți putea utiliza această aplicație."</string>
     <string name="system_permission_declare_privacy_declare">%1s trebuie să colecteze datele dvs. și necesită următoarele permisiuni pentru a funcționa în mod normal:"</string>
@@ -1499,6 +1507,7 @@ Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să
     <string name="system_permission_perm_read_mms">Citirea MMS-urilor</string>
     <string name="system_permission_perm_read_numbers">Citirea numerelor de telefon</string>
     <string name="system_permission_perm_send_mms">Trimiterea de MMS-uri</string>
+    <string name="system_permission_perm_storage">Pentru salvarea și încărcarea atașamentelor SMS</string>
     <string name="system_permission_prem_rcs_read_contact">Pentru afișarea stării de livrare a mesajelor către persoanele de contact din mesajele de grup 5G</string>
     <string name="tab_finance">Financiare</string>
     <string name="tab_message">Mesaje</string>
@@ -1559,6 +1568,7 @@ Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să
     <string name="title_choose_contacts">Selectați contactele</string>
     <string name="title_collapse_sp_messages">Grupaţi notificările</string>
     <string name="title_hide_verification_code">Ascundere automată a OTP în Blocarea ecranului</string>
+    <string name="title_not_show_read_mms_perm_req">Permisiuni necesare</string>
     <string name="title_pref_cm_smart_sms">Mesagerie inteligentă China Mobile</string>
     <string name="title_show_blocked_messages">Afişare SMS blocate</string>
     <string name="title_show_list_avatar">Arată fotografiile de profil</string>
@@ -1573,7 +1583,8 @@ Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să
     <string name="toast_failed_to_close_priv_auth">Nu s-a putut revoca autorizarea. Verificați setările rețelei și încercați din nou.</string>
     <string name="toast_not_show_camera_perm_req">Permiteți serviciului de mesagerie să utilizeze camera foto pentru a putea utiliza această caracteristică</string>
     <string name="toast_not_show_microphone_perm_req">Permiteți serviciului de mesagerie să utilizeze microfonul pentru a putea utiliza această caracteristică</string>
-    <string name="toast_not_show_storage_perm_req">Permiteți mesajelor să acceseze spațiul de stocare pentru a putea utiliza această caracteristică</string>
+    <string name="toast_not_show_storage_perm_req">Sunt necesare unele permisiuni pentru a utiliza această caracteristică. Puteți acorda aceste permisiuni din Setări.</string>
+    <string name="toast_not_show_write_contacts_perm_req">Permiteți Mesageriei să editeze contactele pentru a utiliza această funcție</string>
     <string name="toast_pending_hangup_msg">Mesajul va fi trimis după încheierea apelului</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>

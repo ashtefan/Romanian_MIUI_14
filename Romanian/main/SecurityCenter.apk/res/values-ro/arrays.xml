@@ -153,6 +153,10 @@
         <item>Aplicațiile terțe care nu sunt verificate pot cauza diverse probleme și scădea stabilitatea sistemului.</item>
         <item>Unele aplicații terțe pot conține malware care supun la risc datele dvs. personale.</item>
     </string-array>
+    <string-array name="pp_lab_compact_blur_location_entry">
+        <item>Implicit</item>
+        <item>Tot</item>
+    </string-array>
     <string-array name="priority_storage_entries">
         <item>Stocarea internă</item>
         <item>Stocarea externă</item>

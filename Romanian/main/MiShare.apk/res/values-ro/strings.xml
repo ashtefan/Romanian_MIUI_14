@@ -58,9 +58,12 @@
     <string name="confirm_cancel_task_files">Anulați trimiterea fișierelor la %1$s?</string>
     <string name="confirm_cancel_task_images">Anulați trimiterea imaginilor la %1$s?</string>
     <string name="copy">Copiați</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">Pentru trimiterea și primirea fișierelor</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="default_device_name">Dispozitiv necunoscut</string>
+    <string name="device_list_all">Toate dispozitivele</string>
+    <string name="device_list_more">Mai multe</string>
     <string name="device_name">Numele dispozitivului</string>
     <string name="device_name_with_ellipsize">%1$s…</string>
     <string name="device_offline">Celălalt dispozitiv este oprit. Reluați procesul.</string>
@@ -389,6 +392,7 @@ Această caracteristică este acceptată de OPPO, Vivo, Realme și de alți prod
     <string name="start_scan">ÎNCEPEȚI SCANAREA</string>
     <string name="stop_advertise">OPREȘTE PUBLICITATEA</string>
     <string name="stop_scan">OPRIȚI SCANAREA</string>
+    <string name="sub_title_mishare_switch">Această funcție se va dezactiva automat după %d minute</string>
     <string name="success_receive_much_file_from_pc">S-au primit mai mult de 200 de fișiere de la %1$s. Atingeți pentru a le vedea.</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Duminică</string>
@@ -450,13 +454,18 @@ Această caracteristică este acceptată de OPPO, Vivo, Realme și de alți prod
     <string name="tips_p2p_support_use5g_china">Pentru cele mai bune rezultate, utilizați o rețea Wi-Fi de 5 GHz.</string>
     <string name="tips_prompt_enable_midrop">Partajare Mi</string>
     <string name="to_feedback">Raportați</string>
+    <string name="toast_auto_close_in_minutes">Mi Share se va opri după %d minute</string>
+    <string name="toast_transfering">Se transferă articolele. Încercați mai târziu.</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
     <string name="transfer_intercept_to_remote">Nu s-a putut trimite: %1$s</string>
     <string name="transfer_to_pc_summary">Cea mai recentă versiune a software-ului AIoT instalat pe notebook-urile Mi este compatibilă cu Partajarea Mi. Puteți verifica lista modelelor de laptopuri acceptate pe site-ul MIUI. Dacă laptopul dvs. este pe listă, dar AIoT nu este instalat pe acesta, actualizați BIOS-ul laptopului și driverul adaptorului de rețea și descărcați AIoT.</string>
+    <string name="transfer_to_pc_summary_new"><Data>"Cea mai recentă versiune de MIUI+ instalată pe Mi Notebook-uri este compatibilă cu Mi Share. Puteți verifica lista de modele de laptopuri acceptate pe site-ul MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>). Dacă laptopul dvs. este în listă, dar MIUI+ nu este instalat pe el, actualizați BIOS-ul laptopului și driverul adaptorului de rețea și descărcați MIUI+."</Data></string>
     <string name="transfer_to_pc_title">Trimiteți fișiere către computere</string>
-    <string name="transfer_to_phone_summary">Activați Partajarea Mi folosind comutatorul din perdeaua de notificări. După aceea, veți putea vedea dispozitivele din apropiere atunci când începeți să partajați o fotografie sau un fișier. Atingeți dispozitivul destinatarului pentru a trimite articolul pe care îl partajați.</string>
+    <string name="transfer_to_phone_summary_new">Activați Partajarea Mi din Centrul de control pentru a putea trimite și primi articole cu ușurință. După ce îl porniți, puteți partaja articole cu dispozitivele din apropiere timp de %d minute înainte ca acesta să se oprească automat.</string>
     <string name="transfer_to_phone_title">Trimiteți fișiere către telefoane</string>
+    <string name="transfer_to_summary_new">Activați Partajarea Mi din Centrul de control pentru a putea trimite și primi articole cu ușurință. După ce o porniți, puteți partaja articole cu dispozitivele din apropiere timp de %d minute înainte ca aceasta să se oprească automat.</string>
+    <string name="transfer_to_title">Trimiteți fișiere pe dispozitivele mobile</string>
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Ma</string>
@@ -464,6 +473,15 @@ Această caracteristică este acceptată de OPPO, Vivo, Realme și de alți prod
     <string name="unrecognized_manufacture">Necunoscut</string>
     <string name="unrecognized_model">Dispozitiv necunoscut</string>
     <string name="user_instructions">Atenție</string>
+    <string name="uwb_guide_summary_1">Dacă nu puteți găsi dispozitivul țintă, cereți celeilalte persoane să atingă comutatorul Partajare Mi din Centrul de control de pe dispozitivul lui.</string>
+    <string name="uwb_guide_title_1">Rugați cealaltă persoană să pornească Partajarea Mi</string>
+    <string name="uwb_guide_title_2">Găsiți mai rapid dispozitivul țintă cu Beam</string>
+    <string name="uwb_setting_guide">Aflați mai multe</string>
+    <string name="uwb_setting_guide_summary">Beam folosește tehnologia UWB pentru a recunoaște dispozitivele țintă fără fir. Odată ce dispozitivul țintă este recunoscut, pictograma acestuia va veni în prim plan.</string>
+    <string name="uwb_setting_guide_title">Păstrați acest dispozitiv direct vis-a-vis de dispozitivul țintă compatibil</string>
+    <string name="uwb_summary">Beam folosește tehnologia UWB pentru a recunoaște dispozitivele țintă fără fir. Transferul articolelor între dispozitive alimentate de tehnologia UWB este mai rapid și mai convenabil.</string>
+    <string name="uwb_support_device">"Dispozitive compatibile: "</string>
+    <string name="uwb_title">Beam</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="view_file">Vedeți</string>

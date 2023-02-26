@@ -33,6 +33,10 @@
         <item quantity="other">S-au adăugat %d jocuri</item>
         <item quantity="one">S-a adăugat %d joc</item>
     </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">%d aplicații adăugate</item>
+        <item quantity="one">%d aplicație adăugată</item>
+    </plurals>
     <plurals name="app_behavior_dashboard_title_desc">
         <item quantity="other">%d aplicații</item>
         <item quantity="one">%d aplicație</item>
@@ -212,6 +216,14 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
     <plurals name="exo_controls_rewind_by_amount_description">
         <item quantity="other">Derulați înapoi %d secunde</item>
         <item quantity="one">Derulați înapoi %d secundă</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s ore</item>
+        <item quantity="one">%s oră</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s minute</item>
+        <item quantity="one">%s minut</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">Căutați printre %d aplicații</item>
@@ -506,6 +518,10 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="other">"Accesul la rețea este restricționat pentru &lt;font color='#ff0000'>%d&lt;/font> aplicații"</item>
         <item quantity="one">"Accesul la rețea este restricționat pentru &lt;font color='#ff0000'>%d&lt;/font> aplicație"</item>
     </plurals>
+    <plurals name="not_added_apps_count">
+        <item quantity="other">%d aplicații nu au fost adăugate</item>
+        <item quantity="one">%d aplicație nu a fost adăugată</item>
+    </plurals>
     <plurals name="notification_antivirus_title">
         <item quantity="other">%d zile de la ultima scanare de securitate</item>
         <item quantity="one">%d zi de la ultima scanare de securitate</item>
@@ -589,6 +605,10 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
     <plurals name="pc_battery_history_minute">
         <item quantity="other">" minute"</item>
         <item quantity="one">" minut"</item>
+    </plurals>
+    <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">Acumulatorul dispozitivului dvs. nu mai are energie. Se intră în modul Hibernare în %1$d secunde.</item>
+        <item quantity="one">Acumulatorul dispozitivului dvs. nu mai are energie. Se intră în modul Hibernare în %1$d secundă.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s zile</item>

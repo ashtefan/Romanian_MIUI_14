@@ -437,6 +437,9 @@
     <string name="callrecordview_item_op_time_rejected">Respins</string>
     <string name="callrecordview_item_op_time_short_incoming">"Primit: "</string>
     <string name="callrecordview_item_op_time_short_outgoing">"Efectuat: "</string>
+    <string name="callrecordview_item_op_time_xiaoai_automatic_answer">Răspuns automat</string>
+    <string name="callrecordview_item_op_time_xiaoai_call">Asistent apelare Mi AI</string>
+    <string name="callrecordview_item_op_time_xiaoai_manual_answer">Preluare manuală</string>
     <string name="callrecordview_item_op_video">Video</string>
     <string name="callrecordview_menu_add_call_note">Adăugaţi o notă la apel</string>
     <string name="callrecordview_menu_aiphone">Apeluri AI</string>
@@ -1631,7 +1634,8 @@ Pentru a începe, apăsaţi pictograma Îmbinare din partea de jos a ecranului.<
     <string name="scan_bussiness_card_merge_tip">Date în conflict au fost înlocuite</string>
     <string name="scan_duplicate_message">%1$d contacte cu date identice</string>
     <string name="scan_merge">Căutare contacte dublate…</string>
-    <string name="scan_not_installed">Instalați mai întâi aplicația Scaner</string>
+    <string name="scan_not_installed_china">Instalați mai întâi aplicația Mi AI Scanner</string>
+    <string name="scan_not_installed_global">Instalați mai întâi aplicația Scaner</string>
     <string name="scan_qrcode_card_hint1">Scanaţi codul QR de mai sus</string>
     <string name="scan_qrcode_card_hint2" />
     <string name="scanning_sdcard_failed_message">Motivul: \"%s\</string>

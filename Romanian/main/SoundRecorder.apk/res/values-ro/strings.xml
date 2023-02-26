@@ -515,6 +515,7 @@ Atingeți „%1$s” și apoi selectați \"%2$s\"."</string>
     <string name="record_scenes_summaries_stereo_music">Înregistrați prin %d canale, ascultați sunet stereo în căști</string>
     <string name="record_scenes_summaries_stereo_voice">Mutați microfonul mai aproape de sursa sunetului pentru o calitate mai bună</string>
     <string name="record_scenes_summaries_voice">Mutați microfonul mai aproape de sursa sunetului pentru o calitate mai bună</string>
+    <string name="record_while_in_call_tip">Nu se poate înregistra în timpul unui apel</string>
     <string name="recorder_record">Audio</string>
     <string name="recording">Înregistrare</string>
     <string name="recording_quality_high">Calitate înaltă</string>
