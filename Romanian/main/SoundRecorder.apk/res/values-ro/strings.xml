@@ -445,7 +445,7 @@ Atingeți „%1$s” și apoi selectați \"%2$s\"."</string>
     <string name="recognition_error_code">Codul erorii: %d</string>
     <string name="recognition_error_download_cancel">Mai târziu</string>
     <string name="recognition_error_download_data_msg">Descărcați motorul de transcriere pentru a beneficia de acest serviciu. Descărcarea necesită circa %d MB date mobile.</string>
-    <string name="recognition_error_download_fail">"Nu s-a putut descărca. Verificați setările rețelei și reîncercați."</string>
+    <string name="recognition_error_download_fail">Nu s-a putut descărca. Verificați setările rețelei și reîncercați.</string>
     <string name="recognition_error_download_msg">Descărcați motorul de transcriere pentru a face acest seviciu disponibil.</string>
     <string name="recognition_error_download_ok">Descărcați</string>
     <string name="recognition_error_download_title">Niciun motor de transcriere disponibil</string>
@@ -532,12 +532,12 @@ Atingeți „%1$s” și apoi selectați \"%2$s\"."</string>
     <string name="reg_error_audio_short">Fișierul audio este prea mic.</string>
     <string name="reg_error_business">"Nu s-a putut transcrie fișierul. Raportați această eroare și încercați din nou."</string>
     <string name="reg_error_client">A apărut o eroare legată de datele aplicației. Raportați această eroare și încercați din nou.</string>
-    <string name="reg_error_create_order">"Nu s-a putut crea comanda; încercați din nou."</string>
-    <string name="reg_error_ifly_account">A apărut o eroare de cont; încercați din nou.</string>
+    <string name="reg_error_create_order">Nu s-a putut crea comanda. Încercați din nou.</string>
+    <string name="reg_error_ifly_account">A apărut o eroare de cont. Încercați din nou.</string>
     <string name="reg_error_price">A apărut o eroare legată de estimarea de cost. Raportați această eroare și încercați din nou.</string>
     <string name="reg_error_server">A apărut o eroare de server. Raportați această eroare și încercați din nou.</string>
-    <string name="reg_error_upload_audio">"Nu s-a putut încărca fișierul; încercați din nou."</string>
-    <string name="reg_error_upload_order">"Nu s-a putut încărca; încercați din nou."</string>
+    <string name="reg_error_upload_audio">Nu s-a putut încărca fișierul. Încercați din nou.</string>
+    <string name="reg_error_upload_order">Nu s-a putut încărca. Încercați din nou.</string>
     <string name="remind_settings_pref_title">Notificări</string>
     <string name="remove_icon_description_content">Aplicația de Înregistrare este o aplicație de sistem. Nu veți putea gestiona înregistrările după ce eliminați comanda rapidă de pe Ecranul principal.</string>
     <string name="remove_icon_description_title">Eliminați \"Înregistrare\" de pe Ecranul principal?</string>

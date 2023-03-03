@@ -153,7 +153,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="community_community_message_trigger_summary">Primiți notificări despre răspunsuri, aprecieri și despre starea actualizărilor Comunității Mi utilizând ID-ul contului Mi</string>
     <string name="community_community_message_trigger_title">Notifică despre activitate</string>
     <string name="community_cta_dialog_cancel">Nu, mulțumesc</string>
-    <string name="community_cta_dialog_des">Temele terțe suportă acum widgetul Comunitate Mi. Permiteți aplicației Teme să vă acceseze ID-ul contului Mi și statusurile Comunității Mi asociate contului pentru a le putea vedea aici.</string>
+    <string name="community_cta_dialog_des">Temele terțe suportă acum widgetul Comunitate Xiaomi. Permiteți aplicației Teme să vă acceseze ID-ul contului Xiaomi și statusurile Comunității Xiaomi asociate contului pentru a le putea vedea aici.</string>
     <string name="community_cta_dialog_ok">Permiteți</string>
     <string name="community_cta_dialog_title">Sunt necesare permisiuni</string>
     <string name="community_entrance_summary">Găsiți conținut asociat temelor în Comunitatea Mi. Această caracteristică este suportată de către temele selectate.</string>
@@ -289,7 +289,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="evening">După amiază</string>
     <string name="exchange_alert">Puteți obține coduri pe durata evenimentelor noastre și să le rescumpărați aici.</string>
     <string name="exchange_code_dialog_title">Atenție</string>
-    <string name="exchange_code_not_match_account_dialog_content">Acest cod a fost deja valorificat de un alt cont Mi. Conectați-vă cu acel cont Mi și încercați din nou.</string>
+    <string name="exchange_code_not_match_account_dialog_content">Acest cod a fost deja valorificat de un alt cont Xiaomi. Conectați-vă cu acel cont Xiaomi și încercați din nou.</string>
     <string name="exit_extreme_mode_dialog_agree">De acord</string>
     <string name="exit_extreme_mode_dialog_cancel">Renunț</string>
     <string name="exit_extreme_mode_dialog_title">Dezactivați modul Extrem</string>
@@ -806,7 +806,7 @@ mm"</string>
     <string name="pad_fold_exit_wallpaper_warning_content">"Nu veți putea efectua următoarele acțiuni după ce vă deconectați:
 Să vizualizați și să utilizați articolele pe care le-ați achiziționat sau pe care le-ați adăugat la favorite."</string>
     <string name="pad_fold_exit_wallpaper_warning_title">Deconectați-vă de la Imagini de fundal și personalizare?</string>
-    <string name="pad_fold_log_in_theme_detail"><Data>"Am citit și am acceptat &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a>&lt;/font> și &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Politica de Confidențialitate&lt;/a>&lt;/font> a personalizării Imaginilor de fundal, ca și &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Acordul Utilizatorului&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> și &lt;a href=\"%4$s\">Politica de Confidențialitate&lt;/a>&lt;/font> a contului Mi(pentru autentificarea și utilizarea contului de sistem)."</Data></string>
+    <string name="pad_fold_log_in_theme_detail"><Data>"Am citit și am acceptat &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a>&lt;/font> și &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Politica de Confidențialitate&lt;/a>&lt;/font> a personalizării Imaginilor de fundal, ca și &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Acordul Utilizatorului&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> și &lt;a href=\"%4$s\">Politica de Confidențialitate&lt;/a>&lt;/font> a contului Xiaomi(pentru autentificarea și utilizarea contului de sistem)."</Data></string>
     <string name="pad_fold_log_in_wallpaper">Conectați-vă la Imagini de fundal și personalizare</string>
     <string name="pad_fold_no_permission">Sunt necesare permisiuni pentru stocare</string>
     <string name="pad_fold_no_permission_detail">Pentru a putea modifica preferințele de personalizare și pentru a salva articolele descărcate, permiteți mai întâi ca această funcție să acceseze spațiul de stocare.</string>
@@ -837,7 +837,7 @@ Să vizualizați și să utilizați articolele pe care le-ați achiziționat sau
 2. Să adăugați comentarii și aprecieri, să urmăriți alte persoane și să interacționați cu ei."</string>
     <string name="phone_exit_theme_warning_title">Vă deconectați din aplicația Teme?</string>
     <string name="phone_log_in_theme">Conectați-vă la Teme</string>
-    <string name="phone_log_in_theme_detail"><Data>"Am citit și acceptat &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a>&lt;/font> și &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Politica de Confidențialitate&lt;/a>&lt;/font> a aplicației Teme, ca și &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Acordul Utilizatorului&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> și &lt;a href=\"%4$s\">Politica de Confidențialitate&lt;/a>&lt;/font> a Contului Mi(pentru autentificare și utilizarea contului de sistem)."</Data></string>
+    <string name="phone_log_in_theme_detail"><Data>"Am citit și am acceptat &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a>&lt;/font> și &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">Politica de Confidențialitate&lt;/a>&lt;/font> a aplicației Teme, precum și &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Acordul Utilizatorului&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> și &lt;a href=\"%4$s\">Politica de Confidențialitate&lt;/a>&lt;/font> a Contului Xiaomi(pentru autentificare și utilizarea contului de sistem)."</Data></string>
     <string name="playing_ringtone">Se redă</string>
     <string name="pm">PM</string>
     <string name="pref_lockscreen_magazine_summary">Înlocuiți imaginea de fundal cu prezentări de imagini din diferite categorii</string>
@@ -1118,6 +1118,7 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="resource_list_title">Ultima selectată</string>
     <string name="resource_local_picker">Selectați sunetul de apel local</string>
     <string name="resource_menu_refresh">Reîmprospătaţi</string>
+    <string name="resource_mi_ai_picker">Selectați sunetul de apel Mi AI</string>
     <string name="resource_mute">Niciunul</string>
     <string name="resource_my">Locale</string>
     <string name="resource_network_diagnostics"><u>Testare rețea</u></string>
@@ -1336,7 +1337,7 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="super_wallpaper_setting_coordinate_title">Coordonate</string>
     <string name="super_wallpaper_setting_view_height_title">Altitudine</string>
     <string name="supersave_mode_toast_message">"Această funcție nu este disponibilă atunci când utilizați Ultra Economisirea acumulatorului. Dezactivați Ultra Economisirea acumulatorului pentru a-l putea folosi."</string>
-    <string name="superwallpaper_has_bound_account_dialog_content">Această imagine de fundal este deja asociată cu un alt cont Mi. Conectați-vă cu acel cont Mi și încercați din nou.</string>
+    <string name="superwallpaper_has_bound_account_dialog_content">Această imagine de fundal este deja asociată cu un alt cont Xiaomi. Conectați-vă cu acel cont și încercați din nou.</string>
     <string name="support_theme_store_des">Temele bune sunt întotdeauna create de designeri talentați. Aplicația noastră conține o cantitate mică de anunțuri care ne permite să susținem activitatea lor.</string>
     <string name="support_theme_store_supported">Mulțumim pentru sprijin!</string>
     <string name="support_theme_store_title">Susțineți designerii noștri</string>
@@ -1474,6 +1475,7 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="theme_is_external_priority_storage_summary">Aplicaţia Teme va reporni imediat pentru a intra în vigoare modificările efectuate</string>
     <string name="theme_log_out">Deconectați-vă</string>
     <string name="theme_multiple_button_title_customize">Personalizare</string>
+    <string name="theme_need_login_dialog_content">Conectați-vă la contul dvs. Xiaomi pentru a continua.</string>
     <string name="theme_no">Nu</string>
     <string name="theme_not_include_module_desc">Această temă nu conține următoarele elemente: %s</string>
     <string name="theme_on_the_phone_alert">Nu se poate reda pe durata apelurilor</string>

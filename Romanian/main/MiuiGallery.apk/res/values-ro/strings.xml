@@ -529,6 +529,7 @@ Conectați încărcătorul și opriți ecranul pentru a face să apară amintiri
     <string name="cleaner_space_description">poate fi eliberat</string>
     <string name="cleaner_space_detail_description">Goliți fotografiile din Galerie pentru a elibera spațiu</string>
     <string name="cleaner_stop_scan">Opriți scanarea</string>
+    <string name="cleaner_subtitle_slim_space_prefix">%1$s %2$s ocupat</string>
     <string name="cleaner_title">Curățare</string>
     <string name="cleaner_video_action">Vedeți detalii</string>
     <string name="cleaner_video_description">Ștergeți videoclipurile care ocupă mult spațiu de stocare</string>
@@ -616,7 +617,7 @@ Conectați încărcătorul și opriți ecranul pentru a face să apară amintiri
     <string name="collage_poster_global_tea_text">PAUZA DE CEAI</string>
     <string name="collage_ratio_text">Aspect</string>
     <string name="collage_rotate">Rotire</string>
-    <string name="collage_select_image_range">Colajele pot conține 1-6 fotografii</string>
+    <string name="collage_select_image_range">Colajele pot conține între %1$d și %2$d fotografii</string>
     <string name="collage_talkback_margin_large">Margine groasă</string>
     <string name="collage_talkback_margin_medium">Margine obișnuită</string>
     <string name="collage_talkback_margin_non">Fără margini</string>
@@ -2233,9 +2234,9 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="photo_editor_talkback_crop_mirror">Oglindă</string>
     <string name="photo_editor_talkback_crop_original">Original</string>
     <string name="photo_editor_talkback_crop_reset">Resetați</string>
-    <string name="photo_editor_talkback_crop_right_rotate">Rotiți cu 90 de grade</string>
+    <string name="photo_editor_talkback_crop_right_rotate">Rotiți cu %d de grade</string>
     <string name="photo_editor_talkback_crop_rotate">Rotiți</string>
-    <string name="photo_editor_talkback_crop_scale_default_value">Valoarea implicită înainte de aplicarea rotației este de 0 grade</string>
+    <string name="photo_editor_talkback_crop_scale_default_value">Valoarea implicită înainte de aplicarea rotației este de %d grade</string>
     <string name="photo_editor_talkback_crop_screen">Aspect ecran complet</string>
     <string name="photo_editor_talkback_crop_view">Decupați imaginea</string>
     <string name="photo_editor_talkback_doodle_arrow">Săgeată</string>
@@ -2834,6 +2835,8 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="slim_action_auto_backup_enable_description">Se încarcă elementele în cloud…</string>
     <string name="slim_action_auto_backup_sub_tip">Eliberați spațiul de stocare</string>
     <string name="slim_action_auto_backup_tip">Activați sincronizarea în cloud</string>
+    <string name="slim_auto_backup_cloud_confirm_detail">Activați sincronizarea în cloud pentru a putea încărca fotografii și videoclipuri de pe dispozitiv în cloud.</string>
+    <string name="slim_auto_backup_cloud_confirm_title">Sincronizați în cloud</string>
     <string name="slim_complete">Finalizat</string>
     <string name="slim_complete_action_title">Optimizat cu succes</string>
     <string name="slim_complete_count">"S-a optimizat %1$s și %2$s. "</string>
@@ -2853,6 +2856,9 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="slim_dialog_title">Optimizați spațiul de stocare</string>
     <string name="slim_exit_dialog_positive">Opriți</string>
     <string name="slim_exit_dialog_title">Opriți optimizarea</string>
+    <string name="slim_finish_upgrade_tip"><Data>Actualizați planul de stocare în cloud pentru a sincroniza mai multe articole în cloud. Atingeți pentru a &lt;a href=\"%1$s\">actualiza acum&lt;/a>.</Data></string>
+    <string name="slim_function_summery_first">Păstrați fotografii optimizate pe dispozitiv și salvați imaginile originale în cloud</string>
+    <string name="slim_function_summery_second">Fișierele create în ultimele %d zile vor fi salvate pe dispozitivul dvs.</string>
     <string name="slim_preference_scanning">Se analizează fotografiile și videoclipurile…</string>
     <string name="slim_preference_summery">Stocați fotografiile și videoclipurile originale în cloud păstrând în același timp copii mai mici de înaltă calitate pe acest dispozitiv. Copiile mai mici vor înlocui fișierele originale la %d zile după crearea articolelor.</string>
     <string name="slim_preference_title">Optimizați spațiul de stocare</string>
@@ -2860,7 +2866,12 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="slim_space">eliberat</string>
     <string name="slim_stop">Opriți optimizarea</string>
     <string name="slim_stop_v2">Opriți</string>
+    <string name="slim_subtitle_slim_space_prefix">Eliberați %1$s %2$s</string>
+    <string name="slim_subtitle_sync_off_no_slimdata">Activați sincronizarea în cloud pentru a obține o estimare a spațiului eliberat</string>
+    <string name="slim_subtitle_sync_on_no_slimdata">Se sincronizează. Încercați mai târziu.</string>
+    <string name="slim_subtitle_sync_on_no_slimdata_no_cloudspace">Actualizați planul de stocare în cloud pentru a sincroniza mai multe articole</string>
     <string name="slim_success_tip">S-a eliberat %s spațiu de stocare</string>
+    <string name="slim_upgrade_button">Actualizați</string>
     <string name="slow_motion_enter">Mișcare lentă</string>
     <string name="smartisan">Smartisan</string>
     <string name="smartisan_phone">Smartisan</string>
@@ -3077,13 +3088,13 @@ Până la %1$s, puteți să vă mutați articolele în Google Foto sau să vizit
     <string name="text_edit_dialog_style_toast">Nu se poate plasa textul conturat pe fundaluri</string>
     <string name="text_edit_dialog_style_transparent">Opacitate</string>
     <string name="text_edit_sub_menu_text">Baloane</string>
-    <string name="text_item_type_talkback_bubble_arrow1">Săgeată 1</string>
-    <string name="text_item_type_talkback_bubble_arrow2">Săgeată 2</string>
+    <string name="text_item_type_talkback_bubble_arrow1">Săgeată %d</string>
+    <string name="text_item_type_talkback_bubble_arrow2">Săgeată %d</string>
     <string name="text_item_type_talkback_bubble_circular">Bulă de dialog</string>
     <string name="text_item_type_talkback_bubble_none">Câmp text</string>
     <string name="text_item_type_talkback_bubble_oval">Bulă ovală de dialog</string>
-    <string name="text_item_type_talkback_bubble_rectangle">Bulă pătrată de dialog 1</string>
-    <string name="text_item_type_talkback_bubble_rectangle2">Bulă pătrată de dialog 2</string>
+    <string name="text_item_type_talkback_bubble_rectangle">Bulă pătrată de dialog %d</string>
+    <string name="text_item_type_talkback_bubble_rectangle2">Bulă pătrată de dialog %d</string>
     <string name="text_item_type_talkback_bubble_signature">Semnătură</string>
     <string name="text_item_type_talkback_bubble_watermark_1">Credeți întotdeauna că ceva minunat este pe cale să se întâmple</string>
     <string name="text_item_type_talkback_bubble_watermark_2">O vacanță perfectă 1</string>
@@ -3104,11 +3115,11 @@ Până la %1$s, puteți să vă mutați articolele în Google Foto sau să vizit
     <string name="text_item_type_talkback_city_suzhou">Suzhou</string>
     <string name="text_item_type_talkback_city_tianjin">Tianjin</string>
     <string name="text_item_type_talkback_city_wuhan">Wuhan</string>
-    <string name="text_item_type_talkback_festival_chaojieyueliang2">Superluna 2</string>
+    <string name="text_item_type_talkback_festival_chaojieyueliang2">Superluna %d</string>
     <string name="text_item_type_talkback_festival_chaojiyueliang">Superluna</string>
-    <string name="text_item_type_talkback_festival_chaojiyueliang3">Superluna 3</string>
-    <string name="text_item_type_talkback_festival_chaojiyueliang4">Superluna 4</string>
-    <string name="text_item_type_talkback_festival_chaojiyueliang5">Superluna 5</string>
+    <string name="text_item_type_talkback_festival_chaojiyueliang3">Superluna %d</string>
+    <string name="text_item_type_talkback_festival_chaojiyueliang4">Superluna %d</string>
+    <string name="text_item_type_talkback_festival_chaojiyueliang5">Superluna %d</string>
     <string name="text_item_type_talkback_festival_chunjie">Festivalul primăverii</string>
     <string name="text_item_type_talkback_festival_chuxi">Ajunul Anului Nou Chinezesc</string>
     <string name="text_item_type_talkback_festival_ertongjie">Ziua Copilului</string>

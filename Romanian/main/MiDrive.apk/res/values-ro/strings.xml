@@ -141,7 +141,7 @@
     <string name="delete_file_success">Șters cu succes</string>
     <string name="delete_operation_record">Ștergeți această înregistrare?</string>
     <string name="delete_operation_record_timeout">Nu s-a putut șterge înregistrarea. Așteptați un minut sau două și încercați din nou.</string>
-    <string name="delete_record_only">Elementele la care se referă înregistrările selectate nu vor fi șterse.</string>
+    <string name="delete_record_only">Această acțiune va șterge numai înregistrările selectate. Niciun fișier nu va fi șters.</string>
     <string name="delete_success">Șters cu succes</string>
     <string name="detail_download_path">"Locație: "</string>
     <string name="detail_download_time">"Descărcat: "</string>
@@ -412,7 +412,7 @@ Asigurați-vă că utilizați contul Xiaomi curent ca și cont de sistem MIUI."<
     <string name="operation_refresh">Reîmprospătați</string>
     <string name="operation_rename">Redenumiți</string>
     <string name="operation_save">Salvați</string>
-    <string name="operation_sure_to_delete">Ștergeți acum?</string>
+    <string name="operation_sure_to_delete">Ștergeți istoricul?</string>
     <string name="operation_transport_success">Adăugată cu succes la transferuri</string>
     <string name="operation_will_not_show_after_delete">Înregistrarea nu va mai apărea aici dacă o ștergeți.</string>
     <string name="passport_access_denied">Acces refuzat</string>

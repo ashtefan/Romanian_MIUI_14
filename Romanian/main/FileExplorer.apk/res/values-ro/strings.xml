@@ -161,6 +161,8 @@
     <string name="cloud_drive_settings">Setări Mi Drive</string>
     <string name="cloud_empty_hint_text">"Nimic aici încă.
 Încercați să mutați fișierele de pe dispozitiv pe Mi Drive."</string>
+    <string name="cloud_empty_hint_text_pad">"Nimic aici deocamdată.
+Încercați să mutați fișierele de pe dispozitiv în Mi Drive."</string>
     <string name="cloud_guide_summary_text">Sincronizați automat articolele pe toate dispozitivele dvs</string>
     <string name="cloud_guide_title_text">Sincronizați în Mi Drive</string>
     <string name="cloud_permission_storage_desc">Pentru a salva fotografii și documente pe dispozitiv</string>
@@ -299,6 +301,9 @@
     <string name="exit">Ieșiți</string>
     <string name="expand_button_title">Avansat</string>
     <string name="exposed_dropdown_menu_content_description">Afișează meniul de glisare în jos</string>
+    <string name="extend_service_setting">Servicii suplimentare</string>
+    <string name="extend_service_summary">Dacă dezactivați acest serviciu, nu veți putea folosi funcțiile legate de Mi Drive</string>
+    <string name="extend_service_title">Gestionați fișierele Mi Drive</string>
     <string name="extended_storage_file_can_not_open">"Nu s-a putut deschide fișierul. Copiați fișierul în memoria internă."</string>
     <string name="extract">Extragere</string>
     <string name="fab_menu_ball">Acțiuni rapide</string>
@@ -1050,7 +1055,9 @@
     <string name="start_server">Porniţi serverul</string>
     <string name="stay_awake_summary">Ecranul va fi activ permanent atunci când utilizaţi FTP</string>
     <string name="stay_awake_title">Mențineți ecranul activ</string>
-    <string name="sticker_btn_str_explore_tab">Explorați o mulțime de lucruri distractive!</string>
+    <string name="stop_extend_service_dialog_confirm">Dezactivați</string>
+    <string name="stop_extend_service_dialog_summary">Dacă dezactivați această funcție, nu veți putea să vă gestionați fișierele stocate în Mi Drive. O dezactivați oricum?</string>
+    <string name="stop_extend_service_dialog_tilte">Servicii suplimentare</string>
     <string name="stop_server">Opriţi serverul</string>
     <string name="storage_cloned_app">Stocare pentru aplicațiile clonate</string>
     <string name="storage_info_detail">Disponibil: %1$s Total: %2$s</string>
