@@ -5,6 +5,13 @@
         <item>Balansat</item>
         <item>Rapid</item>
     </string-array>
+    <array name="app_locating_animation_scaler">
+        <item>1</item>
+        <item>1,4</item>
+        <item>0,9</item>
+        <item>1,1</item>
+        <item>1</item>
+    </array>
     <string-array name="cell_layout_size_entries">
         <item>4x4</item>
         <item>4x5</item>

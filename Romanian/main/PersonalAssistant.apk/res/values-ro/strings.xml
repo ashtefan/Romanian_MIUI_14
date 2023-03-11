@@ -1632,7 +1632,8 @@ Verificați numărul de urmărire."</string>
     <string name="notification_title_success">Plată adăugată cu succes</string>
     <string name="ok">OK</string>
     <string name="opened">Pornit</string>
-    <string name="pa_accessibility_home_search">Căutați, atingeți de două ori pentru a începe</string>
+    <string name="pa_accessibility_home_search">"Căutați,
+atingeți de două ori pentru a începe"</string>
     <string name="pa_accessibility_home_widget_drag">Mutarea articolului</string>
     <string name="pa_accessibility_home_widget_drag_move">Mutați în rândul %1$d, poziția %2$d</string>
     <string name="pa_accessibility_home_widget_drop_workspace">Mutat în rândul %1$d, poziția %2$d</string>
@@ -1647,16 +1648,28 @@ Verificați numărul de urmărire."</string>
     <string name="pa_accessibility_picker_back">Reveniți.</string>
     <string name="pa_accessibility_picker_bigBanner_widget_collection">Colecția de widget-uri</string>
     <string name="pa_accessibility_picker_home_appList_entrance">Vedeți lista widgeturilor suportate</string>
-    <string name="pa_accessibility_picker_home_bigBanner_slected">Selectat %1$s, rândul %2$d, numărul %3$d. Atingeți de două ori pentru a începe.</string>
-    <string name="pa_accessibility_picker_home_maml_slected">Selectat: %1$s. Dimensiunea: %2$s. Apăsați de două ori pentru a vizualiza pagina de detalii. Apăsați de două ori și mențineți apăsat pentru a trage.</string>
+    <string name="pa_accessibility_picker_home_bigBanner_slected">"%1$s. 
+Atingeți de două ori pentru a începe."</string>
+    <string name="pa_accessibility_picker_home_maml_slected">"%1$s. %2$s. 
+Apăsați de două ori pentru a vizualiza pagina de detalii.
+Apăsați de două ori și țineți apăsat pentru a trage."</string>
     <string name="pa_accessibility_picker_home_search">Căutați widgeturi</string>
-    <string name="pa_accessibility_picker_home_smallBanner_slected">Selectat %1$s, rrândul %2$d, numărul %3$d. Atingeți de două ori pentru a începe.</string>
+    <string name="pa_accessibility_picker_home_smallBanner_slected">"%1$s. 
+Atingeți de două ori pentru a începe."</string>
     <string name="pa_accessibility_picker_home_title">Adăugați un widget</string>
     <string name="pa_accessibility_picker_home_widget_replace">Selectate %s. Se comută widget-urile.</string>
-    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">Widget: %s. Atingeți de două ori butonul de sub acesta pentru a-l înlocui cu un alt widget.</string>
-    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">%s. Stare instalare: %3$s. Butonul \"Comutare\" se află mai jos. Apăsați de două ori pentru a comuta.</string>
-    <string name="pa_accessibility_picker_home_widget_slected">Selectat %1$s, Dimensiune: %2$s, Stare instalare: %3$s, atingeți de două ori pentru detalii, atingeți de două ori și mențineți apăsat pentru a muta.</string>
-    <string name="pa_accessibility_picker_home_widget_with_add_slected">Selectat %1$s, rândul %2$d, numărul %3$d. Atingeți de două ori pentru a vedea detaliile.</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc">"%s. 
+Atingeți de două ori butonul de sub acesta pentru a-l înlocui cu un alt widget."</string>
+    <string name="pa_accessibility_picker_home_widget_replace_card_content_desc_status" formatted="false">"%s. Stare instalare: %3$s. Butonul \"Comutare\" se află dedesubt. 
+Apăsați de două ori pentru a comuta."</string>
+    <string name="pa_accessibility_picker_home_widget_slected">"%1$s, %2$s, Stare instalare: %3$s, 
+atingeți de două ori pentru detalii,
+atingeți de două ori și țineți apăsat pentru a muta."</string>
+    <string name="pa_accessibility_picker_home_widget_slected_for_pay">"%1$s, %2$s, stare instalare: %3$s.
+Atingeți de două ori pentru a vedea detaliile."</string>
+    <string name="pa_accessibility_picker_home_widget_with_add_slected">"%1$s, rândul %2$d, numărul %3$d. 
+Atingeți de două ori pentru a vedea detaliile."</string>
+    <string name="pa_accessibility_picker_order_list_to_theme">Deschideți aplicația Teme</string>
     <string name="pa_accessibility_picker_search_cancel">Bara de căutare widgeturi. Apăsați de două ori pentru a anula.</string>
     <string name="pa_accessibility_picker_search_clear">Goliți textul</string>
     <string name="pa_accessibility_picker_search_tips">Bara de căutare widgeturi. Apăsați de două ori pentru a căuta.</string>
@@ -1681,7 +1694,7 @@ Verificați numărul de urmărire."</string>
     <string name="pa_accessibility_picker_widget_item_add_to_minus_desktop">%s</string>
     <string name="pa_accessibility_picker_widget_item_add_to_third">%s</string>
     <string name="pa_accessibility_picker_widget_maml_detail_edit_add_to_minus_desktop">Atingeți de două ori pentru a edita.</string>
-    <string name="pa_accessibility_widget_slected_status">Selectat: %1$s. Stare instalare: %2$s.</string>
+    <string name="pa_accessibility_widget_slected_status">%1$s. Stare instalare: %2$s.</string>
     <string name="pa_alphabet_and_number">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
     <string name="pa_announce_for_delete_gadget_and_widget">Widget</string>
     <string name="pa_app_label">Asistent inteligent</string>
@@ -1696,7 +1709,7 @@ Verificați numărul de urmărire."</string>
     <string name="pa_base_yesterday">Ieri</string>
     <string name="pa_cancel">Renunțați</string>
     <string name="pa_clear">Goliți</string>
-    <string name="pa_covid_card_title">COVID-19</string>
+    <string name="pa_covid_card_title">Unelte cotidiene</string>
     <string name="pa_cta_dialog_all_purpose">Bun venit la Asistentul inteligent! Această aplicație este un punct unic pentru muncă, stil de viață și servicii legate de călătorii.</string>
     <string name="pa_cta_dialog_desc_location">Pentru oferirea de sugestii legate de navetă</string>
     <string name="pa_cta_dialog_desc_phone_state">Pentru identificarea dispozitivului pe baza IMEI-ului</string>
@@ -1825,7 +1838,7 @@ De asemenea, puteți urmări livrarea rapidă pe site-urile oficiale ale servici
     <string name="pa_express_widget_order_42">Introduceți numărul de urmărire</string>
     <string name="pa_express_widget_post">Trimiteți pachetul</string>
     <string name="pa_express_widget_search">Căutați</string>
-    <string name="pa_filter_accessibility_filter_item">Selectat %s. Atingeți de două ori pentru a filtra alte selecții.</string>
+    <string name="pa_filter_accessibility_filter_item">%s. Atingeți de două ori pentru a filtra alte selecții.</string>
     <string name="pa_filter_accessibility_filter_popup_item_selected">Atingeți de două ori pentru a selecta %s.</string>
     <string name="pa_filter_accessibility_filter_popup_item_unselected">%s. Atingeți de două ori pentru a selecta.</string>
     <string name="pa_filter_replace_bt">Aplicați</string>
@@ -1854,8 +1867,8 @@ De asemenea, puteți urmări livrarea rapidă pe site-urile oficiale ale servici
     <string name="pa_lite_setting_private_auth">Permiteți analiza utilizării aplicației</string>
     <string name="pa_lite_setting_private_auth_summary">Sugestiile de aplicații se vor baza pe datele dvs. de utilizare</string>
     <string name="pa_lite_setting_private_policy">Politica de Confidențialitate</string>
-    <string name="pa_lite_setting_service_covid">COVID-19</string>
-    <string name="pa_lite_setting_service_covid_summry">Informații și servicii legate de pandemie</string>
+    <string name="pa_lite_setting_service_covid">Unelte cotidiene</string>
+    <string name="pa_lite_setting_service_covid_summry">Funcțiile pe care le utilizați zilnic, toate într-un singur loc</string>
     <string name="pa_lite_setting_service_express">Livrare expres</string>
     <string name="pa_lite_setting_service_express_summry">Urmăriți-vă pachetele cu livrare expresă</string>
     <string name="pa_lite_setting_service_management">Gestionați serviciile</string>
@@ -1962,6 +1975,7 @@ Rămâneţi aproape!"</string>
     <string name="pa_picker_no_relevant_content">Nu s-au putut găsi rezultate</string>
     <string name="pa_picker_permission_denied">"Asistentul inteligent trebuie să acceseze starea instalării
 pentru a afișa widgeturi."</string>
+    <string name="pa_picker_purchase_order">Achiziționat</string>
     <string name="pa_picker_request">Setări</string>
     <string name="pa_picker_retry">Încercați din nou</string>
     <string name="pa_picker_search">Căutați</string>
@@ -1980,6 +1994,7 @@ pentru a afișa widgeturi."</string>
     <string name="pa_picker_search_result_type_widget">Widgeturi</string>
     <string name="pa_picker_suit_list_activity_title">Pachete de personalizare</string>
     <string name="pa_picker_tab_title_category">Categorii</string>
+    <string name="pa_picker_tab_title_fun">Descoperiți</string>
     <string name="pa_picker_tab_title_recommend">Recomandate</string>
     <string name="pa_picker_tips_count_limit_forbidden">Nu se pot adăuga mai multe widget-uri. Ștergeți widget-urile mai vechi pentru a adăuga altele noi.</string>
     <string name="pa_picker_toast_add_successfully">Adăugat cu succes</string>
@@ -2016,6 +2031,8 @@ pentru a afișa widgeturi."</string>
     <string name="pa_setting_app_usage_auth_dialog_title">Atenție</string>
     <string name="pa_setting_bugreport">Feedback</string>
     <string name="pa_setting_perm_empty">Nimic aici încă</string>
+    <string name="pa_setting_personalized_recommenddation_swicth_summary">Obțineți recomandări de widget-uri în funcție de interesele dvs.</string>
+    <string name="pa_setting_personalized_recommenddation_swicth_title">Recomandări personalizate</string>
     <string name="pa_setting_privacy_auth">Permiteți analiza utilizării aplicației</string>
     <string name="pa_setting_privacy_auth_summary">"Veți primi sugestii bazate pe obiceiurile dvs. de utilizare"</string>
     <string name="pa_setting_privacy_category_perm">Permisiuni</string>
@@ -2126,6 +2143,7 @@ pentru a afișa widgeturi."</string>
     <string name="pa_sports_fav_league">Evenimentele mele</string>
     <string name="pa_sports_fav_title">Echipele mele</string>
     <string name="pa_sports_followed">Urmărite</string>
+    <string name="pa_sports_jump_error">Nu s-a putut deschide pagina din cauza unei erori.</string>
     <string name="pa_sports_league_detail_download_douyu">Descărcați Douyu pentru a vedea</string>
     <string name="pa_sports_league_detail_download_hupu">Descărcați Hupu pentru a vedea</string>
     <string name="pa_sports_league_detail_view">Vedeți</string>

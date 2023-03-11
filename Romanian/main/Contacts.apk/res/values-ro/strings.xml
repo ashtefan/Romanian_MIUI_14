@@ -660,7 +660,7 @@ Apăsând butonul \"De acord\" de mai jos, acceptați termenii și condițiile i
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
     <string name="date_year_toggle">Indicaţi anul</string>
     <string name="default_ringtone">Ton de apel prestabilit</string>
-    <string name="deleteCloudConfirmationDetail">Ștergeți informațiile despre %s atât din cloud cât și din acest dispozitiv?</string>
+    <string name="deleteCloudConfirmationDetail">Ștergeți informațiile despre <u>%s</u> atât din cloud cât și de pe acest dispozitiv?</string>
     <string name="deleteConfirmation">Acest contact va fi şters din agendă.</string>
     <string name="deleteConfirmationDetail">Ştergeţi \"%s\"?</string>
     <string name="deleteConfirmation_title">Ştergeţi acest contact din agendă?</string>

@@ -1769,7 +1769,7 @@ pentru a personaliza Galeria"</string>
     <string name="mosaic_item_talkback_eraser">Radieră</string>
     <string name="motion_photo_enter">Fotografie dinamică</string>
     <string name="motion_photo_play">Joacă</string>
-    <string name="move_to_other_albums_tip">Mutați acest album în Alte albume?</string>
+    <string name="move_to_other_albums_tip">Mutați acest album în \"Alte albume\"?</string>
     <string name="move_to_rubbish_albums_tip">Mutați albumele selectate în albumele redundante?</string>
     <string name="movie_add_disable">Puteți selecta maxim %d de fotografii</string>
     <string name="movie_audio_antiquity">Retro</string>
@@ -1953,7 +1953,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="operation_hide_time">Ascundeți datele</string>
     <string name="operation_in_process">Procesare…</string>
     <string name="operation_move">Mutați</string>
-    <string name="operation_move_to_other_albums">Mutați în Alte albume</string>
+    <string name="operation_move_to_other_albums">Mutați în \"Alte albume\"</string>
     <string name="operation_move_to_rubbish_albums">Mutați în albumele redundante</string>
     <string name="operation_not_show_in_photos_tab">"Nu arăta în Fotografii"</string>
     <string name="operation_photo_rename">Redenumiți</string>
@@ -1962,7 +1962,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="operation_projection">Proiectați</string>
     <string name="operation_remove_face">Eliminați</string>
     <string name="operation_remove_from_face_album">Eliminaţi din album</string>
-    <string name="operation_remove_from_other_albums">Mutați din Alte albume</string>
+    <string name="operation_remove_from_other_albums">Eliminați din \"Alte albume\"</string>
     <string name="operation_remove_from_rubbish_albums">Restaurați</string>
     <string name="operation_remove_rubbish">Restaurați</string>
     <string name="operation_remove_secret">Eliminați din albumul privat</string>
@@ -2001,7 +2001,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="origin_video_name">videoclip</string>
     <string name="other_album">Alte albume</string>
     <string name="other_album_operation_move_to_rubbish_albums">Mutați în albumele redundante</string>
-    <string name="other_album_operation_remove_from_other_albums">Eliminați din albumele redundante</string>
+    <string name="other_album_operation_remove_from_other_albums">Eliminați din \"Alte albume\"</string>
     <string name="other_settings">Setări suplimentare</string>
     <string name="owner_album_subtitle">Distribuit către %1$s persoane</string>
     <string name="pad_device_model_name">Tabletă Xiaomi</string>
@@ -2379,7 +2379,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="privacy_rejected_map_new">Retragerea consimțământului pentru Declarația de partajare a datelor către terți pentru Harta Galeriei</string>
     <string name="privacy_rejected_pos_btn">Retrageți</string>
     <string name="privacy_share_album_confirm">Termeni și condiții</string>
-    <string name="privacy_share_album_confirm_detail">Albumele partajate sunt furnizate de Xiaomi Cloud. Înainte de a utiliza această funcție, citiți și acceptați &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Acordul de utilizare> &lt;/a>&lt;/font> și &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Politica de confidențialitate&lt; ;/a>&lt;/font>.</string>
+    <string name="privacy_share_album_confirm_detail">Albumele partajate sunt furnizate de Xiaomi Cloud. Înainte de a utiliza această funcție, citiți și acceptați &lt;font color=\"#ff32b4ff\">&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\">Acordul utilizatorului&lt;/a>&lt;/font> și &lt;font color=\"#ff32b4ff\">&lt;a href=\"%2$s\" style=\"color:#ff32b4ff;\">Politica de confidențialitate&lt; ;/a>&lt;/font>.</string>
     <string name="private_entry_lock_state_activated_text">Eliberați pentru a deschide dosarul privat</string>
     <string name="private_entry_lock_state_enterd_text">Glisați în jos pentru a deschide dosarul privat</string>
     <string name="problem_feedback">Feedback</string>
@@ -2467,8 +2467,8 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="remove_from_album_message">Această fotografie nu va mai fi afișată aici</string>
     <string name="remove_from_album_title">Eliminați din acest album</string>
     <string name="remove_from_current_album">Eliminați din acest album</string>
-    <string name="remove_from_favorites_failed">"Nu s-a putut elimina din Favorite"</string>
-    <string name="remove_from_other_albums_tip">Mutați acest album din Alte albume?</string>
+    <string name="remove_from_favorites_failed">Nu s-a putut elimina din Favorite</string>
+    <string name="remove_from_other_albums_tip">Eliminați acest album din \"Alte albume\"?</string>
     <string name="remove_from_secret_fail">Nu s-a putut elimina din albumul privat</string>
     <string name="remove_from_secret_failed_with_reason">Nu se poate elimina din albumul privat. %1$s.</string>
     <string name="remove_from_secret_successful">Eliminat din albumul privat</string>
@@ -2802,8 +2802,8 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="show_cloud_albumlist_summary">Noile elemente din albumele selectate nu vor fi încărcate în cloud după ce veți dezactiva sincronizarea.</string>
     <string name="show_hidden_album_summary">Vedeți și gestionați albumele ascunse</string>
     <string name="show_hidden_album_title">Arată albumele invizibile</string>
-    <string name="show_in_other_albums_disable_toast_long_press_menu">Mutat cu succes. Mergeți la Alte albume pentru a-l vedea</string>
-    <string name="show_in_other_albums_enable_toast_long_press_menu">Mutat cu succes. Mergeți la Albume pentru a-l vedea</string>
+    <string name="show_in_other_albums_disable_toast_long_press_menu">Eliminat cu succes. Puteți vizualiza acest articol printre \"Albume\" acum.</string>
+    <string name="show_in_other_albums_enable_toast_long_press_menu">Mutat cu succes. Puteți vizualiza acest articol în \"Alte albume\" acum.</string>
     <string name="show_in_rubbish_albums_enable_toast_long_press_menu">Mutat în albumele redundante cu succes</string>
     <string name="show_nearby_photos">Afișează fotografiile și videoclipurile din apropiere</string>
     <string name="signature_dialog_clear">Goliți</string>

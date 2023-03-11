@@ -8568,11 +8568,13 @@ Notă: Nu puteți utiliza amprenta pentru a debloca acest dispozitiv. Pentru mai
     <string name="shoulder_key_sound_text_wind">Motor</string>
     <string name="shoulder_key_switch_status_close">Oprit</string>
     <string name="shoulder_key_switch_status_open">Pornit</string>
+    <string name="show_alarm_icon_title">Afișează pictograma alarmei</string>
     <string name="show_all_anrs">Afişaţi toate elementele ANR</string>
     <string name="show_all_anrs_summary">Arată o fereastră \"Aplicația nu răspunde\" pentru aplicațiile din fundal</string>
     <string name="show_all_apps">Arată utilizarea totală a dispozitivului</string>
     <string name="show_background_processes">Arată procesele din memoria cache</string>
     <string name="show_badge_notifications_short">Pictograme</string>
+    <string name="show_bt_icon_title">Afișează pictograma Bluetooth</string>
     <string name="show_carrier_under_keyguard_title">Afișează numele operatorului când dispozitivul este blocat</string>
     <string name="show_charging_in_non_lockscreen_animation">Afișează animația de încărcare după ce dispozitivul este deblocat</string>
     <string name="show_charging_in_non_lockscreen_animation_summary">Afișează în continuare animația de încărcare după ce dispozitivul dvs. este deblocat ascunzându-l doar pentru redarea video și alte scene similare cu ecran complet</string>
@@ -8594,7 +8596,9 @@ Notă: Nu puteți utiliza amprenta pentru a debloca acest dispozitiv. Pentru mai
     <string name="show_ime_summary">Păstrează pe ecran cât timp tastatura fizică este activă</string>
     <string name="show_magnifier_when_input">Afişaţi lupa</string>
     <string name="show_menu">Afișare meniu</string>
+    <string name="show_mute_icon_title">Afișează pictograma mod Silențios</string>
     <string name="show_network_speed_title">Afișează viteza conexiunii</string>
+    <string name="show_nfc_icon_title">Afișează pictograma NFC</string>
     <string name="show_non_rect_clip">Remediați decupări nerectangulare</string>
     <string name="show_notification_channel_warnings">Afișează avertismente de notificare canal</string>
     <string name="show_notification_channel_warnings_summary">Afișează o notificare pe ecran când o aplicație postează o notificare fără un canal valid</string>

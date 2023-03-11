@@ -461,6 +461,7 @@
     <string name="gadget_weather_title">Meteo</string>
     <string name="gadget_weather_title_14">Meteo</string>
     <string name="gadget_weather_title_24">Meteo</string>
+    <string name="global_search">Căutați</string>
     <string name="global_search_hint">Căutare</string>
     <string name="got_it_botton">Am înțeles</string>
     <string name="group_folder">Dosar nou</string>
@@ -475,8 +476,11 @@
     <string name="home_gesture_content_center">Centrul de Conținut</string>
     <string name="home_gesture_global_search">Căutați</string>
     <string name="home_gesture_no_action">Nimic</string>
+    <string name="home_gesture_notification_and_control_center">Perdeaua de notificări și Centrul de control</string>
     <string name="home_gesture_notification_bar">Notificări</string>
     <string name="home_pull_down_action">Glisați în jos în Ecranul principal</string>
+    <string name="home_pull_down_know">Am înțeles</string>
+    <string name="home_pull_up_content">Acum puteți deschide căutarea glisând în jos pe ecranul de pornire.</string>
     <string name="home_screen">Ecranul principal</string>
     <string name="home_slide_up_action">Glisați în sus în Ecranul principal</string>
     <string name="home_switch_personal_assistant">Ecran -1</string>
@@ -896,6 +900,7 @@ Securitate sporită."</string>
     <string name="resource_canary_leak_tip">are scăpări!</string>
   <string name="resource_canary_wait_for_heapdump_message">Dumping heap snapshot...</string>
     <string name="restore_icon_successful">Adăugată cu succes</string>
+    <string name="risk_app_report">Raportați această aplicație</string>
     <string name="russia_preinstall_folder_name">Rusia</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>

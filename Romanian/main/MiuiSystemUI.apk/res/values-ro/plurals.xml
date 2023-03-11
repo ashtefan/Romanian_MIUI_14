@@ -78,7 +78,7 @@
         <item quantity="one">Introduceți parola cel puțin o dată la %d oră pentru a nu o uita</item>
     </plurals>
     <plurals name="input_pattern_after_timeout_msg">
-        <item quantity="other">Desenați modelul cel puțin o dată la %d ore pentru a nu-l uita</item>
+        <item quantity="other">Desenați modelul cel puțin o dată la %d de ore pentru a nu-l uita</item>
         <item quantity="one">Desenați modelul cel puțin o dată la %d oră pentru a nu-l uita</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_hour_time_text">

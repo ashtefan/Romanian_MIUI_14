@@ -703,6 +703,10 @@ documentele scanate în mod automat"</string>
     <string name="download_cancel_hint">Anulați descărcarea %1$s?</string>
     <string name="download_confirm">Descărcați</string>
     <string name="download_hint">%1$s MB date mobile vor fi utilizate pentru a descărca elementele. Descărcați oricum?</string>
+    <string name="download_hint_check_on_wifi">Sunteți conectat la Wi-Fi. Descărcați acest fișier de %1$s MB acum?</string>
+    <string name="download_hint_check_on_wifi_cn">Sunteți conectat la Wi-Fi. Descărcați acest fișier de %1$s MB acum?</string>
+    <string name="download_hint_check_on_wifi_remind">Nu-mi aminti din nou</string>
+    <string name="download_hint_check_on_wifi_remind_cn">Nu-mi aminti din nou</string>
     <string name="download_hint_cn">"Se pare că dispozitivul dvs. nu este conectat la Wi-Fi. Folosiți %1$s MB de date mobile pentru a descărca articolele acum?"</string>
     <string name="download_hint_wifi">"Se pare că dispozitivul dvs. nu este conectat la Wi-Fi. Folosiți %1$s MB de date mobile pentru a descărca articolele acum?"</string>
     <string name="download_in_progress">Se descarcă…</string>

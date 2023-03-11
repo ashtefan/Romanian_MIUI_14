@@ -852,11 +852,18 @@ pentru videoclipuri"</string>
     <string name="local_diversion_close_recommend">Închideți</string>
     <string name="local_diversion_download_more_video">Mai multe videoclipuri</string>
     <string name="local_diversion_manage_local_video">Gestionați fișierele</string>
+    <string name="local_diversion_moments_videos">Urmăriți Momente</string>
     <string name="local_diversion_open_mivideo">"Vedeți în Mi Video
 pentru cea mai bună experiență de vizualizare"</string>
     <string name="local_diversion_recommend_title">Populare</string>
+    <string name="local_diversion_trending_videos">Urmăriți videoclipurile virale</string>
     <string name="local_diversion_view_more">Vizualizați</string>
     <string name="local_empty_guide">Videoclipurile pe care le filmați vor apărea aici</string>
+    <string name="local_folder_select_count">Selectat %s</string>
+    <string name="local_hide_folder_dialog_content">Videoclipurile ascunse nu vor fi afișate în listele dvs. de redare</string>
+    <string name="local_hide_folder_dialog_title">Videoclipuri ascunse</string>
+    <string name="local_hide_folder_setting_goto">Setări</string>
+    <string name="local_hide_folder_setting_tip">Vă puteți gestiona videoclipurile ascunse în Profil > Setări > Gestionați videoclipurile ascunse.</string>
     <string name="local_play_end_camera_title">Vizualizați mai multe videoclipuri</string>
     <string name="local_play_end_close_tip">"Recomandările nu vor mai fi afișate astăzi"</string>
     <string name="local_play_end_download_drag_up_guide">Atingeți sau glisați pentru a descărca</string>
