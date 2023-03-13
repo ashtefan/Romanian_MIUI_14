@@ -170,6 +170,7 @@
     <string name="morning">Morning</string>
     <string name="night">Evening</string>
     <string name="no_apps">Nicio aplicație</string>
+    <string name="no_icons">Fără pictograme</string>
     <string name="noon">Amiază</string>
     <string name="pm">PM</string>
     <string name="reset">Resetați</string>
@@ -204,6 +205,7 @@
     <string name="solar_term_white_dews">Rouă</string>
     <string name="solar_term_winter_begins">Începutul iernii</string>
     <string name="solar_term_winter_solstice">Solstițiul de iarnă</string>
+    <string name="status_bar_icons">Pictograme bară de stare</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>

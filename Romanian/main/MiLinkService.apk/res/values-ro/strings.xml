@@ -163,7 +163,6 @@ dispozitivele dvs?"</string>
     <string name="current_wifi_tv">Rețeaua curentă</string>
     <string name="date_picker_lunar">Calendarul Tradițional Chinez</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
-    <string name="dialog_can_not_find_device">Nu s-au găsit dispozitive în apropiere</string>
     <string name="device_type_name_pad">Tabletă</string>
     <string name="device_type_name_phone">Telefon</string>
     <string name="dialog_can_not_find_device">Nu s-au putut găsi dispozitive în apropiere</string>

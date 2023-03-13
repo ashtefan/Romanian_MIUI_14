@@ -9033,6 +9033,7 @@ Acest lucru este posibil datorită unui certificat de încredere instalat pe dis
     <string name="status_bar_app_enable_keyguard">Blocarea ecranului</string>
     <string name="status_bar_app_enable_message">Insigne pictograme</string>
     <string name="status_bar_carrier_settings_no_sim_card">Nicio cartelă SIM</string>
+    <string name="status_bar_icons_title">Pictograme bară de stare</string>
     <string name="status_bar_settings">Notificări și bara de stare</string>
     <string name="status_bar_settings_all_app_display_loading">Doar o secundă…</string>
     <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
