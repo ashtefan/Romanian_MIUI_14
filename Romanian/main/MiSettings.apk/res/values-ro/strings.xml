@@ -582,6 +582,7 @@ nu sunt generate în Spațiul Secundar"</string>
     <string name="screen_fps_unit">%d Hz</string>
     <string name="screen_fps_unit_power_save">%dHz (Economisește acumulatorul)</string>
     <string name="screen_fps_unit_smooth">%dHz (Calitate ridicată)</string>
+    <string name="screen_fps_unit_string">%s Hz</string>
     <string name="screen_original_gamut">Îmbunătățit</string>
     <string name="screen_original_gamut_summary">Afișează tot conținutul ecranului în cea mai largă gamă de culori posibilă</string>
     <string name="screen_paper_mode_apps_loading">Doar o secundă…</string>

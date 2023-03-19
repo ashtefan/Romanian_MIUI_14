@@ -401,6 +401,7 @@ Verificați ora locală și reîncercați."</string>
     <string name="mibi_paytool_msp_not_installed">Nu ați instalat extensia de securitate mobilă %1$s, o instalați acum?</string>
     <string name="mibi_paytool_paypal">Paypal</string>
     <string name="mibi_paytool_tenpay">Tenpay</string>
+    <string name="mibi_paytool_unionpay">UnionPay</string>
     <string name="mibi_paytool_wechat_return_cancel">Anulare revenire la WeChat</string>
     <string name="mibi_paytool_weixin">WeChat</string>
     <string name="mibi_permanently_denied_perm_camera">Permiteți accesul la camera foto din Setări pentru a utiliza această funcție.</string>

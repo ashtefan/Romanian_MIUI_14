@@ -76,8 +76,8 @@
         <item quantity="one">Cu un minut în urmă</item>
     </plurals>
     <plurals name="remove_dialog_title_multi_format">
-        <item quantity="other">Eliminați %1$d aplicații de pe Ecranul principal?</item>
-        <item quantity="one">Eliminați %1$d aplicație de pe Ecranul principal?</item>
+        <item quantity="other">Eliminați %1$d elemente de pe Ecranul principal?</item>
+        <item quantity="one">Eliminați %1$d element de pe Ecranul principal?</item>
     </plurals>
     <plurals name="scroll_tip_format_when_announce_accessibility">
         <item quantity="other">pagina %1$d, %2$d aplicații</item>

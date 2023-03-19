@@ -805,7 +805,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="auto_task_edit_step1_new">%d.</string>
     <string name="auto_task_edit_step2_new">%d.</string>
     <string name="auto_task_edit_task_name">Nume</string>
-    <string name="auto_task_exit_finish">Sarcina finalizată automat</string>
+    <string name="auto_task_exit_finish">Sarcină finalizată automat</string>
     <string name="auto_task_font_setting_weight_toast">Nu se poate ajusta înălțimea pentru acest font</string>
     <string name="auto_task_leave_app">Părăsiți %s</string>
     <string name="auto_task_lock_screen_now">Blocarea ecranului</string>

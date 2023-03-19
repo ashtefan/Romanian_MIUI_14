@@ -842,6 +842,8 @@ Securitate sporită."</string>
     <string name="recent_menu_item_lock">Blocați</string>
     <string name="recent_menu_item_multi_window">Scindați</string>
     <string name="recent_menu_item_unlock">Deblocați</string>
+    <string name="recent_menu_item_worldcirculate">Transferați sarcinile aplicației</string>
+    <string name="recent_menu_item_worldcirculate_disable">Nu se pot transfera sarcinile aplicației pe dispozitivele conectate</string>
     <string name="recents_app_info_button_label">Informații despre aplicație</string>
     <string name="recents_clear_all_tasks">Goliți tot</string>
     <string name="recents_config_title">Recente</string>

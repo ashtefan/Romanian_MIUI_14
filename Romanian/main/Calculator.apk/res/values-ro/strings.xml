@@ -49,7 +49,7 @@
     <string name="arcsin">arcsin</string>
     <string name="arctan">arctan</string>
     <string name="base_rate">Rata dobânzii de bază</string>
-    <string name="bmi_error_text">IMC nu arată bine. Asigurați-vă că ați introdus corect înălțimea și greutatea.</string>
+    <string name="bmi_error_text">Introduceți parametri valizi</string>
     <string name="bmi_label_information">Informații</string>
     <string name="bmi_label_normal">Normal</string>
     <string name="bmi_label_overweight">Supraponderal</string>
@@ -256,6 +256,7 @@
     <string name="global_search_key_word_figure">Simboluri financiare</string>
     <string name="golbal_search_calculator_setting">Calculator;Setări calculator;Setări</string>
     <string name="golbal_search_path_calculator_setting">Aplicații de sistem/Calculator/Setări</string>
+    <string name="gst_initial_value">%d</string>
     <string name="gst_percentage">%s</string>
     <string name="height_prompt">Înălțime</string>
     <string name="help_content_desc">Ajutor</string>
@@ -271,6 +272,7 @@
     <string name="install_scanner_to_continued_use">Aplicația Scaner este dezinstalată. O instalați din nou?</string>
     <string name="interest_rate_hint">Introduceți rata dobânzii</string>
     <string name="investment_invalid_duration">Durata investiției trebuie să fie mai mare de zero</string>
+    <string name="investment_loan_result">Detalii</string>
     <string name="investment_type_once">Singulară</string>
     <string name="investment_type_recurring">Recurentă</string>
     <string name="item_page_title_investment">Calculator investiții</string>
@@ -914,7 +916,7 @@ Luați aminte că această aplicație trebuie să se conecteze la internet și n
     <string name="unit_data_display_length_fen">Fen</string>
     <string name="unit_data_display_length_fm">Fathom</string>
     <string name="unit_data_display_length_ft">Picior</string>
-    <string name="unit_data_display_length_fur">Femara</string>
+    <string name="unit_data_display_length_fur">Furlong</string>
     <string name="unit_data_display_length_gongli">Gongli</string>
     <string name="unit_data_display_length_hao">Hao</string>
     <string name="unit_data_display_length_in">Inchi</string>

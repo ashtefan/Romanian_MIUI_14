@@ -720,6 +720,7 @@ Citiți și acceptați &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a h
     <string name="toast_msg_for_multi_window">Această funcție nu este disponibilă în modul Ecran scindat</string>
     <string name="toast_msg_for_small_window">După deschiderea aplicației pe care doriți să o proiectați, utilizați fereastra mică cu funcția de proiectare; aplicația proiectată nu va fi întreruptă iar telefonul mobil poate rula apoi alte aplicații.</string>
     <string name="toast_nfc_dont_move">Nu îndepărtați telefonul</string>
+    <string name="toast_nfc_same_wifi">Conectați atât televizorul cât și acest dispozitiv la aceeași rețea</string>
     <string name="toast_title_for_small_window">Vă rugăm să folosiți fereastra mică pentru a proiecta ecranul în aplicație.</string>
     <string name="toast_turn_off_hotspot_before_cast">Dezactivați hotspot-ul portabil înainte de a proiecta</string>
     <string name="today">Azi</string>

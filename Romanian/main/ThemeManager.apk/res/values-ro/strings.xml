@@ -150,14 +150,14 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="common_downloading">Se descarcă…</string>
     <string name="common_format_date_no_year">dd.MM</string>
     <string name="common_skip">Omiteți</string>
-    <string name="community_community_message_trigger_summary">Primiți notificări despre răspunsuri, aprecieri și despre starea actualizărilor Comunității Mi utilizând ID-ul contului Mi</string>
+    <string name="community_community_message_trigger_summary">Primiți notificări despre răspunsuri, aprecieri și despre starea actualizărilor Comunității Mi utilizând ID-ul contului Xiaomi</string>
     <string name="community_community_message_trigger_title">Notifică despre activitate</string>
     <string name="community_cta_dialog_cancel">Nu, mulțumesc</string>
     <string name="community_cta_dialog_des">Temele terțe suportă acum widgetul Comunitate Xiaomi. Permiteți aplicației Teme să vă acceseze ID-ul contului Xiaomi și statusurile Comunității Xiaomi asociate contului pentru a le putea vedea aici.</string>
     <string name="community_cta_dialog_ok">Permiteți</string>
     <string name="community_cta_dialog_title">Sunt necesare permisiuni</string>
     <string name="community_entrance_summary">Găsiți conținut asociat temelor în Comunitatea Mi. Această caracteristică este suportată de către temele selectate.</string>
-    <string name="community_entrance_title">Widget ceas Comunitate Mi</string>
+    <string name="community_entrance_title">Widget ceas Comunitate Xiaomi</string>
     <string name="community_message_trigger_disabled">Oprit</string>
     <string name="community_message_trigger_triggered">Pornit</string>
     <string name="component_backup_preference_title">Faceți o copie de rezervă a temei</string>
@@ -618,13 +618,13 @@ dd.MM"</string>
 mm"</string>
     <string name="miui_vertical_time_format_24">"HH
 mm"</string>
-    <string name="miuishare_account_activate_confirmation">Activați Contul Mi</string>
+    <string name="miuishare_account_activate_confirmation">Activați Contul Xiaomi</string>
     <string name="miuishare_account_activate_ok">Activați</string>
     <string name="miuishare_account_login_cancel">Renunțați</string>
-    <string name="miuishare_account_login_confirmation">Conectați-vă la contul Mi</string>
+    <string name="miuishare_account_login_confirmation">Conectați-vă la contul Xiaomi</string>
     <string name="miuishare_account_login_ok">Conectați-vă</string>
-    <string name="miuishare_account_need_activate">Partajarea în Weibo necesită contul Weibo care este asociat contului dvs. Mi. Activați contul Mi pentru a continua.</string>
-    <string name="miuishare_account_need_login">Partajarea în Weibo necesită contul Weibo care este asociat contului dvs. Mi. Conectați-vă la contul Mi pentru a continua.</string>
+    <string name="miuishare_account_need_activate">Partajarea în Weibo necesită contul Weibo care este asociat contului dvs. Xiaomi. Activați contul Xiaomi pentru a continua.</string>
+    <string name="miuishare_account_need_login">Partajarea în Weibo necesită contul Weibo care este asociat contului dvs. Xiaomi. Conectați-vă la contul Xiaomi pentru a continua.</string>
     <string name="miuishare_app_name">Partajare MIUI</string>
     <string name="miuishare_mini_program_title">Iată ce imagine de fundal am găsit!</string>
     <string name="miuishare_no_network">"Nu s-a putut conecta la rețea."</string>
@@ -926,8 +926,8 @@ Toate elementele de personalizare utilizate în prezent pe acest dispozitiv. Pre
     <string name="privacy_phone_revoke_agree_detail_content_1">"1. Asigurați-vă că aveți dreptul de a vă retrage consimțământul înainte de a continua.
 2. Retragerea consimțământului dumneavoastră cu privire la Politica de confidențialitate a temelor nu va afecta utilizarea normală a altor produse Xiaomi.
 3. Retragerea consimțământului este o acțiune ireversibilă. Faceți backup pentru toate elementele importante înainte de a continua, deoarece acestea pot fi șterse definitiv. Amintiți-vă că nu vă veți putea reconsidera decizia după retragerea consimțământului. Următoarele date vor fi șterse definitiv sau anonimizate după retragerea consimțământului (cu excepția cazurilor în care legile și reglementările prevăd altfel sau sunt cerute altfel de autoritățile de reglementare):"</string>
-    <string name="privacy_phone_revoke_agree_detail_content_2">"Toate comenzile (inclusiv comenzile plătite) efectuate pe dispozitivele Xiaomi pe care v-ați folosit Contul Mi. Nu veți mai putea folosi articolele pe care le-ați achiziționat.
-Toate informațiile despre aprecierile, comentariile, evaluările și urmăritorii dvs. generate pe dispozitivele Xiaomi pe care v-ați folosit contul Mi.
+    <string name="privacy_phone_revoke_agree_detail_content_2">"Toate comenzile (inclusiv comenzile plătite) efectuate pe dispozitivele Xiaomi pe care v-ați folosit Contul Xiaomi. Nu veți mai putea folosi articolele pe care le-ați achiziționat.
+Toate informațiile despre aprecierile, comentariile, evaluările și urmăritorii dvs. generate pe dispozitivele Xiaomi pe care v-ați folosit contul Xiaomi.
 Toate temele, imaginile de fundal, imaginile de fundal dinamice, fonturile, pictogramele și tonurile de apel descărcate pe acest dispozitiv.
 Toate înregistrările din istoricul căutărilor, preferințele de permisiuni, setările și elementele stocate în cache generate pe acest dispozitiv.
 Toate elementele de personalizare utilizate în prezent pe acest dispozitiv. Preferințele de personalizare implicite vor fi restabilite."</string>
@@ -944,8 +944,8 @@ Toate elementele de personalizare utilizate în prezent pe acest dispozitiv. Pre
     <string name="privacy_remind_user_mode_content"><Data>Acceptați Politica noastră de confidențialitate pentru a utiliza această funcție. Citiți &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$s\">Politica noastră de Confidențialitate&lt;/a>&lt;/font> pentru a afla cum colectăm, folosim, dezvăluim, procesăm și stocăm informațiile personale pe care ni le furnizați atunci când utilizați aplicația Teme.</Data></string>
     <string name="privacy_remind_user_mode_title">Atenție</string>
     <string name="privacy_revoke_agree_content">Retragerea consimțământului</string>
-    <string name="privacy_revoke_agree_content_1">1. Toate comenzile (inclusiv comenzile plătite) efectuate pe dispozitivele Xiaomi pe care v-ați folosit Contul Mi. Nu veți mai putea folosi articolele pe care le-ați achiziționat.</string>
-    <string name="privacy_revoke_agree_content_2">2. Toate informațiile despre aprecierile, comentariile, evaluările și urmăritorii dvs. generate pe dispozitivele Xiaomi pe care v-ați folosit contul Mi.</string>
+    <string name="privacy_revoke_agree_content_1">1. Toate comenzile (inclusiv comenzile plătite) efectuate pe dispozitivele Xiaomi pe care v-ați folosit Contul Xiaomi. Nu veți mai putea folosi articolele pe care le-ați achiziționat.</string>
+    <string name="privacy_revoke_agree_content_2">2. Toate informațiile despre aprecierile, comentariile, evaluările și urmăritorii dvs. generate pe dispozitivele Xiaomi pe care v-ați folosit contul Xiaomi.</string>
     <string name="privacy_revoke_agree_content_5">5. Toate elementele de personalizare utilizate în prezent pe acest dispozitiv. Preferințele de personalizare implicite vor fi restabilite.</string>
     <string name="privacy_revoke_agree_data_warning">Următoarele date vor fi șterse definitiv sau anonimizate după retragerea consimțământului (cu excepția cazurilor în care legile și reglementările prevăd altfel sau sunt cerute altfel de autoritățile de reglementare):</string>
     <string name="privacy_revoke_succeed">Consimțământul a fost retras cu succes</string>
@@ -957,8 +957,8 @@ Toate elementele de personalizare utilizate în prezent pe acest dispozitiv. Pre
     <string name="private_pad_fold_revoke_agree_detail_content_1">"1. Asigurați-vă că aveți dreptul de a vă retrage consimțământul înainte de a continua.
 2. Retragerea consimțământului dumneavoastră cu privire la Politica de confidențialitate a Imaginilor de fundal și personalizare nu va afecta utilizarea normală a altor produse Xiaomi.
 3. Retragerea consimțământului este o acțiune ireversibilă. Faceți backup pentru toate elementele importante înainte de a continua, deoarece acestea pot fi șterse definitiv. Amintiți-vă că nu vă veți putea reconsidera decizia după retragerea consimțământului. Următoarele date vor fi șterse definitiv sau anonimizate după retragerea consimțământului (cu excepția cazurilor în care legile și reglementările prevăd altfel sau sunt cerute altfel de autoritățile de reglementare):"</string>
-    <string name="private_pad_fold_revoke_agree_detail_content_2">"Toate comenzile (inclusiv comenzile plătite) efectuate pe dispozitivele Xiaomi pe care v-ați folosit Contul Mi. Nu veți mai putea folosi articolele pe care le-ați achiziționat.
-Toate informațiile despre aprecierile, comentariile, evaluările și urmăritorii dvs. generate pe dispozitivele Xiaomi pe care v-ați folosit contul Mi.
+    <string name="private_pad_fold_revoke_agree_detail_content_2">"Toate comenzile (inclusiv comenzile plătite) efectuate pe dispozitivele Xiaomi pe care v-ați folosit Contul Xiaomi. Nu veți mai putea folosi articolele pe care le-ați achiziționat.
+Toate informațiile despre aprecierile, comentariile, evaluările și urmăritorii dvs. generate pe dispozitivele Xiaomi pe care v-ați folosit contul Xiaomi.
 Toate imaginile de fundal, fonturile și tonurile de apel descărcate pe acest dispozitiv.
 Toate preferințele de permisiuni, setările și elementele din cache generate pe acest dispozitiv.
 Toate elementele de personalizare utilizate în prezent pe acest dispozitiv. Preferințele de personalizare implicite vor fi restabilite."</string>
@@ -973,7 +973,7 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="pull_down_view_error_message">Uuups! Nu s-a găsit nicio conexiune la internet. Verificați conexiunea sau încercați din nou.</string>
     <string name="pull_down_view_refresh">Reîncărcați</string>
     <string name="pull_down_view_title">"Ce este nou"</string>
-    <string name="read_and_agree_account_privacy"><Data>"Am citit și am acceptat &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Acordul Utilizatorului&lt;/a>&lt;/font> și &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Politica de Confidențialitate a Contului Mi&lt;/a>&lt;/font>."</Data></string>
+    <string name="read_and_agree_account_privacy"><Data>"Am citit și am acceptat &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Acordul Utilizatorului&lt;/a>&lt;/font> și &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Politica de Confidențialitate a Contului Xiaomi&lt;/a>&lt;/font>."</Data></string>
     <string name="recently_used">Utilizate recent</string>
     <string name="recommend_trigger">Recomandări personalizate</string>
     <string name="recommend_trigger_summary">Activați pentru a primi recomandări în funcție de preferințele dvs.</string>
@@ -989,7 +989,7 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="resource_account_abnormal_state">Eroare de cont. Aşteptaţi un minut sau două şi încercaţi din nou.</string>
     <string name="resource_account_fail_to_add">Adăugarea contului a eşuat</string>
     <string name="resource_account_login">Conectaţi-vă</string>
-    <string name="resource_account_login_before_action">Conectați-vă la contul dvs. Mi</string>
+    <string name="resource_account_login_before_action">Conectați-vă la contul dvs. Xiaomi</string>
     <string name="resource_account_login_title">Conectaţi-vă</string>
     <string name="resource_account_switch">Comutaţi</string>
     <string name="resource_alarm_default">Alarmă</string>
@@ -1520,7 +1520,7 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="title_system_audio_notification_resource">Notificări de sistem</string>
     <string name="title_system_audio_resource">Sunete de sistem</string>
     <string name="title_system_wallpaper_resource">Imagini de fundal ale sistemului</string>
-    <string name="to_activate_the_account">Activaţi contul dvs. Mi acum</string>
+    <string name="to_activate_the_account">Activaţi contul dvs. Xiaomi acum</string>
     <string name="toast_both_all_apply_failured">Nu s-a putut aplica la Ecranul de pornire sau de blocare</string>
     <string name="toast_both_all_apply_success">Aplicat cu succes la Ecranele de pornire și de blocare</string>
     <string name="toast_home_apply_failured">Nu s-a putut aplica la Ecranul de pornire</string>
@@ -1577,7 +1577,7 @@ Mergeți la Teme>Contul meu>Laborator teme pentru mai multe opțiuni."</string>
     <string name="update_btn">ACTUALIZAȚI ACUM</string>
     <string name="update_check">Verificați actualizările</string>
     <string name="update_checking">Se verifică actualizările…</string>
-    <string name="update_community_tip">Actualizați Comunitatea Mi pentru a putea utiliza această caracteristică</string>
+    <string name="update_community_tip">Actualizați Comunitatea Xiaomi pentru a putea utiliza această caracteristică</string>
     <string name="update_downloading">Se descarcă actualizările…</string>
     <string name="update_fail">"Nu s-au putut obține informații. Încercați din nou."</string>
     <string name="update_flag">Actualizați</string>

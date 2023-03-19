@@ -591,7 +591,7 @@ Verificați cartela SIM."</string>
     <string name="millionbyte">MB</string>
     <string name="miuix_access_state_desc">Selectat</string>
     <string name="miuix_alphabet_indexer_name">Bara de index</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mai multe</string>
@@ -601,8 +601,9 @@ Verificați cartela SIM."</string>
     <string name="miuix_appcompat_cloud_state_syncing">Se sincronizează în cloud…</string>
     <string name="miuix_appcompat_confirm_description">Confirmați</string>
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
-    <string name="miuix_appcompat_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_edit">Editați</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
@@ -742,7 +743,7 @@ Este posibil ca acest mesaj să nu fie solicitat."</string>
     <string name="mx_filter_message_from_stranger">Blochează mesajele Mi provenite de la numere necunoscute</string>
     <string name="mx_filter_message_from_stranger_dialog_desc">"Veți putea primi în continuare mesaje SMS provenite de la numere necunoscute. Puteți modifica acest lucru oricând din Mesaje &gt; Setări."</string>
     <string name="mx_filter_message_from_stranger_dialog_title">Blocați mesajele Mi de la numere necunoscute</string>
-    <string name="mx_filter_message_from_stranger_summary">"Veți putea primi în continuare mesaje SMS de la numere necunoscute"</string>
+    <string name="mx_filter_message_from_stranger_summary">Permiteți primirea de Mesaje Mi doar de la contactele din agendă</string>
     <string name="mx_main_purpose">"Mesageria Mi vă permite să trimiteți mesaje altor utilizatori ai Mesageriei Mi prin internet, fără a fi taxat.
 Este necesară trimiterea unui mesaj SMS pentru activarea Mesageriei Mi. Operatorul dvs. vă va taxa pentru acest mesaj."</string>
     <string name="mx_main_purpose_short">Mesageria Mi permite utilizatorilor MIUI să trimită și să primească în mod gratuit mesaje SMS și MMS.</string>
@@ -1175,9 +1176,9 @@ Aruncați o privire peste chatboții recomandați!"</string>
     <string name="rcs_resend_not_online">Nu se poate utiliza Mesageria 5G</string>
     <string name="rcs_resend_sim_card_not_insert">"Se pare că nu aveți o cartelă SIM instalată"</string>
     <string name="rcs_restore">Restaurați</string>
-    <string name="rcs_search_group_local">Chatboții mei</string>
-    <string name="rcs_search_group_recommend">Recomandat</string>
-    <string name="rcs_search_group_server">Chatboți online</string>
+    <string name="rcs_search_group_local">Mini aplicațiile mele</string>
+    <string name="rcs_search_group_recommend">Mini aplicații recomandate</string>
+    <string name="rcs_search_group_server">Mini aplicații online</string>
     <string name="rcs_search_result_empty">Nu s-au putut găsi miniaplicații</string>
     <string name="rcs_search_result_server_data_empty">Nu s-au putut găsi miniaplicații online</string>
     <string name="rcs_send_hello">Salut!</string>

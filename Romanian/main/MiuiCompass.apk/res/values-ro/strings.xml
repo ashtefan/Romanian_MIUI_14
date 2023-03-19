@@ -45,9 +45,9 @@
     <string name="app_description_title">Dezinstalați aplicația Busolă?</string>
     <string name="app_label">Busolă</string>
     <string name="app_name">blur</string>
-    <string name="calibrate_failed">Calibrare altitudine eşuată</string>
-    <string name="calibrate_failed_no_location">Calibrare eşuată</string>
-    <string name="calibrate_failed_timeout">Calibrare eşuată: Conexiunea cu serverul a expirat</string>
+    <string name="calibrate_failed">Nu s-a putut calibra altitudinea</string>
+    <string name="calibrate_failed_no_location">Nu s-a putut calibra. A apărut o eroare de localizare.</string>
+    <string name="calibrate_failed_timeout">Nu s-a putut calibra. A apărut o eroare de server.</string>
     <string name="calibrate_new_tip">Înclinați dispozitivul brusc pentru a rostogoli mingea în jurul cercului</string>
     <string name="calibrate_rotate_again">Încercaţi din nou</string>
     <string name="calibrate_success">Calibrat</string>
