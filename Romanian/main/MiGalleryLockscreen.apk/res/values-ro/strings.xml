@@ -77,6 +77,9 @@
     <string name="ad_btn_installing">Instalare</string>
     <string name="ad_btn_open">Deschideți</string>
     <string name="ad_btn_pending">În așteptare</string>
+    <string name="ad_delimiter_4">%1$s | %2$s | %3$s | %4$s</string>
+    <string name="ad_delimiter_5">%1$s | %2$s | %3$s | %4$s | %5$s</string>
+    <string name="ad_delimiter_6">%1$s | %2$s | %3$s | %4$s | %5$s | %6$s</string>
     <string name="ad_download_now">Descărcați</string>
     <string name="ad_feed_badge">RECLAME</string>
     <string name="ad_pop_btn_hidden">Ascundeți</string>

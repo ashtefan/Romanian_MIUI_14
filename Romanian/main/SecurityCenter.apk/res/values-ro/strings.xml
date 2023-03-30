@@ -1818,16 +1818,16 @@ cutremure"</string>
     <string name="exo_controls_playback_speed">Viteza</string>
     <string name="exo_controls_playback_speed_normal">Normală</string>
     <string name="exo_controls_previous_description">Anterioara</string>
-    <string name="exo_controls_repeat_all_description">Repetați tot</string>
-    <string name="exo_controls_repeat_off_description">Nu repetați niciuna</string>
-    <string name="exo_controls_repeat_one_description">Repetă una</string>
+    <string name="exo_controls_repeat_all_description">Mod curent: Repetați totul. Schimbați modul de repetare.</string>
+    <string name="exo_controls_repeat_off_description">Mod curent: Nu repeta niciuna. Schimbați modul de repetare.</string>
+    <string name="exo_controls_repeat_one_description">Mod curent: Repetați una. Schimbați modul de repetare.</string>
     <string name="exo_controls_rewind_description">Derulare înapoi</string>
     <string name="exo_controls_seek_bar_description">Progresul redării</string>
     <string name="exo_controls_settings_description">Setări</string>
     <string name="exo_controls_show">Afișează controalele player-ului</string>
-    <string name="exo_controls_shuffle_off_description">Amestecare dezactivată</string>
-    <string name="exo_controls_shuffle_on_description">Amestecare activată</string>
-    <string name="exo_controls_stop_description">Stop</string>
+    <string name="exo_controls_shuffle_off_description">Activați modul aleatoriu</string>
+    <string name="exo_controls_shuffle_on_description">Dezactivați modul aleatoriu</string>
+    <string name="exo_controls_stop_description">Opriți</string>
     <string name="exo_controls_vr_description">Mod VR</string>
     <string name="exo_download_completed">Descărcare finalizată</string>
     <string name="exo_download_description">Descărcați</string>
@@ -2055,20 +2055,20 @@ cutremure"</string>
     <string name="function_auto_reject_detail_new">"Despre această caracteristică:
 %1$d. În timp ce jucați jocuri, toate apelurile primite pe cartela SIM fără serviciul de date mobile vor fi respinse automat.
 %2$d. Veți vedea notificări despre apelurile pierdute, iar cealaltă persoană va auzi un mesaj audio care vă spune că sunteți ocupat în acest moment.
-%3$d. Această funcție este acceptată numai de operatorii de telefonie mobilă din China."</string>
+%3$d. Această funcție este acceptată numai de operatorii de telefonie mobilă din China continentală."</string>
     <string name="function_auto_reject_title">Respingeți apelurile VoLTE către cartele SIM fără serviciu de date</string>
     <string name="function_close">Oprit</string>
     <string name="function_gwsd_detail">"Despre această caracteristică:
- 1. Atunci când utilizați datele mobile pe un SIM de date sau pe o cartelă SIM obișnuită conectată la o rețea VoLTE, conexiunea nu va fi întreruptă de apelurile primite decât atunci când preluați apelul.
- 2. Atunci când această funcție este activată, apelantul nu va auzi sunetele de apel în așteptare decât dacă utilizați o cartelă SIM obișnuită. Apelurile primite vor fi respinse în mod automat după 7-10 secunde de inactivitate.
- 3. Sunt suportate cartele SIM de date furnizate de către China Mobile și China Unicom. Sunt suportate cartele obișnuite furnizate de către China Mobile, China Unicom și China Telecom."</string>
+1. Atunci când utilizați datele mobile pe un SIM de date sau pe o cartelă SIM obișnuită conectată la o rețea VoLTE, conexiunea nu va fi întreruptă de apelurile primite decât atunci când preluați apelul.
+2. Atunci când această funcție este activată, apelantul nu va auzi sunetele de apel în așteptare decât dacă utilizați o cartelă SIM obișnuită. Apelurile primite vor fi respinse în mod automat după 7-10 secunde de inactivitate.
+3. Sunt suportate cartele SIM de date furnizate de către China Mobile și China Unicom. Sunt suportate cartele obișnuite furnizate de către China Mobile, China Unicom și China Telecom."</string>
     <string name="function_gwsd_detail_new">"Despre această caracteristică:
-  %1$d. Când utilizați date mobile pe un SIM de date sau pe o cartelă SIM obișnuită conectată la o rețea VoLTE, conexiunea nu va fi întreruptă de apelurile primite până când preluați.
-  %2$d. Când această funcție este activată, cealaltă persoană nu va putea auzi tonurile dvs. de apel înapoi decât dacă utilizați o cartelă SIM obișnuită. Apelurile primite vor fi respinse automat după %3$d-%4$d secunde de inactivitate.
-  %5$d. Sunt acceptate cardurile SIM de date emise de China Mobile și China Unicom. Sunt acceptate cardurile SIM obișnuite emise de China Mobile, China Unicom și China Telecom."</string>
+%1$d. Când utilizați date mobile pe un SIM de date sau pe o cartelă SIM obișnuită conectată la o rețea VoLTE, conexiunea nu va fi întreruptă de apelurile primite până când preluați.
+%2$d. Când această funcție este activată, cealaltă persoană nu va putea auzi tonurile dvs. de apel înapoi decât dacă utilizați o cartelă SIM obișnuită. Apelurile primite vor fi respinse automat după %3$d-%4$d secunde de inactivitate.
+%5$d. Sunt acceptate cardurile SIM de date emise de China Mobile și China Unicom. Sunt acceptate cardurile SIM obișnuite emise de China Mobile, China Unicom și China Telecom."</string>
     <string name="function_gwsd_title">"Nu permiteți apelurilor primite să întrerupă datele mobile"</string>
     <string name="function_oncall_not_close_network">Nu deconecta pentru apeluri</string>
-    <string name="function_oncall_not_close_network_detail">"Despre această caracteristică
+    <string name="function_oncall_not_close_network_detail">"Despre această caracteristică:
 %1$d. Această caracteristică vă permite să rămâneți online în timpul sesiunilor de jocuri fără a fi întrerupt de apelurile primite atunci când acest dispozitiv este conectat la anumite rețele 5G.
 %2$d. Dacă niciuna dintre cartelele dvs. SIM nu este conectată la o rețea 5G, apelurile primite vor fi respinse automat de SIM-ul dvs. principal.
 %3$d. Această funcție este acceptată numai în China continentală.
@@ -2571,6 +2571,7 @@ din sesiunile dvs. de joc"</string>
     <string name="gtb_brightness_adjust">Iluminare</string>
     <string name="gtb_brightness_dialog_right_btn">Păstrează</string>
     <string name="gtb_brightness_dialog_sub_message">*Puteți activa și dezactiva această funcție din Setări.</string>
+    <string name="gtb_casual_guide_toast">Descoperiți și mai multe în secțiunea Jocuri</string>
     <string name="gtb_content_switch">Recomandări de conținut</string>
     <string name="gtb_content_switch_summary">Primiți recomandări de conținut legat de jocuri</string>
     <string name="gtb_deep_garbage_cleaning">Se efectuează curățarea profundă…</string>
@@ -2793,11 +2794,11 @@ Operatorul vă poate taxa suplimentar dacă veți continua utilizarea datelor mo
     <string name="lock_screen_warning_switch_title">Se afişează un avertisment la blocarea ecranului</string>
     <string name="lock_screen_warning_value">Avertizare utilizare date mobile</string>
     <string name="lockpattern_access_need_to_unlock_wrong_fingerprint">"Nu s-a putut recunoaște parola; încercați din nou."</string>
-    <string name="lockpattern_access_need_to_unlock_wrong_pattern">Parola este incorectă; încercați din nou.</string>
+    <string name="lockpattern_access_need_to_unlock_wrong_pattern">Parola introdusă este incorectă.</string>
     <string name="lockpattern_confirm_button_text">OK</string>
     <string name="lockpattern_continue_button_text">Următorul</string>
     <string name="lockpattern_need_to_confirm">Desenați modelul propriu din nou pentru confirmare</string>
-    <string name="lockpattern_need_to_unlock_wrong">"Parolele nu se potrivesc; încercați din nou"</string>
+    <string name="lockpattern_need_to_unlock_wrong">Parolele nu se potrivesc. Încercați din nou.</string>
     <string name="lockpattern_pattern_confirmed_header">Noul model de deblocare</string>
     <string name="lockpattern_pattern_entered_header">Model propriu adăugat</string>
     <string name="lockpattern_recording_inprogress">Ridicați degetul după completarea modelului propriu</string>
@@ -3507,6 +3508,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_battery_history_total_consumption_title">Consumul total de energie</string>
     <string name="pc_battery_history_usetime_title">Activ</string>
+    <string name="pc_close_notifi_action">Dezactivați</string>
     <string name="pc_emergency_call">Urgență</string>
     <string name="pc_endurance_calculation">Se calculează…</string>
     <string name="pc_entered_extreme_mode">Modul de hibernare este activat</string>
@@ -4052,7 +4054,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pp_one_app_two_use">Folosiți două conturi fără a vă deconecta</string>
     <string name="pp_one_phone_two_space">Folosiți un dispozitiv ca și cum ați avea două</string>
     <string name="pp_only_allow_permission_during_this_run">Permiteți aplicațiilor să utilizeze permisiunile o singură dată</string>
-    <string name="pp_only_allow_permission_during_this_run_detail">Puteți permite să utilizați permisiunile legate de locație, înregistrare audio și contacte o singură dată. Aceste permisiuni vor fi restricționate din nou la scurt timp după închiderea aplicației.</string>
+    <string name="pp_only_allow_permission_during_this_run_detail">Puteți permite utilizarea permisiunilor legate de locație, înregistrare audio și contacte o singură dată. Aceste permisiuni vor fi restricționate din nou la scurt timp după închiderea aplicației.</string>
     <string name="pp_operator_get_number">Necesită aprobarea pentru accesarea numărului de telefon</string>
     <string name="pp_operator_get_number_summary">Aplicațiile vă vor cere permisiunea atunci când vor să acceseze numărul dvs. de telefon pentru a vă conecta.</string>
     <string name="pp_optional_protection_function">Măsuri de protecție opționale</string>
@@ -5945,6 +5947,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="vb_video_effects_dolby_headset">" (Doar căști)"</string>
     <string name="vb_video_effects_dolby_open">Dolby Atmos este activ</string>
     <string name="vb_video_effects_dolby_stereo_expansion">Stereo extins</string>
+    <string name="vb_video_effects_dolby_tips">Dialogul îmbunătățit și stereo extins nu vor funcționa când sunetul captivant este activat</string>
     <string name="vb_video_effects_immersion_sound">Sunet captivant</string>
     <string name="vb_video_effects_immersion_sound_summary">Experimentați imersiunea și senzația de spațiu atunci când sunetul acceptat este redat prin căști</string>
     <string name="vb_video_effects_liquid_summary">Îmbunătățiți claritatea dialogului în videoclipuri</string>
@@ -5970,7 +5973,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="vb_video_effects_spatial">Urmărirea mișcării capului</string>
     <string name="vb_video_effects_spatial_summary">"Reglați sunetul captivant în funcție de mișcarea capului
 *Acceptat numai pe modelele de căști pentru jocuri"</string>
-    <string name="vb_video_effects_spatial_summary_new">Experimentați un sentiment îmbunătățit al spațiului și al direcției pentru sunet și video compatibil și ajustați sunetul captivant în funcție de mișcarea capului</string>
+    <string name="vb_video_effects_spatial_summary_new">Experimentați un sentiment îmbunătățit al spațiului și al direcției pentru sunet și video compatibil când utilizați căști</string>
     <string name="vb_video_effects_srs_premium_sound">Sunet</string>
     <string name="vb_video_super_division">Crește rezoluția</string>
     <string name="vb_video_super_division_desc">"Crește rezoluția în mod automat când este ≤720p.

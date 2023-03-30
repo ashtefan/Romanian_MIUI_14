@@ -1928,6 +1928,7 @@ De asemenea, puteți urmări livrarea rapidă pe site-urile oficiale ale servici
     <string name="pa_picker_detail_bottom_bt_text_upgrade">Actualizați aplicația pentru a folosi widget-urile acesteia</string>
     <string name="pa_picker_detail_bottom_download_app_and_add_widget">Instalați aplicația</string>
     <string name="pa_picker_detail_bottom_update_app_and_add_widget">Actualizați aplicația</string>
+    <string name="pa_picker_detail_bt_loading">Doar o secundă…</string>
     <string name="pa_picker_detail_dialog_open_pa_in_setting_message">Deschideți Asistentul inteligent pentru a adăuga widget-uri de acolo.</string>
     <string name="pa_picker_detail_dialog_open_pa_in_setting_title">Utilizați Asistentul inteligent</string>
     <string name="pa_picker_detail_download_app_dialog_cancel">Renunțați</string>
@@ -1950,8 +1951,13 @@ De asemenea, puteți urmări livrarea rapidă pe site-urile oficiale ale servici
     <string name="pa_picker_detail_net_error">Eroare de rețea. Atingeți pentru a încerca din nou.</string>
     <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Doar o secundă…</string>
     <string name="pa_picker_detail_small_widget">Widgeturi</string>
+    <string name="pa_picker_detail_state_error_retry">Ceva nu a mers bine. Încercați din nou.</string>
+    <string name="pa_picker_detail_suit_price_already_bought">Achiziționat</string>
+    <string name="pa_picker_detail_suit_price_placeholder">5 Monede Mi</string>
     <string name="pa_picker_detail_theme_app_cta">Setări</string>
     <string name="pa_picker_detail_theme_app_cta_pre">"Pentru a putea folosi acest widget, permiteți mai întâi aplicației Teme să se conecteze la internet. "</string>
+    <string name="pa_picker_detail_theme_app_need_login">Conectați-vă</string>
+    <string name="pa_picker_detail_theme_app_need_login_pre">"Conectați-vă mai întâi la contul dvs. Xiaomi. "</string>
     <string name="pa_picker_detail_vp2_indicator">A fost selectată pagina %1$d din %2$d</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">Acest articol va fi descărcat prin Wi-Fi</string>
     <string name="pa_picker_empty">"Widgeturile nu sunt disponibile în această versiune a aplicației. 
@@ -2203,6 +2209,7 @@ pentru a afișa widgeturi."</string>
     <string name="pa_vertical_center">Dispunere verticală. Aliniat la centru.</string>
     <string name="pa_vertical_left">Dispunere verticală. Aliniat la stânga.</string>
     <string name="pa_vertical_right">Dispunere verticală. Aliniat la dreapta.</string>
+    <string name="pa_widget_advert_loading_dialog_message">Doar o secundă…</string>
     <string name="pa_widget_menu_edit">Editați</string>
     <string name="pa_widget_menu_remove">Eliminați</string>
     <string name="pa_widget_menu_replace">Comutați</string>

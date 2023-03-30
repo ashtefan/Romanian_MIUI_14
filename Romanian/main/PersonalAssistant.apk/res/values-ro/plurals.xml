@@ -273,6 +273,10 @@
         <item quantity="other">%1$d</item>
         <item quantity="one">%1$d</item>
     </plurals>
+    <plurals name="pa_picker_detail_suit_price_suffix">
+        <item quantity="other">%s Monede Mi</item>
+        <item quantity="one">%s Monedă Mi</item>
+    </plurals>
     <plurals name="pa_shopping_page_product_delete_dialog_message">
         <item quantity="other">Ștergeți %d elementele selectate acum?</item>
         <item quantity="one">Ștergeți %d elementul selectat acum?</item>

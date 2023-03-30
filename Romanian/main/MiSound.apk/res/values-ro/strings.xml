@@ -235,7 +235,12 @@
     <string name="not_support_sound_transmission_prompt">Atenție</string>
     <string name="now_here">Și acum?</string>
     <string name="original_sound">Redați sunetul original</string>
+    <string name="password_toggle_content_description">Afișează parola</string>
+    <string name="permission_go_to_settings">Setări</string>
+    <string name="permission_requesr_content">Permiteți acestei aplicații să se conecteze la dispozitivele din apropiere din Setări.</string>
+    <string name="permission_requesr_title">Permisiuni necesare</string>
     <string name="personal_sound">Redați aplicând presetarea</string>
+    <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="retry_test">Reluați</string>
     <string name="ringtone_output_device_summary">Permiteți sunetul pentru apelurile și notificările primite atunci când sunt conectate accesorii (căști cu fir sau dispozitive Bluetooth)</string>

@@ -89,6 +89,7 @@
     <string name="cancel_moving_dialog_message">Opriți importul acum?</string>
     <string name="cancel_moving_dialog_title">Opriți importul</string>
     <string name="cancel_tranfer">Renunțați</string>
+    <string name="cannot_use_mi_huanji_bacause_of_qqdownloader">Se pare că QQ Downloader este serviciul de rezervă al sistemului dumneavoastră. Dezinstalați-l și reporniți dispozitivul pentru a putea folosi Mi Mover.</string>
     <string name="cannot_use_mi_huanji_button">Am înțeles</string>
     <string name="cannot_use_mi_huanji_summary">Se pare că MIUI face copii de rezervă acum. Opriți backup-urile în curs sau reporniți dispozitivul pentru a permite Mi Mover să înceapă transferul.</string>
     <string name="cannot_use_mi_huanji_title">Nu se poate transfera acum</string>

@@ -222,6 +222,10 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Bărbat</item>
+        <item>Femeie</item>
+    </string-array>
     <string-array name="debug_hw_renderer_entries">
         <item>OpenGL (Implicit)</item>
         <item>OpenGL (Skia)</item>
