@@ -57,6 +57,7 @@
     <string name="backup_failed_reason_app_usage_denied">Acordați permisiunile necesare pentru a putea face o copie de rezervă</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Nu există suficient spațiu de stocare în Xiaomi Cloud. Actualizați-vă planul sau eliberați spațiu de stocare.</string>
     <string name="backup_failed_reason_disk_space_not_enough">Nu există suficient spațiu de stocare. Eliberați mai întâi spațiu de stocare.</string>
+    <string name="backup_failed_reason_get_installed_apps_denied">Acordați permisiunile necesare în Setări pentru a face copii de rezervă ale elementelor</string>
     <string name="backup_failed_reason_network_error">Verificați setările de rețea și reîncercați.</string>
     <string name="backup_finished_notification_content">S-au salvat aplicațiile de pe ecranul principal, setările sistemului, etc.</string>
     <string name="backup_now">Faceți o copie de rezervă acum</string>
@@ -212,6 +213,8 @@ Vă rugăm să transmiteți acest cod tehnicianului."</string>
     <string name="dialog_btn_restore_skip">Restaurați mai târziu</string>
     <string name="dialog_button_agree">Permiteți</string>
     <string name="dialog_button_disagree">Nu permiteți</string>
+    <string name="dialog_button_get_installed_apps_agree">Setări</string>
+    <string name="dialog_button_get_installed_apps_disagree">Renunțați</string>
     <string name="dialog_buy_cloud_space">Actualizați</string>
     <string name="dialog_cancel_backup_cancel">Renunțați</string>
     <string name="dialog_cancel_backup_confirm">OK</string>
@@ -220,6 +223,8 @@ Vă rugăm să transmiteți acest cod tehnicianului."</string>
     <string name="dialog_cloud_space_not_enough">Această copie de rezervă necesită %1$s spațiu de stocare în cloud. Actualizați planul de stocare pentru a face o copie de rezervă a elementelor.</string>
     <string name="dialog_content_cancel_backup">Datele deja încărcate se vor pierde dacă anulați crearea copiei de rezervă. Anulați oricum?</string>
     <string name="dialog_content_cancel_restore">Datele deja restaurate vor fi păstrate dacă opriți restaurarea. Nu mai restabiliți acum?</string>
+    <string name="dialog_get_installed_apps_consent_message">Pentru a putea face copii de rezervă în mod automat, acordați acestei aplicații din Setări permisiunea de a accesa lista de aplicații instalate pe dispozitivul dvs. și selectați Permiteți întotdeauna.</string>
+    <string name="dialog_get_installed_apps_consent_title">Permisiuni necesare</string>
     <string name="dialog_msg_overwrite_backup">Copia de rezervă locală este diferită de cea din Xiaomi Cloud. Dacă veți continua, copia de rezervă curentă o va suprascrie pe cea anterioară.</string>
     <string name="dialog_msg_restore_require_wlan">Restaurarea copiilor de rezervă necesită conectarea la Wi-Fi.</string>
     <string name="dialog_msg_restore_require_wlan_china">Restaurarea copiilor de rezervă necesită conectarea la Wi-Fi.</string>
@@ -323,12 +328,18 @@ Vă rugăm să transmiteți acest cod tehnicianului."</string>
     <string name="loading_progress_num">Încărcat %s%%</string>
     <string name="loading_user_backup">Se încarcă copiile de rezervă ale utilizatorului…</string>
     <string name="managespace_delete_backup">Ștergeți</string>
+    <string name="manual_request_notification_permission_dialog_negative_button">Închideți</string>
+    <string name="manual_request_notification_permission_dialog_positive_button">Setări</string>
+    <string name="manual_request_permissions_dialog_description">Dacă nu acordați permisiunile pentru \"%s\", nu veți primi notificări în timp util despre backup-uri nereușite și alte acțiuni importante. Puteți acorda această permisiune în Setări.</string>
+    <string name="manual_request_permissions_dialog_title">Permisiuni necesare</string>
     <string name="menu_item_managespace">Gestionați spațiul</string>
     <string name="menu_item_sort">Sortare după</string>
     <string name="menu_item_sort_name">Nume</string>
     <string name="menu_item_sort_size">Dimensiune</string>
     <string name="midnight">Noapte</string>
     <string name="miui_device_name">Android</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -343,6 +354,8 @@ Vă rugăm să transmiteți acest cod tehnicianului."</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_collect">Colecții</string>
+    <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -398,6 +411,8 @@ Vă rugăm să transmiteți acest cod tehnicianului."</string>
     <string name="msg_restore_with_metered_network_hint">Dacă veți dori să restaurați aceste elemente, se vor folosi datele mobile pentru descărcare.</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> fișiere vor fi descărcate."</string>
     <string name="network_error">Conectați-vă la rețea</string>
+    <string name="network_error_info">A apărut o eroare de rețea. Verificați setările de rețea și încercați din nou.</string>
+    <string name="network_timeout_info">Nu s-a putut conecta la rețea. Încercați din nou.</string>
     <string name="night">Seară</string>
     <string name="no_account">Neconectat la contul Xiaomi.</string>
     <string name="no_backup">Nicio copie de rezervă în Xiaomi Cloud.</string>
@@ -405,6 +420,7 @@ Vă rugăm să transmiteți acest cod tehnicianului."</string>
     <string name="not_set">Nesetat</string>
     <string name="notification_channel_remind">Memento</string>
     <string name="notification_channel_service">Serviciu</string>
+    <string name="ok">OK</string>
     <string name="open_backup_switch">Glisați comutatorul pentru copia de rezervă</string>
     <string name="open_wifi">>Porniți Wi-Fi acum</string>
     <string name="open_wifi_description">Conectaţi-vă la o rețea Wi-Fi pentru a restabili aplicațiile</string>
@@ -416,6 +432,7 @@ Vă rugăm să transmiteți acest cod tehnicianului."</string>
     <string name="pm">PM</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="process_whole_recovery">Restabilire \"%s\"</string>
+    <string name="progressbar_title">Se caută probleme de securitate…</string>
     <string name="provision_back">Înapoi</string>
     <string name="provision_background_restore_more_data">Restaurați mai multe elemente în fundal</string>
     <string name="provision_error_connect_msg">"Testați rețeaua și încercați din nou. Copiile de rezervă nu sunt disponibile când telefonul este offline."</string>
@@ -436,6 +453,11 @@ Vă rugăm să transmiteți acest cod tehnicianului."</string>
     <string name="remove_unfinished">Eliminare în curs; încercați din nou mai târziu</string>
     <string name="repeat_recommend_wechat_backup_notification_content">Acum puteți face backup pentru datele WeChat. Atingeți pentru detalii.</string>
     <string name="repeat_recommend_wechat_backup_notification_title">Faceți backup pentru datele WeChat</string>
+    <string name="request_notification_permission_dialog_confirm">Am înțeles</string>
+    <string name="request_permission_post_notification">Pentru trimiterea de notificări despre backup-urile în cloud</string>
+    <string name="request_permission_post_notification_title">Notificări</string>
+    <string name="request_permissions_dialog_description">Acordați permisiunile pentru a trimite notificări și memento-uri pentru a vă putea bucura de toate serviciile pe care le oferă crearea de copii de rezervă în cloud.</string>
+    <string name="request_permissions_dialog_title">Permisiuni necesare</string>
     <string name="restore_app_order_finish">Terminat</string>
     <string name="restore_app_order_loading">Doar o secundă…</string>
     <string name="restore_app_order_retry">Încercați din nou</string>
@@ -476,6 +498,8 @@ Verificați setările de rețea și încercați din nou."</string>
 %s"</string>
     <string name="restore_network_pause">S-a oprit pentru a economisi datele mobile. Apăsați pentru a relua.</string>
     <string name="restore_network_unconnect">%s (Se așteaptă conexiunea)</string>
+    <string name="restore_prepare_item_type_enable">Copii de rezervă disponibile</string>
+    <string name="restore_prepare_item_type_other">Alte copii de rezervă</string>
     <string name="restore_task_cancelling">Renunțare…</string>
     <string name="restore_task_in_process">Restaurare…</string>
     <string name="restore_task_unfinished">"Nu s-a putut restaura"</string>
@@ -510,6 +534,8 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="session_failed_disk_no_space_restore_detail">Cel puțin %s este necesar pentru a restabili elementele.</string>
     <string name="session_failed_disk_no_space_title">Spațiu de stocare internă insuficient. Goliți spațiul de stocare și încercați din nou.</string>
     <string name="session_failed_dist_no_space_btn_text">Eliberați spațiul de stocare</string>
+    <string name="session_failed_get_installed_apps_denied_detail">Pentru a putea face copii de rezervă în mod automat, acordați acestei aplicații în Setări permisiunea de a accesa lista de aplicații instalate pe dispozitivul dvs. și selectați Permiteți întotdeauna.</string>
+    <string name="session_failed_get_installed_apps_denied_title">Permisiuni necesare</string>
     <string name="session_failed_no_server_response_title">Nu s-a putut conecta la server.</string>
     <string name="session_failed_override_detail">Copia de rezervă locală este diferită de cea din Xiaomi Cloud. Dacă veți continua, copia de rezervă curentă o va suprascrie pe cea precedentă. Suprascrieți acum?</string>
     <string name="session_failed_override_title">Se suprascrie copia de rezervă</string>

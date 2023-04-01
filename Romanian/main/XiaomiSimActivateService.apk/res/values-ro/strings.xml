@@ -93,7 +93,8 @@ Introduceți numărul de telefon asociat cu noua cartelă SIM pentru a reactiva 
     <string name="activate_popup_desc_find_device_postfix_msg">%1$s. Pentru a activa \"%3$s\", introduceți numărul de telefon al cartelei SIM %2$d. Dacă înlocuiți această cartelă SIM, va fi trimis un alt SMS de activare.</string>
     <string name="activate_popup_desc_intl_sim_card">Un mesaj text internaţional va fi trimis pentru activarea %s (TARIFARE DE LA OPERATOR!).</string>
     <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">Pentru a activa \"%2$s\", &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS internațional cu plată&lt;/b> va fi trimis. Operatorul vă va taxa pentru acest mesaj.</string>
-    <string name="activate_popup_desc_mi_account_user_manual">%1$s. <Data>Consultați &lt;a href=https://account.xiaomi.com/helpcenter/faq>Manualul de utilizare al Contului Mi&lt;/a> dacă aveți întrebări.</Data></string>
+    <string name="activate_popup_desc_mi_account_user_manual">"%1$s
+"<Data>Consultați &lt;a href=https://account.xiaomi.com/helpcenter/faq>Manual de utilizare a contului Xiaomi&lt;/a> dacă aveți întrebări.</Data></string>
     <string name="activate_popup_desc_mixed_sim_cards">Un mesaj text local şi unul internaţional vor fi trimise pentru activarea %s (TARIFARE DE LA OPERATOR!).</string>
     <string name="activate_popup_desc_mixed_sim_cards_msg">Pentru a activa %3$s, %1$d SMS obișnuit și %2$d SMS internațional vor fi trimise. Operatorul vă va taxa pentru aceste mesaje.</string>
     <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">Pentru a activa \"%3$s\", &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>SMS național cu plată&lt;/b> și &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>un SMS cu internațional cu plată&lt;/b> vor fi trimise. Operatorul vă va taxa pentru aceste mesaje.</string>

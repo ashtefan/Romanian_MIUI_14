@@ -54,13 +54,13 @@
     <string name="apk_filter">APK</string>
     <string name="app_downloads">%s descărcări</string>
     <string name="app_label">Descărcări</string>
-    <string name="app_name">blur</string>
+    <string name="app_name">MiuiSettingsCommonLib</string>
     <string name="auth_activity_title">Cont Xunlei</string>
     <string name="auth_fail">"Nu s-a putut obţine autorizarea"</string>
     <string name="average_speed">Viteza medie</string>
     <string name="bind_xunlei_account">S-a adăugat contul Xunlei %1$s</string>
     <string name="bt_download">Descărcaţi</string>
-    <string name="bt_path_not_exit">"Această cale nu există"</string>
+    <string name="bt_path_not_exit">Această cale nu există</string>
     <string name="bt_restart_dialog_message">Reporniți toate descărcările din dosarul bluetooth?</string>
     <string name="bt_restart_dialog_title">Repornește toate descărcările</string>
     <string name="bt_xunlei_open_info">Utilizaţi Acceleratorul Xunlei pentru a accesa un astfel de link?</string>
@@ -69,6 +69,7 @@
     <string name="button_sort_by_size">Sortaţi după dimensiune</string>
     <string name="byteShort"> B</string>
     <string name="cancel">Anulaţi</string>
+    <string name="category">Categorie</string>
     <string name="cancel_running_download">Anulaţi</string>
     <string name="cancle">Anulaţi</string>
     <string name="character_counter_content_description">Limita de caractere a depășit %1$d din %2$d</string>
@@ -122,6 +123,9 @@ Vă rugăm să trimiteți acest cod tehnicianului."</string>
     <string name="dialog_media_not_found">"Nu se poate descărca. Nu este disponibil un mediu de stocare extern."</string>
     <string name="dialog_msg_disabled_net">%1$s descărcări restricționate pentru rețeaua curentă. Atingeți butonul Setările rețelei pentru a deschide aplicația Securitate.</string>
     <string name="dialog_msg_recommend">"Nu veți mai putea vedea sursele recomandate după ce veți dezactiva. Puteți selecta \"Încarcă conținutul doar prin Wi-Fi\" pentru a economisi datele mobile"</string>
+    <string name="dialog_privacy_update_button1">Renunțați</string>
+    <string name="dialog_privacy_update_button2">De acord</string>
+    <string name="dialog_privacy_update_title">Politica de confidențialitate actualizată</string>
     <string name="dialog_queued_body">Fişierul este adăugat în coadă pentru descărcare ulterioară, prin urmare nu este disponibil încă.</string>
     <string name="dialog_speed_cancel">Renunțați</string>
     <string name="dialog_speed_msg">Utilizarea datelor mobile pentru a testa rețeaua poate duce la un trafic important de date mobile. Continuați oricum?</string>
@@ -131,12 +135,16 @@ Vă rugăm să trimiteți acest cod tehnicianului."</string>
     <string name="dialog_title_not_available">"Descărcarea a eșuat"</string>
     <string name="dialog_title_queued_body">Fişierul nu este încă disponibil</string>
     <string name="dialog_title_recommend">Dezactivați sursele recomandate</string>
+    <string name="dialog_user_know_button1">Ieșiți</string>
+    <string name="dialog_user_know_button2">De acord</string>
+    <string name="dialog_user_know_content"><Data>"Nu veți putea continua să utilizați această funcție decât dacă sunteți de acord cu noua versiune a &lt;a href=\"%1$s\">Politicii de confidențialitate&lt;/a>. Sunteți de acord cu Politica de confidențialitate actualizată acum?"</Data></string>
+    <string name="dialog_user_know_title">Atenție</string>
     <string name="disable">Dezactivaţi</string>
     <string name="display_expire_netiv1">În această lună</string>
     <string name="do_not_support_url">Acest tip de URL nu este acceptat</string>
     <string name="doc_filter">Documente</string>
     <string name="download">Descărcări</string>
-    <string name="download_auth">Obţinere autorizare…</string>
+    <string name="downloadCount">Descărcări</string>
     <string name="download_complete">Descărcări finalizate</string>
     <string name="download_description_content">Descărcări este o aplicație de sistem. Nu veți putea să vă gestionați descărcările după ce le eliminați.</string>
     <string name="download_description_title">Eliminați \"Descărcări\" de pe Ecranul principal?</string>
@@ -162,7 +170,7 @@ Vă rugăm să trimiteți acest cod tehnicianului."</string>
     <string name="download_list_title_browser">Descărcări</string>
     <string name="download_no_application">Nu există nicio aplicație care să suporte acest format</string>
     <string name="download_no_application_title">Nu se poate deschide fișierul</string>
-    <string name="download_paused">Descărcare întreruptă</string>
+    <string name="download_num_size">%1$s | %2$s</string>
     <string name="download_pending">Descărcare în aşteptare</string>
     <string name="download_queued">În aşteptare</string>
     <string name="download_remain_time">Timp rămas:</string>
@@ -190,7 +198,7 @@ Vă rugăm să trimiteți acest cod tehnicianului."</string>
     <string name="edit_hint2">Introduceți un link HTTP, FTP, magnet, sau ed2k</string>
     <string name="editmode_menu_delete">Ştergeţi</string>
     <string name="editmode_menu_share">Distribuiţi</string>
-    <string name="engine_open">Activaţi</string>
+    <string name="engine_open">Deschideți</string>
     <string name="enter_search">Căutare web</string>
     <string name="evening">După amiază</string>
     <string name="everyone_test">Toată lumea testează</string>
@@ -201,7 +209,7 @@ Vă rugăm să trimiteți acest cod tehnicianului."</string>
     <string name="extend">Mai multe</string>
     <string name="extra_ad_title">V-ar putea place și</string>
     <string name="extract_file">Extragere fişier…</string>
-    <string name="fastest_speed">Viteza maximă</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_exist_hint">Acest fișier există deja</string>
     <string name="file_picker">Selectaţi o locaţie</string>
     <string name="file_size">Dimensiune:</string>
@@ -319,6 +327,8 @@ Vă rugăm să trimiteți acest cod tehnicianului."</string>
     <string name="mi_money_">Credite Mi</string>
     <string name="midnight">Noapte</string>
     <string name="missing_title">&lt;Necunoscut></string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -333,6 +343,8 @@ Vă rugăm să trimiteți acest cod tehnicianului."</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
     <string name="miuix_appcompat_select_all_description">Selectați tot</string>
     <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_collect">Colecții</string>
+    <string name="miuix_indexer_selected">Selectat %s</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
@@ -397,6 +409,7 @@ Vă rugăm să trimiteți acest cod tehnicianului."</string>
     <string name="no_share_file_content">Fișierul selectat a fost șters deja</string>
     <string name="no_share_files">Nu se pot distribui fișierele șterse deja</string>
     <string name="no_share_files_content">Unele din fișierele pe care încercați să le distribuiți au fost șterse deja. Celelalte fișiere au fost distribuite cu succes.</string>
+    <string name="no_support_modify_path">Din motive de securitate, nu se poate modifica locația de descărcare</string>
     <string name="no_vip_info">Obțineți calitatea de membru Xunlei pentru a accelera descărcările</string>
     <string name="no_vip_show_info">"Accelerați descărcările
 pe toate dispozitivele cu Xunlei"</string>
@@ -408,6 +421,7 @@ pe toate dispozitivele cu Xunlei"</string>
     <string name="notify_install_guide_title">%s s-a instalat cu succes</string>
     <string name="notify_not_support">Asemenea notificări nu sunt suportate; actualizați acum</string>
     <string name="notify_only_wifi_download">Se așteaptă conectarea la Wi-Fi</string>
+    <string name="nowInstall">Instalați</string>
     <string name="ok">OK</string>
     <string name="one_month">O lună</string>
     <string name="only_support_torrent">Sunt acceptate doar fișiere torrent</string>
@@ -435,11 +449,14 @@ pe toate dispozitivele cu Xunlei"</string>
     <string name="paused_waiting_to_retry">Se aşteaptă reîncercarea</string>
     <string name="percent_title">%1$s persoane au descărcat</string>
     <string name="period_of_validity">Valabilitate:</string>
+    <string name="permission">Permisiuni</string>
     <string name="petabyteShort">PB</string>
     <string name="pm">PM</string>
     <string name="pref_download_revert_default">Salvați în locația prestabilită</string>
     <string name="pref_download_settings_title">Descărcarea prin date mobile este restricționată</string>
     <string name="pref_download_storage_path">Salvați într-o locație personalizată</string>
+    <string name="pref_download_storage_path_2">Locația pentru elementele descărcate</string>
+    <string name="pref_permission_description">Detalii permisiuni</string>
     <string name="pref_sniff_shortcut">Crează o comandă rapidă pe ecranul principal pentru căutare web</string>
     <string name="pref_summary_any_bytes_popup">Se aşteaptă mereu conexiunea Wi-Fi pentru a descărca fişiere</string>
     <string name="pref_summary_enable_max_bytes_popup">Se afişează o notificare atunci când se utilizează conexiunea de date mobile pentru descărcarea conținutului</string>
@@ -448,6 +465,7 @@ pe toate dispozitivele cu Xunlei"</string>
     <string name="pref_title_enable_max_bytes_popup">Afişaţi avertizarea despre utilizarea datelor</string>
     <string name="preference_copied">\"%1$s\" a fost copiat în clipboard.</string>
     <string name="preferences_title">Setări</string>
+    <string name="privacy">Confidențialitate</string>
     <string name="privacy_policy">Politica de Confidențialitate</string>
     <string name="privacy_tip_cancel">Anulaţi</string>
     <string name="privacy_tip_content">Utilizați acceleratorul Xunlei pentru a accelera descărcările? URL-ul de descărcare va fi încărcat pe serverele Xunlei. Contul Mi va fi, de asemenea, încărcat pentru a verifica dacă aveți abonamente active la acest serviciu.</string>
@@ -528,6 +546,7 @@ pe toate dispozitivele cu Xunlei"</string>
     <string name="shortcut_dialog_create">Creați</string>
     <string name="shortcut_dialog_title">Creați o scurtătură pe Ecranul principal?</string>
     <string name="show_more">Afișează mai multe (%s)</string>
+    <string name="size">Dimensiune</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>

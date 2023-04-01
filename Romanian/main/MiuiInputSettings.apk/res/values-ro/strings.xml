@@ -285,6 +285,11 @@ Puteți vizualiza rapoartele generate în Managerul de Fișiere."</string>
     <string name="long_press_home_key">Apăsare lungă a butonului Acasă</string>
     <string name="long_press_menu_key">Apăsare lungă a butonului Meniu</string>
     <string name="long_press_menu_key_when_lock">Apăsare lungă a butonului Meniu în Blocarea ecranului</string>
+    <string name="long_press_power_guide_know">Am înțeles</string>
+    <string name="long_press_power_guide_message" formatted="false">"Apăsați și mențineți apăsat butonul de pornire timp de %s secunde pentru a activa Asistentul Google.
+Dacă țineți apăsat butonul timp de %s secunde, veți deschide meniul de oprire a dispozitivului."</string>
+    <string name="long_press_power_guide_settings">Setări</string>
+    <string name="long_press_power_guide_title">Treziți cu butonul de Pornire</string>
     <string name="long_press_power_key">Apăsați lung butonul de Pornire</string>
     <string name="long_press_power_key_half_of_second">Apăsați și mențineți apăsat butonul de Pornire pentru 0,5 secunde pentru a activa Asistentul Google</string>
     <string name="long_press_power_key_half_second">Apăsați și mențineți apăsat butonul de Pornire timp de %s secunde</string>
@@ -500,6 +505,7 @@ Atingeți de două ori pentru a deschide Recente."</string>
     <string name="stylus_connect_fail">Nu s-a putut conecta. Atașați din nou.</string>
     <string name="stylus_connect_fail_no_battery">Încărcați-vă stiloul acum</string>
     <string name="stylus_connect_fail_no_reason">Nu s-a putut conecta</string>
+    <string name="stylus_connect_fail_not_match_tablet">Stiloul nu este compatibil cu tableta</string>
     <string name="stylus_connect_fail_not_open_gps">Nu s-a putut conecta. Activați serviciile de localizare și încercați din nou.</string>
     <string name="stylus_connecting">Se conectează…</string>
     <string name="stylus_default_percent">100</string>

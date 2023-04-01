@@ -185,6 +185,10 @@
     <string name="high_bit_rate">MP3, ~%1$d kbps, ~%2$d MB/h</string>
     <string name="icon_content_description">Pictogramă Dialog</string>
     <string name="invalid_argument">Argument invalid</string>
+    <string name="invisible_mode_dialog_message">Nu puteți folosi microfonul când sunteți în modul Incognito. Dezactivați mai întâi modul incognito.</string>
+    <string name="invisible_mode_dialog_negative">Renunțați</string>
+    <string name="invisible_mode_dialog_positive">Dezactivați</string>
+    <string name="invisible_mode_dialog_title">Sunteți în modul Incognito</string>
     <string name="invisible_mode_error_tip">Dezactivați modul Incognito din Setări pentru a putea utiliza microfonul</string>
     <string name="item_view_role_description">Filă</string>
     <string name="keywords_search_call_record">Înregistrare apeluri;Înregistrare apel;Call recording;Call recordings</string>
