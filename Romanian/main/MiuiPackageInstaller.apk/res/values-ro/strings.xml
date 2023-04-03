@@ -1030,7 +1030,6 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="passport_same_new_and_old_pwd">Nu poate fi aceeași cu parola actuală</string>
     <string name="passport_send_sms_to">Cod trimis la %1$s</string>
     <string name="passport_send_too_many_code">Prea multe coduri de verificare au fost trimise către acest număr. Așteptați 24 de ore și încercați din nou.</string>
-    <string name="passport_send_too_many_sms">Prea multe coduri de verificare au fost trimise către acest număr. Așteptați 24 de ore și încercați din nou.</string>
     <string name="passport_sending_vcode">Se trimite codul…</string>
     <string name="passport_service_error">Eroare de server</string>
     <string name="passport_set_password_no_phone_msg">Adăugați numărul de telefon pentru a vă proteja contul.</string>
@@ -1042,27 +1041,6 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="passport_talkback_switch_image_captcha">Treceți la codul de verificare a imaginii</string>
     <string name="passport_talkback_switch_voice_captcha">Treceți la codul de verificare vocală</string>
     <string name="passport_talkback_voice_captcha">Redați codul de verificare vocală</string>
-    <string name="passport_timeout_network_error">Solicitarea rețelei a expirat</string>
-    <string name="passport_trust_device">Acesta este un dispozitiv de încredere</string>
-    <string name="passport_trying_read_verify_code_sms">Se obține codul de verificare…</string>
-    <string name="passport_unknow_error">A apărut o eroare necunoscută</string>
-    <string name="passport_unknow_host_network_error">Verificați setările de rețea și încercați din nou</string>
-    <string name="passport_unknow_network_error">A apărut o eroare de rețea</string>
-    <string name="passport_user_agreement_link">"&lt;Data>Am citit și sunt de acord cu &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica de Confidențialitate Xiaomi&lt;/a>.&lt;/Data>"</string>
-    <string name="passport_user_agreement_link_more">"&lt;Data>Am citit și sunt de acord cu următoarele documente: &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%4$s>Politica de Confidențialitate Xiaomi&lt;/a>, &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data>"</string>
-    <string name="passport_user_id_intro">Introduceți parola pentru %1$s</string>
-    <string name="passport_v_code_error">Codul de verificare este incorect</string>
-    <string name="passport_vcode_notification_title">Verificarea dvs. de conectare este incompletă</string>
-    <string name="passport_vcode_prompt_long">Introduceți codul de verificare</string>
-    <string name="passport_vcode_sms_send_prompt">Cod trimis la %s</string>
-    <string name="passport_verification_failed">Nu s-a putut verifica</string>
-    <string name="passport_verify">Verificați</string>
-    <string name="passport_wechat_not_install">Instalați mai întâi WeChat</string>
-    <string name="passport_wrong_captcha">Codul pe care l-ați introdus este incorect</string>
-    <string name="passport_wrong_phone_number_format">Formatul numărului de telefon introdus nu este valid</string>
-    <string name="passport_wrong_vcode">Codul pe care l-ați introdus este incorect</string>
-    <string name="passport_wrong_voice">Codul pe care l-ați introdus este incorect</string>
-    <string name="password">Parolă</string>
     <string name="passport_ticket_send_by_second">Trimiteți în %d</string>
     <string name="passport_to_forget_password">Aţi uitat parola?</string>
     <string name="passport_to_password_login">Conectați-vă utilizând parola</string>
@@ -1083,13 +1061,7 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="passport_user_id_hint">E-mail/număr de telefon/ID cont Xiaomi</string>
     <string name="passport_user_name_phone_number">Număr de telefon</string>
     <string name="passport_user_password_hint">Parola</string>
-    <string name="passport_v_code_error">Codul de verificare este incorect</string>
-    <string name="passport_vcode_notification_title">Verificarea la conectare este incompletă</string>
-    <string name="passport_vcode_prompt_long">Introduceți codul de verificare</string>
-    <string name="passport_vcode_sms_send_prompt">Cod trimis la %s</string>
     <string name="passport_vcode_what_app_send_prompt">Codul de verificare WhatsApp va fi trimis pe telefonul de recuperare (&lt;font color=#1F93FF>%s&lt;/font>).</string>
-    <string name="passport_verification_failed">Nu s-a putut verifica</string>
-    <string name="passport_verify">Verificați</string>
     <string name="passport_wechat_not_install">Mai întâi instalați WeChat</string>
     <string name="passport_weibo_login_btn_content_description">Conectați-vă cu Weibo</string>
     <string name="passport_weixin_login_btn_content_description">Conectați-vă cu WeChat</string>

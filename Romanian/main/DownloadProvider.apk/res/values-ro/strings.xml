@@ -65,7 +65,6 @@
     <string name="early_morning">Dimineață</string>
     <string name="editmode_menu_delete">Ștergeți</string>
     <string name="enter_garbage_clean">Curăţare stocare internă.</string>
-    <string name="insufficient_space">"Nu este suficient spațiu în memoria internă a dispozitivului"</string>
     <string name="evening">După amiază</string>
     <string name="expand_button_title">Avansat</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
