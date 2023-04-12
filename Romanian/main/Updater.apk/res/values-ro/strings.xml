@@ -102,6 +102,7 @@
     <string name="download_fail_desc">Cheia MD5 Sum nu se potrivește…</string>
     <string name="downloading">Se descarcă:</string>
     <string name="downloading_desc">Descărcare în curs; verificați starea în bara de notificări.</string>
+    <string name="fastboot_desc">Dispozitivul va reporni în modul Fastboot acum. Dacă nu sunteți familiarizat cu modul, anulați acțiunile viitoare. Continuați?</string>
     <string name="fastboot_mode">Programul de actualizare este în modul Fastboot, puteți să instalați doar ROM-uri cu Terminal pe PC!</string>
     <string name="fastboot_update_warning">Această actualizare este doar pentru instalarea prin fastboot!</string>
     <string name="fetching_data">Se obține linkul de descărcare; așteptați…</string>
@@ -144,6 +145,7 @@ Partiția de date nu va fi ștearsă."</string>
     <string name="menu_more_button">Meniu</string>
     <string name="menu_title_apply_for_alpha">Înscrieți-vă în programul Beta testing</string>
     <string name="menu_title_current_version_log">Ce este nou?</string>
+    <string name="menu_title_fastboot">Reporniți în modul Fastboot</string>
     <string name="menu_title_fastboot_mode">Actualizați în modul Fastboot</string>
     <string name="menu_title_pick_rom_file">Selectaţi pachetul de actualizare</string>
     <string name="menu_title_recovery">Reporniţi în modul Recuperare</string>

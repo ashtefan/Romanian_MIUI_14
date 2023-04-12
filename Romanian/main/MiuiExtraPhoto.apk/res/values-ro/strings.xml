@@ -238,6 +238,9 @@
     <string name="noon">Amiază</string>
     <string name="ok">OK</string>
     <string name="open">Pornit</string>
+    <string name="operation_original">Comparați</string>
+    <string name="operation_redo">Fă din nou</string>
+    <string name="operation_undo">Refă</string>
     <string name="pm">PM</string>
     <string name="refocus_discard_confirm_message">Salvați modificările?</string>
     <string name="refocus_discard_negative_btn">Renunțați</string>

@@ -4,6 +4,10 @@
         <item>Masculin</item>
         <item>Feminin</item>
     </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Bărbat</item>
+        <item>Femeie</item>
+    </string-array>
     <string-array name="settings_search_account_and_authority_global">
         <item>Conturi</item>
         <item>Adăugați și gestionați conturile terțe</item>

@@ -355,18 +355,20 @@
         <item>Cea mai bună (Bit Rate automat)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>Utilizați selecția sistemului (Implicit)</item>
+        <item>Utilizați preferința sistemului (Implicit)</item>
         <item>44,1 kHz</item>
         <item>48,0 kHz</item>
         <item>88,2 kHz</item>
         <item>96,0 kHz</item>
+        <item>192,0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>Utilizați selecția sistemului (Implicit)</item>
+        <item>Utilizați preferința sistemului (Implicit)</item>
         <item>44,1 kHz</item>
         <item>48,0 kHz</item>
         <item>88,2 kHz</item>
         <item>96,0 kHz</item>
+        <item>192,0 kHz</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>Utilizați selecția sistemului (Implicit)</item>
@@ -377,6 +379,7 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
+	<item>LHDC v5</item>
         <item>LHDC v3/v4</item>
         <item>LHDC_v2</item>
         <item>LHDC_v1</item>
@@ -392,6 +395,7 @@
         <item>LDAC</item>
         <item>Qualcomm® aptX™ Adaptive audio</item>
         <item>Qualcomm® aptX™ TWS+ audio</item>
+        <item>LHDC v5</item>
         <item>LHDC_v3/v4</item>
         <item>LHDC_v2</item>
         <item>LHDC_v1</item>

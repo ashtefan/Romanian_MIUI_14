@@ -1745,7 +1745,7 @@ Atingeți de două ori pentru a vedea detaliile."</string>
     <string name="pa_express_detail_list_empty_text">"Elementele pot apărea aici cu o oarecare întârziere.
 De asemenea, puteți urmări livrarea rapidă pe site-urile oficiale ale serviciilor de curierat."</string>
     <string name="pa_express_detail_more">Mai mult</string>
-    <string name="pa_express_detail_order_number_prefix">Număr de urmărire: %s</string>
+    <string name="pa_express_detail_order_number_prefix">Numărul comenzii: %s</string>
     <string name="pa_express_dialog_sign_message">Marcați acest pachet ca fiind livrat? Starea sa nu va mai fi actualizată după aceea.</string>
     <string name="pa_express_empty_extra">Urmăriți</string>
     <string name="pa_express_empty_title">Nu există informații despre livrare aici</string>
@@ -1967,6 +1967,14 @@ Rămâneţi aproape!"</string>
     <string name="pa_picker_home_request_failed">Eroare de rețea</string>
     <string name="pa_picker_home_search_hint">Căutați widgeturi</string>
     <string name="pa_picker_home_title">Adăugați widgeturi</string>
+    <string name="pa_picker_image_text_share">Partajați</string>
+    <string name="pa_picker_image_text_share_content" formatted="false">\#MIUI 小部件# 用%sMIUI小部件装扮你的桌面！%s</string>
+    <string name="pa_picker_image_text_share_copy_url">Copiați URL-ul</string>
+    <string name="pa_picker_image_text_share_more">Mai multe</string>
+    <string name="pa_picker_image_text_share_wechat_favourite">Favorite WeChat</string>
+    <string name="pa_picker_image_text_share_wechat_session">WeChat</string>
+    <string name="pa_picker_image_text_share_wechat_timeline">Momente WeChat</string>
+    <string name="pa_picker_image_text_share_weibo">Weibo</string>
     <string name="pa_picker_item_retry">"Elementele nu au putut fi încărcate. Încercați din nou."</string>
     <string name="pa_picker_list_app_footer_classic_widget">Widgeturi Android</string>
     <string name="pa_picker_list_app_title">Aplicațiile cu widgeturi</string>
@@ -1979,9 +1987,18 @@ Rămâneţi aproape!"</string>
     <string name="pa_picker_loading">Doar o secundă…</string>
     <string name="pa_picker_maml_list_activity_title">Adăugați widgeturi</string>
     <string name="pa_picker_no_relevant_content">Nu s-au putut găsi rezultate</string>
+    <string name="pa_picker_order_go_to_allow_cta">Permiteți</string>
+    <string name="pa_picker_order_go_to_login">Conectați-vă</string>
+    <string name="pa_picker_order_login_xiaomi_account">Conectați-vă la contul dvs. Xiaomi pentru a putea folosi această funcție.</string>
+    <string name="pa_picker_order_theme_app_cta_pre">Permiteți acestei aplicații să se conecteze la internet pentru a putea folosi această funcție.</string>
     <string name="pa_picker_permission_denied">"Asistentul inteligent trebuie să acceseze starea instalării
 pentru a afișa widgeturi."</string>
     <string name="pa_picker_purchase_order">Achiziționat</string>
+    <string name="pa_picker_recommend_add_limit_toast">Nu se mai pot adăuga alte widgeturi</string>
+    <string name="pa_picker_recommend_bottom_button_add">Adăugați un widget</string>
+    <string name="pa_picker_recommend_bottom_button_download_and_add">Adăugați un widget</string>
+    <string name="pa_picker_recommend_download_tip">Când adăugați un widget, aplicația asociată va fi descărcată automat</string>
+    <string name="pa_picker_recommend_title">Recomandări pentru dvs.</string>
     <string name="pa_picker_request">Setări</string>
     <string name="pa_picker_retry">Încercați din nou</string>
     <string name="pa_picker_search">Căutați</string>
@@ -2002,12 +2019,16 @@ pentru a afișa widgeturi."</string>
     <string name="pa_picker_tab_title_category">Categorii</string>
     <string name="pa_picker_tab_title_fun">Descoperiți</string>
     <string name="pa_picker_tab_title_recommend">Recomandate</string>
+    <string name="pa_picker_theme_app_version_error">A apărut o eroare</string>
     <string name="pa_picker_tips_count_limit_forbidden">Nu se pot adăuga mai multe widget-uri. Ștergeți widget-urile mai vechi pentru a adăuga altele noi.</string>
     <string name="pa_picker_toast_add_successfully">Adăugat cu succes</string>
     <string name="pa_picker_toast_count_limit_forbidden">"Nu se mai pot adăuga widget-uri"</string>
     <string name="pa_picker_toast_count_limit_forbidden_for_type">"Nu se pot adăuga mai multe widget-uri de acest tip"</string>
     <string name="pa_picker_toast_count_limit_warning">Adăugat cu succes. Rețineți că plasarea prea multor widget-uri pe Ecranul principal poate încetini dispozitivul.</string>
     <string name="pa_picker_toast_screen_cell_locked">"Aspectul Ecranului principal este blocat. Nu se pot adăuga widget-uri."</string>
+    <string name="pa_picker_widget_select_normal_description">%1$s</string>
+    <string name="pa_picker_widget_select_uninstall_description">%1$s, neinstalată</string>
+    <string name="pa_picker_widget_select_upgrade_description">%1$s, actualizare disponibilă</string>
     <string name="pa_privacy_text">Confidențialitate</string>
     <string name="pa_read_storage_permission_description">Pentru afișarea imaginii de fundal a Ecranului principal ca fundal pentru aplicație</string>
     <string name="pa_recommend_add_btn">Start</string>

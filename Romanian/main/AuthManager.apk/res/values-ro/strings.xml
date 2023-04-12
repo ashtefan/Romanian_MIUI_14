@@ -250,7 +250,7 @@
     <string name="HIPS_Perm_deamon_notification">Notificare permanentă</string>
     <string name="HIPS_Perm_deamon_notification_Desc">afișează notificările permanente</string>
     <string name="HIPS_Perm_get_accounts">Accesare conturi de pe telefon</string>
-    <string name="HIPS_Perm_get_accounts_Desc">accesarea tuturor conturilor de pe telefon</string>
+    <string name="HIPS_Perm_get_accounts_Desc">Accesarea tuturor conturilor de pe telefon</string>
     <string name="HIPS_Perm_get_installed_apps">Obținere informații despre aplicațiile instalate</string>
     <string name="HIPS_Perm_get_installed_apps_Desc">obținerea de informații despre aplicațiile instalate pe acest dispozitiv</string>
     <string name="HIPS_Perm_get_tasks">Obținerea sarcinilor</string>
@@ -536,6 +536,7 @@
     <string name="permdesc_call_phone">Permiteți %1$s să efectueze apeluri?</string>
     <string name="permdesc_camera">Permiteți %1$s să facă fotografii și să înregistreze videoclipuri?</string>
     <string name="permdesc_get_account">Permiteți %1$s să acceseze toate conturile stocate pe acest dispozitiv?</string>
+    <string name="permdesc_get_installed_apps">Permiteți \"%1$s\" să acceseze informațiile despre aplicațiile instalate?</string>
     <string name="permdesc_location">Permiteți %1$s să acceseze informațiile despre locație?</string>
     <string name="permdesc_location_background">Permiteți %1$s să acceseze informațiile despre locație în fundal?</string>
     <string name="permdesc_microphone">Permiteți %1$s să folosească microfonul pentru înregistrări audio?</string>

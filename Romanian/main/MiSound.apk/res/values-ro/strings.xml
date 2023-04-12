@@ -51,6 +51,15 @@
     <string name="dolby_dax_profile_dynamic">Dinamic</string>
     <string name="dolby_dax_setting">Efecte Dolby</string>
     <string name="dolby_dax_title">Sunet Surround</string>
+    <string name="effect_3dsurround">Sunet captivant</string>
+    <string name="effect_3dsurround_summary">Îmbunătățiți profunzimea reproducerii sunetului în căști și difuzoare</string>
+    <string name="effect_3dsurround_summary_headphone">Îmbunătățiți profunzimea reproducerii sunetului pentru căști</string>
+    <string name="effect_dolby">Dolby</string>
+    <string name="effect_misound">Misound</string>
+    <string name="effect_none">Niciunul</string>
+    <string name="effect_selection">Efecte sonore</string>
+    <string name="effect_virtual_surround">Sunet virtual captivant</string>
+    <string name="effect_virtual_surround_summary">Îmbogățiți adâncimea sunetului pentru redarea audio și video în căști (Această caracteristică nu va funcționa când este redat %.1f audio)</string>
     <string name="end_wireless_transmission">Opriți</string>
     <string name="eq_auto">Personalizat</string>
     <string name="eq_blues">Blues</string>
@@ -213,7 +222,7 @@
     <string name="music_hifi_summary">Reduce zgomotul și distorsiunile și crește calitatea audio</string>
     <string name="music_hifi_title">Hi-Fi audio</string>
     <string name="music_mi_effect_summary">Utilizați Mi Sound Enhancer atunci când se utilizează difuzoarele</string>
-    <string name="music_mi_effect_title">Mi Sound Enhancer</string>
+    <string name="music_mi_effect_title">Amplificare Mi Sound</string>
     <string name="music_open_customized_sound_summary">Personalizați volumul în funcție de percepția dvs. auditivă</string>
     <string name="music_open_customized_sound_title">Ajustare volum</string>
     <string name="music_please_input_head_set">Conectați căștile înainte de a începe</string>
@@ -329,6 +338,7 @@
     <string name="sound_transmission_title">Microfon wireless</string>
     <string name="spatial_audio">Sunet captivant</string>
     <string name="spatial_audio_summary">Experimentați imersiunea și senzația de spațiu atunci când sunetul este redat prin căști</string>
+    <string name="spatial_audio_summary_spk">Experimentați imersiunea și senzația de spațiu atunci când este redat sunetul</string>
     <string name="speaker_scenario_resume">Restaurați efectele originale</string>
     <string name="start_test_sound">Începeți testul</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
@@ -350,4 +360,5 @@
     <string name="wireless_transmission_confirm">Activați</string>
     <string name="wireless_transmission_definition">Transmite fluxul microfonului telefonului către un dispozitiv Bluetooth extern</string>
     <string name="wireless_transmission_prompt">Pentru a transmite sunete audio, difuzorul fără fir trebuie să activeze Bluetooth-ul. Activați acum?</string>
+    <string name="yesterday">Ieri</string>
 </resources>

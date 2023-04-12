@@ -787,6 +787,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="download_keep_queued_download">Păstrați</string>
     <string name="download_list_no_items_tip">Niciun element aici încă.</string>
     <string name="download_list_open_xl_ok">OK</string>
+    <string name="download_live_unsupported">Nu se pot descărca fluxurile live</string>
     <string name="download_memory_info_avai">" disponibil %s|"</string>
     <string name="download_memory_info_total">" total ​%s"</string>
     <string name="download_menu_title_clear_all">Goliți tot</string>
@@ -1460,15 +1461,16 @@ Trimiteți acest cod supervisorului."</string>
     <string name="miuishare_title_share">Partajați</string>
     <string name="miuix_access_state_desc">Selectat</string>
     <string name="miuix_alphabet_indexer_name">Bara de index</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mai multe</string>
     <string name="miuix_appcompat_cancel_description">Renunțați</string>
     <string name="miuix_appcompat_confirm_description">Confirmați</string>
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
-    <string name="miuix_appcompat_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_edit">Editați</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
@@ -1895,7 +1897,7 @@ Părăsiți această pagină acum?"</string>
     <string name="notification_category_facebook">Facebook</string>
     <string name="notification_category_group_general">General</string>
     <string name="notification_category_media">Media</string>
-    <string name="notification_category_stickcard">StickCard</string>
+    <string name="notification_category_stickcard">Instrumente rapide</string>
     <string name="notification_download_completed">Descărcat cu succes</string>
     <string name="notification_download_failed">Nu s-a putut descărca.</string>
     <string name="notification_wechat_expired_empty">WeChat a șters deja aceste videoclipuri.</string>
@@ -2840,6 +2842,7 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="readmode_recommend">Vizualizaţi recomandările</string>
     <string name="readmode_recommend_message">"Aţi citit deja această carte :)"</string>
     <string name="readmode_refresh">Reîmprospătaţi</string>
+    <string name="readmode_tips">Activați modul Doar text</string>
     <string name="readmodelist_bookmarks_to_show">Listă de lectură</string>
     <string name="reboot">Reporniți</string>
     <string name="recent_apk_status_install">INSTALATĂ</string>
@@ -2946,6 +2949,7 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="save_to_camera_failed">"Nu se poate salva imaginea"</string>
     <string name="save_to_camera_success">Salvată în Galerie</string>
     <string name="save_to_private_folder">Adăugați în Ascunse</string>
+    <string name="scan_type_empty_folder">Dosar gol</string>
     <string name="scanner_uninstalled_text">Instalați aplicația Scaner pentru a continua</string>
     <string name="scanner_uninstalled_title">Aplicația Scaner a fost dezinstalată</string>
     <string name="scanning_info">Articole găsite: TXT (%1$d), EPUB (%2$d), PDF (%3$d)</string>
@@ -3667,6 +3671,7 @@ Dimensiunea actualizării delta: %2$s"</string>
     <string name="year_month_day_format">dd MMM, yyyy</string>
     <string name="yes">Da</string>
     <string name="yesterday">Ieri</string>
+    <string name="youtube_dialog_content">Sunteți pe cale să părăsiți Mi Browser și să deschideți YouTube. Continuați?</string>
     <string name="ytb_added_subscription">Abonat cu succes</string>
     <string name="ytb_cancel">Renunțați</string>
     <string name="ytb_deleted_subscription">Dezabonat cu succes</string>

@@ -100,9 +100,7 @@ Puteți vizualiza rapoartele generate în Managerul de Fișiere."</string>
     <string name="error_icon_content_description">Eroare</string>
     <string name="evening">După amiază</string>
     <string name="expand_button_title">Avansat</string>
-    <string name="exposed_dropdown_menu_content_description">Afișați meniul drop-down</string>
-    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
-    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+    <string name="exposed_dropdown_menu_content_description">Afișați meniul de glisare în jos</string>
     <string name="fingerprint_double_tap">Atingeți de două ori senzorul de amprentă</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
