@@ -711,7 +711,7 @@ Conectați încărcătorul și opriți ecranul pentru a face să apară amintiri
     <string name="delete_in_album">Elementele selectate vor fi șterse din cloud și de pe toate dispozitivele conectate și vor fi stocate printre elementele șterse recent timp de %d de zile dacă aveți un abonament gratuit de stocare în cloud. Le ștergeți oricum?</string>
     <string name="delete_in_home_page">Elementele selectate vor fi șterse din cloud și de pe toate dispozitivele conectate și vor fi stocate printre elementele șterse recent timp de %d de zile dacă aveți un abonament gratuit de stocare în cloud. Le ștergeți oricum?</string>
     <string name="delete_in_process">Ștergere…</string>
-    <string name="delete_media_for_cloud">Elementele selectate vor fi eliminate din cloud și de pe toate dispozitivele sincronizate în Elementele șterse recent.</string>
+    <string name="delete_media_for_cloud">Elementele selectate vor fi eliminate din cloud și mutate pe toate dispozitivele sincronizate în dosarul Elemente șterse recent.</string>
     <string name="delete_origin">Ștergeți imaginile din albumul original</string>
     <string name="delete_other_shared_images">"Nu puteți șterge fotografiile partajate de alte persoane"</string>
     <string name="delete_owner_and_other_shared_images_format">%1$d șterse，%2$d menținute</string>

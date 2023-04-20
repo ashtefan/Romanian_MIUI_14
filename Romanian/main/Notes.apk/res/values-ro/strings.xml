@@ -156,7 +156,7 @@
     <string name="cta_v2_agree_desc">Permiteți acestei aplicații să se conecteze la internet și acordați permisiunile necesare menționate mai jos.</string>
     <string name="cta_v2_app_purpose">Crearea, vizualizarea și gestionarea notițelor</string>
     <string name="cta_v2_app_purpose_v12">Bine ați venit în aplicația Note! Puteți utiliza această aplicație pentru a crea sarcini și notițe ce conțin text, imagini și elemente audio.</string>
-    <string name="data_empty_folder">Nu mai sunt dosare de afișat</string>
+    <string name="cta_v2_app_purpose_v12_lite">Bine ați venit în aplicația Note! Puteți utiliza această aplicație pentru a crea sarcini și notițe.</string>
     <string name="data_empty_note">Nicio notiță aici deocamdată</string>
     <string name="data_empty_todo">Nicio sarcină aici deocamdată</string>
     <string name="date_calculate_today">0 zile</string>
@@ -376,6 +376,7 @@
     <string name="image_annotation_edit_hint">Descrierea imaginii</string>
     <string name="image_annotation_edit_length_warning">Descrierea imaginii poate conține cel mult %d caractere</string>
     <string name="info_note_enter_desktop">Adăugată pe desktop</string>
+    <string name="insert_image_size_limit_tip">Această imagine depășește %d MB. A fost comprimată automat.</string>
     <string name="item_view_role_description">Filă</string>
     <string name="last_excerpt_unfinish_hint">Ultimul fragment este incomplet</string>
     <string name="library_android_database_sqlcipher_libraryDescription">Android SQLite API bazat pe SQLCipher</string>
@@ -493,7 +494,7 @@
     <string name="miui_plus_relay_waring_data_not_find">Nu s-a putut găsi articolul pe care îl vizualizați pe alt dispozitiv. Asigurați-vă că toate elementele sunt sincronizate.</string>
     <string name="miuix_access_state_desc">Selectat</string>
     <string name="miuix_alphabet_indexer_name">Bara de index</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mai multe</string>
@@ -503,8 +504,9 @@
     <string name="miuix_appcompat_cloud_state_syncing">Se sincronizează în cloud…</string>
     <string name="miuix_appcompat_confirm_description">Confirmați</string>
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
-    <string name="miuix_appcompat_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_edit">Editați</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
@@ -1081,6 +1083,7 @@ Permiteți aplicației Note să înregistreze sunete."</string>
     <string name="warn_cannot_add_new_style">Nu se poate adăuga un nou format, deoarece notița este prea lungă</string>
     <string name="warn_disable_edit_in_browse_mode">Nu puteți edita notițe în modul Numai citire</string>
     <string name="warn_enter_browse_mode">Sunteți în modul Numai citire</string>
+    <string name="warn_enter_browse_mode_forbid_create">Nu se pot crea sau edita note în modul Doar citire</string>
     <string name="web_sso_login_fail">Trebuie să vă conectați din nou</string>
     <string name="web_sso_login_message">Se conectează…</string>
     <string name="webview_reload">Încercați din nou</string>

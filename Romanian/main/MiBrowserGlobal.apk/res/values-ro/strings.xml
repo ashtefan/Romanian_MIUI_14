@@ -3079,6 +3079,7 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="skip_current_version">Omiteţi această versiune</string>
     <string name="sku_all">Tot</string>
     <string name="sku_price_everymonth">%1$s în fiecare lună</string>
+    <string name="slide_card">Glisați pentru mai multe</string>
     <string name="sms_send_success">Trimis cu succes</string>
     <string name="snapshot">Local</string>
     <string name="snapshot_failed">"Nu s-a putut salva pagina"</string>
@@ -3304,6 +3305,7 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="toast_exit_browser">Atingeți din nou pentru a ieși din browser</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
+    <string name="top_news">Știri de top</string>
     <string name="top_up">Suplimentați</string>
     <string name="topsite_click">Faceți click pe TopSite</string>
     <string name="traffic_fail_device_limit">S-a atins limita pentru dispozitivele conectate</string>

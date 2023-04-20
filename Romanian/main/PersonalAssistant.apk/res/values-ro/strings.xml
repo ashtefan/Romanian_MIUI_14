@@ -308,6 +308,7 @@ De asemenea, puteți urmări livrarea expresă pe site-urile oficiale ale compan
     <string name="app_miot_start">Adăugați</string>
     <string name="app_miot_title">Dispozitive inteligente</string>
     <string name="app_miot_to_start">Adăugați</string>
+    <string name="app_name">Vizualizați indicatorul de puncte pentru paginator</string>
     <string name="app_news_default_title">Știri</string>
     <string name="app_note_add">Adăugați</string>
     <string name="app_note_title_empty">Notițe</string>
@@ -1373,6 +1374,8 @@ Verificați numărul de urmărire."</string>
     <string name="material_hour_suffix">%1$s</string>
     <string name="material_minute_selection">Selectați minutele</string>
     <string name="material_minute_suffix">%1$s min</string>
+    <string name="material_slider_range_end">Sfârșitul intervalului,</string>
+    <string name="material_slider_range_start">Începutul intervalului,</string>
     <string name="material_timepicker_am">AM</string>
     <string name="material_timepicker_clock_mode_description">Pentru a introduce ora, comutați în modul ceas.</string>
     <string name="material_timepicker_hour">Ora</string>
@@ -1845,13 +1848,6 @@ De asemenea, puteți urmări livrarea rapidă pe site-urile oficiale ale servici
     <string name="pa_filter_search_title">Rezultate pentru \"%s\"</string>
     <string name="pa_filter_title">Mai multe widgeturi</string>
     <string name="pa_finish">Finalizat</string>
-    <string name="pa_font_mi_lan_pro_light">mipro-light</string>
-    <string name="pa_font_mi_lan_pro_medium">mipro-medium</string>
-    <string name="pa_font_mi_lan_pro_regular">mipro</string>
-    <string name="pa_font_mi_sans">sans-serif-medium</string>
-    <string name="pa_font_mi_sans_light">sans-serif-light</string>
-    <string name="pa_font_mi_sans_regular">sans-serif-regular</string>
-    <string name="pa_font_mi_type_semi_bold">mitype-semibold</string>
     <string name="pa_get_installed_app_permission_description">Pentru instalarea de aplicații și adăugarea de widget-uri</string>
     <string name="pa_guide_dialog_desc">Apăsați și mențineți apăsat un widget pentru a rearanja. Atingeți semnul plus pentru a adăuga mai multe widget-uri.</string>
     <string name="pa_guide_dialog_sure">Am înțeles</string>
@@ -2746,6 +2742,9 @@ pentru a afișa widgeturi."</string>
     <string name="wx_photo">Fotografie</string>
     <string name="wx_scan">Scaner</string>
     <string name="wx_timeline">Momente</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Nu acum</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Actualizați</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Este disponibilă o actualizare</string>
     <string name="xiaomi_search_label">Căutați</string>
     <string name="xspace_resolver_activity_title">Selectați aplicația</string>
     <string name="year_month_day_all_format_en">dd.MM.yyyy HH:mm:ss</string>

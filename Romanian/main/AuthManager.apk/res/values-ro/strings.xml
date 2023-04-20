@@ -450,7 +450,7 @@
     <string name="grant_dialog_storage_category_title">Această aplicație necesită permisiunea de a accesa Galeria și mesajele din aplicațiile de socializare</string>
     <string name="grant_dialog_storage_gallery_title">Galerie</string>
     <string name="grant_dialog_storage_sociality_title">Mesajele din aplicațiile de socializare</string>
-    <string name="keep_blur_location">Nu</string>
+    <string name="keep_blur_location">Păstrați</string>
     <string name="keep_notice_me">Continuă notificările</string>
     <string name="location_settings">Setări legate de locație</string>
     <string name="location_warning">%1$s este un furnizor de servicii de localizare pentru acest dispozitiv. Accesul la localizare poate fi modificat din Setări.</string>
@@ -636,7 +636,7 @@
     <string name="solar_term_white_dews">Rouă</string>
     <string name="solar_term_winter_begins">Începutul iernii</string>
     <string name="solar_term_winter_solstice">Solstițiul de iarnă</string>
-    <string name="stop_blur_location">Da</string>
+    <string name="stop_blur_location">Dezactivați</string>
     <string name="storage_policy_notify_both_title">%1$s nu are permisiunea de a accesa Galeria și mesajele din aplicațiile de socializare</string>
     <string name="storage_policy_notify_content">Atingeți petru a modifica permisiunile</string>
     <string name="storage_policy_notify_gallery_title">%1$s nu are permisiunea de a accesa Galeria</string>

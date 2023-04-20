@@ -117,6 +117,10 @@
         <item quantity="other">%1$d numere</item>
         <item quantity="one">%1$d număr</item>
     </plurals>
+    <plurals name="group_sms_error_message">
+        <item quantity="other">SMS-ul nu poate avea mai mult de %d destinatari.</item>
+        <item quantity="one">SMS-ul nu poate avea mai mult de %d destinatar.</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Cu o jumătate de oră în urmă</item>
     </plurals>
