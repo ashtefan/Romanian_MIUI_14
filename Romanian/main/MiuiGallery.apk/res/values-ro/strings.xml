@@ -270,6 +270,7 @@ Conectați încărcătorul și opriți ecranul pentru a face să apară amintiri
     <string name="art_still_module_loading">Se descarcă pluginul \"Artă\"…</string>
     <string name="assistant_page_community">Comunitate</string>
     <string name="assistant_page_discovery">Descoperiți</string>
+    <string name="assistant_page_image_printing">Tipăriți</string>
     <string name="assistant_page_label">Amintiri</string>
     <string name="assistant_page_server_error">Verificați setările de rețea</string>
     <string name="assistant_today_of_year_function_closed_tip">Activați</string>
@@ -504,7 +505,7 @@ Conectați încărcătorul și opriți ecranul pentru a face să apară amintiri
     <string name="cleaner_empty">Goliți tot</string>
     <string name="cleaner_empty_value_description">Totul arată bine</string>
     <string name="cleaner_photo_pick_delete_selected">Ștergeți fotografiile selectate</string>
-    <string name="cleaner_raw_action">Vedeți detalii</string>
+    <string name="cleaner_raw_action">Vedeți</string>
     <string name="cleaner_raw_description">Eliberați spațiul de stocare ștergând imaginile RAW mari</string>
     <string name="cleaner_raw_title">Ștergeți fișierele RAW</string>
     <string name="cleaner_scan_description">Optimizarea elementelor eliberează spațiu de stocare din telefon</string>
@@ -518,7 +519,7 @@ Conectați încărcătorul și opriți ecranul pentru a face să apară amintiri
     <string name="cleaner_screen_shot_action">Vizualizați</string>
     <string name="cleaner_screen_shot_description">Ștergeți capturile de ecran de care nu mai aveți nevoie.</string>
     <string name="cleaner_screen_shot_title">Ștergeți capturile de ecran</string>
-    <string name="cleaner_similar_action">Vedeți detalii</string>
+    <string name="cleaner_similar_action">Vedeți</string>
     <string name="cleaner_similar_description">Ștergeți fotografiile duplicate</string>
     <string name="cleaner_similar_title">Fotografii duplicate</string>
     <string name="cleaner_size">Goliți elementele șterse recent (%s)</string>
@@ -531,7 +532,7 @@ Conectați încărcătorul și opriți ecranul pentru a face să apară amintiri
     <string name="cleaner_stop_scan">Opriți scanarea</string>
     <string name="cleaner_subtitle_slim_space_prefix">%1$s %2$s ocupat</string>
     <string name="cleaner_title">Curățare</string>
-    <string name="cleaner_video_action">Vedeți detalii</string>
+    <string name="cleaner_video_action">Vedeți</string>
     <string name="cleaner_video_description">Ștergeți videoclipurile care ocupă mult spațiu de stocare</string>
     <string name="cleaner_video_pick_delete_selected">Ștergeți videoclipurile selectate</string>
     <string name="cleaner_video_title">Ștergeți videoclipurile</string>
@@ -1465,7 +1466,7 @@ efecte pentru fotografii"</string>
     <string name="loading_video_fail_sync_without_network">Conectați-vă la rețea pentru a descărca datele</string>
     <string name="loading_video_fail_syncing">Așteptați până când datele sunt complet descărcate și încercați din nou</string>
     <string name="loading_video_thumbnail">Descărcare copertă videoclip…</string>
-    <string name="local_secret_tip">Toate elementele private sunt sincronizate în cloud când această funcție este activată. Vă puteți modifica preferințele în Setări > Sincronizare în cloud > Gestionați albumele sincronizate > Album privat.</string>
+    <string name="local_secret_tip">Puteți păstra toate elementele private pe acest dispozitiv fără a le sincroniza în cloud. Vă puteți modifica preferințele în Setări > Sincronizare în cloud > Gestionați albumele sincronizate.</string>
     <string name="login_and_enable_service">Conectați-vă utilizând contul Xiaomi</string>
     <string name="login_by_local_phone_long_text">Înregistrați-vă acum</string>
     <string name="login_by_local_phone_short_text">Înregistrați-vă</string>
@@ -1680,15 +1681,16 @@ pentru a personaliza Galeria"</string>
     <string name="mishop_login_other">Alt cont</string>
     <string name="miuix_access_state_desc">Selectat</string>
     <string name="miuix_alphabet_indexer_name">Bara de index</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mai multe</string>
     <string name="miuix_appcompat_cancel_description">Renunțați</string>
     <string name="miuix_appcompat_confirm_description">Confirmați</string>
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
-    <string name="miuix_appcompat_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_edit">Editați</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
@@ -1841,6 +1843,7 @@ pentru a personaliza Galeria"</string>
     <string name="multi_view_tip_sub_title">Îndepărtați două degete sau mutați-le unul spre celălalt pentru a ajusta dimensiunea articolelor afișate.</string>
     <string name="multi_view_tip_title">Mărire și micșorare</string>
     <string name="must_pick_file">Selectaţi o fotografie</string>
+    <string name="my_family">Casa mea</string>
     <string name="name_split">, </string>
     <string name="name_with_ellipsize">%1$s…%2$s</string>
     <string name="national_day">Ziua Națională</string>
@@ -3377,6 +3380,7 @@ Până la %1$s, puteți să vă mutați articolele în Google Foto sau să vizit
     <string name="user_alias_self">Individual</string>
     <string name="user_avatar_update_title">Schimbați fotografia de profil</string>
     <string name="user_avatar_uploading">Doar o secundă…</string>
+    <string name="user_family">Casa lui %1$s</string>
     <string name="user_name_phone_number">Numărul de telefon</string>
     <string name="user_notice_identify_summary_format"><Data>Utilizând acest serviciu sunteți de acord cu &lt;a href=\"%1$s\">\"Termenii Serviciului\"&lt;/a> și &lt;a href=\"%2$s\">\"Politica de Confidențialitate Xiaomi\"&lt;/a>.</Data></string>
     <string name="user_notice_title">Termeni și Condiții</string>

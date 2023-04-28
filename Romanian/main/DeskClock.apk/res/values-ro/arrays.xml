@@ -11,6 +11,7 @@
         <item>Alarmă în %1$s, %2$s și %3$s</item>
     </string-array>
     <string-array name="alarm_in_furture_new_array">
+        <item>Alarmă în mai puțin de %d minut</item>
         <item>Alarmă în %1$s</item>
         <item>Alarmă în %2$s</item>
         <item>Alarmă în %1$s și %2$s</item>
@@ -44,6 +45,7 @@
         <item>Alarma va suna peste %1$s, %2$s și %3$s.</item>
     </string-array>
     <string-array name="alarm_set_new_array">
+        <item>Alarma se va declanșa în mai puțin de %d minut.</item>
         <item>Alarma va suna peste %1$s.</item>
         <item>Alarma va suna peste %2$s.</item>
         <item>Alarma va suna peste %1$s și %2$s.</item>

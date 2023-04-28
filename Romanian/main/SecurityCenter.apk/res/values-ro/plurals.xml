@@ -4,13 +4,13 @@
         <item quantity="other">Cu o oră în urmă</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Cu o oră în urmă</item>
+        <item quantity="other">Cu %d oră în urmă</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Cu o jumătate de oră în urmă</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Într-o oră</item>
+        <item quantity="other">În %d oră</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Într-o jumătate de oră</item>
@@ -19,15 +19,15 @@
         <item quantity="other">Imediat</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">în %d minute</item>
-        <item quantity="one">într-un minut</item>
+        <item quantity="other">În %d minute</item>
+        <item quantity="one">În %d minut</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Chiar acum</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Cu %d minute în urmă</item>
-        <item quantity="one">Cu 1 minut în urmă</item>
+        <item quantity="one">Cu %d minut în urmă</item>
     </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">S-au adăugat %d jocuri</item>
@@ -313,6 +313,14 @@ Dacă activați din nou datele mobile, operatorul vă poate taxa pentru trafic s
         <item quantity="other">Am înțeles (%ds)</item>
         <item quantity="one">Am înțeles (%ds)</item>
     </plurals>
+    <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"Notă:
+· Imaginile vizuale îmbunătățite nu vor fi disponibile când Economisirea acumulatorului este activată sau dispozitivul este supraîncălzit.
+· Rata de cadre inteligente arată cele mai bune rezultate atunci când jocul este setat să afișeze cel puțin %d cadre pe secundă."</item>
+        <item quantity="one">"Notă:
+· Imaginile vizuale îmbunătățite nu vor fi disponibile când Economisirea acumulatorului este activată sau dispozitivul este supraîncălzit.
+· Rata de cadre inteligente arată cele mai bune rezultate atunci când jocul este setat să afișeze cel puțin %d cadru pe secundă."</item>
+    </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"Încercați Modificarea vocii acum
 pentru a obține o versiune gratuită de %d zile!"</item>
@@ -590,6 +598,10 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
         <item quantity="other">%d aplicații</item>
         <item quantity="one">%d aplicație</item>
     </plurals>
+    <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantity="other">%2$d aplicații, inclusiv %1$s, pot fi rău intenționate</item>
+        <item quantity="one">%2$d aplicație, inclusiv %1$s, poate fi rău intenționată</item>
+    </plurals>
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>
         <item quantity="one">+%d</item>
@@ -713,6 +725,10 @@ Puteți obține o variantă gratuită de încercare pentru %d zi!"</item>
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d minute "</item>
         <item quantity="one">"%d minut "</item>
+    </plurals>
+    <plurals name="power_center_battery_optimization">
+        <item quantity="other">Optimizați utilizarea acumulatorului în %d scenarii</item>
+        <item quantity="one">Optimizați utilizarea acumulatorului în %d scenariu</item>
     </plurals>
     <plurals name="power_center_battery_problem">
         <item quantity="other">Reparați %d probleme de utilizare a acumulatorului</item>

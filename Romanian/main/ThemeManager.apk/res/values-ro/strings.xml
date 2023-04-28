@@ -62,6 +62,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="ad_downloading_tip">Acest element este în curs de descărcare. Puteți vedea progresul în perdeaua de Notificări.</string>
     <string name="ad_experience_now">Deschideți</string>
     <string name="add">Adăugați</string>
+    <string name="add_home_icon_success">Adăugat cu succes</string>
     <string name="add_resource_detail_fail">"Nu s-a putut adăuga resursa"</string>
     <string name="afternoon">După amiază</string>
     <string name="all_resources">Toate</string>
@@ -642,15 +643,16 @@ mm"</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="miuix_access_state_desc">Selectat</string>
     <string name="miuix_alphabet_indexer_name">Bara de index</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mai multe</string>
     <string name="miuix_appcompat_cancel_description">Renunțați</string>
     <string name="miuix_appcompat_confirm_description">Confirmați</string>
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
-    <string name="miuix_appcompat_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_edit">Editați</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
@@ -1160,6 +1162,7 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="resource_search_color_hint_red">Roşu</string>
     <string name="resource_search_color_hint_yellow">Galben</string>
     <string name="resource_search_history">Istoricul de căutare</string>
+    <string name="resource_search_hot_tag">Populare</string>
     <string name="resource_search_list_empty">Nu a fost găsit nimic.</string>
     <string name="resource_see_more">Mai multe</string>
     <string name="resource_select">Selectaţi</string>

@@ -12,6 +12,7 @@
     <string name="November">Noiembrie</string>
     <string name="October">Octombrie</string>
     <string name="September">Septembrie</string>
+    <string name="Share_to">Partajați cu</string>
     <string name="Updated_at">"Actualizat: "</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_action_bar_up_description">Navigați în sus</string>
@@ -61,6 +62,8 @@
     <string name="action_item_play_all">Amestecați tot</string>
     <string name="action_item_play_next">Redați mai târziu</string>
     <string name="action_item_play_video">Redați videoclipul muzical</string>
+    <string name="action_item_podcast">Detaliile podcastului</string>
+    <string name="action_item_podcast_speed">Viteza de redare</string>
     <string name="action_item_remove">Eliminaţi</string>
     <string name="action_item_remove_from_favorite">Eliminaţi din Favorite</string>
     <string name="action_item_send">Trimiteţi</string>
@@ -108,6 +111,7 @@
     <string name="app_disable_description_content">Muzica Mi este o aplicație de sistem. Dacă o dezactivați, acest lucru poate afecta utilizarea altor aplicații. O dezactivați oricum?</string>
     <string name="app_disable_description_title">Dezactivați aplicația de sistem?</string>
     <string name="app_label">Descărcări</string>
+    <string name="app_name">podcast</string>
     <string name="app_permission_confirm">Am înțeles</string>
     <string name="app_permission_optional">Permisiuni opționale</string>
     <string name="app_permission_require">Permisiuni obligatorii</string>
@@ -162,6 +166,7 @@
     <string name="auto_update_tip">Puteți actualiza aplicațiile de sistem utilizând datele mobile. Acest lucru poate genera taxe suplimentare.</string>
     <string name="avail_services">Disponibil</string>
     <string name="available_playlist_name_format">Listă de redare nouă %d</string>
+    <string name="avatar">Fotografie de profil</string>
     <string name="avoid_to_use_traffic_summary">"Nu utiliza rețeaua de date mobile pentru a reda muzica"</string>
     <string name="avoid_to_use_traffic_title">Notifică-mă atunci când se utilizează datele mobile pentru a reda muzică</string>
     <string name="back">Înapoi</string>
@@ -529,15 +534,15 @@
     <string name="exo_controls_playback_speed">Viteza</string>
     <string name="exo_controls_playback_speed_normal">Normală</string>
     <string name="exo_controls_previous_description">Piesa anterioară</string>
-    <string name="exo_controls_repeat_all_description">Repetă tot</string>
-    <string name="exo_controls_repeat_off_description">Nu repeta nimic</string>
-    <string name="exo_controls_repeat_one_description">Repetă una</string>
+    <string name="exo_controls_repeat_all_description">Mod curent: Repetați totul. Comutați modul de repetare.</string>
+    <string name="exo_controls_repeat_off_description">Mod curent: Nu repeta nimic. Comutați modul de repetare.</string>
+    <string name="exo_controls_repeat_one_description">Mod curent: Repetați una. Comutați modul de repetare.</string>
     <string name="exo_controls_rewind_description">Derulează înapoi</string>
     <string name="exo_controls_seek_bar_description">Progresul redării</string>
     <string name="exo_controls_settings_description">Setări</string>
     <string name="exo_controls_show">Afișează controalele playerului</string>
-    <string name="exo_controls_shuffle_off_description">Oprește amestecarea</string>
-    <string name="exo_controls_shuffle_on_description">Amestecă</string>
+    <string name="exo_controls_shuffle_off_description">Activați modul aleatoriu</string>
+    <string name="exo_controls_shuffle_on_description">Dezactivați modul aleatoriu</string>
     <string name="exo_controls_stop_description">Stop</string>
     <string name="exo_controls_vr_description">Mod VR</string>
     <string name="exo_download_completed">Descărcare finalizată</string>
@@ -545,6 +550,9 @@
     <string name="exo_download_downloading">Se descarcă</string>
     <string name="exo_download_failed">Descărcarea a eșuat</string>
     <string name="exo_download_notification_channel_name">Descărcări</string>
+    <string name="exo_download_paused">Descărcările au fost întrerupte</string>
+    <string name="exo_download_paused_for_network">Descărcări în așteptare pentru rețea</string>
+    <string name="exo_download_paused_for_wifi">Descărcări care așteaptă Wi-Fi</string>
     <string name="exo_download_removing">Se elimină descărcările</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_media_action_repeat_all_description">Repetați tot</string>
@@ -733,6 +741,7 @@
     <string name="home_tab_local">Muzica mea</string>
     <string name="home_tab_more_music">Mai multă muzică</string>
     <string name="home_tab_online">Muzică online</string>
+    <string name="home_tab_podcast">Podcast-uri</string>
     <string name="home_tab_recommend">Online</string>
     <string name="home_tab_search">Căutați</string>
     <string name="home_tab_yandex">Yandex.Music</string>
@@ -1087,6 +1096,8 @@
     <string name="my_playlist_set_to_public">Faceți publică</string>
     <string name="nav_app_bar_navigate_up_description">Navigați în sus</string>
     <string name="nav_app_bar_open_drawer_description">Deschideți sertarul de navigare</string>
+    <string name="need_to_close">Arată mai puțin</string>
+    <string name="need_to_show">Arată mai mult</string>
     <string name="network_disable">Nu s-a putut conecta la rețea</string>
     <string name="network_error_and_retry">"Nu s-a putut conecta; atingeți pentru a reîncerca"</string>
     <string name="network_request_error">"Nu se poate conecta la rețea"</string>
@@ -1537,6 +1548,8 @@ Fiți fericit"</string>
     <string name="share_song">Partajați</string>
     <string name="share_text_list">"Listă de redare din Muzică Mi: "</string>
     <string name="share_text_song">"Melodie în Muzică Mi: "</string>
+    <string name="shortcut_get">Vedeți</string>
+    <string name="shortcut_success">Creat cu succes. Vedeți pe Ecranul principal.</string>
     <string name="show_float_first_hint">Minimizați playerul</string>
     <string name="show_more">Arătați %s în plus</string>
     <string name="shuffle_music">Amestecați lista de redare</string>
@@ -1545,6 +1558,7 @@ Fiți fericit"</string>
     <string name="shuffle_play_toast_text">Se amestecă melodiile…</string>
     <string name="similar_albums">Albume similare</string>
     <string name="similar_playlists">Liste de redare similare</string>
+    <string name="similar_podcasts">Podcast-uri similare</string>
     <string name="similar_songs">Melodii similare</string>
     <string name="similar_videos">Videoclipuri similare</string>
     <string name="skip">Omiteți</string>
@@ -1865,6 +1879,8 @@ Dimensiunea actualizării delta: %2$s"</string>
     <string name="yandex_ads_internal_instream_advertiser_social">Reclamă socială</string>
     <string name="yandex_ads_internal_instream_advertiser_yandex">Reclamă</string>
     <string name="yandex_ads_internal_instream_skip">Ocolire</string>
+    <string name="yandex_ads_internal_instream_sponsored_social">RECLAMĂ SOCIALĂ</string>
+    <string name="yandex_ads_internal_instream_sponsored_yandex">RECLAMĂ</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_close">Închideți</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_dismiss">a vedea printre</string>
     <string name="yandex_ads_internal_rewarded_close_verification_text">Dacă închideți anunțul înainte de sfârșitul cronometrului, recompensa pentru vizionare nu va fi creditată</string>

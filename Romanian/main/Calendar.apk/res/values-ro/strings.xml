@@ -984,7 +984,7 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="repeat_custom_string_suffix">" (%1$s)"</string>
     <string name="repeat_end_label">Nu se mai repetă după</string>
     <string name="repeat_end_times_unit">" ori"</string>
-    <string name="repeat_interval_dialog_title">În fiecare %1$s</string>
+    <string name="repeat_interval_dialog_title">La fiecare %1$s</string>
     <string name="repeat_interval_frequency_day_single">zi</string>
     <string name="repeat_interval_frequency_month_single">lună</string>
     <string name="repeat_interval_frequency_week_single">săptămână</string>

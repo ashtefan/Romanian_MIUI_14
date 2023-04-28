@@ -478,7 +478,8 @@
     <string name="home_gesture_no_action">Nimic</string>
     <string name="home_gesture_notification_and_control_center">Perdeaua de notificări și Centrul de control</string>
     <string name="home_gesture_notification_bar">Notificări</string>
-    <string name="home_pull_down_action">Glisați în jos în Ecranul principal</string>
+    <string name="home_pull_down_content">Glisați în jos pe Ecranul de pornire pentru a căuta articole pe acest dispozitiv și online.</string>
+    <string name="home_pull_down_content_tips">Vă puteți modifica preferințele din Setări > Ecran de pornire > Glisați în jos pe Ecranul de pornire. Preferințele dvs. pentru gestul de glisare în sus vor rămâne neschimbate.</string>
     <string name="home_pull_down_know">Am înțeles</string>
     <string name="home_pull_up_content">Acum puteți deschide căutarea glisând în jos pe ecranul de pornire.</string>
     <string name="home_screen">Ecranul principal</string>

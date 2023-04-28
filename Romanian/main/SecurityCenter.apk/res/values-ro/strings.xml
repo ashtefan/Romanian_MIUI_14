@@ -456,6 +456,7 @@
     <string name="app_manager_app_version_name">"Versiune: "</string>
     <string name="app_manager_appupdate_remind">Notificare despre actualizări</string>
     <string name="app_manager_as_dlg_msg">Dacă permiteți aplicațiilor să pornească în mod automat este posibil să fie solicitată mai multă memorie RAM și să crească consumul de energie. Permiteți oricum?</string>
+    <string name="app_manager_as_dlg_msg_new">Permiterea pornirii automate a unei aplicații poate crește cantitatea de memorie și durata de viață a acumulatorului pe care le utilizează. MIUI va optimiza permisiunile de pornire automată ale aplicațiilor pe care nu le utilizați frecvent pentru a îmbunătăți performanța dispozitivului dvs.</string>
     <string name="app_manager_as_dlg_title">Atenție</string>
     <string name="app_manager_back">Înapoi</string>
     <string name="app_manager_bipartition">Aplicații clonate</string>
@@ -750,6 +751,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="auto_import_games">Adăugați toate jocurile într-un singur loc</string>
     <string name="auto_send_correcting_msg">Lăsați necompletat pentru a verifica în mod automat printr-un mesaj SMS gratuit</string>
     <string name="auto_set_by_brand">Sincronizați detaliile planului de date cu operatorul dvs.</string>
+    <string name="auto_start_tips">MIUI va optimiza permisiunile de pornire automată ale aplicațiilor pe care nu le utilizați frecvent pentru a îmbunătăți performanța dispozitivului.</string>
     <string name="auto_task_allow_suggestion">Sugestii inteligente de sarcini</string>
     <string name="auto_task_available_device">Dispozitive disponibile</string>
     <string name="auto_task_condition_choose_battery_level_down">Când acumulatorul se descarcă până la un anumit nivel</string>
@@ -1409,6 +1411,7 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="dialog_btn_delete_icon">Eliminați</string>
     <string name="dialog_btn_no_create_icon">Renunțați</string>
     <string name="dialog_btn_yes_create_icon">Adăugați</string>
+    <string name="dialog_btn_yes_install_icon">Instalați</string>
     <string name="dialog_change_package_type_summary">Modificarea planului de date va reseta toate setările pentru utilizarea datelor (de ex. limitele de date) la valoarea lor implicită. Modificați planul de date oricum?</string>
     <string name="dialog_change_package_type_title">Modificare tip plan de date</string>
     <string name="dialog_msg_auto_start_declare">Unele aplicații pot indica în mod greșit că MIUI le-a împiedicat să pornească. Verificați permisiunile care au fost acordate aplicațiilor individuale în Setări > Aplicații.</string>
@@ -1418,6 +1421,8 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="dialog_msg_delete_icon_content_phone">Aplicația Securitate vă permite să curățați gunoiul de pe dispozitiv, să găsiți și să neutralizați viruși, să economisiți bateria, să gestionați permisiunile și multe altele.</string>
     <string name="dialog_msg_delete_icon_title_pad">Eliminați această comandă rapidă de pe Ecranul principal?</string>
     <string name="dialog_msg_delete_icon_title_phone">Eliminați această comandă rapidă de pe Ecranul principal?</string>
+    <string name="dialog_msg_install_manager_content">Instalați aplicația de Securitate din nou?</string>
+    <string name="dialog_msg_install_manager_content_pad">Instalați aplicația de Securitate din nou?</string>
     <string name="dialog_msg_stop_virus_scan">"Opriți scanarea de securitate înainte de a fi terminată?"</string>
     <string name="dialog_no_longer_alert">"Nu arăta din nou"</string>
     <string name="dialog_remobe_luckymoney_cancle">Vechi</string>
@@ -1555,7 +1560,7 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="eletric_group_title_two_identification_risk_mms">Primiți avertismente atunci când sunt transmise coduri de verificare</string>
     <string name="eletric_group_title_two_identification_risk_mms_summary">Veți primi un avertisment când codurile de verificare din mesajele dvs. sunt redirecționate către rețelele sociale</string>
     <string name="eletric_group_title_two_identification_risk_screen">Ascundeți aplicațiile private</string>
-    <string name="eletric_group_title_two_identification_risk_screen_summary">Proiectarea va fi întreruptă dacă treceți la Alipay, WeChat, Galerie sau Mesaje</string>
+    <string name="eletric_group_title_two_identification_risk_screen_summary">Dacă deschideți aplicații care conțin informații personale sensibile (WeChat, Alipay, Galerie etc.) în timp ce partajați ecranul dispozitivului, aceste informații nu vor fi afișate. Puteți începe manual să partajați din nou.</string>
     <string name="eletric_group_two_identification_risk_app">Avertizați despre tranzacțiile financiare riscante</string>
     <string name="eletric_group_two_identification_risk_mms">Protecția codurilor de verificare</string>
     <string name="eletric_identification_unfamiliar_numbers">Identificați numerele necunoscute</string>
@@ -2413,6 +2418,12 @@ dar crește și consumul de energie și permite supraîncălzirea dispozitivului
     <string name="gb_turbo_time_subtitle">Cronometrați-vă sesiunile</string>
     <string name="gb_turbo_voice_subtitle">Condimentați-vă conversațiile</string>
     <string name="gb_turbo_wonder_subtitle">Înregistrați momentele cheie</string>
+    <string name="gb_vision_enhance">Elemente vizuale îmbunătățite</string>
+    <string name="gb_vision_enhance_desc">Îmbunătățiți calitatea și performanța imaginii</string>
+    <string name="gb_vision_enhance_smart_frame_insertion">Frecvență de cadre inteligentă</string>
+    <string name="gb_vision_enhance_smart_frame_insertion_desc">Reglați automat rata de cadre pentru a face mișcarea mai lină</string>
+    <string name="gb_vision_enhance_super_resolution">Super rezoluție</string>
+    <string name="gb_vision_enhance_super_resolution_desc">Măriți rezoluția pentru a vedea detalii mai fine</string>
     <string name="gb_voice_change_audition_tip">Demo</string>
     <string name="gb_voice_change_settinged">Modificarea vocii este activă</string>
     <string name="gb_voice_changer_cartoon">Desen animat</string>
@@ -3028,15 +3039,16 @@ Viteza telefonului a crescut cu %s."</string>
     <string name="miui_optimization_close_title">Această caracteristică este destinată dezvoltării și poate fi greu de gestionat de către utilizatorii obișnuiți. Dezactivarea optimizării MIUI poate aduce următoarele modificări:</string>
     <string name="miuix_access_state_desc">Selectat</string>
     <string name="miuix_alphabet_indexer_name">Bara de index</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mai multe</string>
     <string name="miuix_appcompat_cancel_description">Renunțați</string>
     <string name="miuix_appcompat_confirm_description">Confirmați</string>
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
-    <string name="miuix_appcompat_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_edit">Editați</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
@@ -3423,6 +3435,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="operator_number_cmcc">10086</string>
     <string name="operator_number_telcom">10000</string>
     <string name="operator_number_unicom">10010</string>
+    <string name="opt_antivirus_scan_antivirus_notification_summary">Utilizarea aplicațiilor rău intenționate prezintă riscuri de securitate</string>
+    <string name="opt_antivirus_scan_single_antivirus_notification_title">%s poate fi o aplicație rău intenționată</string>
     <string name="optimize_manage_title">Creștere viteză</string>
     <string name="optimize_result_available_memory_info">Memorie disponibilă</string>
     <string name="optimize_result_button_cloudspace">Obțineți mai mult spațiu de stocare în cloud</string>
@@ -3559,11 +3573,14 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_main_power_manager_hour_minute">%1$sh și %2$sm până la încărcarea completă</string>
     <string name="pc_main_sub_battery_text_day_hour">%1$sz și %2$sh rămase</string>
     <string name="pc_main_sub_battery_text_hour_minute">%1$sh și %2$sm rămase</string>
+    <string name="pc_no_more_remind">Nu-mi aminti</string>
     <string name="pc_performance_mode_dialog_summary">Dispozitivul dvs. va putea lucra în Modul performanță timp de %s. Rețineți că modul Performanță crește consumul de energie și poate duce la supraîncălzire.</string>
     <string name="pc_performance_mode_dialog_summary2">Performanța dispozitivului se va îmbunătăți. Acest lucru ar putea crește consumul de energie și poate duce la probleme de supraîncălzire. Porniți oricum?</string>
     <string name="pc_performance_mode_dialog_title">Mod Performanță</string>
     <string name="pc_performance_mode_noti_summary">Modul Performanță poate crește consumul de energie și poate duce la probleme de supraîncălzire</string>
     <string name="pc_performance_mode_noti_title">Performanță îmbunătățită a dispozitivului</string>
+    <string name="pc_remind_close_cover_to_charge_summary">Pliați dispozitivul înainte de încărcare pentru o experiență de încărcare mai rapidă și mai stabilă.</string>
+    <string name="pc_remind_close_cover_to_charge_title">Pliați pentru a încărca</string>
     <string name="pc_search_keywords_battery">Acumulator</string>
     <string name="pc_search_keywords_battery_save">Economisirea acumulatorului</string>
     <string name="pc_search_keywords_battery_use">Utilizarea acumulatorului</string>
@@ -3577,6 +3594,8 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_temperature_too_high">Dispozitiv supraîncălzit</string>
     <string name="pc_to_phone_install">Instalarea %s prin USB a fost blocată</string>
     <string name="pc_wait_device_cools_down">Așteptați până când dispozitivul se răcește pentru a putea folosi această funcție.</string>
+    <string name="pc_wireless_charge_adjust_position_summary">Așezați-l pe încărcătorul wireless</string>
+    <string name="pc_wireless_charge_adjust_position_title">Încărcați-vă dispozitivul mai repede</string>
     <string name="pc_xiaoai_create_auto_task">Sarcină nouă de la Mi AI</string>
     <string name="per_month_pkg_traffic_settings">Setaţi limita de date</string>
     <string name="percent_formatted_text">%s%%</string>
@@ -5356,6 +5375,7 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="superpower_settins_autoleave_title">Dezactivați în mod automat</string>
     <string name="superpower_settins_other">Setări adiționale</string>
     <string name="superpower_settins_switch_summary">Se restricționează activitățile intens consumatoare de energie pentru a menține funcțiile de bază (de ex. apelurile, SMS-urile și aplicațiile selectate) active cât mai mult timp posibil.</string>
+    <string name="support_app_name_securitycenter">Unelte de securitate</string>
     <string name="support_game_booster_tips">Creștere viteză de reacție și îmbunătățire experiență în jocuri</string>
     <string name="sys_app_prot_cracked_confirm">Am înțeles</string>
     <string name="sys_cpu_title">Utilizare procesor</string>
@@ -5935,6 +5955,16 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="vb_ve_settings_ai_stronger">AI</string>
     <string name="vb_ve_settings_display_style_tips">*Aceste efecte sunt aplicate întregului ecran</string>
     <string name="vb_ve_settings_display_style_tips_new">*Efectele vor fi aplicate numai zonei de redare video</string>
+    <string name="vb_ve_settings_display_style_tips_new_with_conflict_tips">"*Acest efect va fi aplicat numai zonei de redare video.
+
+Această funcție nu funcționează cu videoclipurile îmbunătățite.
+
+Pornirea unuia îl va opri pe celălalt."</string>
+    <string name="vb_ve_settings_display_style_tips_with_conflict_tips">"*Acest efect va fi aplicat întregului ecran.
+
+Această funcție nu funcționează cu videoclipurile îmbunătățite.
+
+Pornirea unuia îl va opri pe celălalt."</string>
     <string name="vb_ve_settings_pic_border_stronger">Contururi îmbunătățite</string>
     <string name="vb_ve_settings_picture_stronger">Animații îmbunătățite</string>
     <string name="vb_video_effects_3d">Sunet surround</string>
@@ -5950,6 +5980,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="vb_video_effects_dolby_tips">Dialogul îmbunătățit și stereo extins nu vor funcționa când sunetul captivant este activat</string>
     <string name="vb_video_effects_immersion_sound">Sunet captivant</string>
     <string name="vb_video_effects_immersion_sound_summary">Experimentați imersiunea și senzația de spațiu atunci când sunetul acceptat este redat prin căști</string>
+    <string name="vb_video_effects_immersion_sound_summary_new">Experimentați imersiunea și senzația de spațiu atunci când este redat un sunet acceptat</string>
     <string name="vb_video_effects_liquid_summary">Îmbunătățiți claritatea dialogului în videoclipuri</string>
     <string name="vb_video_effects_only_headphone">Funcționează doar cu căști</string>
     <string name="vb_video_effects_setting_black_white">A/N</string>

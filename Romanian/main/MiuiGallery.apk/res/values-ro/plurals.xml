@@ -4,13 +4,13 @@
         <item quantity="other">Cu o oră în urmă</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Cu o oră în urmă</item>
+        <item quantity="other">Cu %d oră în urmă</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Cu o jumătate de oră în urmă</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Într-o oră</item>
+        <item quantity="other">În %d oră</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Într-o jumătate de oră</item>
@@ -38,8 +38,8 @@
         <item quantity="one">S-a adăugat %d fotografie din Cloud, dezactivați \"Arată doar albumele locale\" pentru a o vedea.</item>
     </plurals>
     <plurals name="add_to_album_failed_with_reason_and_count">
-        <item quantity="other">" %2$d elemente nu au putut fi adăugate în album. %1$s."</item>
-        <item quantity="one">" %2$d element nu a putut fi adăugat în album. %1$s."</item>
+        <item quantity="other">"%2$d elemente nu au putut fi adăugate în album. %1$s."</item>
+        <item quantity="one">"%2$d element nu a putut fi adăugat în album. %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
         <item quantity="other">"%2$d elemente nu au putut fi adăugate în albumul privat. %1$s."</item>

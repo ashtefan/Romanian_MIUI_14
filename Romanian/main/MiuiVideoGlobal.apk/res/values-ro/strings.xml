@@ -369,6 +369,15 @@ Trimiteți acest cod supervizorului."</string>
     <string name="dialog_set_default_later">Nu, mulțumesc</string>
     <string name="dialog_set_default_set">Setați</string>
     <string name="dialog_set_default_text">Setați Mi Video ca player video implicit?</string>
+    <string name="dialog_title_delete_folder">Dacă ștergeți acest dosar, toate fișierele din el vor fi, de asemenea, șterse definitiv. Ștergeți dosarul acum?</string>
+    <string name="dialog_title_hidden_folder">Dacă ascundeți acest dosar, fișierele din el nu vor apărea printre videoclipurile dvs. Ascundeți dosarul acum?</string>
+    <string name="dialog_video_change">Modificați</string>
+    <string name="dialog_video_download_tip">Adăugat în coada de descărcare</string>
+    <string name="dialog_video_download_view">Vedeți</string>
+    <string name="dialog_video_high">Ridicată</string>
+    <string name="dialog_video_low">Redusă</string>
+    <string name="dialog_video_medium">Medie</string>
+    <string name="dialog_ytb_content">Sunteți pe cale să părăsiți Mi Video și să deschideți YouTube. Continuați?</string>
     <string name="disagree">Nu sunt de acord</string>
     <string name="diy_channels_tips">Acum puteți personaliza lista canalelor.</string>
     <string name="do_not_show_again">"Nu afișa din nou"</string>
@@ -2188,6 +2197,8 @@ Dimensiunea actualizării delta: %2$s"</string>
     <string name="yandex_ads_internal_instream_advertiser_social">Reclamă socială</string>
     <string name="yandex_ads_internal_instream_advertiser_yandex">Reclamă</string>
     <string name="yandex_ads_internal_instream_skip">Ocolire</string>
+    <string name="yandex_ads_internal_instream_sponsored_social">PUBLICITATE SOCIALĂ</string>
+    <string name="yandex_ads_internal_instream_sponsored_yandex">PUBLICITATE</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_close">Închideți</string>
     <string name="yandex_ads_internal_rewarded_close_verification_button_dismiss">a vedea printre</string>
     <string name="yandex_ads_internal_rewarded_close_verification_text">Dacă închideți anunțul înainte de sfârșitul cronometrului, recompensa pentru vizionare nu va fi creditată</string>
