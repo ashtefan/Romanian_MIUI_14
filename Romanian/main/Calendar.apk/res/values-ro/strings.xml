@@ -977,14 +977,14 @@ Verificați setările de rețea și încercați din nou."</string>
     <string name="repeat_alarm_close_title">Acesta este un eveniment repetitiv. Dezactivați alarma pentru memento?</string>
     <string name="repeat_alarm_open_title">Acesta este un eveniment repetitiv. Setați un memento cu alarmă?</string>
     <string name="repeat_custom_activity_label">Personalizat</string>
-    <string name="repeat_custom_prompt_daily">în fiecare %1$s</string>
+    <string name="repeat_custom_prompt_daily">la fiecare %1$s</string>
     <string name="repeat_custom_prompt_sentence">Evenimentul se va repeta %1$s</string>
     <string name="repeat_custom_prompt_splitter">", "</string>
     <string name="repeat_custom_string_prefix">Personalizat</string>
     <string name="repeat_custom_string_suffix">" (%1$s)"</string>
     <string name="repeat_end_label">Nu se mai repetă după</string>
     <string name="repeat_end_times_unit">" ori"</string>
-    <string name="repeat_interval_dialog_title">La fiecare %1$s</string>
+    <string name="repeat_interval_dialog_title">În fiecare %1$s</string>
     <string name="repeat_interval_frequency_day_single">zi</string>
     <string name="repeat_interval_frequency_month_single">lună</string>
     <string name="repeat_interval_frequency_week_single">săptămână</string>

@@ -76,4 +76,8 @@
         <item>Noiembrie</item>
         <item>Decembrie</item>
     </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>Bărbat</item>
+        <item>Femeie</item>
+    </string-array>
     </resources>

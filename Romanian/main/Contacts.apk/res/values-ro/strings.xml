@@ -662,7 +662,7 @@ Apăsând butonul \"De acord\" de mai jos, acceptați termenii și condițiile i
     <string name="default_ringtone">Ton de apel prestabilit</string>
     <string name="deleteCloudConfirmationDetail">Ștergeți informațiile despre <u>%s</u> atât din cloud cât și de pe acest dispozitiv?</string>
     <string name="deleteConfirmation">Acest contact va fi şters din agendă.</string>
-    <string name="deleteConfirmationDetail">Ştergeţi &lt;font color=#F22424>%s&lt;/font>?</string>
+    <string name="deleteConfirmationDetail">Ştergeţi \"%s\"?</string>
     <string name="deleteConfirmation_title">Ştergeţi acest contact din agendă?</string>
     <string name="delete_call_log_message">Ştergeţi istoricul apelurilor?</string>
     <string name="delete_call_log_selected_title">Ștergeţi jurnalul apelurilor selectate?</string>
