@@ -118,7 +118,7 @@
     <string name="activity_title_antivirus_kddi">Scanare de securitate</string>
     <string name="activity_title_apps_manager">Aplicaţii</string>
     <string name="activity_title_auto_start_manager">Pornire automată</string>
-    <string name="activity_title_create_shortcut">Gestiune comenzi rapide</string>
+    <string name="activity_title_create_shortcut">Gestionare comenzi rapide</string>
     <string name="activity_title_garbage_cleanup">Curăţare</string>
     <string name="activity_title_license_manager">Permisiuni</string>
     <string name="activity_title_networkassistants">Utilizare date</string>
@@ -772,7 +772,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="auto_task_default_add_task">Adăugați la \"Sarcinile mele\"</string>
     <string name="auto_task_default_add_to_task_list">Adăugați la \"Sarcinile mele\"</string>
     <string name="auto_task_default_do_action">Atunci</string>
-    <string name="auto_task_default_if_exclude">Dacă</string>
+    <string name="auto_task_default_if_exclude">Declanșator</string>
     <string name="auto_task_default_task_summary_driver_car">Activați hotspot-ul portabil atunci când vă conectați la sistemul mașinii prin Bluetooth</string>
     <string name="auto_task_default_task_summary_get_up">Dezactivați modul DND și reactivați Bluetooth, Wi-Fi și datele mobile</string>
     <string name="auto_task_default_task_summary_listen_music">Redați muzică și selectați tipul căștilor</string>
