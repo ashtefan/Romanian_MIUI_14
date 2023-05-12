@@ -118,6 +118,9 @@
     <string name="keep_sound">Salvați presetarea</string>
     <string name="low_pitch">Sunet jos</string>
     <string name="misound_effect_setting">Sunet Mi</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați tot</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați tot</string>
+    <string name="miuix_appcompat_edit">Editați</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>

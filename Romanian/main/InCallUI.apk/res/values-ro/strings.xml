@@ -139,6 +139,7 @@
     <string name="close">Închideți</string>
     <string name="close_camera_failed">"Nu s-a putut opri Camera"</string>
     <string name="close_camera_requesting">Se închide camera foto…</string>
+    <string name="cloud_video_conference">Video conferință în cloud</string>
     <string name="conference_call_description" formatted="false">%s,%s etc. total %s</string>
     <string name="conference_call_number">%s persoane</string>
     <string name="conference_call_recorder_title">Apel Conferință</string>
@@ -261,7 +262,7 @@
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
-    <string name="high_temperature_toast">În cazul protecției la temperaturi ridicate, funcția este temporar indisponibilă</string>
+    <string name="high_temperature_toast">Dispozitivul dvs. este supraîncălzit. Nu se poate utiliza această funcție acum.</string>
     <string name="inCallLabel">Apelare</string>
     <string name="incall_bubble_hangup_click_hint">Atingeți din nou pentru a reveni la apel</string>
     <string name="incall_call_type_label_sip">Apel prin internet</string>

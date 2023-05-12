@@ -52,16 +52,8 @@
         <item quantity="other">%d elemente selectate</item>
         <item quantity="one">%d element selectat</item>
     </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d notificări noi</item>
-        <item quantity="one">%d notificare nouă</item>
-    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">cu %d minute în urmă</item>
         <item quantity="one">cu 1 minut în urmă</item>
-    </plurals>
-    <plurals name="rename_error_longer_effect_name">
-        <item quantity="other">Puteți introduce maxim %d caractere aici</item>
-        <item quantity="one">Puteți introduce maxim %d caracter aici</item>
     </plurals>
 </resources>

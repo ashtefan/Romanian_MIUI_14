@@ -47,5 +47,8 @@
     <string name="menu_add_frequent_phrases">Adăugați</string>
     <string name="menu_delete">Ștergeți</string>
     <string name="menu_edit">Editați</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați tot</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați tot</string>
+    <string name="miuix_appcompat_edit">Editați</string>
     <string name="sync_phrase_label">Fraze frecvente</string>
 </resources>

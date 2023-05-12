@@ -426,6 +426,8 @@
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
+    <string name="fsg_assist_enable_summary">Glisați de la marginea ecranului pentru a utiliza Asistentul Google</string>
+    <string name="fsg_assist_enable_title">Asistent Google</string>
     <string name="fsg_mistake_touch_summary">În unele cazuri (de ex. pe durata jocurilor sau când se redau videoclipuri), gesturile vor funcționa doar dacă sunt dublate</string>
     <string name="fsg_mistake_touch_title">Confirmarea gesturilor</string>
     <string name="gadget_calculator_label">Calculator</string>
@@ -931,6 +933,7 @@ Securitate sporită."</string>
     <string name="share">Distribuiți</string>
     <string name="sharedUserId" />
     <string name="shortcut_share_dialog_content">Fișierele pe care le trimiteți de pe telefon, precum și destinatarii acestora sunt selectați și determinați de către dumneavoastră. Fiți atenți când căutați fișierele de partajat și când selectați destinatarii. Este posibil să nu puteți folosi telefonul pentru a trimite viruși, malware, Trojani, time bombs și alte elemente periculoase altor persoane. Nu folosiți telefonul pentru a trimite software ce poate afecta utilizarea obișnuită a dispozitivului destinatarului sau alte elemente ce pot deteriora, interfera, intercepta sau elimina orice date de sistem sau informații personale de pe dispozitivele mobile. Veți fi responsabili pentru orice daună cauzată celorlați utilizatori sau terminale mobile. Xiaomi va face tot posibilul pentru a se asigura că funcționalitatea de partajare, ca și tehnologia și informațiile implicate să fie în siguranță, efective, acurate și de încredere. Totuși, datorită limitărilor actuale ale tehnologiei, Xiaomi nu garantează că funcția de partajare este perfectă și că vă va satisface în totalitate nevoile.</string>
+    <string name="shortcut_share_dialog_content_pad">Fișierele pe care le trimiteți de pe dispozitivul dvs., precum și destinatarii acestora, sunt selectate și determinați de dvs. Fiți atenți când alegeți fișiere de partajat și selectați destinatarii. Nu vă puteți folosi dispozitivul pentru a transmite altor persoane viruși, programe malware, troieni, bombe cu ceas și alte obiecte dăunătoare. Nu utilizați dispozitivul pentru a transmite niciun software care ar putea afecta utilizarea regulată a dispozitivului destinatarului sau orice obiecte care pot deteriora, interfera cu, intercepta sau elimina orice date de sistem sau informații personale de pe dispozitivele mobile. Veți fi responsabil pentru orice daune cauzate altor utilizatori sau dispozitivelor mobile. Xiaomi va face tot posibilul pentru a se asigura că funcționalitatea de partajare, precum și tehnologia și informațiile implicate sunt sigure, eficiente, precise și de încredere. Cu toate acestea, din cauza limitărilor actuale ale tehnologiei, Xiaomi nu garantează că funcționalitatea de partajare este impecabilă și va satisface toate nevoile dvs.</string>
     <string name="shortcut_share_dialog_positive_button">Am înțeles</string>
     <string name="shortcut_share_dialog_title">Act de renunțare</string>
     <string name="show_all">Afişaţi tot</string>

@@ -102,7 +102,7 @@
     </string-array>
     <string-array name="close_alarm_repeating_labels">
         <item>Doar data aceasta</item>
-        <item>Dezactivează memento-ul repetitiv</item>
+        <item>Dezactivează întotdeauna</item>
     </string-array>
     <string-array name="date_calculate_spinner">
         <item>Înainte</item>
@@ -196,7 +196,7 @@
     </string-array>
     <string-array name="open_alarm_repeating_labels">
         <item>Doar data aceasta</item>
-        <item>Setați memento-ul repetitiv</item>
+        <item>Activat întotdeauna</item>
     </string-array>
     <string-array name="panchang_weeks">
         <item>Duminică</item>

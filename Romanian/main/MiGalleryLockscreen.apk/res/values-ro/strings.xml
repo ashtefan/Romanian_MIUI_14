@@ -220,6 +220,7 @@
     <string name="delete_pic">Ștergeți imaginea</string>
     <string name="deny_des">Caruselul de imagini de fundal trebuie să poată accesa Galeria pentru a funcționa în mod normal.</string>
     <string name="detail_ad_type_ad">RECLAME</string>
+    <string name="detail_ad_type_close_ad">Închideți reclama</string>
     <string name="detail_ad_type_video">Videoclipuri populare</string>
     <string name="detail_add_cw">Adăugați imaginea de fundal</string>
     <string name="detail_add_shortcut">Adăugați la Ecranul principal</string>
@@ -1212,6 +1213,7 @@ mm"</string>
     <string name="tuesday">Marți</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Ma</string>
+    <string name="txt_in_image_subscribe_info">%1$s / %2$s</string>
     <string name="understand_band_story">Aflați mai multe</string>
     <string name="uninstall_introducation_text_desc">Caruselul de imagini de fundal vă aduce imagini calitative noi direct în Blocarea ecranului. Înainte de a-l dezinstala, asigurați-vă că vă puteți descurca fără aceste caracteristici.</string>
     <string name="uninstall_introduction_text_title">Despre Caruselul de imagini de fundal</string>
