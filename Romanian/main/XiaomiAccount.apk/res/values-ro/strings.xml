@@ -1064,7 +1064,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="unlock_help_notice">"Ajutor:
 %1$d. Dacă v-ați uitat parola, accesați id.mi.com pentru a o reseta.
 %2$d. Dacă nu vă puteți reseta parola sau altcineva v-a blocat telefonul, accesați i.mi.com pentru a-l debloca.
-%3$d. Codul dumneavoastră de deblocare: %s"</string>
+%3$d. Codul dumneavoastră de deblocare: %4$s"</string>
     <string name="update_apk_version_later">Nu acum</string>
     <string name="update_apk_version_now">Actualizați</string>
     <string name="update_email_address_dialog_message">Trebuie să vă verificați identitatea înainte de a actualiza e-mailul.</string>
