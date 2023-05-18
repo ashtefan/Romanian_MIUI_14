@@ -168,6 +168,10 @@
         <item quantity="other">+%d</item>
         <item quantity="one">+%d</item>
     </plurals>
+    <plurals name="month_more_events_RTL">
+        <item quantity="other">%d+</item>
+        <item quantity="one">%d+</item>
+    </plurals>
     <plurals name="notes_custom_repeat_days">
         <item quantity="other">zile</item>
         <item quantity="one">zi</item>

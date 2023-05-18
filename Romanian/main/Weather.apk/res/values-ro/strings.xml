@@ -37,7 +37,7 @@
     <string name="act_find_city_hint">Introduceţi locaţia</string>
     <string name="act_find_city_hot_attractions_title">Locații populare</string>
     <string name="act_find_city_hot_city_title">Orașe populare</string>
-    <string name="act_location_error_to_find_city">Nu s-au putut găsi informațiile despre localizare. Puteți adăuga manual un oraș.</string>
+    <string name="act_location_error_to_find_city">Nu s-au putut găsi informațiile despre localizare. Puteți adăuga manual o locație.</string>
     <string name="act_set_city_find_side">Localizare</string>
     <string name="act_set_city_find_side_error">Localizare eşuată</string>
     <string name="act_weather_find_city_added">Oraş adăugat</string>
@@ -244,7 +244,7 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="feedback_result_fail_no_choice">Selectați condițiile meteo curente</string>
     <string name="feedback_result_fail_no_reason">Vă mulțumim pentru feedback!</string>
     <string name="feedback_result_fail_same_type">Se pare că raportul dvs. nu este diferit de starea curentă a vremii. Încercați din nou.</string>
-    <string name="feedback_result_success">Trimis cu succes. Vă mulțumim pentru feedback</string>
+    <string name="feedback_result_success">Trimis cu succes. Vă mulțumim pentru feedback.</string>
     <string name="feedback_sandy">Furtună de nisip</string>
     <string name="feedback_sunny">Însorit</string>
     <string name="first_start_network_title">Conexiune la internet și acces la locație</string>

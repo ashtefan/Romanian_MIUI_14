@@ -213,8 +213,8 @@
     <string name="feedback_phone">Informații despre contact (opțional)</string>
     <string name="feedback_title">Feedback</string>
     <string name="filename_cannot_beempty">Numele de fișier nu poate fi lăsat necompletat</string>
-    <string name="flash_close">închideți</string>
-    <string name="flash_open">deschideți</string>
+    <string name="flash_close">Opriți</string>
+    <string name="flash_open">Porniți</string>
     <string name="flight_mode_connecting_to_wifi">Activați manual conexiunea Wi-Fi atunci când modul Avion este activ</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
