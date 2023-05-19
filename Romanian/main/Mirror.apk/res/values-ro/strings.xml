@@ -69,7 +69,7 @@
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Pentru transferul de fișiere între dispozitive</string>
     <string name="date_picker_lunar">Calendar Tradițional Chinez</string>
     <string name="date_time_picker_dialog_title">Setați data și ora</string>
-    <string name="default_boss_terminal_name">Mi Notebook</string>
+    <string name="default_boss_terminal_name">Computer Xiaomi</string>
     <string name="default_error_msg">Eroare necunoscută</string>
     <string name="display_max_screen_count_toast">În această versiune puteți deschide maxim 3 ferestre</string>
     <string name="display_not_support_secondary_toast">Nu se poate deschide această aplicație într-o fereastră nouă</string>
@@ -194,7 +194,8 @@ Puteți începe o altă sesiune pe computer."</string>
     <string name="login_xiaomi_account_summary_phone">Pentru a vă putea conecta la alte tablete, utilizați același cont Xiaomi pe ambele dispozitive conectate. Vă conectați acum?</string>
     <string name="login_xiaomi_account_title">Conectați-vă la contul Xiaomi</string>
     <string name="low_battery_notification_action">Activați</string>
-    <string name="low_battery_notification_content">Mai puțin de %2$d%% acumulator disponibil pe %1$s. Activați Economisirea acumulatorului.</string>
+    <string name="low_battery_notification_content">Mai puțin de %2$s acumulator disponibil pe %1$s.</string>
+    <string name="low_battery_notification_content_default">Acumulatorul telefonului are mai puțin de %1$s</string>
     <string name="low_battery_notification_title">Acumulator descărcat</string>
     <string name="low_version_dialog_message">Actualizați MIUI+ pe computer sau descărcați cea mai recentă versiune de pe plus.miui.com.</string>
     <string name="low_version_dialog_title">Actualizați MIUI+</string>
@@ -283,7 +284,11 @@ Puteți începe o altă sesiune pe computer."</string>
     <string name="nfc_login">Conectați-vă</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan">Pentru a conecta dispozitivele, activați mai întâi Wi-Fi și Bluetooth pe acest dispozitiv. Activați acum?</string>
     <string name="nfc_need_to_enable_your_bluetooth_and_wlan_china">Pentru a conecta dispozitivele, activați mai întâi Wi-Fi și Bluetooth pe acest dispozitiv. Activați acum?</string>
+    <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc">Nu s-a putut conecta la computer. Asigurați-vă că Wi-Fi și Bluetooth sunt activate pe ambele dispozitive.</string>
+    <string name="nfc_need_to_enable_your_bluetooth_and_wlan_pc_china">Nu s-a putut conecta la computer. Asigurați-vă că Wi-Fi și Bluetooth sunt activate pe ambele dispozitive.</string>
     <string name="nfc_no_xiaomi_account">Se pare că nu v-ați conectat la contul dvs. Xiaomi. Pentru a transfera articole, conectați-vă la contul Xiaomi pe care îl utilizați pe tabletă.</string>
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan">Nu s-a putut conecta la computer. Asigurați-vă că ați activat Wi-Fi și Bluetooth atât pe telefon, cât și pe computer și că pe acesta din urmă rulează MIUI+.</string>
+    <string name="nfc_pc_need_to_enable_your_bluetooth_and_wlan_china">Nu s-a putut conecta la computer. Asigurați-vă că ați activat Wi-Fi și Bluetooth atât pe telefon, cât și pe computer și că pe acesta din urmă rulează MIUI+.</string>
     <string name="nfc_wifi_and_bluetooth">Activați Wi-Fi și Bluetooth</string>
     <string name="nfc_wifi_and_bluetooth_china">Activați Wi-Fi și Bluetooth</string>
     <string name="night">Seară</string>
@@ -411,7 +416,7 @@ Puteți începe o altă sesiune pe computer."</string>
     <string name="send">Trimiteți</string>
     <string name="settings_bluetooth_enable_summary">Pentru a putea găsi dispozitivele din apropiere, activați mai întâi Bluetooth. Îl porniți acum?</string>
     <string name="settings_connect_more_help"><u>Ajutor</u></string>
-    <string name="settings_connect_summary1">Descărcați și instalați MIUI+ Beta pe computer: https://plus.miui.com.</string>
+    <string name="settings_connect_summary1">Deschideți Mi Smart Share pe computer și selectați „Ecran Combo”. Puteți descărca Mi Smart Share de pe www.miui.com.</string>
     <string name="settings_connect_summary2">Scanați codul QR de pe ecranul computerului cu dispozitivul dvs. mobil. Puteți utiliza mai multe aplicații de sistem (de exemplu, scaner, cameră, Mi Browser) pentru a face acest lucru.</string>
     <string name="settings_connect_title1">Pasul 1</string>
     <string name="settings_connect_title2">Pasul 2</string>

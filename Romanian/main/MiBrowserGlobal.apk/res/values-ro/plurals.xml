@@ -285,6 +285,10 @@
         <item quantity="other">%d elemente selectate</item>
         <item quantity="one">%d element selectat</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d notificări noi</item>
+        <item quantity="one">%d notificare nouă</item>
+    </plurals>
     <plurals name="mw_last_num_days">
         <item quantity="other">Ultimele %d zile</item>
         <item quantity="one">Ultima %d zi</item>

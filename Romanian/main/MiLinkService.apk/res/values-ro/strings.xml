@@ -525,7 +525,9 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
     <string name="mtrl_picker_toggle_to_text_input_mode">Comutați la modul introducere text</string>
     <string name="mtrl_picker_toggle_to_year_selection">Atingeți pentru a comuta la selectarea unui an</string>
     <string name="mtrl_timepicker_confirm">OK</string>
+    <string name="nfc_connect_failed_toast">Nu s-a putut proiecta. Încercați din nou.</string>
     <string name="night">Seară</string>
+    <string name="no_permission">Nu se poate afișa această pagină</string>
     <string name="noon">Amiază</string>
     <string name="normal_device_desc">Dispozitivele la care v-ați conectat, dar nu au fost marcate ca fiind de încredere</string>
     <string name="normal_device_desc_limit">Dispozitivele la care v-ați conectat, dar nu au fost marcate ca fiind de încredere</string>
@@ -540,7 +542,18 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
     <string name="notify_wifiap_dialog_msg">Pentru a scana codul și a configura rețeaua, dezactivați mai întâi hotspot-ul portabil.</string>
     <string name="notify_wifiap_dialog_negative">Am înțeles</string>
     <string name="notify_wifiap_dialog_title">Configurați rețeaua</string>
+    <string name="onehop_mirror_guide_message_button">Am înțeles</string>
+    <string name="onehop_mirror_guide_message_text_1">Proiectați afișajul telefonului pe computer dintr-o singură atingere.</string>
+    <string name="onehop_mirror_guide_message_text_2">Selectați fotografii, videoclipuri și alte fișiere din Galerie sau din Managerul de fișiere pentru a le transfera pe computer.</string>
+    <string name="onehop_mirror_guide_message_title">Mi Smart Hub</string>
     <string name="open_game_accelerate">Activați Jocuri Turbo</string>
+    <string name="p2p_location_des">Pentru conectarea dispozitivului mobil la monitoare externe</string>
+    <string name="paipai_connect_btn_text">Finalizat</string>
+    <string name="paipai_connect_tv1_text">Conectat la dispozitiv</string>
+    <string name="paipai_connect_tv2_text">Date transferate</string>
+    <string name="paipai_error_dialog_msg">Verificați setările de rețea și încercați din nou.</string>
+    <string name="paipai_error_dialog_negative">Am înțeles</string>
+    <string name="password_toggle_content_description">Afișează parola</string>
     <string name="path_setting_cast">Conectare și partajare/Proiectare</string>
     <string name="path_setting_cast_demo">Conectare și partajare/Proiectare/Demos</string>
     <string name="path_setting_cast_demo_document">Conectare și partajare/Proiectare/Demos/Documente</string>
@@ -548,6 +561,8 @@ Dacă trebuie să activați manual funcția Miracast, puteți apăsa butonul [Me
     <string name="path_setting_cast_demo_game">Conectare și partajare/Proiectare/Demos/Jocuri</string>
     <string name="path_setting_cast_feature">Conectare și partajare/Proiectare/Caracteristici speciale</string>
     <string name="path_setting_cast_help">Conectare și partajare/Proiectare/Ajutor</string>
+    <string name="permission_allowed">Permisă</string>
+    <string name="permission_uballowed">Nepermisă</string>
     <string name="pm">PM</string>
     <string name="policy_link_lawer_en">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=en</string>
     <string name="policy_link_lawer_ft">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=ft</string>

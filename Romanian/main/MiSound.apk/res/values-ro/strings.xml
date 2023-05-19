@@ -60,6 +60,7 @@
     <string name="effect_selection">Efecte sonore</string>
     <string name="effect_virtual_surround">Sunet virtual captivant</string>
     <string name="effect_virtual_surround_summary">Îmbogățiți adâncimea sunetului pentru redarea audio și video în căști (Această caracteristică nu va funcționa când este redat %.1f audio)</string>
+    <string name="effect_virtual_surround_summary_spk">Îmbogățiți adâncimea sunetului pentru redarea audio și video</string>
     <string name="end_wireless_transmission">Opriți</string>
     <string name="eq_auto">Personalizat</string>
     <string name="eq_blues">Blues</string>

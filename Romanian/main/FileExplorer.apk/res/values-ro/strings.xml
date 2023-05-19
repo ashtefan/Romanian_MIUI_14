@@ -716,6 +716,8 @@
     <string name="operation_compress">Creaţi o arhivă</string>
     <string name="operation_compressing">Arhivare…</string>
     <string name="operation_copy">Copiaţi</string>
+    <string name="operation_copy_clipboard">Copiați în clipboard</string>
+    <string name="operation_copy_local">Copiați în dosar</string>
     <string name="operation_create_folder">Creaţi un dosar nou</string>
     <string name="operation_create_folder_message">Nume dosar</string>
     <string name="operation_create_folder_name_conflict">Nu s-a putut crea dosarul. Un dosar cu acest nume există deja.</string>
@@ -1149,6 +1151,7 @@
     <string name="title_select_volume">Selectaţi dosarul</string>
     <string name="to_open">Setări</string>
     <string name="to_setting">Setări</string>
+    <string name="toast_copy_clipboard">Adăugat în clipboard</string>
     <string name="toast_file_not_can_read">Nu a fost găsită nicio aplicaţie pt. a finaliza această acţiune</string>
     <string name="today">Astăzi</string>
     <string name="tomorrow">Mâine</string>
