@@ -36,6 +36,10 @@
         <item quantity="other">Nu s-au putut descărca %1$d elemente</item>
         <item quantity="one">Nu s-a putut descărca %1$d element</item>
     </plurals>
+    <plurals name="download_notification_wait_network">
+        <item quantity="other">Se așteaptă descărcarea. %1$s fișiere rămase.</item>
+        <item quantity="one">Se așteaptă descărcarea. %1$s fișier rămas.</item>
+    </plurals>
     <plurals name="downloading_info_for_sys_title">
         <item quantity="other">Se descarcă… %1$d elemente rămase (%2$s%%)</item>
         <item quantity="one">Se descarcă… %1$d element rămas (%2$s%%)</item>
@@ -183,6 +187,10 @@
     <plurals name="upload_fail_info_for_sys_content">
         <item quantity="other">Nu s-au putut încărca %1$d elemente</item>
         <item quantity="one">Nu s-a putut încărca %1$d element</item>
+    </plurals>
+    <plurals name="upload_notification_wait_network">
+        <item quantity="other">Se așteaptă încărcarea. %1$s fișiere rămase.</item>
+        <item quantity="one">Se așteaptă încărcarea. %1$s fișier rămas.</item>
     </plurals>
     <plurals name="uploading_info_for_sys_title">
         <item quantity="other">Se încarcă… %1$d elemente rămase (%2$s%%)</item>
