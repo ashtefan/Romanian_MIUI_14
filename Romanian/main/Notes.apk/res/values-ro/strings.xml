@@ -43,6 +43,7 @@
     <string name="actionbar_close_description">Închideți</string>
     <string name="actionbar_home_description">Înapoi</string>
     <string name="add_account_desc">Sincronizaţi notele în contul dvs. Xiaomi?</string>
+    <string name="added_to_clipboard">Copiat cu succes</string>
     <string name="afternoon">După amiază</string>
     <string name="alarm_bar_title">Memento</string>
     <string name="alert_action_edit_anyway">Editați oricum</string>
@@ -137,6 +138,7 @@
     <string name="chip_text">Fragment de text</string>
     <string name="clear_text_end_icon_content_description">Goliți textul</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
+    <string name="clip_resource_deleted">Acest element nu mai este disponibil</string>
     <string name="cloud_service_state_open_reminder">Activați sincronizarea în cloud pentru a sincroniza notițele.</string>
     <string name="cloud_service_state_open_reminder_note_and_todo">Activați sincronizarea în cloud</string>
     <string name="close">Închideți</string>

@@ -97,6 +97,8 @@ Conectați-vă la contul dvs. Xiaomi în Setări > Cont Xiaomi pentru a sincroni
 2. Apăsați și mențineți apăsat butonul de pe carcasă.
 3. Finalizați asocierea pe dispozitivul țintă."</string>
     <string name="circulate_headset_back_to_box_desc_err_308">Pentru a putea transfera redarea între dispozitive, asociați mai întâi căștile la televizor.</string>
+    <string name="circulate_headset_back_to_box_desc_err_310">"1. Apăsați butonul de pornire de pe telecomanda televizorului pentru a deconecta difuzoarele.
+2. Încercați să conectați din nou căștile după ce ecranul se aprinde."</string>
     <string name="circulate_headset_back_to_box_desc_pad">"1. Puneți ambele căști în carcasă.
 2. Apăsați și mențineți apăsat butonul de pe carcasă.
 3. Finalizați asocierea în setările Bluetooth sau folosind un dialog pop-up pe acest dispozitiv."</string>
@@ -109,9 +111,18 @@ Conectați-vă la contul dvs. Xiaomi în Setări > Cont Xiaomi pentru a sincroni
     <string name="circulate_headset_back_to_box_subtitle">Aceste căști nu pot fi asociate automat. Asociați-le manual pe dispozitivul țintă.</string>
     <string name="circulate_headset_back_to_box_title">Asociați mai întâi căștile</string>
     <string name="circulate_headset_back_to_box_title_err_308">Asociați-vă căștile</string>
+    <string name="circulate_headset_back_to_box_title_err_310">Deconectați mai întâi difuzoarele televizorului</string>
     <string name="circulate_headset_back_to_box_title_pad">Asociați căștile cu acest dispozitiv</string>
     <string name="circulate_headset_back_to_box_title_phone">Asociați căștile cu acest dispozitiv</string>
     <string name="circulate_headset_back_to_box_title_tv">Asociați-vă căștile</string>
+    <string name="circulate_headset_control_anc_clear">Transparenţă</string>
+    <string name="circulate_headset_control_anc_disable_hint">Căștile dvs. sunt conectate la două dispozitive. Puteți regla volumul doar de pe acest dispozitiv.</string>
+    <string name="circulate_headset_control_anc_noise_cancel">Anulare zgomot</string>
+    <string name="circulate_headset_control_anc_off">Oprit</string>
+    <string name="circulate_headset_control_battery_case">Carcasă</string>
+    <string name="circulate_headset_control_battery_left">S</string>
+    <string name="circulate_headset_control_battery_right">D</string>
+    <string name="circulate_headset_control_more_settings">Setări suplimentare</string>
     <string name="circulate_headset_duplicate_cancel">Renunțați</string>
     <string name="circulate_headset_duplicate_dialog_message">Se pare că un alt set de căști este conectat la %1$s. Le înlocuiți cu setul curent?</string>
     <string name="circulate_headset_duplicate_dialog_title">Înlocuiți căștile conectate la %1$s</string>
@@ -121,6 +132,8 @@ Conectați-vă la contul dvs. Xiaomi în Setări > Cont Xiaomi pentru a sincroni
     <string name="circulate_headset_error_default">Conexiunea a expirat</string>
     <string name="circulate_headset_error_device_not_support">Nu se pot conecta căștile la acest dispozitiv</string>
     <string name="circulate_headset_error_headset_not_support">Nu vă puteți conecta căștile la acest computer</string>
+    <string name="circulate_headset_error_headset_not_worn">Puneți ambele căști și încercați din nou</string>
+    <string name="circulate_headset_error_headset_not_worn_both">Puneți ambele căști și încercați din nou</string>
     <string name="circulate_headset_error_remote_host_bluetooth_unenable">"Activați Bluetooth pe televizor
 și conectați-vă la contul dvs. Xiaomi"</string>
     <string name="circulate_headset_error_self_upgrade">Această acțiune nu a putut fi finalizată. Actualizați mai întâi Mi Smart Hub.</string>

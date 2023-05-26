@@ -30,8 +30,8 @@
     <string name="abc_shareactionprovider_share_with">Partajaţi cu</string>
     <string name="abc_shareactionprovider_share_with_application">Partajaţi cu %s</string>
     <string name="abc_toolbar_collapse_description">Restrângere</string>
-    <string name="about_pure_mode">Despre Mi Protect</string>
-    <string name="about_safe_mode">Aflați mai multe despre Mi Protect</string>
+    <string name="about_pure_mode">Despre Modul securizat</string>
+    <string name="about_safe_mode">Aflați mai multe despre Modul securizat</string>
     <string name="access_denied_info">Prea multe incercari. Așteptați un minut sau două și încercați din nou.</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">Această caracteristică este experimentală și poate afecta performanța.</string>
     <string name="accessibility_display_daltonizer_preference_title">Corecție de culoare</string>
@@ -1155,10 +1155,10 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="pure_introduction_title3">Securitatea plăților</string>
     <string name="pure_introduction_title4">Protecție a vieții private</string>
     <string name="pure_introduction_title5">Protecție antifraudă</string>
-    <string name="pure_mode_des">Mi Protect se asigură că fiecare aplicație instalată pe dispozitivul dvs. a trecut testele de securitate Xiaomi.</string>
+    <string name="pure_mode_des">Modul securizat se asigură că fiecare aplicație instalată pe dispozitivul dvs. a trecut testele de securitate Xiaomi.</string>
     <string name="pure_mode_elderly_recommend_title">Activați protecția pentru bătrâni Mi Protect</string>
     <string name="pure_mode_give_up_protect">Nu, mulțumesc</string>
-    <string name="pure_mode_open_toast">Mi Protect este activat</string>
+    <string name="pure_mode_open_toast">Modul securizat este activat</string>
     <string name="pure_mode_tip_dialog_des">Îi permiteți să finalizeze instalarea?</string>
     <string name="pure_mode_tip_dialog_elderly_des">Pentru a vă proteja confidențialitatea și securitatea, Mi Protect blochează instalarea aplicațiilor din surse necunoscute sau riscante.</string>
     <string name="pure_mode_tip_dialog_elderly_set">Dacă doriți oricum să instalați această aplicație, puteți face asta aici.</string>
@@ -1225,19 +1225,19 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="safe_guarding_des">Vă recomandăm insistent să nu descărcați aplicații nelistate, viruși și alte tipuri de aplicații riscante care nu au fost verificate de Xiaomi. Aceste aplicații vă pot încălca confidențialitatea și vă pot deteriora dispozitivul.</string>
     <string name="safe_guarding_title_2">Verificăm securitatea aplicațiilor terță parte</string>
     <string name="safe_install_mode_settings_old">Modul Securizat</string>
-    <string name="safe_mode">Mi Protect</string>
+    <string name="safe_mode">Modul securizat</string>
     <string name="safe_mode_already_authorize">Permis</string>
     <string name="safe_mode_authorize_name">Recent instalată: %1$s</string>
     <string name="safe_mode_authorize_once_install">Permiteți o dată</string>
     <string name="safe_mode_close_tip">Se dezactivează modul Securizat</string>
     <string name="safe_mode_close_tip_des">Nu veți putea afla dacă aplicațiile pe care le instalați au trecut testele noastre de securitate după ce dezactivați modul sigur. Îl opriți oricum?</string>
     <string name="safe_mode_close_tip_des_once">Dacă dezactivați această funcție, aplicațiile care nu au trecut testele de securitate Xiaomi vor putea fi instalate pe dispozitivul dvs. Pentru a evita riscurile de securitate, puteți permite instalarea acestei aplicații o dată dacă aveți încredere în ea. Menținerea modului Securizat activat vă va ajuta să evitați riscurile de securitate în viitor.</string>
-    <string name="safe_mode_in_service">Mi Protect este activat</string>
+    <string name="safe_mode_in_service">Modul securizat este activat</string>
     <string name="safe_mode_introduce_close_tip">Atenție</string>
     <string name="safe_mode_introduce_close_tip_des">Pentru confidențialitate și securitate, vă recomandăm să păstrați Mi Protect activat.</string>
-    <string name="safe_mode_tip_title_off_msg">Mi Protect este dezactivat</string>
-    <string name="safe_mode_tip_title_on_msg">Mi Protect</string>
-    <string name="safe_mode_title_text">Mi Protect</string>
+    <string name="safe_mode_tip_title_off_msg">Modul securizat este dezactivat</string>
+    <string name="safe_mode_tip_title_on_msg">Modul securizat</string>
+    <string name="safe_mode_title_text">Modul securizat</string>
     <string name="safe_version_install">Versiune sigură</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
@@ -1267,12 +1267,12 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="secure_verify_close_title">Se dezactivează verificarea de securitate</string>
     <string name="security_auth">Verificați-vă identitatea</string>
     <string name="security_auth_msg">Verificați-vă identitatea</string>
-    <string name="security_mode_close_feedback">Vă mulțumim pentru utilizarea Mi Protect</string>
+    <string name="security_mode_close_feedback">Vă mulțumim pentru utilizarea Modului securizat</string>
     <string name="security_mode_close_tips_service_list_title">Mi Protect vă ajută să:</string>
     <string name="security_mode_feedback_commit">Trimiteți</string>
     <string name="security_mode_feedback_input_count">%1$s/50</string>
     <string name="security_mode_feedback_multiple_choice">" (Selectați toate care se aplică)"</string>
-    <string name="security_mode_feedback_reason">De ce dezactivați Mi Protect?</string>
+    <string name="security_mode_feedback_reason">De ce dezactivați Modul securizat?</string>
     <string name="security_mode_feedback_reason_annoying">Este iritant</string>
     <string name="security_mode_feedback_reason_input_hint">Spuneți-ne ce credeți</string>
     <string name="security_mode_feedback_reason_install">Nu pot instala aplicații când este pornit</string>
@@ -1283,8 +1283,8 @@ De asemenea, puteți dezactiva modul Lite și să încercați din nou."</string>
     <string name="security_mode_guide_about_security_mode">Aflați mai multe</string>
     <string name="security_mode_guide_about_security_mode_2">Ce este Mi Protect?</string>
     <string name="security_mode_guide_do_not_show_again">Nu afișa din nou</string>
-    <string name="security_mode_introduce">Caracteristicile Mi Protect</string>
-    <string name="security_mode_introduce_setting">Setări pentru Mi Protect</string>
+    <string name="security_mode_introduce">Caracteristicile Modului securizat</string>
+    <string name="security_mode_introduce_setting">Setări pentru Modul securizat</string>
     <string name="security_mode_off_suggestion_msg">Recomandat</string>
     <string name="security_mode_on_suggestion_msg">Pornit</string>
     <string name="security_mode_open_guide_elder_action_button">Activați</string>
@@ -1380,8 +1380,8 @@ aplicațiile"</string>
     <string name="settings_security_mode_service_title_3">Protecția vieții private</string>
     <string name="settings_security_mode_service_title_4">Securitatea plăților</string>
     <string name="settings_security_mode_status_off_msg">Oprit</string>
-    <string name="settings_security_mode_status_on_msg">Mi Protect este activat</string>
-    <string name="settings_security_mode_title_off_msg">Mi Protect</string>
+    <string name="settings_security_mode_status_on_msg">Modul securizat este activat</string>
+    <string name="settings_security_mode_title_off_msg">Modul securizat</string>
     <string name="settings_warning_dialog_detail">"Veți fi întrebat în următoarele situații:
  "<li>Când o aplicație conține viruși.</li>"
  "<li>Pachetul de instalare provine dintr-o sursă necunoscută.</li></string>
@@ -1601,8 +1601,8 @@ aplicațiile"</string>
     <string name="verify_to_sure_close">Dezactivați</string>
     <string name="virus_install_confirm_cancel">Renunțați</string>
     <string name="virus_install_confirm_install">Instalează</string>
-    <string name="virus_safe_install_mode_security_tips">Dacă aveți încredere în această aplicație, puteți autoriza instalarea acesteia în Setări > Aplicații > Mi Protect.</string>
-    <string name="virus_safe_install_mode_security_tips_pi">Dacă aveți încredere în această aplicație, atingeți pictograma Setări și selectați \"Mi Protect\" pentru a autoriza instalarea acesteia.</string>
+    <string name="virus_safe_install_mode_security_tips">Dacă aveți încredere în această aplicație, puteți autoriza instalarea acesteia din Setări > Aplicații > Modul securizat.</string>
+    <string name="virus_safe_install_mode_security_tips_pi">Dacă aveți încredere în această aplicație, atingeți pictograma Setări și selectați \"Modul securizat\" pentru a autoriza instalarea acesteia.</string>
     <string name="virus_scanning">Se verifică…</string>
     <string name="virus_scan_caller_unknown">Necunoscut</string>
     <string name="virus_scan_clear">Eliminați</string>
@@ -1625,8 +1625,8 @@ aplicațiile"</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>
-    <string name="welcome_to_security_mody">Bun venit la Mi Protect</string>
-    <string name="what_is_security_mode">Ce este Mi Protect?</string>
+    <string name="welcome_to_security_mody">Bun venit la Modul securizat</string>
+    <string name="what_is_security_mode">Ce este Modul securizat?</string>
     <string name="wifi_aggressive_handover">Comutare agresivă de la Wi-Fi la date mobile</string>
     <string name="wifi_aggressive_handover_summary">Atunci când este activat, Wi-Fi-ul va fi mai agresiv în comutarea conexiunii către datele mobile când semnalul Wi-Fi este slab</string>
     <string name="wifi_allow_scan_with_traffic">Permite întotdeauna scanarea rețelelor Wi-Fi</string>
