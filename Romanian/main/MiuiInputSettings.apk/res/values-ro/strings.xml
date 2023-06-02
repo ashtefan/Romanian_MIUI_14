@@ -52,6 +52,12 @@
     <string name="back_triple_tap">Apăsare triplă a butonului înapoi</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Extindeți pe jumătate</string>
+    <string name="bt_enable_pair_connect_cancel">renunțați</string>
+    <string name="bt_enable_pair_connect_fail">conectarea a eșuat, reîncercați</string>
+    <string name="bt_enable_pair_connect_line">Tastatură Xiaomi Pad</string>
+    <string name="bt_enable_pair_connect_ok">conectați-vă</string>
+    <string name="bt_enable_pair_connect_succceed">conectare realizată</string>
+    <string name="bt_enable_pair_connecting">se conectează</string>
     <string name="builtin_keyboard_settings_title">Tastatură fizică</string>
     <string name="camera_key_action_app_title">Deschideţi aplicaţia</string>
     <string name="camera_key_action_category_title">Imposibil de utilizat Camera</string>
