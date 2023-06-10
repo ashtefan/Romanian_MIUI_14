@@ -62,6 +62,10 @@
         <item quantity="other">%d monede</item>
         <item quantity="one">%d monedă</item>
     </plurals>
+    <plurals name="count_likes">
+        <item quantity="other">%s aprecieri</item>
+        <item quantity="one">%s apreciere</item>
+    </plurals>
     <plurals name="days_ago">
         <item quantity="other">cu %1$d zile în urmă</item>
         <item quantity="one">cu %1$d zi în urmă</item>

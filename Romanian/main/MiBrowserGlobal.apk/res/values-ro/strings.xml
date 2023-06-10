@@ -604,6 +604,7 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="connection_lost">Deconectat</string>
     <string name="consume">De ieșire</string>
     <string name="content_collection_done">Adăugată cu succes la favorite</string>
+    <string name="content_recommend">Recomandat</string>
     <string name="content_recommend_trending_title">Google</string>
     <string name="contextmenu_add_contact">Adăugaţi o persoană în agendă</string>
     <string name="contextmenu_copy">Copiaţi</string>
@@ -832,6 +833,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="download_sdcard_busy_dlg_title">Card SD indisponibil</string>
     <string name="download_sdcard_no_space">Nu s-a putut descărca. Nu există spațiu de stocare suficient.</string>
     <string name="download_secure_download_in_xiaomi_market">Descărcați în App Store</string>
+    <string name="download_select_dir">Selectați alt dosar</string>
     <string name="download_status_failed">"Nu s-a putut descărca"</string>
     <string name="download_status_pending">În așteptare</string>
     <string name="download_title">Descărcări</string>
@@ -946,6 +948,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="exo_track_surround_7_point_1">Sunet spațial 7.1</string>
     <string name="exo_track_unknown">Necunoscut</string>
     <string name="expand_button_title">Avansate</string>
+    <string name="expand_more">Arată mai mult</string>
     <string name="experience_improve">Programul de experiență a utilizatorului</string>
     <string name="exported">Exportat</string>
     <string name="exposed_dropdown_menu_content_description">Afișează meniul de glisare în jos</string>
@@ -1137,7 +1140,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="general__shared__about_us">Despre noi</string>
     <string name="general__shared__ad_free_experience">experiență gratuită</string>
     <string name="general__shared__audio_chapter">colecție</string>
-    <string name="general__shared__back">întoarceți-vă</string>
+    <string name="general__shared__back">Înapoi</string>
     <string name="general__shared__before_s">cu %s înainte</string>
     <string name="general__shared__brand">Wonderfic</string>
     <string name="general__shared__cancel">Renunțați</string>
@@ -1171,7 +1174,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="general__shared__iknow">am înțeles</string>
     <string name="general__shared__installing">se instalează</string>
     <string name="general__shared__insufficient_space">spațiul de pe telefonul mobil este insuficient, vă rugăm să curățați și să încercați din nou</string>
-    <string name="general__shared__invaild_book">Această carte nu există</string>
+    <string name="general__shared__invaild_book">Acest element nu există</string>
     <string name="general__shared__is_downloading">se descarcă</string>
     <string name="general__shared__launch">deschide imediat</string>
     <string name="general__shared__loading">Doar o secundă…</string>
@@ -1196,7 +1199,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="general__shared__reward_redeem_failed">Nu s-au putut obține bonusurile</string>
     <string name="general__shared__saving_changes">salvează modificările</string>
     <string name="general__shared__scan">Scanați</string>
-    <string name="general__shared__sd_card_unmounted">Nu se poate accesa spațiul de stocare</string>
+    <string name="general__shared__sd_card_unmounted">Este necesară permisiunea de accesare spațiu de stocare</string>
     <string name="general__shared__see_h5_detail">Vedeți detalii</string>
     <string name="general__shared__select_all">Selectați tot</string>
     <string name="general__shared__slogan">Citind țara minunilor</string>
@@ -1235,6 +1238,8 @@ Trimiteți acest cod supervisorului."</string>
     <string name="general__web_window_view__copy_notify">adresa a fost copiată</string>
     <string name="general__web_window_view__sys_client">utilizați browserul de sistem pentru a deschide</string>
     <string name="general_calendar_events_permission_desc">Permiteți %1$s să vă acceseze calendarul pentru a primi mementouri.</string>
+    <string name="generate_gpt">"Realizează un rezumat de 500 de cuvinte în aceeași limbă a articolului de mai jos: 
+ %s"</string>
     <string name="geolocation_permissions_prompt_dont_share">Refuzaţi</string>
     <string name="geolocation_permissions_prompt_message">%s doreşte să vă cunoască locaţia</string>
     <string name="geolocation_permissions_prompt_remember">Memoraţi preferinţele</string>
@@ -1878,6 +1883,9 @@ Părăsiți această pagină acum?"</string>
     <string name="nav_bottom_bar_back">Înapoi</string>
     <string name="nav_bottom_bar_close_all">Închideţi tot</string>
     <string name="nav_bottom_bar_new_tab">Filă nouă</string>
+    <string name="nav_hint_sub_title">Deschideți o nouă fereastră pentru a începe navigarea.</string>
+    <string name="nav_hint_title">Nimic aici deocamdată</string>
+    <string name="nav_incognito_sub_title">În modul Incognito, Browserul Mi nu va salva istoricul de navigare, datele site-ului, modulele cookie sau informațiile pe care le introduceți în formulare.</string>
     <string name="nav_screen_container_tab_incognito">Filă incognito</string>
     <string name="nav_screen_container_tab_normal">Filă obişnuită</string>
     <string name="nav_screen_incognito_message">Acum puteți naviga în mod privat. Istoricul de navigare, solicitările de căutare și descărcările nu vor fi înregistrate. Nu vom salva nici datele site-urilor accesate.</string>
@@ -2095,9 +2103,10 @@ Părăsiți această pagină acum?"</string>
     <string name="password">Parolă</string>
     <string name="password_toggle_content_description">Afișează parola</string>
     <string name="pay_failed_toast">Nu s-a putut finaliza plata</string>
-    <string name="pay_now">Plătiți</string>
-    <string name="pay_success_toast">Plata s-a efectuat cu succes</string>
-    <string name="payment_method">Metode de plată</string>
+    <string name="pdf_confirm">OK</string>
+    <string name="pdf_failed_message">Nu s-a putut genera rezumatul IA</string>
+    <string name="pdf_retry">Încercați din nou</string>
+    <string name="pdf_summary">Rezumat</string>
     <string name="per_month">Pe lună</string>
     <string name="permission_agree_service">Am citit și am acceptat toți termenii și condițiile următoare.</string>
     <string name="permission_alert_window">Pentru a utiliza această funcție, accesați opțiune de sistem Afișare ferestre pop-up.</string>
@@ -2621,7 +2630,7 @@ Unele site-uri nu vor folosi istoricul de navigare anterior pentru a-și persona
     <string name="reading__bookmark_empty_view__hint">adăugați marcaje la ecranul derulant în timp ce citiți</string>
     <string name="reading__bookmark_empty_view__no_bookmark">temporar fără marcaje</string>
     <string name="reading__business_recommend_at_end_more">Vedeți mai mult</string>
-    <string name="reading__business_recommend_at_end_other_docs">Lectură în continuare</string>
+    <string name="reading__business_recommend_at_end_other_docs">Alte lecturi</string>
     <string name="reading__business_recommend_at_end_title">Conținut recomandat</string>
     <string name="reading__cancel">Renunțați</string>
     <string name="reading__chapter_error_view__content_error">Capitolul nu a putut fi încărcat. Verificați setările de rețea și încercați din nou.</string>
@@ -2707,7 +2716,7 @@ Editați"</string>
     <string name="reading__reading_book_introduction">introducere de carte</string>
     <string name="reading__reading_brightness_view__brightness">luminozitate</string>
     <string name="reading__reading_brightness_view__eyes_saving">Confortul ochilor</string>
-    <string name="reading__reading_end">Sfârșit</string>
+    <string name="reading__reading_end">Asta este tot pentru moment</string>
     <string name="reading__reading_error_commit">trimiteți</string>
     <string name="reading__reading_error_report">eroare de raport de capitol</string>
     <string name="reading__reading_feedback_dialog_email_error_toast">Introduceți o adresă de email validă</string>
@@ -2801,7 +2810,7 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="reading__search_cancel">Renunțați</string>
     <string name="reading__search_input_hint">Introduceți cuvinte cheie pentru a căuta</string>
     <string name="reading__search_result_nothing">Nu s-au găsit rezultate</string>
-    <string name="reading__search_searching">Se caută…</string>
+    <string name="reading__search_searching">Doar o secundă…</string>
     <string name="reading__search_text_view__empty_hint">caută textul integral</string>
     <string name="reading__search_text_view__nosearch_result">"Ne pare rău, nu există un astfel de cuvânt cheie în text
 Încercați să vă modificați cuvântul cheie?"</string>
@@ -2843,8 +2852,8 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="reading__shared__expand">extindeți</string>
     <string name="reading__shared__eyes_saving_off">Confortul ochilor este oprit</string>
     <string name="reading__shared__eyes_saving_on">Confortul ochilor este pornit</string>
-    <string name="reading__shared__fail_to_open_book">Nu s-a putut deschide cartea</string>
-    <string name="reading__shared__fail_to_repair_cert">Cartea nu a putut fi restabilită. Ștergeți-o și apoi descărcați din nou.</string>
+    <string name="reading__shared__fail_to_open_book">Nu s-a putut deschide această carte</string>
+    <string name="reading__shared__fail_to_repair_cert">Cartea nu a putut fi restabilită. Ștergeți-o și apoi descărcați-o din nou.</string>
     <string name="reading__shared__has_add_to_bookshelf">Adăugat la bibliotecă cu succes</string>
     <string name="reading__shared__has_add_to_bookshelf_failed">Nu s-a putut adăuga în bibliotecă. Încercați din nou.</string>
     <string name="reading__shared__high_quality">descărcați versiunea de înaltă definiție (%s)</string>
@@ -2857,9 +2866,9 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="reading__shared__quit_recommend_no">Ieșiți</string>
     <string name="reading__shared__quit_recommend_ok">Citiți</string>
     <string name="reading__shared__reach_first_chapter">Ați ajuns la primul capitol</string>
-    <string name="reading__shared__reach_first_page">Ați ajuns la prima pagină</string>
+    <string name="reading__shared__reach_first_page">Aceasta este prima pagină</string>
     <string name="reading__shared__reach_last_chapter">Ați ajuns la ultimul capitol</string>
-    <string name="reading__shared__reach_last_page">Ați ajuns la ultima pagină</string>
+    <string name="reading__shared__reach_last_page">Aceasta este ultima pagină</string>
     <string name="reading__shared__reward_video"><u>Urmăriți videoclipul fără reclame</u></string>
     <string name="reading__shared__reward_video_ad_free_time">Felicitări! Anunțurile din pagina de citire au fost scutite în %s minute</string>
     <string name="reading__shared__reward_video_desc"><u>Descrierea regulilor? </u></string>
@@ -2939,6 +2948,7 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="reject_all_label">Respingeți TOT</string>
     <string name="release_to_refresh">Eliberați pentru reîmprospătare</string>
     <string name="relevant_recommendations">Recomandat</string>
+    <string name="remember_my_choice">Reține alegerea mea</string>
     <string name="remember_passwords_confirm_message">Oprirea acestei caracteristici poate afecta modul de funcționare al telefonului.</string>
     <string name="remote_config">Configurare de la distanță(Click Pentru Export)</string>
     <string name="remove_bookmark">Ştergeţi marcajul</string>
@@ -3146,6 +3156,8 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="sku_all">Tot</string>
     <string name="sku_price_everymonth">%1$s în fiecare lună</string>
     <string name="slide_card">Glisați pentru mai multe</string>
+    <string name="smart_subtitle">Obțineți un rezumat generat de inteligența artificială a conținutului articolului pentru a vedea punctele principale dintr-o privire.</string>
+    <string name="smart_summary">Rezumat inteligent</string>
     <string name="sms_send_success">Trimis cu succes</string>
     <string name="snapshot">Local</string>
     <string name="snapshot_failed">"Nu s-a putut salva pagina"</string>
@@ -3570,6 +3582,22 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vpn_subscribe_tips_3">Bucurați-vă de viteză mare</string>
     <string name="vpn_used_all_free_data_toast">Nu mai aveți trafic disponibil. Abonați-vă pentru a continua.</string>
     <string name="vpn_used_all_toast">Nu mai aveți trafic disponibil</string>
+    <string name="weather_card_aqi">ICA</string>
+    <string name="weather_card_baro">Presiune</string>
+    <string name="weather_card_dew_pt">Punct de condensare</string>
+    <string name="weather_card_feel">Se simte ca %s</string>
+    <string name="weather_card_rh">Umiditate</string>
+    <string name="weather_card_vis">Vizibilitate</string>
+    <string name="weather_card_wind_direction_east">Vânt din E</string>
+    <string name="weather_card_wind_direction_north">Vânt din N</string>
+    <string name="weather_card_wind_direction_northeast">Vânt din NE</string>
+    <string name="weather_card_wind_direction_northwest">Vânt din NV</string>
+    <string name="weather_card_wind_direction_south">Vânt din S</string>
+    <string name="weather_card_wind_direction_southeast">Vânt din SE</string>
+    <string name="weather_card_wind_direction_southwest">Vânt din SV</string>
+    <string name="weather_card_wind_direction_west">Vânt din V</string>
+    <string name="weather_card_wind_spd">Viteza vântului</string>
+    <string name="weather_cp_des">Vremea de la Microsoft Start</string>
     <string name="weather_location_confirm_message">Dezactivarea acestei funcții poate afecta utilizarea.</string>
     <string name="web_ad_clear_dialog_cancel">Renunțați</string>
     <string name="web_ad_clear_dialog_confirm">Ștergeți</string>

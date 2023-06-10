@@ -628,15 +628,16 @@
     <string name="midnight">Noapte</string>
     <string name="miuix_access_state_desc">Selectate</string>
     <string name="miuix_alphabet_indexer_name">Bara de index</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mai multe</string>
     <string name="miuix_appcompat_cancel_description">Renunțați</string>
     <string name="miuix_appcompat_confirm_description">Confirmați</string>
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
-    <string name="miuix_appcompat_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_edit">Editați</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
@@ -793,6 +794,7 @@
     <string name="optimizecenter_data_support_cm">Oferit de Clean Master</string>
     <string name="optimizecenter_data_support_tc">Oferit de Tencent</string>
     <string name="output_videos">Videoclipuri exportate</string>
+    <string name="percent_sign">%</string>
     <string name="permission_dialog_storage_btn1">Setări</string>
     <string name="permission_dialog_storage_btn2">Renunțați</string>
     <string name="permission_dialog_storage_content">Aplicația Curățare are nevoie de permisiunea de a accesa stocarea internă pentru a putea funcționa în mod normal. Atingeți \"Setări\" pentru a gestiona permisiunile de stocare.</string>
@@ -1041,7 +1043,7 @@
     <string name="tips_low_storage_dialog_title">Spațiul de stocare este redus</string>
     <string name="tips_of_app_manage">Eliminați aplicațiile rar utilizate pentru a elibera spațiu de stocare</string>
     <string name="tips_of_auto_launch_manage">Împiedicați aplicațiile utilizate rar să pornească în mod automat</string>
-    <string name="tips_of_cloud_service">Conectați-vă la contul Mi pentru a utiliza mai multe servicii Mi</string>
+    <string name="tips_of_cloud_service">Conectați-vă la contul dvs. Xiaomi pentru a utiliza mai multe servicii Xiaomi</string>
     <string name="tips_of_connect">Conectați-vă la internet pentru a vă putea bucura de toate funcționalitățile aplicației de securitate</string>
     <string name="tips_of_garbage_cloud_scan">Căutați fișiere ascunse utilizând scanarea în Cloud</string>
     <string name="tips_of_garbage_data_set">Actualizați baza de date pentru a găsi toate fișierele inutile</string>

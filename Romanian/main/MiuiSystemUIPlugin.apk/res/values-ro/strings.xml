@@ -96,7 +96,7 @@
     <string name="controls_edit_added_subtitle">Trageți elementele pentru a le rearanja</string>
     <string name="controls_edit_added_title">Adăugat</string>
     <string name="controls_edit_done_button">Finalizat</string>
-    <string name="controls_edit_go_to_app_guide">Deschideți</string>
+    <string name="controls_edit_go_to_app_guide">Deschideți %s</string>
     <string name="controls_edit_not_added_title">Disponibil</string>
     <string name="controls_edit_panel_not_added_title">Dispozitive disponibile</string>
     <string name="controls_edit_panel_save_button">Finalizat</string>
@@ -505,6 +505,7 @@ Expunerea îndelungată la sunete puternice poate cauza probleme de auz."</strin
     <string name="sunday_shortest">Du</string>
     <string name="switch_bar_off">Oprit</string>
     <string name="switch_bar_on">Pornit</string>
+    <string name="system_update">Actualizare de sistem</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversarea ridicării Legii Marțiale</string>
     <string name="the_anti_aggression_day">Ziua anti-agresiune</string>
     <string name="the_arbor_day">Ziua Copacului</string>

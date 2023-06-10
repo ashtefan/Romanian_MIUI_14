@@ -659,6 +659,7 @@
     <string name="pad_note_list_not_text_stub">Fără text</string>
     <string name="pad_todo_create_hint">Adăugați o sarcină</string>
     <string name="password_toggle_content_description">Afișează parola</string>
+    <string name="paste_unsupported_data">Nu se poate lipi acest conținut</string>
     <string name="pc_action_create_new_folder">Dosar</string>
     <string name="pc_action_create_new_mind_note">Hartă mentală</string>
     <string name="pc_action_create_new_normal_note">Notă</string>
