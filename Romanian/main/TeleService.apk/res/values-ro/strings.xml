@@ -2091,6 +2091,7 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_jp_sb">3G/GSM</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">WCDMA/GSM automat</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_mx_at">3G/2G (De preferat 3G)</string>
+    <string name="preferred_network_type_pref_entries_3g_preferred_mx_telcel">WCDMA/GSM auto</string>
     <string name="preferred_network_type_pref_entries_4g_non_preferred_mx_at">4G/3G/2G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred">De preferat LTE</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">De preferat 4G (CDMA)</string>
@@ -2099,6 +2100,7 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_jp_sb">4G/3G/GSM</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">LTE/WCDMA/GSM automat</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (Auto)</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred_mx_telcel">LTE/WCDMA/GSM auto</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_uk_ee">4G/3G/2G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_vd">4G/3G/2G auto</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_za_mt">2G/3G/4G auto</string>
@@ -2108,6 +2110,7 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_jp_sb">5G/4G/3G/GSM</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_lm_cr">5G/LTE/WCDMA/GSM auto</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (Auto)</string>
+    <string name="preferred_network_type_pref_entries_5g_preferred_mx_telcel">5G/LTE/WCDMA/GSM auto</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_uk_ee">5G/4G/3G/2G</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_vd">5G/4G/3G/2G auto</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_za_mt">2G/3G/4G/5G auto</string>
@@ -2117,8 +2120,10 @@ Telefonul dvs. se va bloca automat după o altă încercare greşită!"</string>
     <string name="preferred_network_type_pref_entries_only_2g">Numai 2G</string>
     <string name="preferred_network_type_pref_entries_only_2g_jp_sb">GSM</string>
     <string name="preferred_network_type_pref_entries_only_2g_lm_cr">Doar GSM</string>
+    <string name="preferred_network_type_pref_entries_only_2g_mx_telcel">Doar GSM</string>
     <string name="preferred_network_type_pref_entries_only_3g">Numai 3G</string>
     <string name="preferred_network_type_pref_entries_only_3g_lm_cr">Doar WCDMA</string>
+    <string name="preferred_network_type_pref_entries_only_3g_mx_telcel">Doar WCDMA</string>
     <string name="preferred_network_type_pref_entries_only_4g">Doar LTE</string>
     <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
     <string name="preferred_network_type_title">Tipul de reţea preferat</string>

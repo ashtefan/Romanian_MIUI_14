@@ -86,6 +86,7 @@
     <string name="auto_frontflash_title">Test bliț al camerei frontale</string>
     <string name="auto_rearflash_description">Toate luminile blițului camerei din spate sunt aprinse, faceți clic pentru a trece, în caz contrar faceți clic pentru a eșua</string>
     <string name="auto_rearflash_title">Test bliț al camerei din spate</string>
+    <string name="aux_mic_check_record_tip">Se înregistrează, vă rog rostiți ceva în microfonul AUX MIC din partea de jos a dispozitivului</string>
     <string name="back_mic_check_record_tip">Se înregistrează, vă rog rostiți ceva în microfonul de pe spatele telefonului</string>
     <string name="battery_authentic">BatteryAuthentic</string>
     <string name="battery_dual_connector">Conector secundar acumulator</string>
@@ -101,7 +102,12 @@
     <string name="battery_reverse_wireless_charge_title">încărcare wireless inversată</string>
     <string name="battery_third_connector">Tensiune conector baterie</string>
     <string name="battery_value">Energie</string>
-    <string name="begin_to_save_finger_data">Începeți pentru a salva datele amprentei</string>
+    <string name="bottom_high_speaker_title">Test tweeter de jos</string>
+    <string name="bottom_left_high_speaker">Test tweeter din partea stângă jos</string>
+    <string name="bottom_left_low_speaker">Testul wooferului din partea stângă jos</string>
+    <string name="bottom_low_speaker_title">Test woofer de jos</string>
+    <string name="bottom_right_high_speaker">Testul tweeterului din partea dreapta jos</string>
+    <string name="bottom_right_low_speaker">Testul wooferului din partea dreapta jos</string>
     <string name="bottom_speaker_title">Testul difuzorului de jos</string>
     <string name="bottomsheet_action_expand_halfway">Extindeți pe jumătate</string>
     <string name="bt_address">Adresa:</string>
@@ -215,26 +221,18 @@ Este posibil ca echipamentul de testare să nu accepte %1$s, se recomandă să r
     <string name="cit_audio_hw_check_summary">Test de verificare a hardware-ului audio</string>
     <string name="cit_audio_hw_check_tips">Test în derulare</string>
     <string name="cit_audio_hw_check_title">Test de verificare a hardware-ului audio</string>
-    <string name="cit_audio_lb_backmic_to_speaker_title">Test microfon posterior</string>
-    <string name="cit_audio_lb_frontmic_to_speaker_title">Test microfon anterior</string>
+    <string name="cit_audio_lb_backmic_to_earpiece_title">Test de feedback pentru difuzorul microfonului din spate</string>
     <string name="cit_audio_lb_mainmic_to_earpiece_title">Test microfon principal</string>
-    <string name="cit_audio_lb_phonecall_title">Test simulare apel</string>
-    <string name="cit_audio_lb_summary_backmic_to_speaker">"Test microfon posterior și difuzor. 
+    <string name="cit_audio_lb_summary_backmic_to_earpiece">"Test feedback microfon din spate către receptor.
 
-Porniți telefonul, Vorbiți în microfonul posterior și ar trebui să auziți vocea în difuzor"</string>
-    <string name="cit_audio_lb_summary_frontmic_to_speaker">"Test microfon anterior și difuzor. 
-
-Vorbiți în microfonul anterior și ar trebui să auziți vocea în difuzor"</string>
+Țineți dispozitivul ca și cum ați efectua un apel, vorbiți la microfonul principal, ar trebui să auziți vocea de la receptor"</string>
     <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Test microfon principal.
 
 Țineți telefonul ca și cum ați efectua un apel, vorbiți în microfonul principal și ar trebui să auziți vocea de la receiver"</string>
-    <string name="cit_audio_lb_summary_phonecall">"Test simulare apel.
+    <string name="cit_audio_lb_summary_topmic_to_earpiece">"Test feedback microfon de sus către receptor.
 
-Țineți telefonul ca și cum ați efectua un apel, vorbiți în microfonul principal și ar trebui să auziți vocea de la receiver. Efectuați testul într-un mediu fără zgomot"</string>
-    <string name="cit_audio_lb_summary_topmic_to_speaker">"Test microfon superior și difuzor.
-
-Vorbiți la microfonul superior și ar trebui să auziți vocea în difuzor"</string>
-    <string name="cit_audio_lb_topmic_to_speaker_title">Test microfon superior și difuzor</string>
+Țineți dispozitivul ca și cum ați efectua un apel, vorbiți la microfonul principal, ar trebui să auziți vocea de la receptor"</string>
+    <string name="cit_audio_lb_topmic_to_earpiece_title">Test feedback pentru difuzorul de sus</string>
     <string name="cit_audio_left_caldata">"Date calibrare PA stânga:
 "</string>
     <string name="cit_audio_left_calfail">Calibrarea PA stânga a eșuat!</string>
@@ -338,6 +336,23 @@ Vorbiți la microfonul superior și ar trebui să auziți vocea în difuzor"</st
     <string name="cit_display_check_summary">Confirmați că nuanțele sunt afișate consistent pe tot ecranul. Asigurați-vă că nu există puncte neregulate mai deschise sau mai închise la culoare.</string>
   <string name="cit_display_check_title">Afișaj</string>
   <string name="cit_display_continue">Atingeți ecranul pentru a începe testul</string>
+    <string name="cit_display_expand_screen_tips">Vă rugăm să extindeți ecranul înainte de a testa</string>
+    <string name="cit_display_fold_screen_tips">Vă rugăm să pliați ecranul înainte de a testa</string>
+    <string name="cit_earpiece">Receptor</string>
+    <string name="cit_earpiece_summary">"Veți auzi două numere aleatorii
+Vă rugăm să faceți clic pe butonul corespunzător în funcție de numărul pe care îl auziți"</string>
+    <string name="cit_emergencycall_check_summary">Vă rugăm să faceți clic pe butonul Apelați 112 pentru a forma 112 pentru a verifica dacă apelul la 112 poate fi plasat.</string>
+    <string name="cit_emergencycall_check_title">Apel de urgență</string>
+    <string name="cit_esim_check_summary">Următoarele arată starea eSIM, iar afișarea corectă a stării eSIM indică faptul că testul a trecut</string>
+    <string name="cit_esim_check_title">Cartelă eSIM</string>
+    <string name="cit_esim_eid_error">nerespectare eID</string>
+    <string name="cit_esim_eid_number">eID:</string>
+    <string name="cit_esim_mode_general_summary">Suportă comutarea eSIM/SIM2</string>
+    <string name="cit_esim_mode_number">Mod eSIM:</string>
+    <string name="cit_esim_mode_single_summary">Nu acceptă comutarea eSIM/SIM2</string>
+    <string name="cit_esim_serial_number">Cartelă eSIM :</string>
+    <string name="cit_esim_state_absent">eSIM neactivat</string>
+    <string name="cit_esim_state_ready">eSIM activat</string>
   <string name="cit_exit_test_summary">Atunci când ieșiți, toate datele text vor fi șterse.</string>
   <string name="cit_exit_test_title">Părăsiți testul</string>
     <string name="cit_f2_cali">Calibrare</string>
@@ -453,7 +468,7 @@ Atingeți ecranul pentru a porni GPS-ul…"</string>
 4.Tap the Check icon. The system will save the photo automatically.
 5.The photo you took should be displayed below. Tap Delete to complete the test."</string>
   <string name="cit_main_camera_check_title">Rear camera</string>
-  <string name="cit_name">Hardware tests</string>
+    <string name="cit_modem_hardware_title">Test hardware modem</string>
     <string name="cit_nfc_check_enable_tip">Mediu de Testare Inițială pentru NFC</string>
     <string name="cit_nfc_check_summary">"Vă rugăm să apăsați butonul pentru a iniția NFC-ul, iar apoi puneți cardul în partea de sus a spatelui telefonului. 
 Nu opriți ecranul pe durata testului"</string>
@@ -771,6 +786,7 @@ După ce plasați fișierul \"music.mp3\" în directorul cardului SD, atingeți 
     <string name="cit_tool_wlan_rx_stop">Stop</string>
     <string name="cit_tool_wlan_rxac_test">Rx: ac</string>
     <string name="cit_tool_wlan_rxax_test">Rx: ax</string>
+    <string name="cit_tool_wlan_rxbe_test">Rx: be</string>
     <string name="cit_tool_wlan_rxbg_test">Rx: a/b/g</string>
     <string name="cit_tool_wlan_rxbg_test_channel">channel:</string>
     <string name="cit_tool_wlan_rxn_test">Rx: n</string>
@@ -783,6 +799,8 @@ După ce plasați fișierul \"music.mp3\" în directorul cardului SD, atingeți 
     <string name="cit_tool_wlan_tx_ac">Tx: ac</string>
     <string name="cit_tool_wlan_tx_ax">Tx: ax</string>
     <string name="cit_tool_wlan_tx_ax_gI">Guard Interval:</string>
+    <string name="cit_tool_wlan_tx_be">Tx: be</string>
+    <string name="cit_tool_wlan_tx_be_gI">Interval de gardă:</string>
     <string name="cit_tool_wlan_tx_bg">Tx: a/b/g</string>
     <string name="cit_tool_wlan_tx_bg_chan">channel:</string>
     <string name="cit_tool_wlan_tx_bg_ducl">dutycl:</string>
@@ -905,7 +923,7 @@ Evaluați rezultatul testului faceți clic pe butonul de trecere sau eșuare"</s
     <string name="keyboard_vibrator_test">Testare tastatură</string>
     <string name="label">Etichetă</string>
     <string name="lcminfo">Informații LCM</string>
-    <string name="main_mic_check_record_tip">Înregistrare, vă rugăm să rostiți ceva în microfonul din partea principală a dispozitivului</string>
+    <string name="main_mic_check_record_tip">Înregistrare, vă rugăm să rostiți ceva în microfonul de la baza dispozitivului</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Selectați AM sau PM</string>
     <string name="material_hour_selection">Selectați ora</string>
@@ -966,11 +984,16 @@ Evaluați rezultatul testului faceți clic pe butonul de trecere sau eșuare"</s
     <string name="nfc_not_available">NFC indisponibil</string>
     <string name="no_vibrator">Fără vibrații</string>
     <string name="open_third_color_led">led deschis în trei culori</string>
+    <string name="password_enroll_error">Telefonul dvs. are o parolă, nu se pot înregistra informații despre amprentă</string>
     <string name="password_toggle_content_description">Afișează parola</string>
     <string name="radio_info_phone_number_label">Numărul de telefon:</string>
     <string name="radio_info_sim_status">Stare SIM:</string>
     <string name="radio_info_unknown">Necunoscută</string>
-  <string name="remove_headset_and_starttest">Please remove headset and press start to test</string>
+    <string name="radio_info_voice_network_type_label">Tip de rețea vocală:</string>
+    <string name="receiver_off">Receptor oprit</string>
+    <string name="receiver_on">Receptor pornit</string>
+    <string name="receiver_on_off_tips">Comutator pornit/oprit receptor</string>
+    <string name="remove_finger">test scoatere deget</string>
   <string name="sar_algo_data_check_description">Colectare date Sar Algo</string>
     <string name="sar_mtk_test_title">Test de autentificare Sar Mtk</string>
     <string name="sar_sensor_set">setați senzorul sar</string>
@@ -981,6 +1004,9 @@ Evaluați rezultatul testului faceți clic pe butonul de trecere sau eșuare"</s
   <string name="speak_from_mic">Speaking to the MIC, the speaker playback. Judge whether there is sound.</string>
   <string name="start">Start</string>
     <string name="successfully_obtained_permission">Detectarea controlului în cloud cu succes, funcția intră în vigoare</string>
+    <string name="temperature">temperatură</string>
+    <string name="test_aux_mic">AUX MIC</string>
+    <string name="test_back_mic">MIC posterior</string>
     <string name="test_bottom_speaker">difuzor inferior</string>
     <string name="test_sidebottom_mic">Microfonul din partea de jos</string>
     <string name="test_sidetop_mic">Microfonul din partea de sus</string>

@@ -189,6 +189,8 @@ dispozitivele dvs?"</string>
     <string name="dialog_miplay_permission_message">Permiteți aplicației Proiectare să înregistreze sunete audio, să acceseze fișiere din spațiul de stocare intern și să acceseze locația dvs. pentru a putea utiliza această caracteristică în mod normal. Atingeți \"Setări\" și selectați \"Permisiunile aplicației\" pentru a continua.</string>
     <string name="dialog_miplay_permission_positive">Setări</string>
     <string name="dialog_miplay_permission_title">Sunt necesare unele permisiuni</string>
+    <string name="dialog_nearbydevice_permission_message">Permiteți acestui dispozitiv să acceseze dispozitivele din apropiere pentru a putea folosi funcțiile de proiectare.</string>
+    <string name="dialog_nearbydevice_permission_title">Sunt necesare unele permisiuni</string>
     <string name="dialog_nfc_cast_wifi_off">Activați Wi-Fi pentru a putea să proiectați utilizând NFC. Activați acum?</string>
     <string name="dialog_no_device_message"><Data>1. Conectați atât telefonul cât și televizorul la aceeași rețea Wi-Fi.&lt;br>&lt;br>2. La unele modele de televizoare, această caracteristică este disponibilă doar când oglindirea ecranului este pornită. Vedeți secțiunea &lt;a href=milink://com.milink.service/specification>\"Ajutor\"&lt;/a> pentru a afla mai multe.</Data></string>
     <string name="dialog_no_device_message_china"><Data>1. Conectați atât telefonul cât și televizorul la aceeași rețea Wi-Fi.&lt;br>&lt;br>2. La unele modele de televizoare, această caracteristică este disponibilă doar când oglindirea ecranului este pornită. Vedeți secțiunea &lt;a href=milink://com.milink.service/specification>\"Ajutor\"&lt;/a> pentru a afla mai multe.</Data></string>

@@ -74,6 +74,8 @@
     <string name="ew_detail_receive_time_title">Ora de început</string>
     <string name="ew_detail_receive_warn_time_message">%ss</string>
     <string name="ew_detail_receive_warn_time_title">Timpul înainte de start</string>
+    <string name="ew_monitor_slogan">"Alăturați-vă programului nostru
+de monitorizare a cutremurelor"</string>
     <string name="ew_save_title">Slvați</string>
     <string name="ew_share_logo_title">Avertizare de cutremur</string>
     <string name="ew_share_save_tips">Salvat în %s</string>
@@ -83,7 +85,7 @@
     <string name="exposed_dropdown_menu_content_description">Afișează meniul de glisare în jos</string>
     <string name="fastboot_locked_answer_1">Fastboot este metoda tradițională de actualizare a dispozitivelor Mi. Când telefonul este în modul Fastboot, Toate datele stocate pot fi accesate și șterse în mod direct. Am blocat modul Fastboot pentru a ne asigura că datele dumneavoastră sunt în siguranță în caz că pierdeți telefonul, dar și că funcția de Localizare telefon lucrează corect.</string>
     <string name="fastboot_locked_answer_2">"În cazul în care vă pierdeți telefonul, Fastboot garantează securitatea elementelor stocate pe acesta. Dacă deblocați Fastboot, nu veți mai putea bloca telefonul de la distanță sau să ștergeți datele utilizând Localizarea telefonului. De aceea nu recomandăm deblocarea modului Fastboot pe telefonul dumneavoastră."</string>
-    <string name="fastboot_locked_answer_3">"Ar trebui să utilizați unealta de deblocare de pe site-ul MIUI. Pentru a debloca telefonul, trebuie să ne asigurăm că acesta este al dumneavoastră. Acesta este motivul pentru care trebuie să vă conectați la Contul Mi și să activați Localizarea telefonului."</string>
+    <string name="fastboot_locked_answer_3">"Ar trebui să utilizați unealta de deblocare de pe site-ul MIUI. Pentru a debloca telefonul, trebuie să ne asigurăm că acesta este al dumneavoastră. Acesta este motivul pentru care trebuie să vă conectați la Contul Xiaomi și să activați Localizarea telefonului."</string>
     <string name="fastboot_locked_question_1">De ce trebuie blocat modul Fastboot?</string>
     <string name="fastboot_locked_question_2">Există riscuri dacă deblochez modul Fastboot?</string>
     <string name="fastboot_locked_question_3">Cunosc riscurile dar trebuie să-mi deblochez telefonul. Ce ar trebui să fac?</string>
@@ -230,6 +232,12 @@
     <string name="gb_pannel_control_mode_high_quality">Calitate ridicată</string>
     <string name="gb_pannel_control_mode_normal">Implicit</string>
     <string name="gb_pannel_control_mode_power_saving">Economisire energie</string>
+    <string name="gb_web_panel_failure_retry">Elementele nu au putut fi încărcate. Încercați din nou.</string>
+    <string name="gb_web_panel_game_loading">Doar o secundă…</string>
+    <string name="gb_web_panel_network_exception">Nu pot fi recomandate jocuri în acest moment din cauza unei erori de rețea. Verificați setările de rețea și încercați din nou.</string>
+    <string name="gb_webwindow_schemedialog_accept">Deschideți</string>
+    <string name="gb_webwindow_schemedialog_cancel">Renunțați</string>
+    <string name="gb_webwindow_schemedialog_title">Deschideți aplicația Jocuri acum?</string>
     <string name="gb_weixinpay_can_not_complete">"Nu s-a putut finaliza plata. Instalați pentru a continua."</string>
     <string name="gdpr_msg"><Data>Pentru a putea utiliza funcțiile de bază ale aplicației de Securitate, trebuie să acceptați ca Xiaomi să poată colecta, procesa și utiliza datele dvs. personale, inclusiv informații despre modul în care utilizați funcțiile aplicației de Securitate (de ex. statistici despre utilizarea datelor mobile, informații despre malware, dar și informații de bază despre dispozitivul dvs.) și alte tipuri de informații specificate în &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Politica noastră de Confidențialitate&lt;/a>.</Data></string>
     <string name="get_sys_info">Obținere informații…</string>
@@ -261,10 +269,33 @@
     <string name="miuishare_title_share">Partajați</string>
     <string name="miuishare_wechat_timeline_title">Momente WeChat</string>
     <string name="miuishare_weibo_title">Weibo</string>
-    <string name="miuix_appcompat_cloud_state_disabled">Sincronizarea în cloud este oprită</string>
-    <string name="miuix_appcompat_cloud_state_finished">Sincronizat în cloud cu succes</string>
-    <string name="miuix_appcompat_cloud_state_syncing">Se sincronizează în cloud…</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mai multe</string>
+    <string name="miuix_appcompat_cancel_description">Renunțați</string>
+    <string name="miuix_appcompat_confirm_description">Confirmați</string>
+    <string name="miuix_appcompat_delete_description">Ștergeți</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_edit">Editați</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
+    <string name="miuix_appcompat_select_all">Selectați tot</string>
+    <string name="miuix_appcompat_select_all_description">Selectați tot</string>
+    <string name="miuix_appcompat_select_item">Selectați elementele</string>
+    <string name="miuix_indexer_collect">Colecții</string>
+    <string name="miuix_indexer_selected">Selectat %s</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Glisați în jos pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Reîmprospătat cu succes</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Se reîmprospătează…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Eliberați pentru a reîmprospăta</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">Asta e tot pentru acum</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Doar o secundă…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nu s-au putut încărca elementele</string>
     <string name="monday">Luni</string>
     <string name="monday_short">Lun</string>
     <string name="monday_shortest">Lu</string>
@@ -374,6 +405,7 @@
     <string name="pc_activity_title">Optimizare utilizare acumulator</string>
     <string name="pc_entered_extreme_mode">Modul Hibernare este activ</string>
     <string name="pc_entered_extreme_mode_summary">Dispozitivul dvs. nu mai are acumulator disponibil și a intrat în modul Hibernare. Aplicațiile vor rula în fundal și nu vor trimite notificări.</string>
+    <string name="pc_entered_extreme_mode_summary2">Dispozitivul dvs. este aproape fără energie în acumulator. În modul Hibernare, nu veți primi notificări de la aplicațiile care funcționează în fundal.</string>
     <string name="pc_extreme_exit_and_power_off">Ieșiți</string>
     <string name="pc_extreme_mode_bg_toast">În modul Hibernare, aplicațiile vor rula în fundal și nu vor trimite notificări</string>
     <string name="pc_extreme_mode_exit_risk_title">Atenție</string>

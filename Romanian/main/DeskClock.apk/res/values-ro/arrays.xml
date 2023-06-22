@@ -77,6 +77,15 @@
         <item>În fiecare zi</item>
         <item>În zilele lucrătoare</item>
     </string-array>
+    <string-array name="bedtime_guide_repeat_type_international">
+        <item>De luni până vineri</item>
+        <item>În fiecare zi</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>În fiecare zi</item>
+        <item>De luni până vineri</item>
+        <item>Personalizat</item>
+    </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>În fiecare zi</item>
         <item>De luni până vineri</item>

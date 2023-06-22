@@ -153,11 +153,11 @@
         <item quantity="one">%1$d secundă</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_fast">
-        <item quantity="other">Cu %s ore înainte</item>
-        <item quantity="one">Cu %s oră înainte</item>
+        <item quantity="other">+%s ore</item>
+        <item quantity="one">+%s oră</item>
     </plurals>
     <plurals name="worldcolock_timezone_gap_slow">
-        <item quantity="other">Cu %s ore în urmă</item>
-        <item quantity="one">Cu %s oră în urmă</item>
+        <item quantity="other">-%s ore</item>
+        <item quantity="one">-%s oră</item>
     </plurals>
 </resources>

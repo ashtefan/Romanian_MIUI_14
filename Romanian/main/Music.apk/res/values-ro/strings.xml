@@ -77,7 +77,12 @@
     <string name="ad_mark">Reclame</string>
     <string name="ad_recommend">Afișează reclame</string>
     <string name="ad_setting">Setări serviciu reclame</string>
+    <string name="add">Adăugați</string>
     <string name="add_music">Adăugaţi melodii</string>
+    <string name="add_songs_manually_bottom">Adăugați</string>
+    <string name="add_songs_manually_home">Adăugați manual melodii</string>
+    <string name="add_songs_manually_setting">Adăugați manual melodii</string>
+    <string name="add_to_group_notify">%1$s s-a alăturat familiei</string>
     <string name="add_to_last_of_playlist">Adaugă la sfârșitul listei de redare</string>
     <string name="add_to_playlist">Adaugă în coadă</string>
     <string name="add_to_playlist_successful">Adăugată cu succes</string>
@@ -296,6 +301,7 @@
     <string name="create_playlist">Creaţi o listă de redare</string>
     <string name="create_playlist_failure">"Nu s-a putut crea lista de redare"</string>
     <string name="create_playlist_input_hint">Introduceți numele listei de redare</string>
+    <string name="create_shortcut_for_playlist">Creați o scurtătură pe Ecranul principal pentru lista de redare?</string>
     <string name="current_album">Coperta de album curentă</string>
     <string name="current_lyric">Versurile curente</string>
     <string name="current_services">Actual</string>
@@ -1867,6 +1873,18 @@ Fiți fericit"</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>
     <string name="welcome_to_entertainment">Consultați noua funcție Divertisment pentru jocuri muzicale și multe altele</string>
+    <string name="whats_app">WhatsApp</string>
+    <string name="whitelist_add_exist">Unele melodii sunt deja listate în Cântece locale și nu sunt afișate aici</string>
+    <string name="whitelist_add_failed">Nu s-au putut adăuga fișierele</string>
+    <string name="whitelist_desc_1">Dacă Mi Music nu găsește melodiile pe care le căutați pe dispozitivul dvs., le poți adăuga manual.</string>
+    <string name="whitelist_desc_2">Aceste fișiere vor fi afișate chiar dacă dimensiunea fișierului și lungimea melodiei nu se potrivesc sau sunt în dosarele ascunse.</string>
+    <string name="whitelist_dialog_content">Fișierele eliminate nu vor mai apărea printre excepțiile Mi Music, dar nu vor fi șterse de pe dispozitiv. Le eliminați acum?</string>
+    <string name="whitelist_dialog_title">Eliminați fișierele?</string>
+    <string name="whitelist_entrance_desc">Adăugați manual fișierele pe care Mi Music nu le localizează automat</string>
+    <string name="whitelist_entrance_text_1">"Nu găsiți o melodie? "</string>
+    <string name="whitelist_multi_add_tips">%1$s. %2$s.</string>
+    <string name="whitelist_title">Fișiere exceptate</string>
+    <string name="widget_small_text_separator">-</string>
     <string name="wifi_required_body" formatted="false">"Conectați-vă la o rețea Wi-Fi pentru a finaliza descărcarea %s. 
 
 Atingeți %s pentru a porni descărcarea când veți fi conectat la Wi-Fi."</string>

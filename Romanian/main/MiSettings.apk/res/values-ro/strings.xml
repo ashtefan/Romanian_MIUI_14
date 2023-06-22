@@ -304,6 +304,8 @@ nu sunt generate în Spațiul Secundar"</string>
     <string name="focus_time_exception_tip">Se pare că ora sistemului s-a modificat. S-a dezactivat modul Focusat.</string>
     <string name="follow_apps_settings">Bazat pe setările aplicațiilor</string>
     <string name="follow_sim1">Aplicați setările SIM 1</string>
+    <string name="footer_max_fps" formatted="false">"
+%d. Rata de reîmprospătare poate fi ajustată până la %s Hz pentru aplicațiile și jocurile acceptate."</string>
     <string name="force_rest">Folosiți pauzele de sesiune</string>
     <string name="force_rest_summary">Luați pauze obligatorii când sesiunile ating limita stabilită</string>
     <string name="force_rest_time">Durata pauzei</string>
@@ -416,19 +418,21 @@ nu sunt generate în Spațiul Secundar"</string>
     <string name="marabou_stork">Barză Marabou</string>
     <string name="marabou_stork_info">Barza marabou este o pasăre masivă, un gunoier frecvent.</string>
     <string name="masked_palm_civet">Civetă cu palmă mascată</string>
+    <string name="max_fps_string">Până la %s Hz</string>
     <string name="medium_tree_finch">Finch mediu</string>
     <string name="midnight">Noapte</string>
     <string name="miuix_access_state_desc">Selectat</string>
     <string name="miuix_alphabet_indexer_name">Bara de index</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mai multe</string>
     <string name="miuix_appcompat_cancel_description">Renunțați</string>
     <string name="miuix_appcompat_confirm_description">Confirmați</string>
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
-    <string name="miuix_appcompat_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_edit">Editați</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
@@ -664,6 +668,7 @@ nu sunt generate în Spațiul Secundar"</string>
     <string name="stop_summary">Toate datele și informațiile referitoare la Timpul de ecran vor fi șterse când dezactivați această funcție</string>
     <string name="suggestion">Feedback</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="summary_max_fps_for_intelligent">Ajustați rata de reîmprospătare în mod dinamic până la %s Hz pe baza scenariilor pentru a echilibra performanța cu consumul de energie</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>

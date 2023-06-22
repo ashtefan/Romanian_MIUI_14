@@ -32,7 +32,7 @@
     <string name="am">AM</string>
     <string name="app_name">Înregistrare ecran</string>
     <string name="app_notification_channel_record_complete">Notificări despre înregistrările finalizate</string>
-    <string name="app_notification_info">Înregistrarea ecranului rulează în fundal</string>
+    <string name="app_notification_info">În prezent se înregistrează conținutul ecranului…</string>
     <string name="app_notification_record_saved">"Înregistrare salvată cu succes
 Atingeți pentru a o vizualiza"</string>
     <string name="app_notification_title">Înregistrare ecran</string>

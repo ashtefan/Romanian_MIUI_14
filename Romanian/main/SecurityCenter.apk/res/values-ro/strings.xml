@@ -138,6 +138,12 @@
     <string name="ad_btn_default_text">Aflați mai multe</string>
     <string name="ad_floating_window_title">Închideți fereastra plutitoare pentru a debloca</string>
     <string name="ad_split_screen_title">Părăsiți modul Ecran scindat pentru a debloca</string>
+    <string name="ad_text_adx">Reclamă</string>
+    <string name="ad_text_btn_download">Instalați</string>
+    <string name="ad_text_develop">Dezvoltator: %1$s</string>
+    <string name="ad_text_permission">Permisiuni</string>
+    <string name="ad_text_privacy">Confidențialitate</string>
+    <string name="ad_text_version">Versiune: %1$s</string>
     <string name="ad_update_time">Ultima actualizare la %s</string>
     <string name="ad_update_time_unKnown">Nu se cunoaște când a fost actualizată ultima dată</string>
     <string name="adb_install_no_network">Conectați-vă la rețea și încercați din nou</string>
@@ -181,6 +187,7 @@
     <string name="all_address_choose_hint">Toate numerele din acest județ</string>
     <string name="allow_all">Permiteți tot</string>
     <string name="allow_notify">permite_notificarea</string>
+    <string name="allow_onetime">Permiteți odată</string>
     <string name="allow_tips_smart_task">permite_sfaturi_sarcină_inteligentă</string>
     <string name="already_close_gamebooster">Jocurile turbo sunt dezactivate</string>
     <string name="am">AM</string>
@@ -442,6 +449,15 @@
     <string name="app_install_intercept">Blocați instalarea</string>
     <string name="app_install_tips_go_to">Deschideți</string>
     <string name="app_install_tips_install_success">%1$s instalate cu succes</string>
+    <string name="app_management_for_chain_start">Blocați deschiderea altor aplicații</string>
+    <string name="app_management_for_chain_start_desc">Împiedicați această aplicație să se conecteze la sau să deschidă alte aplicații</string>
+    <string name="app_management_for_device_id">Ascundeți identificatorii și împiedicați urmărirea</string>
+    <string name="app_management_for_device_id_desc">Împiedicați această aplicație să vă acceseze numărul de telefon și informațiile de identificare personală</string>
+    <string name="app_management_for_independent_storage">Izolați datele din cache</string>
+    <string name="app_management_for_independent_storage_desc">Permiteți aplicației să acceseze numai propriile fișiere și date</string>
+    <string name="app_management_for_install">Blocați descărcările de aplicații</string>
+    <string name="app_management_for_install_desc">Împiedicați această aplicație să descarce sau să instaleze alte aplicații</string>
+    <string name="app_management_measures">Gestionarea aplicațiilor</string>
     <string name="app_manager_advanced_setting">Setări avansate</string>
     <string name="app_manager_allow">Da</string>
     <string name="app_manager_anomaly_analysis">Analizează problemele aplicațiilor terțe</string>
@@ -553,6 +569,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="app_manager_tab_manager">Gestionați</string>
     <string name="app_manager_thumbnail_blur_summary">Previzualizări blurate ale aplicațiilor în Recente</string>
     <string name="app_manager_thumbnail_blur_title">Previzualizări blurate ale aplicațiilor</string>
+    <string name="app_manager_thumbnail_shield_summary">Mascați previzualizările aplicației în Recente</string>
     <string name="app_manager_title">Gestionare aplicații</string>
     <string name="app_manager_to_appstore">Descoperiți mai multe aplicații</string>
     <string name="app_manager_total_size">Total</string>
@@ -575,6 +592,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="app_name_pad">Securitate</string>
     <string name="app_name_phone">Securitate</string>
     <string name="app_name_securitycenter">Securitate</string>
+    <string name="app_name_securitycenter_new">Securitate</string>
     <string name="app_not_installed_toast">Aplicaţia nu este instalată pe dispozitivul dvs.</string>
     <string name="app_perm_manager_service">Permisiuni</string>
     <string name="app_permission_use_group_calendar">Calendar</string>
@@ -725,8 +743,8 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="apps_item_sign_install_button_text">Înlocuiți</string>
     <string name="apps_item_sms_default_set_success">Setată cu succes</string>
     <string name="apps_item_sms_reset_button_text">Restabiliți setările implicite</string>
-    <string name="apps_item_sms_title">Setări implicite mesagerie</string>
-    <string name="apps_item_summary_sms">%s are acces la mesajele dumneavoastră; poate cauza probleme de securitate</string>
+    <string name="apps_item_sms_title">Aplicația implicită de mesagerie a fost înlocuită</string>
+    <string name="apps_item_summary_sms">%s vă gestionează SMS-urile acum. Pentru o experiență mai stabilă și mai sigură, utilizați în schimb aplicația de sistem MIUI.</string>
     <string name="apps_item_summary_system_rooted">Accesul root a fost permis. Restaurați setările implicite pentru a evita riscurile de securitate!</string>
     <string name="apps_item_summary_system_update">Unele probleme au fost rezolvate în versiunea nouă pentru a crește securitatea plăților.</string>
     <string name="apps_item_title_system">Actualizare sistem</string>
@@ -893,6 +911,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="auto_task_voice_dialog_alarm_title">Alarme</string>
     <string name="auto_task_voice_dialog_call_title">Apeluri, notificări, memento-uri</string>
     <string name="auto_task_voice_dialog_media_title">Muzică, jocuri, media</string>
+    <string name="autostart_now_tip">S-a blocat \"%1$s\" să deschidă \"%2$s\"</string>
     <string name="back_app_name">Înapoi la Blocarea aplicației</string>
     <string name="back_description_securitycenter">Înapoi</string>
     <string name="back_modifypassword">Înapoi la modificarea tipului parolei</string>
@@ -1069,6 +1088,7 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="blacklist_prefix_add_hint">Blocați toate numerele care au acest prefix</string>
     <string name="block_message_number">Mesaje: &lt;font color=#5fab1b>%d&lt;/font></string>
     <string name="block_phone_number">Apeluri: &lt;font color=#5fab1b>%d&lt;/font></string>
+    <string name="blur_location_title">Locație aproximativă</string>
     <string name="boost_done">Accelerat cu succes</string>
     <string name="boost_stop">Dezactivați Creșterea vitezei</string>
     <string name="booster_immediately">Accelerați</string>
@@ -1208,6 +1228,7 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="cetus_invisible_mode_warn_location">Sunteți în modul incognito. Permisiunile pentru locație sunt suspendate.</string>
     <string name="cetus_invisible_mode_warn_open">Modul incognito suspendă permisiunile legate de microfon, cameră și locație pentru toate aplicațiile. Îl porniți acum?</string>
     <string name="cetus_invisible_mode_warn_record_audio">Sunteți în modul incognito. Permisiunile pentru microfon sunt suspendate.</string>
+    <string name="chainstart_desc_for_exemption">Aplicația nerevizuită \"%1$s\" deschide \"%2$s\". Aveți grijă când faceți plăți.</string>
     <string name="character_counter_content_description">Caractere introduse %1$d din %2$d</string>
     <string name="character_counter_overflowed_content_description">Limita de caractere a fost depășită %1$d of %2$d</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
@@ -1296,6 +1317,8 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="cs_func_toast_headset">Deconectați-vă căștile pentru a putea folosi această funcție</string>
     <string name="cs_func_toast_light">Comutați la camera frontală pentru a putea folosi această funcție</string>
     <string name="cs_func_toast_pickup">Comutați la un apel video pentru a putea folosi această funcție</string>
+    <string name="cs_pickup_denoise_desc">Reduceți zgomotul sunetului primit în timp ce utilizați difuzoare sau căști</string>
+    <string name="cs_pickup_denoise_title">Reducerea zgomotului</string>
     <string name="cs_pickup_multi_desc">%d preluare grad audio</string>
     <string name="cs_pickup_multi_title">Multipli participanți</string>
     <string name="cs_pickup_single_desc">Preluați sunetul doar din partea frontală</string>
@@ -1315,6 +1338,7 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="cta_dialog_positive">De acord</string>
     <string name="cta_dialog_title">Conexiune la Internet</string>
     <string name="cta_main_purpose">Bun venit în aplicația Securitate! Puteți utiliza aplicația Securitate și modulele sale (inclusiv componentele de securitate MIUI, serviciile de sistem și Joyose) pentru a elibera spațiu de stocare, pentru a scana dispozitivul pentru viruși, pentru a controla utilizarea acumulatorului, pentru a optimiza dispozitivul pentru jocuri, pentru a gestiona aplicațiile, pentru a primi avertismente timpurii de cutremur și pentru multe altele. Componentele de securitate MIUI se vor conecta la internet și vor efectua scanări de securitate în timp ce instalați aplicații și efectuați plăți.</string>
+    <string name="cta_main_purpose_new">Bun venit în aplicația Securitate! Puteți utiliza aplicația Securitate și modulele sale (inclusiv componentele de securitate MIUI, serviciile de securitate și de sistem și Joyose) pentru a elibera spațiu de stocare, pentru a scana dispozitivul pentru viruși, pentru a controla utilizarea acumulatorului, pentru a optimiza dispozitivul pentru jocuri, pentru a gestiona aplicațiile, pentru a primi avertismente timpurii de cutremur și pentru multe altele. Componentele de securitate MIUI se vor conecta la internet și vor efectua scanări de securitate în timp ce instalați aplicații și efectuați plăți.</string>
     <string name="cta_settings">Permiteți conexiunea la internet și accesul la locație</string>
     <string name="current_network_state_not_need_diagnose">Conexiunea la internet este normală.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Pentru utilizarea listei de blocare și efectuarea de apeluri către persoanele de contact de urgență atunci când sunt emise avertismente de cutremur</string>
@@ -1523,6 +1547,8 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="doze_optimization_title">Controale optimizate pentru ecran</string>
     <string name="dual_setting_simcard1">SIM 1</string>
     <string name="dual_setting_simcard2">SIM 2</string>
+    <string name="dynamic_performance_optimization_summary">Reglați rezoluția în mod dinamic în timpul sesiunilor de joc</string>
+    <string name="dynamic_performance_optimization_title">Performanță dinamică</string>
     <string name="early_morning">Dimineață</string>
     <string name="edit_new_task_name">Introduceți numele sarcinii</string>
     <string name="edit_phone_num">Editați numărul de telefon al SIM-ului</string>
@@ -2420,6 +2446,8 @@ dar crește și consumul de energie și permite supraîncălzirea dispozitivului
     <string name="gb_turbo_wonder_subtitle">Înregistrați momentele cheie</string>
     <string name="gb_vision_enhance">Elemente vizuale îmbunătățite</string>
     <string name="gb_vision_enhance_desc">Îmbunătățiți calitatea și performanța imaginii</string>
+    <string name="gb_vision_enhance_frme_insertion_tips">"Rată de cadre inteligentă
+%dFPS"</string>
     <string name="gb_vision_enhance_smart_frame_insertion">Frecvență de cadre inteligentă</string>
     <string name="gb_vision_enhance_smart_frame_insertion_desc">Reglați automat rata de cadre pentru a face mișcarea mai lină</string>
     <string name="gb_vision_enhance_super_resolution">Super rezoluție</string>
@@ -2728,6 +2756,7 @@ pentru a vă alătura vânătorii de ouă!"</string>
     <string name="input_aviable_traffic">Setaţi limita de utilizare a datelor</string>
     <string name="input_celluar_data_quota_hint">Introduceți limita de date</string>
     <string name="input_cellular_data_warn_hint">Introduceți limita de date pentru avertizare</string>
+    <string name="input_hint_search_app">Căutați aplicații</string>
     <string name="input_password_hint_text">Introduceți parola</string>
     <string name="input_phone_num_hint">Editați numărul de telefon al cartelei SIM</string>
     <string name="input_title">Atingeți pentru a introduce</string>
@@ -3212,7 +3241,7 @@ Puteți dezactiva oricând opțiunea „Ajustare automată a statisticilor de ut
 3. Semnalul rețelei operatorului dvs. poate fi slab în locația curentă."</string>
     <string name="network_not_available">"Nu s-a putut conecta la rețea"</string>
     <string name="network_operator_exception_summary">"Nu s-a putut activa cartela SIM. Asigurați-vă că este introdusă corect cartela SIM și că planul de date mobile a fost activat de către operatorul dvs."</string>
-    <string name="network_permission_exception_tips">Nu se pot utiliza datele mobile pentru conectare la rețea</string>
+    <string name="network_permission_exception_tips">Această caracteristică trebuie să utilizeze date mobile pentru a putea funcționa normal.</string>
     <string name="network_roaming_exception_tips">Nu se pot utiliza datele mobile în roaming pentru conectare la rețea</string>
     <string name="network_route_exception_detail">"Este posibil să existe o problemă cu router-ul la care sunteţi conectat:
 
@@ -3458,7 +3487,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="optimize_result_summary_sucurity_risk">Unele caracteristici de securitate sunt dezactivate. Activați-le pentru a vă face telefonul mai sigur:</string>
     <string name="optimize_result_summary_system_default_settings">"Utilizarea aplicațiilor MIUI implicite crește nivelul de stabilitate și securitate al sistemului."</string>
     <string name="optimize_result_title_sucurity_risk">Au fost găsite riscuri de securitate</string>
-    <string name="optimize_result_title_system_default_settings">Setările implicite au fost modificate</string>
+    <string name="optimize_result_title_system_default_settings">Setările implicite de sistem au fost modificate</string>
     <string name="optimize_result_title_uninstall_apps">Dezinstalați aplicații</string>
     <string name="optimize_result_toast_system_default_settings">Setările implicite au fost restaurate</string>
     <string name="optimize_result_toast_system_no_item_selected">Niciun element selectat</string>
@@ -3479,6 +3508,14 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="other_milink_connect">"Nu se poate proiecta. Altă funcție este proiectată acum."</string>
     <string name="other_operator_name_virtual_operator">Alți opratori virtuali</string>
     <string name="over_package_reminder_type">Când planul de date este epuizat</string>
+    <string name="overlay_permission_dialog_comment">Permiteți aplicației Securităte să afișeze elemente peste alte aplicații.</string>
+    <string name="overlay_permission_dialog_comment_pad">Permiteți aplicației Securităte să afișeze elemente peste alte aplicații.</string>
+    <string name="overlay_permission_dialog_comment_security_service">Permiteți \"Instrumentelor de securitate\" să afișeze elemente peste alte aplicații. Puteți acorda această permisiune din Setări.</string>
+    <string name="overlay_permission_dialog_message">Aplicația Securitate are nevoie de permisiuni pentru a putea funcționa normal.</string>
+    <string name="overlay_permission_dialog_message_pad">Aplicația Securitate are nevoie de permisiuni pentru a putea funcționa normal.</string>
+    <string name="overlay_permission_dialog_message_security_service">Aplicația Securitate are nevoie de unele permisiuni pentru a putea funcționa normal.</string>
+    <string name="overlay_permission_dialog_open">Setări</string>
+    <string name="overlay_permission_dialog_title">Permisiuni necesare</string>
     <string name="package_change_notification_summary">Apăsați pentru a afla mai multe.</string>
     <string name="package_change_notification_title">Se ajustează limita datelor în mod automat</string>
     <string name="package_setted_error_notification_summary">Apăsați pentru a vizualiza detaliile utilizării datelor.</string>
@@ -4118,6 +4155,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pp_understanding_privacy">Conștientizare</string>
     <string name="pp_virtual_identity_manager">ID virtual</string>
     <string name="pp_virtual_identity_summary">Un ID virtual (OAID) poate fi furnizat aplicațiilor în loc de identificatorul dvs. real. Vă protejează confidențialitatea și vă permite să controlați modul în care aplicațiile vă urmăresc comportamentul.</string>
+    <string name="precise_location_title">Locație precisă</string>
     <string name="pref_about_traffic_title">Setări utilizare date</string>
     <string name="pref_adjust_data_usage">Șablon mesaj operator</string>
     <string name="pref_adjust_data_usage_summary">După ce modificați tiparul de calibrare, MIUI îl va utiliza pentru a obține statistici de utilizare de la operatorul dvs.</string>
@@ -4455,6 +4493,8 @@ Retrageți consimțământul acum?"</string>
     <string name="privacy_thumbnail_blur_search_empty">Nu s-au găsit rezultate</string>
     <string name="privacy_thumbnail_blur_title">Previzualizări blurate</string>
     <string name="privacy_thumbnail_blur_top_tip">Selectați aplicațiile pentru care previzualizarea va fi blurată în Recente</string>
+    <string name="privacy_thumbnail_shield_title">Mascare previzualizare</string>
+    <string name="privacy_thumbnail_shield_top_tip">Mascați previzualizările pentru aplicațiile afișate în Recente</string>
     <string name="privacy_type_open">Activ</string>
     <string name="privacy_update_dialog_content_1">Politica de confidențialitate %s a fost actualizată:</string>
     <string name="privacy_update_dialog_content_2"><Data>Citiți și acceptați noua versiune a &lt;a href=\"%1$s\">Politica de confidențialitate&lt;/a> înainte de a continua.</Data></string>
@@ -4817,6 +4857,7 @@ Retrageți consimțământul acum?"</string>
     <string name="sim_lock_start_summary">Această caracteristică vă protejează de posibilele riscuri în cazul pierderii cartelei SIM.</string>
     <string name="sim_lock_start_title">Securitate SIM</string>
     <string name="sim_lock_toast_no_sim">Instalați mai întâi cartela SIM</string>
+    <string name="sim_lock_verify_time_out">Verificarea a expirat. Încercați din nou.</string>
     <string name="sim_not_ready_toast">Cartela SIM nu este pregătită</string>
     <string name="sim_state_exception_summary">Starea cartelei SIM indică că ceva poate fi în neregulă cu aceasta.</string>
     <string name="sip_phone">Telefon SIP</string>
@@ -5095,6 +5136,7 @@ Retrageți consimțământul acum?"</string>
     <string name="st_msg_stranger_group">Blocați mesajele de la necunoscuți</string>
     <string name="st_settings_name">Setări listă blocare</string>
     <string name="st_share_settings">Utilizați setările cartelei SIM %d</string>
+    <string name="st_sms_intercept_oversea">SMS Internațional</string>
     <string name="st_sub_title_customize_mode_name">Nume</string>
     <string name="st_sub_title_whiteblack_list_group">Listă blocare</string>
     <string name="st_sum_call_wait">Mesajul dumneavoastră de indisponibil va rula și ca semnal de ocupat pentru apelurile primite.</string>
@@ -5277,7 +5319,7 @@ Formatarea va șterge conținutul existent pe ^2. Pentru a evita pierderea conț
     <string name="summary_block_calls_from_cantacts">Apelurile de la contacte sunt blocate.</string>
     <string name="summary_block_calls_from_strangers">Apelurile de la persoane necunoscute sunt blocate.</string>
     <string name="summary_cleaner_cloudscan">Încărcați și comparați numele de dosare cu definițiile on-line</string>
-    <string name="summary_cloud_account">Obțineți mai mult de la dispozitivul dvs. Mi</string>
+    <string name="summary_cloud_account">Utilizați toate serviciile furnizate de către Xiaomi</string>
     <string name="summary_cloud_service">Sincronizaţi fotografiile, contactele și altele între toate dispozitivele dvs.</string>
     <string name="summary_cloud_space_almost_full">Obțineți spațiu</string>
     <string name="summary_cloud_space_full">Obțineți mai mult spațiu de stocare și acces la funcții noi</string>

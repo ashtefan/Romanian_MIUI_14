@@ -116,15 +116,16 @@
     <string name="mi_ai">Scurtături Mi AI</string>
     <string name="mi_wallet_summary">Cartelă de transport card/Mi Pay/Cartelă de acces</string>
     <string name="midnight">Noapte</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mai multe</string>
     <string name="miuix_appcompat_cancel_description">Renunțați</string>
     <string name="miuix_appcompat_confirm_description">Confirmați</string>
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
-    <string name="miuix_appcompat_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_edit">Editați</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
@@ -295,7 +296,7 @@
     <string name="the_valentines_day">Ziua Îndrăgostiților</string>
     <string name="the_water_lantern_festival">Festivalul felinarelor de apă</string>
     <string name="theme_manager_not_supported">"Managerul de teme nu este suportat."</string>
-    <string name="three_seconds_auto_hide">Restrânge la marginea ecranului după 3 secunde de inactivitate</string>
+    <string name="three_seconds_auto_hide">Restrânge la marginea ecranului după %d secunde de inactivitate</string>
     <string name="thursday">Joi</string>
     <string name="thursday_short">Joi</string>
     <string name="thursday_shortest">Jo</string>

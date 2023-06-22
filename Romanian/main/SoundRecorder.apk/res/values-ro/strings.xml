@@ -350,6 +350,11 @@
 Cum să acordați permisiunea
 Atingeți „%1$s” și apoi selectați \"%2$s\"."</string>
     <string name="new_saf_permission_dialog_grant_permission_immediately">Următorul</string>
+    <string name="new_search_alll_records_hint">Căutați toate înregistrările</string>
+    <string name="new_search_app_records_hint">Căutați înregistrările aplicațiilor</string>
+    <string name="new_search_call_records_hint">Căutați înregistrările apelurilor</string>
+    <string name="new_search_fm_records_hint">Căutați înregistrări radio</string>
+    <string name="new_search_recorder_records_hint">Căutați în Înregistrare</string>
     <string name="night">Seară</string>
     <string name="no_content">Niciun element aici încă</string>
     <string name="no_file">Nicio înregistrare</string>

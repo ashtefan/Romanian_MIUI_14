@@ -42,6 +42,7 @@
     <string name="add_timezone_title">Adăugați un fus orar</string>
     <string name="afternoon">După amiază</string>
     <string name="agree">De acord</string>
+    <string name="alarm_alert">Alarma sună</string>
     <string name="alarm_alert_alert_silenced">Alarmă oprită după %1$s.</string>
     <string name="alarm_alert_close_entrance">Dezactivați</string>
     <string name="alarm_alert_disabled">Dezactivată</string>
@@ -166,7 +167,7 @@
     <string name="delete_selected_timer_item">Ștergeţi sarcina temporizatorului selectată?</string>
     <string name="delete_timer_item_title">Ștergeţi sarcina temporizatorului</string>
     <string name="delete_timezone_title">Ştergeţi fusul orar</string>
-    <string name="deskclock_sleep_no_disturbance">Ceas - Gestionați ora de culcare - Mod Nu deranjați</string>
+    <string name="deskclock_sleep_no_disturbance">Ceas > Gestionați ora de culcare > Mod Nu deranjați</string>
     <string name="device_sounds">Sunetele dispozitivului</string>
     <string name="dialog_confirm_abort">Renunțați la modificări?</string>
     <string name="dialog_legal_off_day"><Data>Se pare că utilizați alarmele pentru vacanță. Această caracteristică trebuie să se conecteze la internet pentru a funcționa în mod normal. Înainte de a utiliza această funcție, trebuie să acceptați &lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a> și &lt;a href=\"%2$s\">Politica noastră de Confidențialitate&lt;/a>. Le acceptați?</Data></string>
@@ -585,7 +586,7 @@ mm"</string>
     <string name="sleep_notification_title">Este timpul să mergeți la culcare</string>
     <string name="sleep_record">Monitorizați somnul</string>
     <string name="sleep_record_desc">Activați pentru a începe să înregistrați date despre somn</string>
-    <string name="sleep_record_desc_detailed">Funcția de monitorizare a somnului este furnizată de către Sănătate Xiaomi. Odată activată, aplicația Sănătate Xiaomi înregistrează în mod automat somnul bazat pe modul de utilizare a telefonului, starea activităților, dar și pe orele setate pentru culcare și trezire și vă arată statistici sub formă de grafice. Pentru a vă monitoriza somnul mai precis, permiteți aplicației Sănătate Xiaomi să pornească în mod automat. Toate datele asociate vor fi stocate local pe telefon, ceea ce vă permite să le gestionați cu ușurință.</string>
+    <string name="sleep_record_desc_detailed">Funcționalitatea de urmărire a somnului este oferită de Xiaomi Health. Odată pornit, Xiaomi Health vă înregistrează automat somnul pe baza utilizării telefonului, a statisticilor de activitate și a orelor de culcare și de trezire pe care le setați, arătându-vă statisticile sub formă de diagrame. Pentru a urmări somnul mai precis, permiteți Xiaomi Health să pornească automat. Toate datele aferente vor fi stocate local pe dispozitivul dvs. pentru o gestionare ușoară.</string>
     <string name="sleep_record_desc_detailed_new">Monitorizarea somnului este oferită de caracteristica Mi Fitness Sleep. Dacă activați această funcție, Mi Fitness va colecta și afișa automat date despre somnul dvs., pe baza utilizării telefonului, a activității și a orei de culcare și a orei de trezire pe care le-ați setat. Pentru a urmări somnul mai precis, permiteți Mi Fitness să pornească automat.</string>
     <string name="sleep_record_no_data">Statisticile dvs vor apărea aici după ce aplicația Sănătate Xiaomi analizează suficiente date</string>
     <string name="sleep_remind">Memento oră de culcare</string>
@@ -593,6 +594,7 @@ mm"</string>
     <string name="sleep_wake_time">%1$s-%2$s</string>
     <string name="slider_text">Glisaţi în sus pentru a dezactiva</string>
     <string name="slider_text_new">Glisați în sus pentru a opri</string>
+    <string name="snooze_alarm_alert">Amânată până %s</string>
     <string name="snooze_confirm_cancel">Anulaţi alarma</string>
     <string name="snooze_duration">Amânare</string>
     <string name="snooze_duration_text">%1$s | %2$s</string>
@@ -722,6 +724,8 @@ mm"</string>
     <string name="timer_alert_mute_on">"Alarma nu va suna când se oprește temporizatorul"</string>
     <string name="timer_alert_mute_remind">Atingeți pentru a reduce la tăcere alarma</string>
     <string name="timer_alert_mute_switch">Comutator pentru reducerea la tăcere a alarmelor temporizatorului</string>
+    <string name="timer_alert_pause">Cronometrul este oprit</string>
+    <string name="timer_alert_running">Cronometrul rulează</string>
     <string name="timer_alert_type_beach">Plajă</string>
     <string name="timer_alert_type_forest">Pădure</string>
     <string name="timer_alert_type_mute">Implicit</string>

@@ -38,8 +38,8 @@
         <item quantity="one">S-a adăugat %d fotografie din Cloud, dezactivați \"Arată doar albumele locale\" pentru a o vedea.</item>
     </plurals>
     <plurals name="add_to_album_failed_with_reason_and_count">
-        <item quantity="other">"%2$d elemente nu au putut fi adăugate în album. %1$s."</item>
-        <item quantity="one">"%2$d element nu a putut fi adăugat în album. %1$s."</item>
+        <item quantity="other">" %2$d elemente nu au putut fi adăugate în album. %1$s."</item>
+        <item quantity="one">" %2$d element nu a putut fi adăugat în album. %1$s."</item>
     </plurals>
     <plurals name="add_to_secret_failed_with_reason_and_count">
         <item quantity="other">"%2$d elemente nu au putut fi adăugate în albumul privat. %1$s."</item>

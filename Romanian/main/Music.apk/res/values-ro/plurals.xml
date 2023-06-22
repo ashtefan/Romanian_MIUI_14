@@ -222,4 +222,12 @@ Notă: Fișierul va fi de asemenea șters din telefon."</item>
         <item quantity="other">%d zile rămase</item>
         <item quantity="one">%d zi rămasă</item>
     </plurals>
+    <plurals name="whitelist_multi_added">
+        <item quantity="other">S-au adăugat %d fișiere</item>
+        <item quantity="one">S-a adăugat %d fișier</item>
+    </plurals>
+    <plurals name="whitelist_multi_added_before">
+        <item quantity="other">%d fișiere au fost adăugate înainte</item>
+        <item quantity="one">%d fișier a fost adăugat înainte</item>
+    </plurals>
 </resources>

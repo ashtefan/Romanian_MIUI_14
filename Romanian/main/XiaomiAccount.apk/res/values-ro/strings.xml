@@ -374,7 +374,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="in_progress">În curs</string>
     <string name="inconsistent_pwd">Parolele nu se potrivesc</string>
     <string name="indeterminate">Nici bifat, nici nebifat</string>
-    <string name="input_email_address_notice">Vom folosi această adresă de e-mail pentru verificarea contului</string>
+    <string name="input_email_address_notice">Vă vom trimite un e-mail cu un cod de verificare la adresa pe care ne-o furnizați.</string>
     <string name="input_new_pwd">Introduceți noua parolă</string>
     <string name="io_error_title">Confirmați rețeaua personală</string>
     <string name="item_view_role_description">Filă</string>
@@ -430,15 +430,18 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="mipay_indentity_done">Verificat</string>
     <string name="mipay_others">Altele</string>
     <string name="mipay_transit_card">Cartele de transport</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mai multe</string>
     <string name="miuix_appcompat_cancel_description">Renunțați</string>
     <string name="miuix_appcompat_confirm_description">Confirmați</string>
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
-    <string name="miuix_appcompat_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_edit">Editați</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>
@@ -715,6 +718,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_imei_permission_denied_message">Vă solicităm permisiunea de a obține IMEI-ul telefonului. Xiaomi Account utilizează IMEI-ul pentru identificarea dispozitivului cu care vă conectați/deconectați, pentru a vă menține contul în siguranță.</string>
     <string name="passport_imei_permission_denied_title">Solicitare permisiune obținere IMEI</string>
     <string name="passport_input_captcha_hint">Introduceți codul</string>
+    <string name="passport_input_email_vcode_hint">Introduceți codul</string>
     <string name="passport_input_password_for_login">Acest număr este asociat cu un cont existent, introduceți parola dvs.</string>
     <string name="passport_input_password_hint">Introduceți parola</string>
     <string name="passport_input_phone_hint">Introduceţi numărul de telefon</string>
@@ -860,6 +864,7 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="passport_user_id_notice">ID-ul contului dvs Xiaomi este %s.</string>
     <string name="passport_user_reg_region">Țară/Regiune</string>
     <string name="passport_user_reg_region_warning">Nu veți mai putea modifica țara/regiunea odată ce contul este creat.</string>
+    <string name="passport_vcode_email_send_prompt"><Data>Codul dvs. de verificare a fost trimis la &lt;a href=>&lt;xliff:g id=email_address>%s&lt;/xliff:g>&lt;/a></Data></string>
     <string name="passport_vcode_notification_title">Verificarea conectării dvs. este incompletă</string>
     <string name="passport_vcode_prompt_long">Introduceţi codul de verificare</string>
     <string name="passport_vcode_sms_send_prompt">Trimiteți codul de verificare la %s</string>
@@ -989,8 +994,8 @@ Trimmiteți acest cod supervizorului."</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
     <string name="system_ad">Reclame în aplicațiile de sistem</string>
-    <string name="system_ad_list">Vedeți aplicațiile înrudite.</string>
-    <string name="system_ad_summary">Activați această funcție pentru a permite afișarea unui număr mic de reclame în aplicațiile de sistem. Aceste reclame ne ajută să dezvoltăm și să ne îmbunătățim produsele și serviciile. Puteți dezactiva oricând această caracteristică. Vă mulțumim pentru suport!</string>
+    <string name="system_ad_list">Vedeți aplicațiile înrudite</string>
+    <string name="system_ad_summary">Activați această funcție pentru a permite afișarea unui număr mic de reclame în aplicațiile de sistem. Aceste reclame ne ajută să dezvoltăm și să ne îmbunătățim produsele și serviciile. Puteți dezactiva oricând această caracteristică.</string>
     <string name="system_ad_switch">Reclame în aplicațiile de sistem</string>
     <string name="system_ad_switch_failed">Nu s-a putut aplica setarea</string>
     <string name="tab">Filă</string>

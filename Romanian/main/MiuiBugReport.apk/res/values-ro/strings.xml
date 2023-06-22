@@ -603,7 +603,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="more">Mai mult</string>
     <string name="more_description">Meniu</string>
     <string name="morning">Dimineață</string>
-    <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
+    <string name="net_daig_network_repair">Reparație rețea</string>
     <string name="net_diag_cancel">Renunțați</string>
     <string name="net_diag_continue">Continuați</string>
     <string name="net_diag_dialog_msg">Testarea rețelei vă va ajuta să detectați probleme și să vă îmbunătățiți conexiunea.</string>
@@ -618,9 +618,15 @@ Trimiteți acest cod supervizorului."</string>
     <string name="net_diag_entry_network_protocol">Protocol de rețea</string>
     <string name="net_diag_entry_network_rssi">Calitatea semnalului</string>
     <string name="net_diag_entry_router_topology">Rutarea rețelei</string>
+    <string name="net_diag_fix_guide_window_msg">A apărut o eroare de rețea. Atingeți pentru a depana.</string>
+    <string name="net_diag_fixing">Se repară rețeaua. Acest lucru ar putea dura un minut.</string>
     <string name="net_diag_header_internet">Internet</string>
     <string name="net_diag_header_router">Router</string>
     <string name="net_diag_header_this_device">Acest dispozitiv</string>
+    <string name="net_diag_repair_msg">În timpul acestui proces, Wi-Fi-ul va fi deconectat și apoi conectat din nou. Reparați acum?</string>
+    <string name="net_diag_repair_msg_china">În timpul acestui proces, Wi-Fi-ul va fi deconectat și apoi conectat din nou. Reparați acum?</string>
+    <string name="net_diag_repair_static_ip_msg">Configurațiile rețelei pot fi resetate în timpul acestui proces. Reparați acum?</string>
+    <string name="net_diag_repair_title">Reparați rețeaua?</string>
     <string name="net_diag_title">Testați rețeaua</string>
     <string name="net_diag_toast_cellular_data">Pentru a testa rețeaua, dezactivați mai întâi datele mobile.</string>
     <string name="net_diag_toast_other_networks">Pentru a testa rețeaua, mai întâi conectați-vă la Wi-Fi și deconectați-vă de la alte rețele.</string>

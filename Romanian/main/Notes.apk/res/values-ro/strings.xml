@@ -75,6 +75,8 @@
     <string name="audio_create_will_cancel_state">Eliberați pentru a anula</string>
     <string name="audio_dialog_mode_meeting">Mod Întâlnire (Beta)</string>
     <string name="audio_dialog_mode_meeting_exit">Nu, mulțumesc</string>
+    <string name="audio_dialog_mode_meeting_recognize_close">Recunoașterea vocală este dezactivată</string>
+    <string name="audio_dialog_mode_meeting_recognize_fail">Nu s-a putut finaliza recunoașterea vocii</string>
     <string name="audio_dialog_mode_meeting_sum">Modul Întâlnire vă permite să recunoașteți vocile a până la 4 persoane diferite. Unele erori de recunoaștere pot apărea în versiunea Beta.</string>
     <string name="audio_dialog_mode_meeting_use">Începeți</string>
     <string name="audio_panel_time_counter_default">00:00</string>
@@ -985,6 +987,7 @@ Permiteți aplicației Note să citească conținutul cardului SD."</string>
     <string name="toast_refuse_to_use_phone_state">"Permisiunile de accesare a Telefonului sunt restricționate.
 Permiteți aplicației Note să citească starea și ID-ul telefonului."</string>
     <string name="toast_refuse_to_use_photos_in_excerpt">Permiteți acestei aplicații să vă acceseze fotografiile pentru a putea adăuga imagini la notițe</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt_v14">Pentru a putea insera imagini în notițe, permiteți acestei aplicații să acceseze toate fotografiile</string>
     <string name="toast_refuse_to_use_record_audio">"Permisiunile de accesare a microfonului sunt restricționate.
 Permiteți aplicației Note să înregistreze sunete."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">Permiteți aplicației Notițe să acceseze spațiul de stocare pentru a putea adăuga imagini la note</string>
