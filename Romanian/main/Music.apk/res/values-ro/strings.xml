@@ -70,7 +70,14 @@
     <string name="action_item_share">Distribuiţi</string>
     <string name="action_settings">Setări</string>
     <string name="actionbar_button_up_description">Înapoi</string>
-    <string name="add">Adăugați</string>
+    <string name="activity_Premium_family">Familie premium</string>
+    <string name="activity_Premium_family_Description">"1 Familia premium este selectată de oficial și va apărea pe banner.
+
+2 Alăturați-vă unei familii premium, puteți participa la activități de familie cu alți membri ai familiei și puteți primi cadouri mari.
+
+3 Familiile Premium vor primi sprijin oficial. Fiecare familie are subiecte diferite, inclusiv fotbal, jocuri, muzică și așa mai departe.
+
+4 Alegeți familia de care sunteți interesat să vă alăturați și jucați-vă cu ea acum!"</string>
     <string name="ad_close">Închideți</string>
     <string name="ad_data_exception">Eroare date promoții</string>
     <string name="ad_extension">Promoții</string>

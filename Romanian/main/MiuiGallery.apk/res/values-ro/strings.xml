@@ -1302,7 +1302,7 @@ efecte pentru fotografii"</string>
     <string name="hdr_show_hint">Reglați afișajul pentru a afișa mai multe detalii în umbre și evidențieri la articolele cu interval dinamic ridicat</string>
     <string name="hdr_show_title">Arată HDR</string>
     <string name="hdr_switch_show_hint">Utilizați HDR pentru a afișa mai multe detalii în lumini și umbre</string>
-    <string name="hdr_switch_show_title">Afișează un interval dinamic ridicat</string>
+    <string name="hdr_switch_show_title">Afișaj Pro HDR</string>
     <string name="header_help">Ajutor</string>
     <string name="hello_blank_fragment">Salutare fragment gol</string>
     <string name="help">Nu găsiți dispozitivul?</string>
@@ -1464,7 +1464,7 @@ efecte pentru fotografii"</string>
     <string name="loading_members">Încărcare membri…</string>
     <string name="loading_processing_tip">Se procesează fotografia…</string>
     <string name="loading_suspend">Descărcare întreruptă. Acţiunea va fi reluată atunci când Wi-Fi va fi disponibil.</string>
-    <string name="loading_text_format" formatted="false">Se elimină informațiile private din fotografii (%d/%d)…</string>
+    <string name="loading_text_format">Se elimină informațiile private…</string>
     <string name="loading_video">Descărcare videoclip…</string>
     <string name="loading_video_compress_lib">Se descarcă extensia de compresie video…</string>
     <string name="loading_video_fail_sync_without_network">Conectați-vă la rețea pentru a descărca datele</string>
@@ -2640,6 +2640,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="search_syncing">Se sincronizează datele; reveniți după o vreme</string>
     <string name="search_title_album">Album</string>
     <string name="search_title_app_screenshot">Capturi de ecran din aplicații</string>
+    <string name="search_title_daily">ora</string>
     <string name="search_title_history">Căutați în istoric</string>
     <string name="search_title_location">Locații</string>
     <string name="search_title_more">Mai mult</string>

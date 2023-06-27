@@ -500,6 +500,10 @@
         <item quantity="other">"Nu s-a putut partaja. Încă se procesează %d fotografii…"</item>
         <item quantity="one">"Nu s-a putut partaja. Încă se procesează %d fotografie…"</item>
     </plurals>
+    <plurals name="send_too_many_files_error">
+        <item quantity="other">Selectați maxim %d elemente pentru a fi trimise</item>
+        <item quantity="one">Selectați maxim %d element pentru a fi trimis</item>
+    </plurals>
     <plurals name="send_video_dialog_desc">
         <item quantity="other">%2$d videoclipuri de la %1$s</item>
         <item quantity="one">%2$d videoclip de la %1$s</item>

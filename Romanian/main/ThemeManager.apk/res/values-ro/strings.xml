@@ -371,6 +371,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="favorite_list">Favorite</string>
     <string name="favorite_list_format">Favorit %1$s</string>
     <string name="find_more_font">Descoperiți mai multe</string>
+    <string name="find_more_free_theme">Vedeți mai multe</string>
     <string name="find_more_theme">Descoperiți mai multe</string>
     <string name="find_more_wallpapers">Descoperiți mai multe</string>
     <string name="first_page_recommend">Recomandate</string>
