@@ -41,6 +41,10 @@
         <item quantity="other">S-au blocat %d reclame până acum</item>
         <item quantity="one">S-a blocat %d reclamă până acum</item>
     </plurals>
+    <plurals name="antivirus_desc_not_scanned_virus_in_days">
+        <item quantity="other">Nu s-a scanat de %d zile</item>
+        <item quantity="one">Nu s-a scanat de %d zi</item>
+    </plurals>
     <plurals name="articles_updated_amount">
         <item quantity="other">Vedeți %1$d articole noi</item>
         <item quantity="one">Vedeți %1$d articol nou</item>
