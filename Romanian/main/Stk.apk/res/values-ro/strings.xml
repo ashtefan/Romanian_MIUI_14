@@ -116,6 +116,8 @@
     <string name="friday_shortest">Vi</string>
     <string name="help">Ajutor</string>
     <string name="icon_content_description">Pictogramă Dialog</string>
+    <string name="item_view_role_description">Filă</string>
+    <string name="lable_sim_not_ready">Setul de instrumente SIM nu este pregătit sau nu este acceptat</string>
     <string name="menu_back">Înapoi</string>
     <string name="menu_end_session">Încheiere sesiune</string>
     <string name="midnight">Noapte</string>

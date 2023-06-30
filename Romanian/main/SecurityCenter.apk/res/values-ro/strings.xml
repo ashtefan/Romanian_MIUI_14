@@ -74,6 +74,7 @@
     <string name="abnormal_consume_type_cpu">Utilizare ridicată a procesorului</string>
     <string name="abnormal_consume_type_wakelock">Sistemul nu poate hiberna</string>
     <string name="about_autostart">Despre pornirea automată</string>
+    <string name="about_autostart_gloabl">Despre pornirea automată în fundal</string>
     <string name="ac_enter_applock">Accesați Blocare Aplicații</string>
     <string name="ac_firstUseApplock_subTitle">Utilizați unelte de securitate mai eficiente la nivel de sistem</string>
     <string name="ac_firstUseApplock_title">Setați o parolă pentru a vă proteja aplicațiile</string>
@@ -118,7 +119,7 @@
     <string name="activity_title_antivirus_kddi">Scanare de securitate</string>
     <string name="activity_title_apps_manager">Aplicaţii</string>
     <string name="activity_title_auto_start_manager">Pornire automată</string>
-    <string name="activity_title_create_shortcut">Gestionare comenzi rapide</string>
+    <string name="activity_title_auto_start_manager_global">Pornire automată ăn fundal</string>
     <string name="activity_title_garbage_cleanup">Curăţare</string>
     <string name="activity_title_license_manager">Permisiuni</string>
     <string name="activity_title_networkassistants">Utilizare date</string>
@@ -999,7 +1000,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="beauty_fun_screen_light">Lumină de umplere a ecranului</string>
     <string name="beauty_fun_settings_light">Luminozitatea luminii de umplere</string>
     <string name="beauty_fun_video_effect">Înfrumusețare pentru video</string>
-    <string name="beauty_portrait_center">Păstrați fețele centrate</string>
+    <string name="beauty_portrait_center">CadruFocus</string>
     <string name="beauty_portrait_center_desc">Identificați și centrați automat fețele în apeluri video și întâlniri. Această funcție nu este acceptată de unele aplicații.</string>
     <string name="beauty_settings">Setări</string>
     <string name="before_execute_notify">înainte_de_excluderea_notificării</string>
@@ -1439,6 +1440,7 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="dialog_change_package_type_summary">Modificarea planului de date va reseta toate setările pentru utilizarea datelor (de ex. limitele de date) la valoarea lor implicită. Modificați planul de date oricum?</string>
     <string name="dialog_change_package_type_title">Modificare tip plan de date</string>
     <string name="dialog_msg_auto_start_declare">Unele aplicații pot indica în mod greșit că MIUI le-a împiedicat să pornească. Verificați permisiunile care au fost acordate aplicațiilor individuale în Setări > Aplicații.</string>
+    <string name="dialog_msg_auto_start_declare_global">Unele aplicații pot indica incorect faptul că MIUI le-a împiedicat să pornească. Verificați permisiunile care au fost acordate aplicațiilor individuale în Setări.</string>
     <string name="dialog_msg_create_icon_content">Adăugați acum o comandă rapidă pe Ecranul principal?</string>
     <string name="dialog_msg_create_icon_not_remain_anymore">Nu afișa din nou</string>
     <string name="dialog_msg_delete_icon_content_pad">Aplicația Securitate vă permite să curățați gunoiul de pe dispozitiv, să găsiți și să neutralizați viruși, să economisiți bateria, să gestionați permisiunile și multe altele.</string>
@@ -1473,6 +1475,7 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="dialog_skt_roaming_warning_title">Acord pentru roamingul de date</string>
     <string name="dialog_title_attention">Atenție</string>
     <string name="dialog_title_auto_start_declare">Despre pornirea automată</string>
+    <string name="dialog_title_auto_start_declare_global">Despre pornirea automată în fundal</string>
     <string name="dialog_title_stop_virus_scan">Opriţi scanarea de securitate</string>
     <string name="disable_air_mode">Dezactivaţi modul Avion mai întâi</string>
     <string name="disable_sensitive_permissions">Permisiuni sensibile restricționate</string>
@@ -3560,6 +3563,10 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_battery_history_total_consumption_title">Consumul total de energie</string>
     <string name="pc_battery_history_usetime_title">Activ</string>
     <string name="pc_close_notifi_action">Dezactivați</string>
+    <string name="pc_continuity_has_open_save_mode_notifi_sumary">Economisirea acumulatorului va fi dezactivată când %1$s este %2$s sau când este complet încărcat</string>
+    <string name="pc_continuity_has_open_save_mode_notifi_title">S-a activat Economisirea acumulatorului pe %s</string>
+    <string name="pc_continuity_open_save_mode_notifi_sumary">%1$s acumulatorul este mai mic decât %2$s. Activați Economisirea acumulatorului pentru a adăuga %3$s %4$s.</string>
+    <string name="pc_continuity_open_save_mode_notifi_title">%s acumulatorul este descărcat</string>
     <string name="pc_emergency_call">Urgență</string>
     <string name="pc_endurance_calculation">Se calculează…</string>
     <string name="pc_entered_extreme_mode">Modul de hibernare este activat</string>

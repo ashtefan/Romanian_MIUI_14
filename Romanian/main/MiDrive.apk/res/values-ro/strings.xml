@@ -117,7 +117,7 @@
     <string name="cloud_storage_already_used">Ocupat: %1$s/%2$s</string>
     <string name="cloud_storage_default_title">Stocare în cloud</string>
     <string name="cloud_storage_full">Stocarea în cloud este plină. Actualizați-vă abonamentul pentru a obține mai mult spațiu de stocare.</string>
-    <string name="cloud_storage_info_type_backup">Copii de rezervă</string>
+    <string name="cloud_storage_info_type_backup">Copii de rezervă în cloud</string>
     <string name="cloud_storage_info_type_drive">Mi Drive</string>
     <string name="cloud_storage_info_type_duokan">Duokan</string>
     <string name="cloud_storage_info_type_family">Familie</string>

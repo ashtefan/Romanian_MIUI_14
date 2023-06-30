@@ -195,6 +195,7 @@
     <string name="create_folder">Creați</string>
     <string name="create_shortcut_success">Scurtătură adăugată cu succes</string>
     <string name="cta_function_account_operation">Pentru autentificare rapidă la contul dvs. Xiaomi</string>
+    <string name="cta_use_sync_midrive_file">Pentru sincronizarea fișierelor în Mi Drive</string>
     <string name="data_consume_dialog_message">În prezent utilizați date mobile. Dacă veți continua, aceasta va folosi %s de date.</string>
     <string name="data_consume_dialog_title">Utilizați datele mobile?</string>
     <string name="data_consume_dialog_upload_title">Încărcați folosind datele mobile</string>
@@ -970,6 +971,7 @@
     <string name="select_dest_folder">Selectați dosarul</string>
     <string name="select_image">Selectaţi fotografiile</string>
     <string name="select_music">Selectaţi melodiile</string>
+    <string name="select_pdf">Selectați .pdf-ul</string>
     <string name="select_video">Selectaţi videoclipurile</string>
     <string name="select_volume">Selectați volumul</string>
     <string name="send">Trimiteți</string>

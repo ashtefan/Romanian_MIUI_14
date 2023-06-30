@@ -560,7 +560,7 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="not_support_data_content3">3. Datele spațiului secundar</string>
     <string name="not_support_data_content4">4. Aplicațiile clonate</string>
     <string name="not_support_data_link">Elemente care nu pot fi transferate</string>
-    <string name="not_support_data_summary1">Temele, imaginile de fundal, abonamentele de transport, cardurile cheie nu pot fi transferate utilizând Mutarea Mi.</string>
+    <string name="not_support_data_summary1">Cardurile de transport și acces nu pot fi transferate; temele și imaginile de fundal pot fi transferate pe unele modele</string>
     <string name="not_support_data_summary2">Unele aplicații pun în aplicare măsuri stricte de securitate pentru a împiedica transferul datelor aplicațiilor. Astfel de aplicații pot include aplicații bancare sau servicii financiare.</string>
     <string name="not_support_data_summary3">Datorită restricțiilor de sistem, articolele din spațiul Second nu pot fi transferate folosind Mutarea Mi.</string>
     <string name="not_support_data_summary4">De asemenea, aplicațiile duale și datele acestora nu pot fi transferate. Cu toate acestea, puteți transfera aplicațiile principale corespunzătoare.</string>
@@ -637,6 +637,7 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="permission_grant_request">Pentru a putea transfera acest element, Mi Mover are nevoie de permisiunea \"%1$s\".</string>
     <string name="permission_locale_summary">Pentru conectarea la dispozitivele din apropiere</string>
     <string name="permission_locale_title">Accesarea locației</string>
+    <string name="permission_location_content">Permiteți Mi Mover să vă acceseze locația pentru a vă putea conecta la vechiul dispozitiv. Dacă nu permiteți accesul la locație, nu veți putea transfera articole.</string>
     <string name="permission_message_summary">Pentru transferarea mesajelor pe noul dispozitiv</string>
     <string name="permission_message_title">Accesarea conținutului SMS-urilor</string>
     <string name="permission_request_title">Este necesară permisiunea \"%1$s\"</string>
@@ -660,9 +661,12 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="prompt_before_transmission_message4_title">Rămâneți conectat pe tot parcursul transferului</string>
     <string name="prompt_before_transmission_message5_summary">Transferul unor cantități mari de date prin wireless poate duce la o ușoară supraîncălzire, lucru care nu este anormal. Dispozitivul se va răci curând după ce transferul se va finaliza.</string>
     <string name="prompt_before_transmission_message5_title">Este posibil ca telefonul să se încălzească pe durata transferurilor.</string>
+    <string name="provisiion_set_old_phone">Importați de pe dispozitivul vechi</string>
+    <string name="provisiion_set_old_phone_summary">Utilizați Mi Mover pentru a importa date de pe vechiul dispozitiv fără a vă conecta la internet</string>
     <string name="provision_cta_title">Transferați de pe vechiul dispozitiv</string>
     <string name="provision_receiver_finish_button">Următorul</string>
     <string name="provision_select_data_null">Selectați elementele de transferat</string>
+    <string name="provision_set_new_phone">Utilizați ca dispozitiv nou</string>
     <string name="qq_app">QQ</string>
     <string name="qq_app_receive_fail">Nu s-a putut primi QQ</string>
     <string name="qq_app_send_fail">Nu s-a putut trimite QQ</string>
@@ -682,6 +686,7 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="reconnect">Conectați din nou</string>
     <string name="recovery_progress">Se restaurează elementele (%1$d/%2$d)…</string>
     <string name="recreate_soft_ap_tips">Atingeți butonul de mai jos pentru a încerca din nou.</string>
+    <string name="refuse_accept">Nu sunt de acord</string>
     <string name="request_all_permission_content">"Mi Mover trebuie să poată accesa următoarele elemente pentru a putea transfera elemente pe un nou dispozitiv:
 - Locație
 - Contacte
@@ -756,7 +761,13 @@ Eliberați cel puțin %s."</string>
     <string name="sender_finish_title">Transfer încheiat cu succes</string>
     <string name="sender_scanning_code">Plasați imaginea în cadrul ramei</string>
     <string name="sender_scanning_connecting">Se conectează cu noul dispozitiv…</string>
+    <string name="set_app_suspend">Se face backup pentru această aplicație acum. Așteptați până când backupul este complet și încercați din nou.</string>
     <string name="set_new_device_account">Sincronizați în contul Xiaomi</string>
+    <string name="set_new_device_lock">Setați blocarea ecranului</string>
+    <string name="set_new_device_more">Mai multe setări de sistem…</string>
+    <string name="set_new_device_navigationbar">Setați navigarea în sistem</string>
+    <string name="set_new_device_title">Se configurează noul dispozitiv…</string>
+    <string name="set_new_device_wlan">Setați Wi-Fi-ul</string>
     <string name="settings_phone">Setările telefonului</string>
     <string name="settings_powerkeeper">Date numărare pași</string>
     <string name="settings_sms">Setări mesagerie</string>

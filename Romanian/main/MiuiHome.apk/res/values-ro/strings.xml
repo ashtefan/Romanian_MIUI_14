@@ -244,6 +244,8 @@
     <string name="close_multi_finger_slide_summary">Aceste gesturi vor fi ignorate în unele scenarii (de exemplu, jocuri și redarea videoclipurilor)</string>
     <string name="close_multi_finger_slide_title">Nu răspunde la gesturi cu trei și patru degete</string>
     <string name="cloud_app_restore_title">În așteptare</string>
+    <string name="color_group">Grupați pictogramele după culoare</string>
+    <string name="color_group_anim">Animații în categorii de culori</string>
     <string name="common_google_play_services_unknown_issue">%1$s are probleme cu serviciile Google Play. Vă rugăm să încercați din nou.</string>
     <string name="common_home_search_delete">Se elimină bara de căutare</string>
     <string name="common_home_search_delete_cancle">Renunțați</string>
@@ -344,7 +346,7 @@
     <string name="failed_to_delete_temporary">"Nu s-a putut elimina"</string>
     <string name="failed_to_drop">"Mutare eşuată"</string>
     <string name="failed_to_drop_widget_invalid">Obiect widget nevalid</string>
-    <string name="failed_to_load_image">"Nu s-a putut încărca imaginea"</string>
+    <string name="find_app_by_color">Grupați pictogramele după culoare pentru a găsi aplicațiile mai rapid</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
@@ -423,6 +425,8 @@
     <string name="free_style_enter_tip">Glisaţi în jos cu două degete pentru a vizualiza Mi Space</string>
     <string name="free_style_exit_tip">Glisaţi în sus cu două degete pentru a vă reîntoarce la ecranul de pornire</string>
     <string name="free_style_londing_text">Încărcare…</string>
+    <string name="free_style_title">Mi Space</string>
+    <string name="free_style_unavailable_message">Mi Space nu mai este acceptat în această versiune. Totuși, puteți continua să utilizați această temă.</string>
     <string name="friday">Vineri</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>

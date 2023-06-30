@@ -10,7 +10,6 @@
     <string name="CurrentDsiAnt3">\u0009Ant3</string>
     <string name="CurrentDsiAnt4">\u0009Ant4</string>
     <string name="CurrentDsiAnt5">\u0009Ant5</string>
-    <string name="CurrentDsiOtherAnt">\u0009Alte Antene</string>
     <string name="DSI_setting">DSI</string>
     <string name="GPIO_Status">\u0009\u0009Stare_GPIO</string>
     <string name="FpTest">Rulează FpTest</string>
@@ -221,17 +220,21 @@ Este posibil ca echipamentul de testare să nu accepte %1$s, se recomandă să r
     <string name="cit_audio_hw_check_summary">Test de verificare a hardware-ului audio</string>
     <string name="cit_audio_hw_check_tips">Test în derulare</string>
     <string name="cit_audio_hw_check_title">Test de verificare a hardware-ului audio</string>
+    <string name="cit_audio_lb_auxmic_to_earpiece_title">Test de feedback pentru difuzorul microfonului auxiliar</string>
     <string name="cit_audio_lb_backmic_to_earpiece_title">Test de feedback pentru difuzorul microfonului din spate</string>
     <string name="cit_audio_lb_mainmic_to_earpiece_title">Test microfon principal</string>
+    <string name="cit_audio_lb_summary_auxmic_to_earpiece">"Test de feedback pentru microfonul auxiliar la receptor.
+
+Țineți dispozitivul ca și cum ați efectua un apel, vorbiți la microfonul auxiliar, ar trebui să auziți vocea de la receptor"</string>
     <string name="cit_audio_lb_summary_backmic_to_earpiece">"Test feedback microfon din spate către receptor.
 
-Țineți dispozitivul ca și cum ați efectua un apel, vorbiți la microfonul principal, ar trebui să auziți vocea de la receptor"</string>
+Țineți dispozitivul ca și cum ați efectua un apel, vorbiți la microfonul posterior, ar trebui să auziți vocea de la receptor"</string>
     <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Test microfon principal.
 
 Țineți telefonul ca și cum ați efectua un apel, vorbiți în microfonul principal și ar trebui să auziți vocea de la receiver"</string>
     <string name="cit_audio_lb_summary_topmic_to_earpiece">"Test feedback microfon de sus către receptor.
 
-Țineți dispozitivul ca și cum ați efectua un apel, vorbiți la microfonul principal, ar trebui să auziți vocea de la receptor"</string>
+Țineți dispozitivul ca și cum ați efectua un apel, vorbiți la microfonul din partea superioară, ar trebui să auziți vocea de la receptor"</string>
     <string name="cit_audio_lb_topmic_to_earpiece_title">Test feedback pentru difuzorul de sus</string>
     <string name="cit_audio_left_caldata">"Date calibrare PA stânga:
 "</string>
@@ -792,6 +795,7 @@ După ce plasați fișierul \"music.mp3\" în directorul cardului SD, atingeți 
     <string name="cit_tool_wlan_rxn_test">Rx: n</string>
     <string name="cit_tool_wlan_rxn_test_bw">bandwidth:</string>
     <string name="cit_tool_wlan_rxn_test_channel">channel:</string>
+    <string name="cit_tool_wlan_sar_test_title">Unealtă Wifi-SAR</string>
     <string name="cit_tool_wlan_sniffer">Wi-Fi Sniffer tool</string>
     <string name="cit_tool_wlan_sniffer_settings">Sniffer Settings</string>
     <string name="cit_tool_wlan_sniffer_test_title">Wi-Fi sniffer test tool</string>

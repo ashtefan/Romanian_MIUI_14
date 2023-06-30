@@ -473,6 +473,7 @@ Dacă țineți apăsat butonul timp de %s secunde, veți deschide meniul de opri
     <string name="screen_key_press_action">Funcția de declanșare</string>
     <string name="screen_shot">Realizați o captură de ecran</string>
     <string name="search_menu_title">Căutați</string>
+    <string name="search_screen_shot">Capturi de ecran</string>
     <string name="seek_bar_info">Ajustați dimensiunea</string>
     <string name="send">Trimiteți</string>
     <string name="settings_keyboard_title">Tastatură</string>
