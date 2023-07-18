@@ -177,6 +177,8 @@
     <string name="open_app">Deschideți aplicația</string>
     <string name="pm">PM</string>
     <string name="prompt">Solicitare de conexiune.</string>
+    <string name="sanitized_vpn_label">%1$s ( %2$s)</string>
+    <string name="sanitized_vpn_label_with_ellipsis">%1$s… ( %2$s)</string>
     <string name="saturday">Sâmbătă</string>
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>

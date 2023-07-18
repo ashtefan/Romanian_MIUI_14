@@ -332,9 +332,10 @@
     <string name="fmt_weekday_time_timezone">zW T</string>
     <string name="fmt_weekday_timezone">zW</string>
     <string name="folder_exist">Un dosar cu acelaşi număr există deja</string>
-    <string name="folder_operation_delete">Ștergeți</string>
+    <string name="folder_note">Dosar notițe</string>
     <string name="folder_operation_rename">Redenumiți</string>
-    <string name="force_touch_menu_add">Adăugați o notiță</string>
+    <string name="folder_other">Alte dosare</string>
+    <string name="foler_pinned">Dosare fixate</string>
     <string name="format_move_note_out_folder">Această notiță a fost mutată</string>
     <string name="format_move_note_to_folder">Mutată în %1$s</string>
     <string name="frequently_click_tips">Prea repede! Așteptați un minut sau două și încercați din nou.</string>
@@ -601,6 +602,7 @@
     <string name="mtrl_picker_toggle_to_year_selection">Atingeți pentru a comuta la selectarea unui an</string>
     <string name="network_error_info">A apărut o eroare de rețea. Verificați setările de rețea și încercați din nou.</string>
     <string name="network_timeout_info">Nu s-a putut conecta la rețea. Încercați din nou.</string>
+    <string name="new_alert_title_delete">Ștergeți notițele</string>
     <string name="new_app_name">Notițe Mi</string>
     <string name="new_audio_create_cancel_talkback_des">Anulată</string>
     <string name="new_audio_create_done_talkback_des">Creată</string>
@@ -608,6 +610,7 @@
     <string name="new_audio_create_talkback_des">Atingeți pentru a crea o notiță text. Apăsați și mențineți apăsat pentru a crea o notiță vocală. Eliberați butonul pentru a opri înregistrarea și a crea o notiță sau glisați în sus pentru a anula.</string>
     <string name="new_data_empty_note">Niciun element aici încă</string>
     <string name="new_lite_audio_create_talkback_des">Atingeți pentru a crea o notiță</string>
+    <string name="new_sync_desc_state_disable">Activați sincronizarea în cloud pentru notițee, sarcini și multe altele</string>
     <string name="night">Seară</string>
     <string name="no_network">Nu se poate conecta la rețea</string>
     <string name="noon">Amiază</string>

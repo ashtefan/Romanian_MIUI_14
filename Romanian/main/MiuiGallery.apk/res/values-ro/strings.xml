@@ -157,7 +157,7 @@
     <string name="album_favorites_name">Favorite</string>
     <string name="album_from_format">Din %s</string>
     <string name="album_hidden_item_button_title">Afișați</string>
-    <string name="album_hidden_page_title">Ascundeți</string>
+    <string name="album_hidden_page_title">Albume ascunse</string>
     <string name="album_homepage_show_all_photos">Afișează toate fotografiile</string>
     <string name="album_jump_failed">Așteptați finalizarea sincronizării albumelor în cloud și încercați din nou</string>
     <string name="album_lockscreen_wallpapers">Imagini de fundal în Blocarea ecranului</string>
@@ -2640,7 +2640,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="search_syncing">Se sincronizează datele; reveniți după o vreme</string>
     <string name="search_title_album">Album</string>
     <string name="search_title_app_screenshot">Capturi de ecran din aplicații</string>
-    <string name="search_title_daily">ora</string>
+    <string name="search_title_daily">Ora</string>
     <string name="search_title_history">Căutați în istoric</string>
     <string name="search_title_location">Locații</string>
     <string name="search_title_more">Mai mult</string>

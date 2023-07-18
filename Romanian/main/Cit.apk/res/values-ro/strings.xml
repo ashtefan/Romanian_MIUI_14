@@ -441,8 +441,10 @@ Atingeți ecranul pentru a porni GPS-ul…"</string>
   <string name="cit_headset_pull_detect_summary">When headphones are disconnected, the text \"Headphones have been disconnected\" should be displayed below</string>
   <string name="cit_headset_pull_detect_title">Headphone detection (disconnect)</string>
   <string name="cit_headset_pull_finish">Headphones have been disconnected</string>
-  <string name="cit_headset_pull_hint">Disconnect headphones now</string>
-  <string name="cit_hide_menu">Hide menu</string>
+    <string name="cit_headset_pull_finish_test">Căști deconectate, test terminat</string>
+    <string name="cit_headset_right_hph_val">Valoarea impedanței canalului dreapta：</string>
+    <string name="cit_horn_motor_test">Test motor claxon</string>
+    <string name="cit_hvdcp_charger_in">Încărcare prin (USB_HVDCP)</string>
     <string name="cit_init_fp_fod_test_tip">Mediu de Testare Inițială pentru Amprentă</string>
     <string name="cit_ispv3_test">Test ISPv3</string>
   <string name="cit_kayboard_volume_down">Button: VOLUME DOWN</string>
@@ -1012,6 +1014,11 @@ Evaluați rezultatul testului faceți clic pe butonul de trecere sau eșuare"</s
     <string name="test_aux_mic">AUX MIC</string>
     <string name="test_back_mic">MIC posterior</string>
     <string name="test_bottom_speaker">difuzor inferior</string>
+    <string name="test_front_mic">Microfon frontal</string>
+    <string name="test_horn_motor_summary">"Veți auzi două numere aleatorii
+Vă rugăm să faceți click pe butonul corespunzător în funcție de numărul pe care îl auziți
+Selectați butonul corect în funcție de diferitele condiții de vibrație"</string>
+    <string name="test_main_mic">Microfon principal</string>
     <string name="test_sidebottom_mic">Microfonul din partea de jos</string>
     <string name="test_sidetop_mic">Microfonul din partea de sus</string>
     <string name="test_top_speaker">difuzor superior</string>

@@ -148,6 +148,7 @@
     <string name="invisible_mode_dialog_title">Sunteți în modul incognito</string>
     <string name="keywords_search_compass">Busolă;Calibrare busolă;Presiune;Altitudine;Latitudine;Longitudine;Verificare longitudine; Verificare latitudine;Busolă MIUI;Aplicația Busolă;Aplicația de busolă MIUI;Unde este Busola;Descărcați aplicația Busolă;Presiune atmosferică; Verificare altitudine;Care este altitudinea</string>
     <string name="latitude">Latitudine</string>
+    <string name="live_action">Previzualizare live</string>
     <string name="location_east">Est</string>
     <string name="location_enable">Permiteţi</string>
     <string name="location_enable_later">Mai târziu</string>
@@ -156,6 +157,8 @@
     <string name="location_not_enabled_summary">Aplicația Busolă are nevoie de informaţii despre locație pentru a afișa coordonatele și altitudinea.</string>
     <string name="location_not_enabled_summary_no_pressure_sensor">Aplicația Busolă trebuie să vă acceseze locația pentru a afișa coordonatele curente.</string>
     <string name="location_not_enabled_title">Servicii de localizare</string>
+    <string name="location_permission_tip_one">Atingeți pentru a acorda permisiunea de localizare, pentru a vedea latitudinea, longitudinea, presiunea aerului și altitudinea.</string>
+    <string name="location_permission_tip_two">Atingeți pentru a acorda permisiunea de localizare, pentru a vedea latitudinea și longitudinea.</string>
     <string name="location_south">Sud</string>
     <string name="location_west">Vest</string>
     <string name="longitude">Longitudine</string>
@@ -230,7 +233,13 @@
     <string name="month_september_shortest">Sep</string>
     <string name="more">Mai mult</string>
     <string name="morning">Dimineață</string>
+    <string name="network_dialog_message">Aplicația Busolă trebuie să se conecteze la internet pentru a accesa date mai precise despre altitudine. Permiteți acum?</string>
+    <string name="network_dialog_negative">Nu permiteți</string>
+    <string name="network_dialog_positive">Permiteți</string>
+    <string name="network_dialog_title">Permisiuni necesare</string>
     <string name="new_cta_app_purpose">vedeți direcțiile și coordonatele</string>
+    <string name="new_cta_app_purpose_one">Bun venit în aplicația Busolă! Puteți utiliza această aplicație pentru a localiza direcțiile cardinale, latitudinea, longitudinea, presiunea aerului și altitudinea. Această aplicație trebuie să se conecteze la internet pentru a-și furniza serviciile.</string>
+    <string name="new_cta_app_purpose_two">Bun venit în aplicația Busolă! Puteți utiliza această aplicație pentru a localiza direcțiile cardinale, latitudinea și longitudinea. Această aplicație trebuie să se conecteze la internet pentru a-și furniza serviciile.</string>
     <string name="new_cta_v2_app_purpose">Se afișează direcțiile, coordonatele, presiunea atmosferică și altitudinea curentă</string>
     <string name="new_permission_camera_desc">Pentru calibrare</string>
     <string name="new_permission_location_desc">Pentru afișarea coordonatelor</string>
@@ -344,6 +353,8 @@
     <string name="unit_degree">Grade</string>
     <string name="using_camera_confirm_cancel">Opriţi</string>
     <string name="using_camera_confirm_ok">De acord</string>
+    <string name="v2_permission_location_desc_one">Pentru afișarea latitudinii, longitudinii, altitudinii și a presiunii atmosferice</string>
+    <string name="v2_permission_location_desc_two">Pentru afișarea latitudinii și a longitudinii</string>
     <string name="v7_preference_off">OPRIT</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="wednesday">Miercuri</string>
