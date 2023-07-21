@@ -219,6 +219,8 @@
     <string name="declaration_title">Termeni și Condiții de utilizare</string>
     <string name="delete_pic">Ștergeți imaginea</string>
     <string name="deny_des">Caruselul de imagini de fundal trebuie să poată accesa Galeria pentru a funcționa în mod normal.</string>
+    <string name="detail_ad_download_btn">Descărcați</string>
+    <string name="detail_ad_open_btn">Deschideți</string>
     <string name="detail_ad_type_ad">RECLAME</string>
     <string name="detail_ad_type_close_ad">Închideți reclama</string>
     <string name="detail_ad_type_video">Videoclipuri populare</string>
@@ -516,15 +518,16 @@ mm"</string>
 mm"</string>
     <string name="miuix_access_state_desc">Selectat</string>
     <string name="miuix_alphabet_indexer_name">Bara de index</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mai multe</string>
     <string name="miuix_appcompat_cancel_description">Renunțați</string>
     <string name="miuix_appcompat_confirm_description">Confirmați</string>
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
-    <string name="miuix_appcompat_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
+    <string name="miuix_appcompat_edit">Editați</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
     <string name="miuix_appcompat_search_input_description">Căutați</string>
     <string name="miuix_appcompat_select_all">Selectați tot</string>

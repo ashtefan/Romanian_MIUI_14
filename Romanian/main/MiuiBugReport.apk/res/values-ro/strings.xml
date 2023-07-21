@@ -79,14 +79,14 @@
     <string name="bugreport_dialog_informed_consent_content">Am detectat o eroare privind parola ecranului de blocare. Puteți trimite jurnalele dispozitivului dvs. pentru a ne ajuta să găsim și să rezolvăm problema. Informațiile din jurnal vor fi încărcate anonim, vor fi folosite numai pentru depanare și vor fi șterse după finalizarea depanării.</string>
     <string name="bugreport_dialog_informed_consent_title">Consimțământ informat</string>
     <string name="bugreport_dialog_not_show_again">"Nu arăta din nou"</string>
-    <string name="bugreport_dialog_submit_content"><Data>În prezent salvați jurnale software pe acest dispozitiv. Jurnalele pot conține informații personale și date despre locație. Nu partajați cu nimeni jurnalele dacă nu doriți ca aceste informații să fie expuse. Selectând \"De acord\" înseamnă că ați citit și sunteți de acord cu &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a> și &lt;a href=\"%2$s\">Acordul utilizatorului&lt;/a>.</Data></string>
+    <string name="bugreport_dialog_submit_content">&lt;Data>În prezent salvați jurnale software pe acest dispozitiv. Jurnalele pot conține informații personale și date despre locație. Nu partajați cu nimeni jurnalele dacă nu doriți ca aceste informații să fie expuse. Selectând \"De acord\" înseamnă că ați citit și sunteți de acord cu &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a> și &lt;a href=\"%2$s\">Acordul utilizatorului&lt;/a>.&lt;/Data></string>
     <string name="bugreport_dump_complete_notification_summary">Apăsaţi pentru a vizualiza.</string>
     <string name="bugreport_dump_complete_notification_title">Raport de probleme creat</string>
     <string name="bugreport_dump_start_notification_summary">Acest lucru poate dura câteva minute.</string>
     <string name="bugreport_dump_start_notification_title">Creare raport…</string>
     <string name="bugreport_tool_log_dumping_desc">Durează aproximativ un minut</string>
     <string name="bugreport_tool_log_dumping_title">Se crează raportul cu erori</string>
-    <string name="can_not_add_more_image">Nu se mai pot adăuga imagini/videoclipuri</string>
+    <string name="can_not_add_more_image">Nu se mai pot adăuga fotografii sau videoclipuri</string>
     <string name="catch_full_log_action_cancel">Renunțare</string>
     <string name="catch_full_log_action_complete">Finalizare și încărcare</string>
     <string name="catch_full_log_action_start">Începeți</string>
@@ -151,7 +151,7 @@
     <string name="cta_confirm">OK</string>
     <string name="cta_dialog_content">Această aplicație trebuie să se conecteze la internet pentru a funcţiona în mod normal.</string>
     <string name="cta_dialog_title">Conexiune internet</string>
-    <string name="cta_message"><Data>Pentru a putea funcționa normal, Feedback trebuie să se conecteze la internet. Această aplicație poate solicita, de asemenea, permisiunea de a vă accesa locația. Citiți și acceptați &lt;a href=\"%1$s\">Politica de confidențialitate&lt;/a> și &lt;a href=\"%2$s\">Acordul de utilizare&lt;/a> înainte de a continua.</Data></string>
+    <string name="cta_message">&lt;Data>Pentru a putea funcționa normal, Feedback trebuie să se conecteze la internet. Această aplicație poate solicita, de asemenea, permisiunea de a vă accesa locația. Citiți și acceptați &lt;a href=\"%1$s\">Politica de confidențialitate&lt;/a> și &lt;a href=\"%2$s\">Acordul de utilizare&lt;/a> înainte de a continua.&lt;//Data></string>
     <string name="cta_not_show_again">"Nu arăta din nou"</string>
     <string name="customer_service_apply">Solicitați asistență clienți</string>
     <string name="customer_service_complain">Raportați serviciu clienți</string>
@@ -168,18 +168,18 @@ Trimiteți acest cod supervizorului."</string>
     <string name="discard_draft_dialog_content">"Orice modificări pe care le-ați făcut în acest raport vor fi pierdute."</string>
     <string name="discard_draft_dialog_title">Renunţaţi la schiţă?</string>
     <string name="doing_query_account">Se verifică informațiile despre cont…</string>
-    <string name="dynamic_dialog_content">Sunteți pe cale să deschideți funcția jurnal dinamic, care aparține modulului special de captare a problemelor și conține informații despre înregistrarea programului care rulează (inclusiv apeluri de sistem etc.). După ce jurnalul dinamic este activat, sistemul poate avea probleme precum întârziere și încălzire (ceea ce este normal). După ce captarea jurnalului este terminată, sistemul se va opri automat. Vă rugăm să fiți precaut și să trimiteți feedback imediat ce problema reapare. Selectând opțiunea De acord de mai jos, acceptați să colectăm datele de mai sus pentru următoarea sesiune de înregistrare și să ni le trimitem pentru a rezolva problema dvs. de feedback</string>
+    <string name="dynamic_dialog_content">Sunteți pe cale să începeți să generați jurnalele dinamice. Acestea conțin înregistrări ale operațiunilor software (cum ar fi apelurile de sistem). În timp ce se generează jurnalele dinamice, dispozitivul dvs. se poate bloca sau se poate încălzi, ceea ce este normal. Odată ce jurnalele sunt generate, această funcție va fi dezactivată. Nu uitați să trimiteți feedback-ul la timp dacă problema reapare. Atingând butonul \"De acord\" de mai jos, sunteți de acord că vom colecta datele de mai sus în timp ce generăm jurnalele și apoi le vom încărca pe serverele noastre pentru a ajuta la diagnosticarea și rezolvarea problemelor pe care le-ați raportat.</string>
     <string name="dynamic_dialog_negative_text">Nu sunt de acord</string>
-    <string name="dynamic_dialog_notification_text">Vă rugăm să trimiteți feedback la timp după ce problema reapare. Funcția va fi închisă automat</string>
-    <string name="dynamic_dialog_notification_title">Preluarea dinamică a jurnalelor este activată</string>
+    <string name="dynamic_dialog_notification_text">Odată ce jurnalele sunt generate, această funcție va fi dezactivată</string>
+    <string name="dynamic_dialog_notification_title">Se generează jurnalele dinamice…</string>
     <string name="dynamic_dialog_positive_text">De acord</string>
-    <string name="dynamic_dialog_title">Notă de confidențialitate</string>
+    <string name="dynamic_dialog_title">Declarație de confidențialitate</string>
     <string name="dynamic_log_float_dump_SF">dump surfaceflinger</string>
     <string name="dynamic_log_float_dump_activity">dump activity</string>
     <string name="dynamic_log_float_dump_window">dump window</string>
-    <string name="dynamic_log_load_text">Se încarcă...</string>
-    <string name="dynamic_log_restore_toast_text">Dispozitivul restaurează jurnalul dinamic, vă rugăm să îl încercați mai târziu!</string>
-    <string name="dynamic_log_title">Jurnal dinamic</string>
+    <string name="dynamic_log_load_text">Doar o secundă…</string>
+    <string name="dynamic_log_restore_toast_text">Se restaurează jurnalele dinamice…</string>
+    <string name="dynamic_log_title">Jurnale dinamice</string>
     <string name="early_morning">Dimineață</string>
     <string name="err_type">Tipul problemei</string>
     <string name="err_type_app">Aplicaţii</string>
@@ -404,6 +404,10 @@ Trimiteți acest cod supervizorului."</string>
     <string name="i_know">OK</string>
     <string name="identity">Identificare</string>
     <string name="inconsistent_pwd">Parolele nu se potrivesc</string>
+    <string name="icon_add_description">Adăugați o scurtătură pe Ecranul de pornire</string>
+    <string name="icon_remove_confirm">Eliminați</string>
+    <string name="icon_remove_description_content">"\"Servicii și feedback\" este o aplicație de sistem. O veți putea folosi în continuare din Setări după ce eliminați comanda rapidă de pe ecranul de pornire.</string>
+    <string name="icon_remove_description_title">Eliminați \"Servicii și feedback\" de pe Ecranul principal?</string>
     <string name="input_email_address_notice">Vom utiliza această adresă de e-mail pentru a vă verifica contul</string>
     <string name="input_new_pwd">Introduceți noua parolă</string>
     <string name="isornot_your_mi_account">Acesta este contul dvs. Mi?</string>
@@ -444,6 +448,8 @@ Trimiteți acest cod supervizorului."</string>
     <string name="max_error">Descrierea %1$s ar trebui să fie mai scurtă.</string>
     <string name="menu_copy">Copiaţi</string>
     <string name="message_label">Mesaj</string>
+    <string name="mi_service_app_name">Servicii și feedback</string>
+    <string name="mi_service_back">Înapoi</string>
     <string name="mi_service_dialog_cancel">Ieșire</string>
     <string name="mi_service_dialog_confirm">Deschideți</string>
     <string name="mi_service_dialog_content">Toate caracteristicile de feedback au fost mutate în noua aplicație \"Servicii și feedback\". Aplicația Feedback va fi înlăturată de pe Ecranul principal. Atingeți butonul \"Deschideți\" pentru a testa \"Servicii și feedback\".</string>
@@ -511,6 +517,99 @@ Trimiteți acest cod supervizorului."</string>
     <string name="michat_wait_for_a_moment">Doar o secundă, rezolvarea e pe drum!</string>
     <string name="michat_webview_title">Vizualizați detaliile</string>
     <string name="midnight">Noapte</string>
+    <string name="mishop_login_other">Alt Cont</string>
+    <string name="miui_feedback_answer_detail_community">Puteți găsi răspunsuri la întrebările dvs. în Comunitatea Xiaomi</string>
+    <string name="miui_feedback_answer_detail_feedback_resolved">Da</string>
+    <string name="miui_feedback_answer_detail_feedback_result">Mulțumim pentru raport!</string>
+    <string name="miui_feedback_answer_detail_feedback_title">V-a ajutat această informație?</string>
+    <string name="miui_feedback_answer_detail_feedback_unresolved">Nu</string>
+    <string name="miui_feedback_answer_detail_menu_online_service">Obțineți ajutor online</string>
+    <string name="miui_feedback_answer_detail_menu_phone_service">Sunați la Relații clienți</string>
+    <string name="miui_feedback_answer_detail_relative_tip">Informații asociate</string>
+    <string name="miui_feedback_answer_detail_title">Detalii</string>
+    <string name="miui_feedback_edit_action_submit">Trimiteți</string>
+    <string name="miui_feedback_edit_add_original_images">Adăugați o fotografie</string>
+    <string name="miui_feedback_edit_add_original_images_dialog_content">Dacă problema pe care o raportați este legată de calitatea imaginii camerei, adăugați o fotografie eșantion originală (nedecupată) pentru a ne ajuta să găsim problema. Adăugați o fotografie acum?</string>
+    <string name="miui_feedback_edit_choose_module">Selectați un element</string>
+    <string name="miui_feedback_edit_choose_module_hint">Necesar</string>
+    <string name="miui_feedback_edit_choose_occurrence_time">Ora</string>
+    <string name="miui_feedback_edit_choose_reproductivity">Reproductibilitate</string>
+    <string name="miui_feedback_edit_choose_third_app_name">Selectați numele aplicației</string>
+    <string name="miui_feedback_edit_contact_info_hint">Număr de telefon/E-mail</string>
+    <string name="miui_feedback_edit_delete_images">Ștergeți imagini</string>
+    <string name="miui_feedback_edit_desc_hint">Descrieți problema pe care ați întâmpinat-o</string>
+    <string name="miui_feedback_edit_desc_hint_suggestion">Spuneți-ne cum ați dori să îmbunătățiți MIUI</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_button_cancel">Rămâneți aici</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_button_discard">Renunțați</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_content">Toate modificările pe care le-ați făcut acestui raport se vor pierde.</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_title">Abandonați schița?</string>
+    <string name="miui_feedback_edit_hint">Raportați erorile de fiecare dată când întâmpinați probleme pentru a ne ajuta să le rezolvăm mai rapid</string>
+    <string name="miui_feedback_edit_hint_gone">Mesaj închis</string>
+    <string name="miui_feedback_edit_hint_optional">Selectați</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Așteptați conectarea la Wi-Fi</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Încărcați</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_content">Se pare că sunteți conectat la o rețea cu plată. Încărcarea jurnalelor poate genera taxe suplimentare.</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_title">Avertisment utilizare date mobile</string>
+    <string name="miui_feedback_edit_need_phone_state_permission">Permiteți aplicației să acceseze informațiile despre dispozitiv pentru a-i permite să vă citească IMEI-ul, ceea ce va ajuta la localizarea problemelor. Atingeți \"OK\" pentru a deschide Setări.</string>
+    <string name="miui_feedback_edit_need_storage_permission">Permiteți aplicației să acceseze spațiul de stocare al dispozitivului pentru a putea atașa imagini și videoclipuri la raportul dvs. Atingeți \"OK\" pentru a deschide Setări.</string>
+    <string name="miui_feedback_edit_permission_denied_title">Permisiuni restricționate: %1$s</string>
+    <string name="miui_feedback_edit_phone_state_permission_name">Accesare informații despre dispozitiv</string>
+    <string name="miui_feedback_edit_reproductivity_everytime">De fiecare dată</string>
+    <string name="miui_feedback_edit_reproductivity_occasionally">Ocazional</string>
+    <string name="miui_feedback_edit_reproductivity_often">Adesea</string>
+    <string name="miui_feedback_edit_reproductivity_once">O dată</string>
+    <string name="miui_feedback_edit_select_images">Adăugați o imagine sau un scurt videoclip</string>
+    <string name="miui_feedback_edit_select_modem_log">Adăugați jurnalele modemului</string>
+    <string name="miui_feedback_edit_select_modem_log_not_select_desc">Nu ați selectat \"Adăugați jurnalele modemului\"</string>
+    <string name="miui_feedback_edit_select_modem_log_select_desc">Ați selectat \"Adăugați jurnalele modemului\"</string>
+    <string name="miui_feedback_edit_select_original_images">Adăugați imginea originală sau un scurt videoclip</string>
+    <string name="miui_feedback_edit_select_problem">Probleme</string>
+    <string name="miui_feedback_edit_select_problem_not_select_desc">Nu ați selectat \"Probleme\"</string>
+    <string name="miui_feedback_edit_select_problem_select_desc">Ați selectat \"Probleme\"</string>
+    <string name="miui_feedback_edit_select_suggestion">Sugestii</string>
+    <string name="miui_feedback_edit_select_suggestion_not_select_desc">Nu ați selectat \"Sugestii\"</string>
+    <string name="miui_feedback_edit_select_suggestion_select_desc">Ați selectat \"Sugestii\"</string>
+    <string name="miui_feedback_edit_select_upload_log">Adăugați jurnale</string>
+    <string name="miui_feedback_edit_select_upload_log_not_select_desc">Nu ați selectat \"Adăugați jurnale\"</string>
+    <string name="miui_feedback_edit_select_upload_log_select_desc">Ați selectat \"Adăugați jurnale\"</string>
+    <string name="miui_feedback_edit_storage_permission_name">Accesarea spațiului de stocare al dispozitivului</string>
+    <string name="miui_feedback_edit_submit_dialog_cancel">Nu sunt de acord</string>
+    <string name="miui_feedback_edit_submit_dialog_confirm">De acord</string>
+    <string name="miui_feedback_edit_submit_dialog_content">"&lt;Data>Trebuie să acceptați &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politica noastră de Confidențialitate&lt;/a> și &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Acordul Utilizatorului&lt;/a> pentru a putea folosi Raportare. Problemele pe care le raportați împreună cu elementele pe care le atașați (ar putea să conțină informații personale, precum și informații despre dispozitiv și rețea) vor fi încărcate pe serverele MIUI. Acest lucru ne va ajuta să găsim și să rezolvăm problemele pe care le raportați.&lt;/Data>"</string>
+    <string name="miui_feedback_edit_submit_dialog_content_global">"&lt;Data>Raportul dvs., împreună cu atașamentele (dacă există) și jurnalele (puteți debifa casetele corespunzătoare pentru articolele pe care nu doriți să le încărcați) vor fi trimise către serverele MIUI. Jurnalele pot conține informații personale și datele despre locația dvs. Selectând \"De acord\" înseamnă că ați citit și acceptați &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Politica noastră de Confidențialitate&lt;/a> și &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Acordul Utilizatorului&lt;/a>.&lt;/Data>"</string>
+    <string name="miui_feedback_edit_submit_dialog_not_show_again">Nu afișa din nou</string>
+    <string name="miui_feedback_edit_submit_dialog_title">Trimiteți raportul</string>
+    <string name="miui_feedback_edit_submit_directly">Trimiteți</string>
+    <string name="miui_feedback_edit_title_occurrence_time">Selectați ora</string>
+    <string name="miui_feedback_edit_title_reproductivity">Selectați reproductibilitatea</string>
+    <string name="miui_feedback_edit_toast_description_required">Descrieți mai întâi problema</string>
+    <string name="miui_feedback_edit_toast_module_required">Selectați un element</string>
+    <string name="miui_feedback_edit_toast_more_desc_required">Descrierea dvs. ar trebui să fie mai lungă</string>
+    <string name="miui_feedback_edit_toast_problem_class_required">Selectați categoria</string>
+    <string name="miui_feedback_edit_toast_third_packagename_required">Introduceți numele aplicației</string>
+    <string name="miui_feedback_main_answer_title">Există un răspuns la această întrebare</string>
+    <string name="miui_feedback_main_customer_service_onfo_for_jp">"Linia fierbinte de service: 0120-300-521
+Program zilnic: 9:00 - 18:00 (cu excepția sărbătorilor legale și programate)
+E-mail: service.jp@xiaomi.com"</string>
+    <string name="miui_feedback_main_frequent_question_title">Întrebări frecvente</string>
+    <string name="miui_feedback_main_item_catch_full_log">Jurnale</string>
+    <string name="miui_feedback_main_item_customer_service">Servicii post-vânzare</string>
+    <string name="miui_feedback_main_item_feedback_list">Raportul meu</string>
+    <string name="miui_feedback_main_menu_view_privacy">Politica de confidențialitate</string>
+    <string name="miui_feedback_main_menu_view_withdraw_consent">Retragerea consimțământului</string>
+    <string name="miui_feedback_main_search_footer">Acestea nu sunt întrebările pe care doriți să le adresați?</string>
+    <string name="miui_feedback_main_search_footer_submit">Trimiteți părerea dumneavoastră</string>
+    <string name="miui_feedback_main_search_issue">Introduceți cuvinte cheie pentru a căuta</string>
+    <string name="miui_feedback_main_search_no_answer">Nu s-au găsit rezultate</string>
+    <string name="miui_feedback_main_start_submit">Trimiteți raportul</string>
+    <string name="miui_feedback_main_submit_dialog_confirm">Trimiteți</string>
+    <string name="miui_feedback_main_submit_dialog_content">Se pare că nu am putut găsi o soluție la problema dvs. Ne puteți trimite părerea dvs.</string>
+    <string name="miui_feedback_main_submit_dialog_title">Trimiteți raportul</string>
+    <string name="miui_feedback_main_title">Raport</string>
+    <string name="miui_feedback_main_withdraw">Retrageți</string>
+    <string name="miui_feedback_main_withdraw_consent_hint">Dacă veți continua, vă veți retrage consimțământul cu privire la Politica de confidențialitate a %1$s. Informațiile personale deja colectate și păstrate vor fi șterse în perioada specifică, în conformitate cu legile și reglementările aplicabile, cu excepția cazului în care se solicită altfel. Întrucât %2$s își oferă serviciile pe baza colectării informațiilor personale necesare, retragerea consimțământului dvs. va fi considerată ca refuz de a accepta serviciile %3$s. Retrageți consimțământul acum?</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -659,7 +758,7 @@ Trimiteți acest cod supervizorului."</string>
     <string name="non_system_app_select">Aplicaţii descărcate</string>
     <string name="noon">Amiază</string>
     <string name="not_set">Nesetat</string>
-    <string name="not_support_service_in_maintenance_mode">Acest serviciu nu este acceptat în modul de întreținere</string>
+    <string name="not_support_service_in_maintenance_mode">Acest serviciu nu este disponibil în modul Întreținere</string>
     <string name="nothing">--</string>
     <string name="ok">OK</string>
     <string name="open_feedback_main">Mai multe</string>
@@ -856,7 +955,26 @@ Trimiteți acest cod supervizorului."</string>
     <string name="passport_wrong_phone_number_format">Formatul numărului de telefon pe care l-ați introdus nu este valid</string>
     <string name="passport_wrong_vcode">Codul pe care l-ați introdus este incorect</string>
     <string name="passport_wrong_voice">Codul pe care l-ați introdus este incorect</string>
-    <string name="password_toggle_content_description">Afișează parola</string>
+    <string name="permission_agree">Accept</string>
+    <string name="permission_china_version_msg">&lt;Data>Înainte de a utiliza aplicația \"Servicii și raportare\", trebuie să citiți și să acceptați &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica noastră de confidențialitate&lt;/a>. Această aplicație trebuie, de asemenea, să se conecteze la internet pentru a funcționa în mod normal.&lt;/Data></string>
+    <string name="permission_complete">Finalizat</string>
+    <string name="permission_contacts_info">Accesarea informațiilor contului</string>
+    <string name="permission_contacts_introduce">Pentru a vă conecta folosind Contul Xiaomi</string>
+    <string name="permission_device_info">Accesarea informațiilor dispozitivului</string>
+    <string name="permission_device_introduce">Pentru stabilirea perioadei de garanție limitată</string>
+    <string name="permission_exit">Ieșiți</string>
+    <string name="permission_external_storage_introduce">Pentru salvarea și încărcarea raportului dvs.</string>
+    <string name="permission_first_start_network_title">Termeni și condiții</string>
+    <string name="permission_imei_disable_desc">Permiteți acestei aplicații să se conecteze la internet.</string>
+    <string name="permission_imei_enable_desc">Permiteți acestei aplicații să se conecteze la internet și acordați permisiunile obligatorii enumerate mai sus.</string>
+    <string name="permission_location_introduce">Pentru afișarea punctelor de service din apropiere</string>
+    <string name="permission_main_purpose">Afișarea demo-urilor de caracteristici MIUI, trimiterea de feedback și aplicarea pentru servicii post-vânzare.</string>
+    <string name="permission_privacy">Politica de confidențialitate (obligatoriu)</string>
+    <string name="permission_region_version_msg">&lt;Data>Înainte de a utiliza aplicația \"Servicii și raportare\", trebuie să citiți și să acceptați &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica noastră de confidențialitate&lt;/a>.&lt;/Data></string>
+    <string name="permission_select_all">Selectați tot</string>
+    <string name="permission_storage">Stocare</string>
+    <string name="permission_storage_introduce">Pentru salvarea articolelor pe dispozitiv</string>
+    <string name="permission_user_protocol">Acordul utilizatorului (obligatoriu)</string>
     <string name="phone_auto_login_register_with_local_number">Creați un cont</string>
     <string name="phone_bind_too_many">Acest telefon a fost asociat câtorva conturi Mi într-o perioadă scurtă de timp. Încercați să folosiți alt număr de telefon.</string>
     <string name="phone_hint">Numărul de telefon</string>
@@ -879,6 +997,14 @@ Citiți și acceptați noua versiune a %3$s înainte de a continua."</string>
     <string name="progressbar_title">Se verifică problemele de securitate…</string>
     <string name="protocal_dialog_confirm">De acord</string>
     <string name="protocal_dialog_title">Atenție</string>
+    <string name="public_authorize_now">Setări</string>
+    <string name="public_loading_text">Doar o secundă…</string>
+    <string name="public_net_error_retry">Încercați din nou</string>
+    <string name="public_net_error_sub_title">Verificați setările de rețea și încercați din nou</string>
+    <string name="public_net_error_title">Nu s-a putut conecta la rețea</string>
+    <string name="public_open_feedback_service">Începeți</string>
+    <string name="public_please_authorize">Permisiuni necesare pentru a continua</string>
+    <string name="public_welcome_use_feedback_service">Bine ați venit în aplicația Servicii și raportare! Puteți folosi această aplicație pentru a trimite rapoarte, pentru a vedea întrebările frecvente, pentru a solicita returnări și înlocuiri de produse și multe altele.</string>
     <string name="qq_application_id" />
     <string name="qq_login_btn_content_description">Conectați-vă cu QQ</string>
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
@@ -961,9 +1087,9 @@ Citiți și acceptați noua versiune a %3$s înainte de a continua."</string>
     <string name="stop_full_log_dialog_title">Se generează jurnalele…</string>
     <string name="submit_dialog_cancel">Nu sunt de acord</string>
     <string name="submit_dialog_confirm">De acord</string>
-    <string name="submit_dialog_content"><Data>Citiți și acceptați &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a> și &lt;a href=\"%2$s\">Acordul Utilizatorului&lt;/a> înainte de a trimite feedback. Problemele semnalate, împreună cu elementele atașate (pot conține informații personale, dar și informații despre telefon și rețea) vor fi încărcate pe serverele MIUI. Acest lucru ne ajută să localizăm și să rezolvăm problemele pe care le raportați. Dacă raportați probleme legate de mai multe dispozitive, vor fi încărcate și jurnalele de pe celelalte dispozitive pe care este utilizat contul dvs. Xiaomi.</Data></string>
-    <string name="submit_dialog_content_global"><Data>Feedback-ul dumneavoastră, împreună cu atașamentele(dacă există) și rapoartele cu erori(puteți debifa căsuțele corespunzătoare pentru elementele pe care nu doriți să le încărcați), vor fi încărcate pe serverele MIUI. Rapoartele cu erori pot conține informații personale și despre locație. Selectând \"De acord\" înseamnă că ați citit și sunteți de acord cu &lt;a href=\"%1$s\">Politica de Confidențialitate Xiaomi&lt;/a> și &lt;a href=\"%2$s\">Acordul Utilizatorului&lt;/a>.</Data></string>
-    <string name="submit_dialog_content_global_with_contactinfo"><Data>Feedback-ul dumneavoastră, împreună cu atașamentele(dacă există) și rapoartele cu erori(puteți debifa căsuțele corespunzătoare pentru elementele pe care nu doriți să le încărcați), vor fi încărcate pe serverele MIUI. Rapoartele cu erori pot conține informații personale și despre locație. Selectând \"De acord\" înseamnă că ați citit și sunteți de acord cu &lt;a href=\"%1$s\">Politica de Confidențialitate Xiaomi&lt;/a> și &lt;a href=\"%2$s\">Acordul Utilizatorului&lt;/a>.</Data></string>
+    <string name="submit_dialog_content">"&lt;Data>Citiți și acceptați &lt;a href=\"%1$s\">Politica de Confidențialitate&lt;/a> și &lt;a href=\"%2$s\">Acordul Utilizatorului&lt;/a> înainte de a trimite raportul. Problemele semnalate, împreună cu elementele atașate (pot conține informații personale, dar și informații despre telefon și rețea) vor fi încărcate pe serverele MIUI. Acest lucru ne ajută să localizăm și să rezolvăm problemele pe care le raportați. Dacă raportați probleme legate de mai multe dispozitive, vor fi încărcate și jurnalele de pe celelalte dispozitive pe care este utilizat contul dvs. Xiaomi.&lt;/Data></string>
+    <string name="submit_dialog_content_global">"&lt;Data>Raportul dumneavoastră, împreună cu atașamentele(dacă există) și rapoartele cu erori(puteți debifa căsuțele corespunzătoare pentru elementele pe care nu doriți să le încărcați), vor fi încărcate pe serverele MIUI. Rapoartele cu erori pot conține informații personale și despre locație. Selectând \"De acord\" înseamnă că ați citit și sunteți de acord cu &lt;a href=\"%1$s\">Politica de Confidențialitate Xiaomi&lt;/a> și &lt;a href=\"%2$s\">Acordul Utilizatorului&lt;/a>.&lt;/Data></string>
+    <string name="submit_dialog_content_global_with_contactinfo">"&lt;Data>Raportul dumneavoastră, împreună cu atașamentele(dacă există) și rapoartele cu erori(puteți debifa căsuțele corespunzătoare pentru elementele pe care nu doriți să le încărcați), vor fi încărcate pe serverele MIUI. Rapoartele cu erori pot conține informații personale și despre locație. Selectând \"De acord\" înseamnă că ați citit și sunteți de acord cu &lt;a href=\"%1$s\">Politica de Confidențialitate Xiaomi&lt;/a> și &lt;a href=\"%2$s\">Acordul Utilizatorului&lt;/a>.&lt;/Data></string>
     <string name="submit_dialog_not_show_again">Nu afișa din nou</string>
     <string name="submit_dialog_title">Trimiteţi raportul cu erori</string>
     <string name="submit_feedback_info_failed">"Nu s-a putut trimite raportul"</string>

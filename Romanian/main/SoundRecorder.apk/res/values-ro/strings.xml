@@ -406,6 +406,7 @@ Atingeți „%1$s” și apoi selectați \"%2$s\"."</string>
     <string name="password_toggle_content_description">Afișează parola</string>
     <string name="path_soundrecorder_setting">Aplicații de sistem/Înregistrare</string>
     <string name="pause">Pauză</string>
+    <string name="pause_status_focus_notification">Pus în pauză</string>
     <string name="pay_error_cancel">Plata a fost anulată</string>
     <string name="pay_error_null">"Nu s-a putut finaliza plata. Verificați-vă contul."</string>
     <string name="pay_error_unknown">Eroare necunoscută</string>
@@ -531,6 +532,7 @@ Atingeți „%1$s” și apoi selectați \"%2$s\"."</string>
     <string name="recording_quality_high">Calitate înaltă</string>
     <string name="recording_quality_low">Calitate scăzută</string>
     <string name="recording_quality_standard">Calitate standard</string>
+    <string name="recording_status_focus_notification">Se înregistrează</string>
     <string name="recording_stopped">Înregistrare oprită</string>
     <string name="recording_timer_format_four_sections" formatted="false">%02d:%02d:%02d.%02d</string>
     <string name="recording_timer_format_three_sections" formatted="false">%02d:%02d.%02d</string>
@@ -625,6 +627,7 @@ Atingeți „%1$s” și apoi selectați \"%2$s\"."</string>
     <string name="status_bar_back">Atingeți pentru a reveni la Înregistrare</string>
     <string name="status_bar_recording">Înregistrare…</string>
     <string name="status_bar_recording_pause">Pauză înregistrare</string>
+    <string name="stop_status_focus_notification">Finalizat</string>
     <string name="storage_permission_dialog_title">Sunt necesare permisiuni pentru stocare</string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>

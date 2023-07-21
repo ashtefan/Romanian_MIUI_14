@@ -73,6 +73,7 @@
     <string name="confirm_cancel_task_files">Anulați trimiterea fișierelor către %1$s?</string>
     <string name="confirm_cancel_task_images">Anulați trimiterea imaginilor către %1$s?</string>
     <string name="copy">Copiați</string>
+    <string name="copy_success_toast">Copiat cu succes</string>
     <string name="cta_agree_desc">Permiteți acestei aplicații să se conecteze la internet și acordați permisiunile obligatorii enumerate mai sus.</string>
     <string name="cta_btn_agree">De acord</string>
     <string name="cta_btn_disagree">Refuz</string>

@@ -503,6 +503,8 @@ Expunerea îndelungată la sunete puternice poate cauza probleme de auz."</strin
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
+    <string name="super_volume_text">200 %</string>
+    <string name="super_volume_toast">Amplificarea sunetului este activă</string>
     <string name="switch_bar_off">Oprit</string>
     <string name="switch_bar_on">Pornit</string>
     <string name="system_update">Actualizare de sistem</string>

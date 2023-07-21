@@ -30,7 +30,7 @@
     <string name="actionbar_button_up_description">Înapoi</string>
     <string name="afternoon">După amiază</string>
     <string name="am">AM</string>
-    <string name="app_name">aplicație principală</string>
+    <string name="app_name">blur</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="close">Închideți</string>
     <string name="copy">Copiați</string>
@@ -321,7 +321,7 @@
     <string name="noon">Amiază</string>
     <string name="not_set">Nesetat</string>
     <string name="permission_agree">De acord</string>
-    <string name="permission_china_version_msg"><Data>Înainte de a utiliza aplicația \"Servicii și feedback\", trebuie să citiți și să acceptați &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica noastră de Confidențialitate&lt;/a>. Această aplicație trebuie de asemenea să se conecteze la internet pentru a funcționa în mod normal.</Data></string>
+    <string name="permission_china_version_msg">&lt;Data>Înainte de a utiliza aplicația \"Servicii și feedback\", trebuie să citiți și să acceptați &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica noastră de Confidențialitate&lt;/a>. Această aplicație trebuie de asemenea să se conecteze la internet pentru a funcționa în mod normal.&lt;/Data></string>
     <string name="permission_complete">Finalizat</string>
     <string name="permission_contacts_info">Acces la informațiile despre cont</string>
     <string name="permission_contacts_introduce">Pentru conectarea utilizând Contul Xiaomi</string>
@@ -335,7 +335,7 @@
     <string name="permission_location_introduce">Pentru afișarea punctelor de servicii din apropiere</string>
     <string name="permission_main_purpose">Afișarea prezentărilor funcțiilor MIUI, trimiterea de feedback și aplicarea la servicii post vânzare.</string>
     <string name="permission_privacy">Politica de Confidențialitate (obligatoriu)</string>
-    <string name="permission_region_version_msg"><Data>Înainte de a utiliza aplicația \"Servicii și feedback\", trebuie să citiți și să acceptați &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica noastră de Confidențialitate&lt;/a>.</Data></string>
+    <string name="permission_region_version_msg">&lt;Data>Înainte de a utiliza aplicația \"Servicii și feedback\", trebuie să citiți și să acceptați &lt;a href=%1$s>Acordul Utilizatorului&lt;/a> și &lt;a href=%2$s>Politica noastră de Confidențialitate&lt;/a>.&lt;/Data></string>
     <string name="permission_select_all">Selectați tot</string>
     <string name="permission_storage">Stocare</string>
     <string name="permission_storage_introduce">Pentru salvarea elementelor în dispozitiv</string>

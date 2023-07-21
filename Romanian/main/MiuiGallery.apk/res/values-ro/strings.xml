@@ -2102,6 +2102,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="passport_user_id_hint">E-mail/număr de telefon/ID-ul contului Xiaomi</string>
     <string name="passport_user_id_intro">Introduceți parola pentru %1$s</string>
     <string name="passport_user_password_hint">Parola</string>
+    <string name="passport_vcode_what_app_send_prompt">Codul de verificare WhatsApp va fi trimis pe telefonul de recuperare (&lt;font color=#1F93FF>%s&lt;/font>).</string>
     <string name="passport_wechat_not_install">Instalați mai întâi WeChat</string>
     <string name="passport_wrong_captcha">Codul pe care l-ați introdus este incorect</string>
     <string name="passport_wrong_phone_number_format">Formatul numărului de telefon introdus nu este valid</string>

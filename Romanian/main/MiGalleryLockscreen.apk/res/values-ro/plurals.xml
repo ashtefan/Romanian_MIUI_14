@@ -4,13 +4,13 @@
         <item quantity="other">Cu o oră în urmă</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Cu o oră în urmă</item>
+        <item quantity="other">Cu %d oră în urmă</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">Cu o jumătate de oră în urmă</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Într-o oră</item>
+        <item quantity="other">În %d oră</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">Într-o jumătate de oră</item>
@@ -19,15 +19,15 @@
         <item quantity="other">Imediat</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">în %d minute</item>
-        <item quantity="one">într-un minut</item>
+        <item quantity="other">În %d minute</item>
+        <item quantity="one">În %d minut</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Chiar acum</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">Cu %d minute în urmă</item>
-        <item quantity="one">Cu 1 minut în urmă</item>
+        <item quantity="one">Cu %d minut în urmă</item>
     </plurals>
     <plurals name="article_num">
         <item quantity="other">%d articole</item>
