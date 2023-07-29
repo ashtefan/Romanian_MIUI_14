@@ -89,7 +89,7 @@
     <string name="cancel_moving_dialog_message">Opriți importul acum?</string>
     <string name="cancel_moving_dialog_title">Opriți importul</string>
     <string name="cancel_tranfer">Renunțați</string>
-    <string name="cannot_use_mi_huanji_bacause_of_qqdownloader">Se pare că QQ Downloader este serviciul de rezervă al sistemului dumneavoastră. Dezinstalați-l și reporniți dispozitivul pentru a putea folosi Mi Mover.</string>
+    <string name="cannot_use_mi_huanji_bacause_of_downloader">\"%s\" oferă deja servicii de backup a sistemului. Dezinstalați-l și reporniți dispozitivul pentru a putea folosi Mi Mover.</string>
     <string name="cannot_use_mi_huanji_button">Am înțeles</string>
     <string name="cannot_use_mi_huanji_summary">Se pare că MIUI face copii de rezervă acum. Opriți backup-urile în curs sau reporniți dispozitivul pentru a permite Mi Mover să înceapă transferul.</string>
     <string name="cannot_use_mi_huanji_title">Nu se poate transfera acum</string>
@@ -676,7 +676,9 @@ Deschideți WeChat și mergeți la Eu>Setări>General>Creare copie de rezervă �
     <string name="receiver_finish_detail_button">Vedeți raportul</string>
     <string name="receiver_finish_detail_fail">Nu s-a putut transfera</string>
     <string name="receiver_finish_detail_success">Elementele transferate</string>
+    <string name="receiver_finish_not_transferred">Netransferat</string>
     <string name="receiver_finish_title">Sunteți gata!</string>
+    <string name="receiver_finish_transferred">Transferat</string>
     <string name="receiver_video_summary">Deblocați vechiul dispozitiv, atingeți \"Transferați\", și scanați această imagine</string>
     <string name="receiver_video_title">Transferați de pe vechiul dispozitiv</string>
     <string name="recent_one_year">Ultimul an</string>

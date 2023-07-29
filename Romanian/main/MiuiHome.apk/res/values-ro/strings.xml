@@ -223,7 +223,7 @@
     <string name="cate_order_reset">Resetați</string>
     <string name="category_already_exists">Această categorie există deja</string>
     <string name="category_cannot_empty">Introduceți mai întâi categoria</string>
-    <string name="category_choose_no_app_select_tip">Fiecare categorie trebuie să conțină cel puțin o aplicație.</string>
+    <string name="category_choose_no_app_select_tip">Fiecare categorie trebuie să conțină cel puțin %d aplicație.</string>
     <string name="category_drawer_name_hint">Introduceți numele categoriei</string>
     <string name="category_edit_back_confirm_dialog_content">Salvați modificările acum?</string>
     <string name="category_edit_back_confirm_dialog_negative_button">Nu salva</string>
@@ -901,7 +901,7 @@ Securitate sporită."</string>
     <string name="request_permission_title">Permisiuni necesare</string>
     <string name="reset_cate_tip_content">Dacă veți continua, grupurile implicite de aplicații vor fi restaurate. Continuați oricum?</string>
     <string name="reset_cate_tip_title">Restaurați grupurile implicite</string>
-    <string name="reset_description_first_time">Puteți restaura dispunerea %1$s în 2 ore</string>
+    <string name="reset_description_first_time">Puteți restaura dispunerea %2$s în %1$d ore</string>
     <string name="reset_description_others">Puteți restaura dispunerea %1$s</string>
     <string name="reset_fail">"Nu s-a putut restaura"</string>
     <string name="reset_scene_prompt">Ecranul va fi resetat la aspectul prestabilit.</string>

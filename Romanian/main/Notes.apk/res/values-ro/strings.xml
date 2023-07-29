@@ -48,8 +48,8 @@
     <string name="alarm_bar_title">Memento</string>
     <string name="alert_action_edit_anyway">Editați oricum</string>
     <string name="alert_message_delete">Ştergeţi %1$s?</string>
-    <string name="alert_message_delete_excerpt">Ștergeți această notă? Extrasul va fi șters, de asemenea.</string>
-    <string name="alert_message_delete_note">Ştergeţi această notă?</string>
+    <string name="alert_message_delete_excerpt">Ștergeți această notiță? Extrasul va fi șters, de asemenea.</string>
+    <string name="alert_message_delete_note">Ştergeţi această notiță?</string>
     <string name="alert_message_edit_anyway">Dacă editați această notă, o parte din conținutul său poate fi pierdut.</string>
     <string name="alert_message_edit_anyway_new">Această notă conține detalii neacceptate. Editarea acesteia poate cauza modificări de format sau pierderi de date.</string>
     <string name="alert_message_restore">"Nu s-a putut deschide această notiță. Restaurați-o pentru a edita conținutul."</string>
@@ -602,7 +602,7 @@
     <string name="mtrl_picker_toggle_to_year_selection">Atingeți pentru a comuta la selectarea unui an</string>
     <string name="network_error_info">A apărut o eroare de rețea. Verificați setările de rețea și încercați din nou.</string>
     <string name="network_timeout_info">Nu s-a putut conecta la rețea. Încercați din nou.</string>
-    <string name="new_alert_title_delete">Ștergeți notițele</string>
+    <string name="new_alert_title_delete">Ștergere notițe</string>
     <string name="new_app_name">Notițe Mi</string>
     <string name="new_audio_create_cancel_talkback_des">Anulată</string>
     <string name="new_audio_create_done_talkback_des">Creată</string>

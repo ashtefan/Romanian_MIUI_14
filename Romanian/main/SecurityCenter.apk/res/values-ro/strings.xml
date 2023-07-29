@@ -252,7 +252,7 @@
     <string name="antivirus_third_privacy_title">Politici de confidențialitate terțe</string>
     <string name="antivirus_toast_already_update">La zi</string>
     <string name="antivirus_toast_network_unavailable">"Nu s-a putut conecta la rețea"</string>
-    <string name="antivirus_toast_update_failed">Serverele noastre sunt ocupate. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="antivirus_toast_update_failed">Așteptați un minut sau două și încercați din nou.</string>
     <string name="antivirus_toast_update_success">Actualizată cu succes</string>
     <string name="antivirus_toast_updating">Actualizare…</string>
     <string name="antivirus_update_btn_contiue">Continuați</string>
@@ -450,6 +450,7 @@
     <string name="app_install_intercept">Blocați instalarea</string>
     <string name="app_install_tips_go_to">Deschideți</string>
     <string name="app_install_tips_install_success">%1$s instalate cu succes</string>
+    <string name="app_management_empty_desc">Această aplicație nu acceptă această funcție</string>
     <string name="app_management_for_chain_start">Blocați deschiderea altor aplicații</string>
     <string name="app_management_for_chain_start_desc">Împiedicați această aplicație să se conecteze la sau să deschidă alte aplicații</string>
     <string name="app_management_for_device_id">Ascundeți identificatorii și împiedicați urmărirea</string>
@@ -919,7 +920,8 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="back_sound_data">Activați datele mobile și reîncercați.</string>
     <string name="back_sound_fail">"Nu s-a putut seta. Setările operatorului au fost modificate. Setați cartela SIM curentă ca și SIM pentru date, conectați-vă la rețea și încercați din nou."</string>
     <string name="back_sound_success">Setat cu succes</string>
-    <string name="back_sound_support">"Operatorul rețelei curente nu suportă această opțiune."</string>
+    <string name="back_sound_support">Dezactivați mai întâi Wi-Fi-ul</string>
+    <string name="back_sound_support_china">Dezactivați mai întâi Wi-Fi-ul</string>
     <string name="background_restrict_app_dialog_message">Restricționarea accesului la rețea în fundal pentru această aplicație poate împiedica funcționarea corectă a acesteia, primirea mesajelor, descărcarea conținutului, etc. Restricționați oricum?</string>
     <string name="background_traffic">În fundal: %s</string>
     <string name="backsound_set_hint">Setați mesajul pentru perioada cât sunteți plecat ca %s?</string>
@@ -1173,6 +1175,8 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="cancal_to_setting_fingerprint">Renunțați</string>
     <string name="cancel">Anulaţi</string>
     <string name="cancel_button">Anulaţi</string>
+    <string name="card_main_apkclean_title">Ștergeți pachetele de instalare</string>
+    <string name="card_main_appdataclean_title">Ștergeți datele aplicației</string>
     <string name="card_main_applock_action">Activați</string>
     <string name="card_main_applock_summary">Protejați aplicațiile selectate printr-o parolă.</string>
     <string name="card_main_applock_title">Blocare aplicații</string>
@@ -1184,7 +1188,8 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="card_main_deepclean_wechat_action">Goliți</string>
     <string name="card_main_deepclean_wechat_summary">Goliți cache-ul WeChat pentru a elibera spațiu de stocare</string>
     <string name="card_main_deepclean_wechat_title">Cache WeChat</string>
-    <string name="card_main_deepclean_whatsapp_title">Curățare WhatsApp</string>
+    <string name="card_main_facebookclean_title">Curățare Facebook</string>
+    <string name="card_main_galleryclean_title">Ștergeți fotografiile</string>
     <string name="card_main_gamebooster_summary">Crește stabilitatea conexiunii pentru jocuri</string>
     <string name="card_main_gamebooster_title">Jocuri Turbo</string>
     <string name="card_main_hbassistant_summary">Utilizați această unealtă pentru a apuca mai repede plicurile</string>
@@ -1202,6 +1207,7 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="card_main_private_space_summary">Utilizând Spațiul Secundar e ca și cum ați avea 2 telefoane</string>
     <string name="card_main_private_space_title">Spațiu Secundar</string>
     <string name="card_main_sectool_title">Unelte</string>
+    <string name="card_main_whatsappclean_title">Curățare WhatsApp</string>
     <string name="card_main_xspace_action">Creați</string>
     <string name="card_main_xspace_summary">Creați clone pentru orice aplicații</string>
     <string name="card_main_xspace_title">Aplicații clonate</string>
@@ -1261,6 +1267,8 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="cleaned">Golit</string>
     <string name="clear_garbage">Goliți Coșul de gunoi pentru a elibera spațiu</string>
     <string name="clear_immediately">Curățați acum</string>
+    <string name="clear_instant_app_confirmation">Doriți să eliminați această aplicație instantanee?</string>
+    <string name="clear_instant_app_data">Ștergeți aplicația</string>
     <string name="clear_text_end_icon_content_description">Goliți textul</string>
     <string name="clearable_edittext_clear_description">Goliți</string>
     <string name="click_to_charge_bill">Suplimentați</string>
@@ -1326,6 +1334,7 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="cs_pickup_single_title">Un singur participant</string>
     <string name="cs_pickup_surround_desc">Utilizează AI pentru a reduce zgomotul pentru a oferi un sunet clar și clar</string>
     <string name="cs_pickup_surround_title">Reducerea zgomotului microfonului</string>
+    <string name="cs_screen_translation_title">Traducere ecran</string>
     <string name="cs_title_pickup">Reducerea zgomotului</string>
     <string name="cs_title_smart_subtitle">Transcrierea subtitrărilor</string>
     <string name="cs_title_ultraclear">Mod Ultra HD</string>
@@ -2633,6 +2642,8 @@ din sesiunile dvs. de joc"</string>
     <string name="gtb_exit_game_to_home">Înapoi la Ecranul principal</string>
     <string name="gtb_garbage_clean">Eliberați spațiu de stocare</string>
     <string name="gtb_garbage_cleaned_tip">Eliberați %1$s pentru a crește performanța</string>
+    <string name="gtb_guide_accelerate">Atingeți \"Accelerare\" pentru a vă optimiza jocul</string>
+    <string name="gtb_guide_accelerated_tips">Jocuri Turbo vă optimizează acum experiența de joc</string>
     <string name="gtb_guide_finish">Omiteți</string>
     <string name="gtb_guide_game_mode_tips">Selectați modul de joc preferat</string>
     <string name="gtb_guide_gtb_button_done">Finalizat</string>
@@ -2642,8 +2653,9 @@ din sesiunile dvs. de joc"</string>
     <string name="gtb_guide_gtb_func_title">Game Turbo</string>
     <string name="gtb_guide_gtb_game_effected">Aplicat</string>
     <string name="gtb_guide_gtb_game_new">Nou</string>
-    <string name="gtb_guide_gtb_line_new">Încercați modul Performanță în Game Turbo!</string>
-    <string name="gtb_guide_gtb_line_xspace">Îmbunătățiți-vă jocul cu noul Game Turbo!</string>
+    <string name="gtb_guide_gtb_line_new">Încercați modul Performanță în Jocuri Turbo!</string>
+    <string name="gtb_guide_gtb_line_new_global">Glisați pentru a deschide Jocuri Turbo</string>
+    <string name="gtb_guide_gtb_line_xspace">Îmbunătățiți-vă jocul cu noul Jocuri Turbo!</string>
     <string name="gtb_guide_small_window_app_desc">"Utilizați alte aplicații în timp ce jucați"</string>
     <string name="gtb_guide_small_window_app_title">Ferestre plutitoare</string>
     <string name="gtb_intelligent_garbage_clean">Eliberați spațiul de stocare</string>
@@ -2768,7 +2780,9 @@ pentru a vă alătura vânătorii de ouă!"</string>
     <string name="input_used_max_hint">Introduceţi utilizarea datelor (mai puţin decât %s)</string>
     <string name="install">Instalați</string>
     <string name="install_sucess">%s instalată cu succes</string>
+    <string name="install_text">Instalați</string>
     <string name="install_title">Instalare prin USB</string>
+    <string name="install_type_instant">Aplicație instant</string>
     <string name="installing">Se instalează</string>
     <string name="international_Ad">Reclamă</string>
     <string name="international_roaming_setting">Roaming internaţional</string>
@@ -2810,6 +2824,7 @@ pentru a vă alătura vânătorii de ouă!"</string>
     <string name="label_callwait">Notificare apel în așteptare</string>
     <string name="label_mi_stats">Mi analytics</string>
     <string name="last_check_canceled">Scanarea precedentă a fost anulată</string>
+    <string name="launch_instant_app">Deschideți</string>
     <string name="left_precent">60%</string>
     <string name="legal_workday">Zile de lucru legale</string>
     <string name="legal_workday_invalidate">Lu-Vi (informaţia despre zilele de lucru legale a expirat)</string>
@@ -2989,6 +3004,7 @@ Viteza telefonului a crescut cu %s."</string>
     <string name="menu_charge_bill">Balanță reîncărcare</string>
     <string name="menu_charge_traffic">Achiziționați date</string>
     <string name="menu_edit">Editați</string>
+    <string name="menu_hide_work_profile_text">Ascundeți aplicațiile din spațiul de lucru</string>
     <string name="menu_item_about_content">Versiune %s</string>
     <string name="menu_item_about_privacy_title">Politica de Confidențialitate</string>
     <string name="menu_item_about_summary">Versiune %s</string>
@@ -3016,6 +3032,7 @@ Viteza telefonului a crescut cu %s."</string>
     <string name="menu_remove">Ștergeți</string>
     <string name="menu_report">Raportați eroarea</string>
     <string name="menu_setting_traffic">Setați manual</string>
+    <string name="menu_show_work_profile_text">Afișează aplicațiile din spațiul de lucru</string>
     <string name="menu_sms">Trimiteți mesaj</string>
     <string name="menu_summary_antispam">Blochează apelurile și mesajele</string>
     <string name="menu_summary_antivirus">Căutați viruși în dispozitiv</string>
@@ -3229,7 +3246,7 @@ Puteți dezactiva oricând opțiunea „Ajustare automată a statisticilor de ut
     <string name="network_changed_noti_summary">Se utilizează datele mobile</string>
     <string name="network_changed_noti_title">Deconectat de la Wi-Fi</string>
     <string name="network_connected_exception_title">Testare reţea</string>
-    <string name="network_control">Setările aplicaţiei</string>
+    <string name="network_control">Gestionați conexiunea la rețea</string>
     <string name="network_diagnostics">Testare reţea</string>
     <string name="network_disable_dialog_btn_text">Am înțeles</string>
     <string name="network_disable_dialog_content">Dispozitivul dvs. trebuie să se conecteze la rețea pentru a vă putea retrage consimțământul. Verificați setările de rețea și încercați din nou.</string>
@@ -3440,7 +3457,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="om_settings_memory_occupy_notify_never">Niciodată</string>
     <string name="om_settings_notify_manage">Notificări</string>
     <string name="om_settings_speed_up_auto">Creștere automată a vitezei de reacție</string>
-    <string name="om_settings_title">Setări optimizare</string>
+    <string name="om_settings_title">Setări de creștere a vitezei</string>
     <string name="om_shortcut_added_toast_text">Adăugată cu succes</string>
     <string name="om_shortcut_dialog_summary">RAM Jet vă permite să goliți memoria și să creșteți viteza dispozitivului printr-o simplă apăsare. Adăugați RAM Jet pe Ecranul principal?</string>
     <string name="om_shortcut_dialog_title">RAM Jet</string>
@@ -3607,6 +3624,9 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_high_temp_protection_noti_summary2">Nu se pot folosi punctele de acces acum</string>
     <string name="pc_high_temp_protection_noti_tile">Dispozitivul dvs. este supraîncălzit</string>
     <string name="pc_install_manager">Instalare prin USB</string>
+    <string name="pc_low_batterty_got_it">Am înțeles</string>
+    <string name="pc_low_battery_fast_charge">Accelerează încărcarea</string>
+    <string name="pc_low_battery_fast_charge_summary">Conectați încărcătorul furnizat pentru a accelera încărcarea atunci când ecranul este oprit și bateria este descărcată. Această caracteristică poate provoca încălzirea dispozitivului.</string>
     <string name="pc_main_activity_back">Înapoi</string>
     <string name="pc_main_battery_text_day">S-au adăugat %1$sm, aproximativ %2$sz rămase</string>
     <string name="pc_main_battery_text_day_hour">S-au adăugat %1$sm, aproximativ %2$sz și %3$sh rămase</string>
@@ -3631,6 +3651,11 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_search_keywords_capacity">Capacitatea acumulatorului</string>
     <string name="pc_search_keywords_property">Performanță</string>
     <string name="pc_settings_title">Acumulator</string>
+    <string name="pc_smart_discharge_checkbox_summary">Când utilizați aplicațiile de navigare, încărcarea se va opri automat când bateria atinge un nivel selectat. Această funcție nu va funcționa când Economisirea acumulatorului sau Ultra Economisirea acumulatorului sunt activate.</string>
+    <string name="pc_smart_discharge_checkbox_title">Deconectare automată la încărcare</string>
+    <string name="pc_smart_discharge_drop_down_title">Setări auto-deconectare</string>
+    <string name="pc_smart_discharge_protect_notifi_summary">Pentru a proteja acumulatorul, încărcarea se va opri automat la un nivel selectat atunci când utilizați aplicațiile de navigare</string>
+    <string name="pc_smart_discharge_protect_notifi_title">Deconectarea automată la încărcare este activă</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$dh și %2$dm rămase</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$dh și %2$dm de la ultima încărcare</string>
     <string name="pc_statistics_battery_use_summary">%s de la ultima încărcare completă</string>
@@ -3764,6 +3789,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="phone_manage_clean_title">Curățare</string>
     <string name="phone_manage_electric_summary">Optimizați dispozitivul pentru a economisi acumulatorul</string>
     <string name="phone_manage_electric_title">Acumulator</string>
+    <string name="phone_manage_privacy_title">Protecție confidențialitate</string>
     <string name="phone_manage_recent_use">Utilizat recent</string>
     <string name="phone_manage_special_summary">Explorați funcțiile noastre suplimentare</string>
     <string name="phone_manage_special_title">Caracteristici speciale</string>
@@ -3782,6 +3808,12 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pm_remember_choice">Memorează preferințele</string>
     <string name="pm_root_success_notification_infomation">Asigurați-vă că v-ați informat temeinic în legătură cu riscurile pe care le are accesul la root</string>
     <string name="pm_root_success_notification_title">Acces root permis</string>
+    <string name="popular_action_anti_spam_title_global">Blochează apelurile și mesajele</string>
+    <string name="popular_action_app_lock_title_global">Protejează aplicațiile cu Blocarea aplicațiilor</string>
+    <string name="popular_action_card_title">Caracteristici populare</string>
+    <string name="popular_action_first_aid_title_global">Pentru utilizatorii noi</string>
+    <string name="popular_action_net_assistant_title_global">Monitorizează viteza rețelei</string>
+    <string name="popular_action_video_clean_title_global">Goliți memoria cache video pentru a elibera spațiu</string>
     <string name="power_5g_popups_content">Rețelele 5G oferă viteză mare de conectare și latență mai mică.</string>
     <string name="power_5g_popups_title">Utilizați rețele 5G</string>
     <string name="power_ambient_display">Afișaj activ permanent</string>
@@ -5206,6 +5238,8 @@ Retrageți consimțământul acum?"</string>
     <string name="stop_collecting_data_detail">Tastatura nu va colecta date pentru îmbunătățirea tastării predictive și pentru a sugera fraze frecvente pe baza obiceiurilor dvs.</string>
     <string name="stop_milink_connect">S-a oprit proiectarea</string>
     <string name="storage_activity_title">Spațiul de stocare</string>
+    <string name="storage_activity_title_personage">Personal</string>
+    <string name="storage_activity_title_work">Servici</string>
     <string name="storage_app_detail_activity_title">Spațiul ocupat</string>
     <string name="storage_app_detail_cache">Cache</string>
     <string name="storage_app_detail_clear_all_data">Goliți toate datele</string>

@@ -635,6 +635,7 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="contextmenu_webpage_pdf">Salvați ca .pdf</string>
     <string name="contextmenu_webpage_snapshot">Salvați pagina</string>
     <string name="continue_reading">Continuați lectura</string>
+    <string name="continue_watch_video">Continuați vizionarea</string>
     <string name="copy">Copiați</string>
     <string name="copy_toast_msg">Link copiat în clipboard</string>
     <string name="copy_url">Copiaţi URL</string>
@@ -1991,7 +1992,7 @@ Părăsiți această pagină acum?"</string>
     <string name="notification_download_completed">Descărcat cu succes</string>
     <string name="notification_download_failed">Nu s-a putut descărca.</string>
     <string name="notification_wechat_expired_empty">WeChat a șters deja aceste videoclipuri.</string>
-    <string name="notifications">Notificări</string>
+    <string name="notify_rencet_play">Redate recent</string>
     <string name="novel_continue_read_popup">Citiți</string>
     <string name="novel_tab_popup">Vedeți aici cele mai noi cărți</string>
     <string name="novel_tab_popup_ok">OK</string>
@@ -3181,6 +3182,7 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="snapshot_failed">"Nu s-a putut salva pagina"</string>
     <string name="snapshot_successed">Deschideți Semne de carte > Istoric ->LOCAL pentru a vedea pagina</string>
     <string name="sniff_ask_every_times">Întreabă de fiecare dată</string>
+    <string name="sniff_description">Primiți solicitări atunci când o pagină web conține elemente descărcabile</string>
     <string name="sniff_detect_resource">Am observat conținut descărcabil pe această pagină. Vreți să îl vedeți acum?</string>
     <string name="sniff_dialog">Conținut descărcabil</string>
     <string name="sniff_no_resource">Nu a fost găsit niciun conținut descărcabil</string>
