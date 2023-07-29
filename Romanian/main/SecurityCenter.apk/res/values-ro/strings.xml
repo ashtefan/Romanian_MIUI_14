@@ -2556,6 +2556,7 @@ din sesiunile dvs. de joc"</string>
     <string name="global_dock_guide_desc_without_split_screen">"· Atingeți o aplicație din bara laterală pentru a o deschide într-o fereastră plutitoare.
 · Apăsați și mențineți apăsat indicatorul pentru a muta fereastra."</string>
     <string name="global_satisfaction_notification_button">Evaluați</string>
+    <string name="global_satisfaction_notification_channel">Sondaj de satisfacție a utilizatorilor</string>
     <string name="global_satisfaction_notification_subhead">Povestiți-ne despre experiența dvs.</string>
     <string name="global_satisfaction_notification_title">Evaluați acest dispozitiv</string>
     <string name="global_wa_setting_alert_dialog_content">Puteți elibera %s</string>
@@ -2915,7 +2916,7 @@ Operatorul vă poate taxa suplimentar dacă veți continua utilizarea datelor mo
     <string name="main_primary_message_leisure_overlimit">Ați depășit limita de date</string>
     <string name="main_primary_message_leisure_remain">Limita de date</string>
     <string name="main_primary_message_traffic_overlimit">Ați depășit limita de date</string>
-    <string name="main_primary_message_traffic_remain">Date mobile</string>
+    <string name="main_primary_message_traffic_remain">Date mobile rămase</string>
     <string name="main_primary_message_traffic_warning">Aproape de limita de utilizare a datelor</string>
     <string name="main_purchase_tips">Promoție</string>
     <string name="main_tc_over">Calibrare realizată cu succes</string>
@@ -3728,6 +3729,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="permission_instruction_external_storage">Această permisiune permite aplicațiilor să acceseze fotografiile, fișierele media și fișierele de pe dispozitivul dvs. Aveți grijă cu această permisiune pentru a evita divulgarea inutilă a informațiilor private.</string>
     <string name="permission_instruction_gallery">Dacă permiteți aplicațiilor să acceseze fișiere în propriile lor dosare, MIUI vă permite să decideți dacă doriți, de asemenea, ca aceste aplicații să acceseze elementele din Galeria dvs. pentru a vă proteja confidențialitatea. Întrucât aplicațiile cu Android API nivelul 29 sau superior acceptă deja partiții de stocare, acest comutator nu va fi disponibil pentru ele.</string>
     <string name="permission_instruction_get_accounts">Această permisiune permite aplicațiilor să acceseze lista conturilor stocate pe dispozitivul dvs. Această listă poate conține toate conturile dvs. personale create de aplicațiile instalate, precum și conturile de pe platformele de socializare și instrumentele de comunicare.</string>
+    <string name="permission_instruction_get_identifier">Accesarea identificatorului dispozitivului</string>
     <string name="permission_instruction_install_shortcuts">Această permisiune permite aplicațiilor să creeze comenzi rapide pe Ecranul de pornire.</string>
     <string name="permission_instruction_install_unknown_source">Această permisiune permite aplicațiilor să instaleze alte aplicații pe dispozitivul dvs. Aplicațiile rău intenționate folosesc această permisiune pentru a instala aplicații fără confirmarea dvs.</string>
     <string name="permission_instruction_location">Când acordați această permisiune, aplicațiile vor folosi rețelele sau poziționarea prin satelit pentru a vă accesa locația. Puteți permite aplicațiilor care acceptă funcția să acceseze numai locația dvs. aproximativă.</string>
@@ -3744,13 +3746,16 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="permission_instruction_read_calllog">Această permisiune permite aplicațiilor să acceseze istoricul apelurilor, care pot conține informații detaliate despre apelurile dvs. primite și efectuate. Această permisiune permite, de asemenea, aplicațiilor să salveze înregistrările din istoricul apelurilor. Aplicațiile rău intenționate ar putea folosi această permisiune pentru a partaja istoricul apelurilor cu terți sau pentru a utiliza istoricul apelurilor pentru fraudă.</string>
     <string name="permission_instruction_read_clipboard">Această permisiune permite aplicațiilor să citească orice conținut pe care îl copiați, care poate include informații private (de exemplu, detalii de cont, numere de card bancar și parole).</string>
     <string name="permission_instruction_read_contacts">Această permisiune permite aplicațiilor să acceseze informațiile de contact stocate pe dispozitivul dvs. Aceste informații pot conține frecvența comunicării dvs. cu anumite contacte prin apeluri, e-mailuri și alte metode. Această permisiune permite, de asemenea, aplicațiilor să salveze contactele. Aplicațiile rău intenționate ar putea folosi această permisiune pentru a partaja contacte fără consimțământul dvs.</string>
+    <string name="permission_instruction_read_history">Accesarea istoricului de navigare</string>
     <string name="permission_instruction_read_media_pic">Această permisiune permite aplicațiilor să acceseze fotografiile și videoclipurile stocate pe acest dispozitiv. Aceste articole pot conține informații personale.</string>
     <string name="permission_instruction_read_notify_sms">Această permisiune permite aplicațiilor să citească mesajele text de notificare stocate pe dispozitivul dvs. sau pe cartela SIM.</string>
     <string name="permission_instruction_read_phone_state">Această permisiune permite aplicațiilor să vă acceseze numărul de telefon, IMEI, IMSI și alți identificatori de dispozitiv. Aplicațiile folosesc în mod normal această permisiune pentru a determina dacă apelurile dvs. sunt redirecționate. Dacă utilizați un ID de dispozitiv virtual, aplicațiile nu vor putea accesa identificatorii dvs. de dispozitiv.</string>
     <string name="permission_instruction_read_sms">Această permisiune permite aplicațiilor să citească toate mesajele text stocate pe dispozitivul dvs. sau pe cartela SIM. Astfel de mesaje pot conține parole, detalii despre cont bancar și alte informații personale.</string>
     <string name="permission_instruction_read_write_calendar">Această permisiune permite aplicațiilor să vă acceseze calendarul, precum și să citească, să adauge, să elimine, să editeze, să partajeze și să salveze evenimente din calendar. Aplicațiile rău intenționate ar putea folosi această permisiune pentru a trimite mesaje de pe numele dvs. sau pentru a edita evenimente din calendar fără consimțământul dvs.</string>
     <string name="permission_instruction_receive_mms">Această permisiune permite aplicațiilor să citească toate mesajele multimedia stocate pe dispozitivul dvs. sau pe cartela SIM. Astfel de mesaje pot conține parole, detalii despre cont bancar și alte informații personale.</string>
+    <string name="permission_instruction_receive_sms">Primirea de SMS-uri și MMS-uri</string>
     <string name="permission_instruction_record_audio">Această permisiune permite aplicațiilor să utilizeze microfonul pentru înregistrarea audio. Amintiți-vă că această permisiune permite aplicațiilor să înregistreze orice, inclusiv conversațiile dvs. cu alții. Cel mai bine este să permiteți aplicațiilor să utilizeze această permisiune numai în timp ce utilizați aplicațiile.</string>
+    <string name="permission_instruction_record_screen">Accesarea conținutului ecranului</string>
     <string name="permission_instruction_running_background">Această permisiune permite aplicațiilor să funcționeze în fundal. În acest timp, aplicațiile pot colecta date și furniza servicii. Amintiți-vă că astfel de activități cresc consumul de energie.</string>
     <string name="permission_instruction_running_exceed_data">Această permisiune permite aplicațiilor să ignore limitele de utilizare a datelor mobile.</string>
     <string name="permission_instruction_scoped">Un nou mecanism de protecție a stocării vă permite să controlați mai bine modul în care aplicațiile compatibile utilizează permisiunile de stocare</string>
@@ -3762,6 +3767,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="permission_instruction_sociality">Dacă permiteți aplicațiilor să acceseze fișiere în propriile lor dosare, MIUI vă permite să decideți dacă doriți, de asemenea, ca aceste aplicații să acceseze fișierele generate în aplicațiile de socializare, pentru a vă proteja confidențialitatea. Întrucât aplicațiile cu Android API nivelul 29 sau superior acceptă deja partiții de stocare, acest comutator nu va fi disponibil pentru ele.</string>
     <string name="permission_instruction_storage">Dacă permiteți aplicațiilor să acceseze fișierele din propriile dosare, MIUI vă permite să decideți dacă doriți, de asemenea, ca aceste aplicații să acceseze elementele din Galeria dvs. și fișierele generate în aplicațiile de socializare pentru a vă proteja confidențialitatea. Întrucât aplicațiile cu Android API nivelul 29 sau superior acceptă deja partiții de stocare, acest comutator nu va fi disponibil pentru ele.</string>
     <string name="permission_instruction_touch_pay">Această permisiune permite aplicațiilor să efectueze plăți fără contact.</string>
+    <string name="permission_instruction_transfer_data_to_other_devices">Transferul datelor pe alte dispozitive</string>
     <string name="permission_instruction_use_sip">Această permisiune permite aplicațiilor să utilizeze servicii video SIP.</string>
     <string name="permission_instruction_vr_assistant">Această permisiune permite aplicațiilor să utilizeze serviciile de asistent VR.</string>
     <string name="permission_instruction_wall_paper">Acordați această permisiune pentru a permite aplicațiilor să modifice serviciile implicite de imagini de fundal dinamice și să continue să ruleze în fundal.</string>

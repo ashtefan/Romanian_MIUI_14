@@ -393,6 +393,8 @@ o captură de ecran derulantă"</string>
     <string name="screen_talkback_shape">Formă</string>
     <string name="screen_talkback_small">Foarte mic</string>
     <string name="screen_talkback_text">Text</string>
+    <string name="screenshot_detected_multiple_template">Mai multe aplicații, inclusiv %1$s, au detectat această captură de ecran</string>
+    <string name="screenshot_detected_template">%1$s a detectat această captură de ecran</string>
     <string name="screenshot_edit">Editați</string>
     <string name="screenshot_failed_in_landscape_mode">Nu se poate face o captură de ecran derulantă în modul peisaj</string>
     <string name="screenshot_failed_to_capture_title">Această aplicație nu permite realizarea de capturi de ecran</string>
