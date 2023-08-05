@@ -400,8 +400,9 @@ Vă rugăm să faceți clic pe butonul corespunzător în funcție de numărul p
 
 1.Pornește camera foto în mod automat pentru a intra în interfața de previzualizare
 2.Așteptați finalizarea previzualizării și revenirea automată"</string>
-    <string name="cit_front_rear_dual_camera_check_title">Camera Bokeh frontală</string>
-    <string name="cit_front_rear_sub_camera_check_title">Camera Aux frontală</string>
+    <string name="cit_front_dual_camera_check_title">Camera Bokeh frontală</string>
+    <string name="cit_front_sub_camera_check_title">Camera Aux frontală</string>
+    <string name="cit_front_sub_camera_check_title_fold">Camera frontală de sub ecran</string>
     <string name="cit_get_signature_failed">obținere semnătură EȘEC</string>
     <string name="cit_gps_check_summary">Informațiile GPS corespunzătoare ar trebui să fie afișate mai jos.</string>
     <string name="cit_gps_check_title">GPS</string>
@@ -1021,6 +1022,7 @@ Selectați butonul corect în funcție de diferitele condiții de vibrație"</st
     <string name="test_main_mic">Microfon principal</string>
     <string name="test_sidebottom_mic">Microfonul din partea de jos</string>
     <string name="test_sidetop_mic">Microfonul din partea de sus</string>
+    <string name="test_sub_front_camera">Camera frontală de sub ecran</string>
     <string name="test_top_speaker">difuzor superior</string>
     <string name="testagain">Puteți apăsa butonul ACASĂ pentru a testa din nou</string>
     <string name="testing">Rulare AutoTest...</string>
@@ -1030,4 +1032,5 @@ Selectați butonul corect în funcție de diferitele condiții de vibrație"</st
   <string name="tp_version">TP Version:</string>
     <string name="waiting">Se așteaptă 4sec.</string>
     <string name="warm_light_title">Lumină Caldă</string>
+    <string name="wifi_power_test_testing">Testare putere Wi-Fi...</string>
 </resources>

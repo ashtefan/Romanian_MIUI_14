@@ -37,6 +37,9 @@
     <string name="bottomsheet_action_expand_halfway">Extindeți pe jumătate</string>
     <string name="can_you_here">Auziți sunetul?</string>
     <string name="choose_bluetooth_device">Selectați dispozitivul</string>
+    <string name="clear_text_end_icon_content_description">Goliți textul</string>
+    <string name="clearable_edittext_clear_description">Goliți</string>
+    <string name="close">Închideți</string>
     <string name="complete_dialog_button">Am înțeles</string>
     <string name="complete_dialog_message">Ați încheiat testul cu succes.</string>
     <string name="complete_dialog_title">Rezultatele testului</string>
@@ -56,8 +59,9 @@
     <string name="effect_3dsurround_summary_headphone">Îmbunătățiți profunzimea reproducerii sunetului pentru căști</string>
     <string name="effect_dolby">Dolby</string>
     <string name="effect_misound">Misound</string>
-    <string name="effect_none">Niciunul</string>
+    <string name="effect_none">Original</string>
     <string name="effect_selection">Efecte sonore</string>
+    <string name="effect_selection_headset">Efecte căști</string>
     <string name="effect_virtual_surround">Sunet virtual captivant</string>
     <string name="effect_virtual_surround_summary">Îmbogățiți adâncimea sunetului pentru redarea audio și video în căști (Această caracteristică nu va funcționa când este redat %.1f audio)</string>
     <string name="effect_virtual_surround_summary_spk">Îmbogățiți adâncimea sunetului pentru redarea audio și video</string>

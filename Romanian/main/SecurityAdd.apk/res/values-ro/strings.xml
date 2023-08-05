@@ -44,7 +44,7 @@
     <string name="date_picker_lunar">Calendarul Tradițional Chinezesc</string>
     <string name="dialog_market_score_cancel">Renunțați</string>
     <string name="dialog_market_score_dislike">Comentați</string>
-    <string name="dialog_market_score_like">5 stele!</string>
+    <string name="dialog_market_score_like">Cinci stele!</string>
     <string name="dialog_market_score_positive_button">Comentariu</string>
     <string name="dialog_market_score_submit">Trimiteți</string>
     <string name="dialog_market_score_subtitle_step1">Atingeți stelele pentru a evalua această aplicație</string>
@@ -271,14 +271,14 @@ de monitorizare a cutremurelor"</string>
     <string name="miuishare_weibo_title">Weibo</string>
     <string name="miuix_access_state_desc">Selectat</string>
     <string name="miuix_alphabet_indexer_name">Bara de index</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Mai multe</string>
     <string name="miuix_appcompat_cancel_description">Renunțați</string>
     <string name="miuix_appcompat_confirm_description">Confirmați</string>
     <string name="miuix_appcompat_delete_description">Ștergeți</string>
-    <string name="miuix_appcompat_deselect_all">Deselectați</string>
+    <string name="miuix_appcompat_deselect_all">Deselectați tot</string>
     <string name="miuix_appcompat_deselect_all_description">Deselectați tot</string>
     <string name="miuix_appcompat_edit">Editați</string>
     <string name="miuix_appcompat_search_action_mode_cancel">Renunțați</string>
@@ -482,7 +482,7 @@ de monitorizare a cutremurelor"</string>
     <string name="superpower_third">Aplicații terțe</string>
     <string name="superpower_time">h:mm</string>
     <string name="superpower_time_24">H:mm</string>
-    <string name="superpower_toast_app_select_full">Puteți adăuga până la 6 elemente la aplicațiile utilizate frecvent</string>
+    <string name="superpower_toast_app_select_full_new">Puteți adăuga până la %d elemente la aplicațiile utilizate frecvent</string>
     <string name="the_anniversary_of_lifting_martial_law">Aniversarea ridicării Legii Marțiale</string>
     <string name="the_anti_aggression_day">Ziua anti-agresiune</string>
     <string name="the_arbor_day">Ziua Copacului</string>

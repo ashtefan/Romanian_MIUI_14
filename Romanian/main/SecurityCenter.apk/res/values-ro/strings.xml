@@ -6132,6 +6132,7 @@ Activarea uneia dintre funcții o va opri pe cealaltă."</string>
     <string name="virus_app_type_uninstalled">APK</string>
     <string name="virus_app_verison_text">Versiune: %s</string>
     <string name="virus_auto_update_engine">Actualizări automate： %s</string>
+    <string name="virus_auto_update_engine_1">Actualizați automat definițiile</string>
     <string name="virus_clear_dialog_title">Ștergeți aplicațiile rău intenționate</string>
     <string name="virus_detail_app">Conține viruși</string>
     <string name="virus_detail_split_line_text"> | </string>

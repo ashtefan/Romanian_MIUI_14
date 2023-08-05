@@ -224,6 +224,17 @@ Trimiteți acest cod supervizorului."</string>
     <string name="mibi_change_security_lock">Mai multe metode de blocare a ecranului</string>
     <string name="mibi_check_giftcard">Vedeți cupoanele</string>
     <string name="mibi_click_retry">%1$s, atingeți pentru a reîncerca</string>
+    <string name="mibi_cta_agreement_checkbox_description">Vă rugăm să citiți și să acceptați %1$s și %2$s</string>
+    <string name="mibi_cta_agreement_tips">Vă rugăm să acceptați termenii și utilizarea.</string>
+    <string name="mibi_cta_description">"Bine ați venit în aplicația Monede Mi; această aplicație oferă funcții precum reîncărcarea cu Monede Mi și vizualizarea cardurilor cadou. Vom procesa informațiile dvs. relevante conform legilor și reglementărilor. Aici, vă reamintim solemn:
+1. Înainte de a utiliza produsele sau serviciile Mibi, vă rugăm să citiți și să înțelegeți cu atenție Politica de confidențialitate și să utilizați produsele sau serviciile relevante după ce vă confirmați înțelegerea și acordul complet.
+2. În timpul utilizării acestei aplicații, este necesară permisiunea de accesare a internetului. Asigurați-vă că dispozitivul dvs. este conectat la Internet și finalizați configurațiile relevante.
+%1$s"</string>
+    <string name="mibi_cta_description_suffix">"3. Luăm informațiile dumneavoastră personale foarte în serios și le protejăm. Dacă aveți întrebări, comentarii sau sugestii cu privire la conținutul acestei politici, ne puteți contacta vizitând %1$s.
+"</string>
+    <string name="mibi_cta_description_with_review_entry_suffix">"3. Dacă nu sunteți de acord cu Politica de confidențialitate, vă vom oferi un mod doar de navigare. Puteți alege dintre [%1$s].
+4. Luăm informațiile dumneavoastră personale foarte în serios și le protejăm. Dacă aveți întrebări, comentarii sau sugestii cu privire la conținutul acestei politici, ne puteți contacta vizitând %2$s.
+"</string>
     <string name="mibi_cta_title">Dragi fani Xiaomi</string>
     <string name="mibi_deduct_goods_name">Produs</string>
     <string name="mibi_deduct_open_prompt">%1$s va putea să vă taxeze în mod automat utilizând %2$s fără verificare. Puteți dezactiva această opțiune în %1$s</string>

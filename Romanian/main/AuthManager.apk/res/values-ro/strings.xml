@@ -259,6 +259,12 @@
     <string name="HIPS_Perm_install_shortcut_Desc">Adăugarea de widgeturi pe ecranul principal</string>
     <string name="HIPS_Perm_mediaVolume">Ajustarea volumului multimedia</string>
     <string name="HIPS_Perm_mediaVolume_Desc">Permiteți aplicației să ajusteze volumul fișierelor multimedia</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner">Accesarea numărului de telefon pentru conectare</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Obțineți numărul de telefon de la operator pentru a vă conecta</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Dacă nu ați putut să vă conectați cu o singură atingere acum, reveniți la pagina de conectare și încercați din nou.</string>
+    <string name="HIPS_Perm_operator_get_phonenumbner_Message">Această aplicație dorește să obțină numărul dvs. de telefon de la operator pentru a vă conecta. Permiteți?</string>
+    <string name="HIPS_Perm_operator_shake">Accesarea mișcărilor și a orientării dispozitivului</string>
+    <string name="HIPS_Perm_operator_shake_Desc">Pentru detectarea poziției dispozitivului în spațiu, recunoașterea mișcărilor și furnizarea de funcții senzoriale interactive</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">accesarea dispozitivului NFC</string>
     <string name="HIPS_Perm_process_outgoing_calls">Accesare aplicație de Telefon</string>
@@ -455,6 +461,8 @@
     <string name="location_settings">Setări legate de locație</string>
     <string name="location_warning">%1$s este un furnizor de servicii de localizare pentru acest dispozitiv. Accesul la localizare poate fi modificat din Setări.</string>
     <string name="midnight">Noapte</string>
+    <string name="miuix_access_state_desc">Selectat</string>
+    <string name="miuix_alphabet_indexer_name">Bara de index</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Deselectați</string>
     <string name="miuix_appcompat_action_mode_select_all">Selectați tot</string>
     <string name="miuix_appcompat_action_mode_title_empty">Selectați elementele</string>
@@ -523,6 +531,7 @@
     <string name="night">Seară</string>
     <string name="no">Nu</string>
     <string name="noon">Amiază</string>
+    <string name="not_set">Nesetat</string>
     <string name="notification_click_tip">Atingeți pentru a vedea detalii</string>
     <string name="ok">OK</string>    
     <string name="perm_action_allow">Permiteți</string>
@@ -554,6 +563,7 @@
     <string name="permdesc_recognition">Permiteți %1$s să vă acceseze informațiile despre activitate?</string>
     <string name="permdesc_send_sms">Permiteți %1$s să trimită mesaje text?</string>
     <string name="permdesc_sensors">Permiteți %1$s să citească datele generate de senzorii corporali?</string>
+    <string name="permdesc_shake">Permiteți \"%1$s\" să utilizeze senzorii dispozitivului pentru a recunoaște tremurul și pentru a oferi caracteristici senzoriale interactive</string>
     <string name="permdesc_use_sip">Permiteți %1$s să folosească Protocolul de inițiere a sesiunii pentru a transmite în flux video?</string>
     <string name="permdesc_write_calendar">Permiteți %1$s să creeze și să salveze evenimente din calendar?</string>
     <string name="permdesc_write_call_log">Permiteți %1$s să editeze istoricul apelurilor?</string>

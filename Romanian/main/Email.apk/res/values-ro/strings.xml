@@ -232,6 +232,7 @@ căii pentru accesul IMAP</string>
     <string name="attendee_needed">Adăugați cel puțin un invitat.</string>
     <string name="auto_login_fail">"Nu s-a putut autentifica în mod automat"</string>
     <string name="auto_login_fail_to_retry">"Nu s-a putut autentifica în mod automat, încercați din nou."</string>
+    <string name="auto_start_open_prompt">Permiteți aplicației să pornească automat pentru a vă putea sincroniza e-mailurile. Puteți acorda această permisiune din Setări.</string>
     <string name="bContact_list_search_hint">Căutați contacte blocate</string>
     <string name="b_contacts">Lista blocărilor</string>
     <string name="b_contacts_remove">Eliminați din lista blocărilor</string>
@@ -254,6 +255,7 @@ căii pentru accesul IMAP</string>
     <string name="calendar_remind_gridview_pick_date">Alegeți o dată</string>
     <string name="cancel">Anulaţi</string>
     <string name="cancel_action">Anulaţi</string>
+    <string name="cancel_edit">Încetați editarea</string>
     <string name="cc_heading">"CC: "</string>
     <string name="certificate_add_failed">Nu s-a putut adăuga certificatul \"%s\"</string>
     <string name="certificate_added">Certificatul \"%s\" a fost adăugat cu succes</string>
@@ -400,6 +402,7 @@ căii pentru accesul IMAP</string>
     <string name="drive_card_code">"Codul de access: "</string>
     <string name="drive_card_tips">%s a partajat cu dvs. un element stocat în cloud.</string>
     <string name="drive_card_title">Linkul stocării în cloud</string>
+    <string name="drop_sign_operation">Încetați editarea și renunțați la toate modificările?</string>
     <string name="dtend">Se încheie</string>
     <string name="dtstart">Începe</string>
     <string name="early_morning">Dimineață</string>
@@ -924,6 +927,7 @@ Această problemă ar putea fi cauzată de autentificarea în doi factori a cont
     <string name="open_pdf_error">Nu s-a putut deschide fișierul pdf. Instalați o aplicație de citire .pdf-uri și încercați din nou.</string>
     <string name="operation_settging">Acțiuni</string>
     <string name="optimization_suggestion">Sugestii de optimizare</string>
+    <string name="other_pdf_open">Deschideți cu…</string>
     <string name="others_mail">Altul</string>
     <string name="outbox_alert_button_no_resend">Nu trimite</string>
     <string name="outbox_alert_button_resend">Retrimiteţi</string>
@@ -960,6 +964,7 @@ Această problemă ar putea fi cauzată de autentificarea în doi factori a cont
     <string name="pdf_has_signature_prompt_confirm">Copie semnată</string>
     <string name="pdf_has_signature_prompt_message">Se pare că acest atașament are o copie semnată. Îl deschideți în schimb?</string>
     <string name="pdf_save_error">Nu se poate converti în .pdf. Acest mesaj este prea lung.</string>
+    <string name="pdf_save_local">"Salvat cu succes pe dispozitiv: "</string>
     <string name="pdf_save_no_body">Așteptați încărcarea completă a mesajului înainte de a-l converti în .pdf</string>
     <string name="pdf_save_to">"Salvat în "</string>
     <string name="pdf_signature_add">Adăugați o semnătură nouă</string>
@@ -999,6 +1004,7 @@ Această problemă ar putea fi cauzată de autentificarea în doi factori a cont
     <string name="personal_data_collection_summary">Când butonul este activ, acceptați că putem colecta date personale. Puteți inactiva butonul, revoca autorizarea și șterge datele de pe serverele noastre oricând.</string>
     <string name="personal_data_collection_title">Permiteți colectarea datelor personale</string>
     <string name="pl_select_age">Selectați vârsta dvs.</string>
+    <string name="please_save_sign_first">Salvați mai întâi semnătura</string>
     <string name="pm">PM</string>
     <string name="pop3_name">POP3</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
@@ -1077,6 +1083,7 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="saturday_short">Sâm</string>
     <string name="saturday_shortest">Sâ</string>
     <string name="save_draft_failed">Salvare mesaj nefinalizat eşuată</string>
+    <string name="save_sign_pdf">Salvați pe dispozitiv</string>
     <string name="search_bar_text">Căutați contacte</string>
     <string name="search_menu_title">Căutați</string>
     <string name="search_remote_again">Nu s-a putut conecta la rețea. Atingeți pentru a reîncerca.</string>
@@ -1276,6 +1283,7 @@ Așteptați până se finalizează sincronizarea sau citiți mesajul pe computer
     <string name="train_card_title_change">Rezervare schimbată cu succes</string>
     <string name="train_card_title_change_arrival">Destinație modificată cu succes</string>
     <string name="train_card_title_refund">Bilet anulat cu succes</string>
+    <string name="translated_text_too_long">Selectați o parte mai mică din text de copiat și încercați din nou</string>
     <string name="translation_loading">Doar o secundă…</string>
     <string name="translation_no_result">Niciun rezultat</string>
     <string name="translation_pronunciation_am">AmE</string>

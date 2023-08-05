@@ -1707,6 +1707,10 @@ Mergeți la Teme>Contul meu>Laborator teme pentru mai multe opțiuni."</string>
     <string name="wallpaper_share_alert">A apărut o eroare. Așteptați un minut sau două și încercați din nou.</string>
     <string name="wallpaper_static">Statică</string>
     <string name="wallpaper_subject_version">MI</string>
+    <string name="warning_miui_optimization_closed_dialog_agree">Setări</string>
+    <string name="warning_miui_optimization_closed_dialog_disagree">Aplicați</string>
+    <string name="warning_miui_optimization_closed_dialog_message">Se pare că nu ați activat optimizarea MIUI. Fără ea, această temă nu va funcționa corect atunci când este aplicată. Puteți să o aplicați oricum sau să activați optimizarea MIUI în Setări.</string>
+    <string name="warning_miui_optimization_closed_dialog_title">Atenție</string>
     <string name="warning_subscribe_wallpaper_group_content">Ați activat prezentarea de diapozitive pe ecranul de pornire. %1$s va fi aplicat ecranului de pornire.</string>
     <string name="wechat_not_found">Instalați mai întâi WeChat</string>
     <string name="wednesday">Miercuri</string>

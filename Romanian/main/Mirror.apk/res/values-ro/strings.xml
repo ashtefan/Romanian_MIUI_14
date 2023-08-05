@@ -452,6 +452,9 @@ Puteți începe o altă sesiune pe computer."</string>
     <string name="settings_how_use">Se utilizează transferul</string>
     <string name="settings_log_options">Jurnale</string>
     <string name="settings_more_help">Ajutor</string>
+    <string name="settings_nfc_transfer_desc1">·Aduceți un telefon conectat la contul dvs. Xiaomi în apropierea modulului NFC al acestui dispozitiv pentru a partaja conținutul ecranului sau pentru a transfera elementele selectate în Managerul de fișiere sau în Galerie.</string>
+    <string name="settings_nfc_transfer_desc2">·Puteți vizualiza lista dispozitivelor compatibile aici: %s</string>
+    <string name="settings_nfc_transfer_title">Transferați articole prin NFC</string>
     <string name="settings_pad">Tabletă</string>
     <string name="settings_pad_handoff_title">Conectați în mod automat</string>
     <string name="settings_pc">Computer</string>
