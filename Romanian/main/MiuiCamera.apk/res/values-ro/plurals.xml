@@ -57,6 +57,10 @@
         <item quantity="other">&lt;Data>Acest dispozitiv este prea fierbinte acum.&lt;br>Aplicația va fi închisă în &lt;font color=#FFCE16>&lt;b>%1$d secunde&lt;/b>&lt;/font>. Progresul curent a fost salvat automat.&lt;/Data></item>
         <item quantity="one">&lt;Data>Acest dispozitiv este prea fierbinte acum.&lt;br>Aplicația va fi închisă în &lt;font color=#FFCE16>&lt;b>%1$d secundă&lt;/b>&lt;/font>. Progresul curent a fost salvat automat.&lt;/Data></item>
     </plurals>
+    <plurals name="exit_version_hint">
+        <item quantity="other">&lt;Data>"Versiunea Camerei pe care o utilizați nu este compatibilă cu modelul dispozitivului dvs.&lt;br>Aplicația se va închide în &lt;font color=#FFCE16>&lt;b>%1$d secunde&lt;/b>&lt;/font>. Dezinstalați actualizările camerei și încercați din nou."&lt;/Data></item>
+        <item quantity="one">&lt;Data>"Versiunea Camerei pe care o utilizați nu este compatibilă cu modelul dispozitivului dvs.&lt;br>Aplicația se va închide în &lt;font color=#FFCE16>&lt;b>%1$d secundă&lt;/b>&lt;/font>. Dezinstalați actualizările camerei și încercați din nou."&lt;/Data></item>
+    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d minute</item>
         <item quantity="one">%1$d min</item>

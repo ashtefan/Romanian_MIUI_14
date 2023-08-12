@@ -256,6 +256,7 @@
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Aplicațiile clonate vor fi dezinstalate împreună cu acestea.</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">Aplicația clonată va fi dezinstalată împreună cu aceasta.</string>
     <string name="confirm_uninstall_dialog_title">Aplicațiile clonate vor fi dezinstalate.</string>
+    <string name="content_center">Centrul de Conținut</string>
     <string name="content_description_button_add">Atingeți pentru a adăuga la aplicațiile curente</string>
     <string name="content_description_button_disable">Nu se mai pot adăuga aplicații curente</string>
     <string name="content_description_button_remove">Atingeți pentru a elimina din aplicațiile curente</string>
@@ -501,9 +502,11 @@
     <string name="in_app_result_by">Rezultate în aplicație de</string>
     <string name="install">Instalaţi</string>
     <string name="intelligent_exposed_button_summary_text">Utilizați sugestii inteligente bazate pe utilizarea aplicației dvs. pentru a evidenția aplicațiile din dosarele extinse</string>
-    <string name="invalid_contact_shortcut">Contact nevalid</string>
-    <string name="is_setting_wallpaper_message">Setare imagine de fundal…</string>
-    <string name="is_system_wallpaper_message">"Nu se pot șterge resurse de sistem"</string>
+    <string name="international_home_pull_down_content">Glisați în jos pe Ecranul de pornire pentru a căuta pe acest dispozitiv și pe internet.</string>
+    <string name="international_home_pull_down_sub_content">Puteți comuta acest gest pentru a deschide Centrul de control din Setări > Ecran de pornire > Glisați în jos pe ecranul de pornire.</string>
+    <string name="international_home_pull_down_up_btn_get">Am înțeles</string>
+    <string name="international_home_pull_up_content">Glisați în sus pe Ecranul de pornire pentru a deschide Centrul de conținut.</string>
+    <string name="international_home_pull_up_sub_content">Pentru a deschide căutarea, glisați în jos din centrul Ecranului de pornire.</string>
     <string name="item_view_role_description">Filă</string>
     <string name="jeejen_description">"Elemente mai mari în UI.
 Apeluri mai accesibile.

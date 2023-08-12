@@ -1631,6 +1631,7 @@ Fiți fericit"</string>
     <string name="song_offline">Această melodie nu mai este disponibilă.</string>
     <string name="song_picker_complete">Finalizat</string>
     <string name="song_quality_category">Muzică</string>
+    <string name="song_swipe_navigation">Glisați la stânga sau la dreapta pentru a schimba melodia</string>
     <string name="songgroup_pick_album">Albume</string>
     <string name="songgroup_pick_playlist">Liste de redare</string>
     <string name="sort_by_name">Nume</string>

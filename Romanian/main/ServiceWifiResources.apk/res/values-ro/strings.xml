@@ -40,12 +40,12 @@
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Semnătură:
+    <string name="wifi_ca_cert_dialog_message_signature_name_text">"Amprenta SHA-256:
 %1$s
 
 "</string>
-    <string name="wifi_ca_cert_dialog_preT_abort_text">Nu conecta</string>
-    <string name="wifi_ca_cert_dialog_preT_continue_text">Conectează oricum</string>
+    <string name="wifi_ca_cert_dialog_preT_abort_text">Deconectați acum</string>
+    <string name="wifi_ca_cert_dialog_preT_continue_text">Menține conectat</string>
     <string name="wifi_ca_cert_dialog_preT_message_hint">Rețelei %1$s îi lipsește un certificat.</string>
     <string name="wifi_ca_cert_dialog_preT_message_link">Aflați cum să adăugați certificate</string>
     <string name="wifi_ca_cert_dialog_preT_title">Nu se poate verifica această rețea</string>

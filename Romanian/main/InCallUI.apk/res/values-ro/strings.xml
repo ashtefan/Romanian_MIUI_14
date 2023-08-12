@@ -454,11 +454,11 @@ Atingeți \"%1$s\" și apoi selectați \"%2$s\"."</string>
     <string name="select_voice_call_sim">Selectaţi cartela SIM</string>
     <string name="send">Trimiteți</string>
     <string name="separate_from_conference">Separaţi apelul</string>
-    <string name="sim1_description">SIM 1</string>
-    <string name="sim1_heduohao_card">Sub1</string>
-    <string name="sim2_description">SIM 2</string>
-    <string name="sim2_heduohao_card">Sub2</string>
-    <string name="sim3_heduohao_card">Sub3</string>
+    <string name="sim1_description">SIM %d</string>
+    <string name="sim1_heduohao_card">Sub %d</string>
+    <string name="sim2_description">SIM %d</string>
+    <string name="sim2_heduohao_card">Sub %d</string>
+    <string name="sim3_heduohao_card">Sub %d</string>
     <string name="sip_call_not_support_record">"Nu se pot înregistra apelurile SIP"</string>
     <string name="solar_term_autumn_begins">Începutul toamnei</string>
     <string name="solar_term_autumn_equinox">Echinocțiul de toamnă</string>

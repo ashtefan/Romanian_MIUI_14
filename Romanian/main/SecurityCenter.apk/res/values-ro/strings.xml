@@ -1554,6 +1554,7 @@ Toate datele de pe telefon pot fi șterse iar parola pentru Blocarea ecranului p
     <string name="domestic_roaming_setting">Roaming național</string>
     <string name="dont_bore">"Nu lăsați butoanele și notificările să vă distragă atenția"</string>
     <string name="download">Descărcați</string>
+    <string name="download_tvm_title">Extensia pentru componenta cheie a telefonului</string>
     <string name="downloading">Se descarcă</string>
     <string name="doze_optimization_summary">Crește responsivitatea și sensibilitatea ecranului</string>
     <string name="doze_optimization_title">Controale optimizate pentru ecran</string>
@@ -2783,6 +2784,8 @@ pentru a vă alătura vânătorii de ouă!"</string>
     <string name="install_sucess">%s instalată cu succes</string>
     <string name="install_text">Instalați</string>
     <string name="install_title">Instalare prin USB</string>
+    <string name="install_tvm_component_desc">Pentru a asigura securitatea tranzacțiilor dvs., instalați extensia Phone Key Component.</string>
+    <string name="install_tvm_component_title">Instalați extensia Phone Key Component</string>
     <string name="install_type_instant">Aplicație instant</string>
     <string name="installing">Se instalează</string>
     <string name="international_Ad">Reclamă</string>
@@ -5309,8 +5312,8 @@ Pentru a utiliza acest ^1, va trebui să-l montați mai întâi."</string>
     <string name="storage_dialog_unsupported">"Acest dispozitiv nu suportă acest ^1.
 
 Pentru a utiliza acest ^1 cu acest dispozitiv, va trebui să-l setați mai întâi."</string>
-    <string name="storage_fbo_clear">Reîmprospătare stocare FBO</string>
-    <string name="storage_fbo_des">Stocarea internă suferă de fragmentare, ceea ce ar putea încetini în mod semnificativ dispozitivul. Reîmprospătarea stocării FBO funcționează automat când nu utilizați dispozitivul. Vă organizează fizic fișierele în cel mai mic număr de fragmente, reducând decalajul.</string>
+    <string name="storage_fbo_clear">Reîmprospătare stocare</string>
+    <string name="storage_fbo_des">Stocarea internă suferă de fragmentare, ceea ce ar putea încetini în mod semnificativ dispozitivul. Reîmprospătarea stocării funcționează automat atunci când nu utilizați dispozitivul. Vă organizează fizic fișierele în cel mai mic număr de fragmente, reducând decalajul.</string>
     <string name="storage_fbo_number_tip">Procesat pe %1$s</string>
     <string name="storage_fbo_tools">Optimizare stocare</string>
     <string name="storage_file_delete_tip">Ștergeți definitiv elementele selectate? Unele dintre ele pot fi încărcate din nou atunci când este necesar.</string>
@@ -5964,6 +5967,9 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="tuesday_short">Mar</string>
     <string name="tuesday_shortest">Ma</string>
     <string name="turn_off_auto_correction">Se dezactivează sincronizarea automată</string>
+    <string name="tvm_install_failed">Nu s-a putut instala extensia</string>
+    <string name="tvm_install_successed">Extensie instalată cu succes</string>
+    <string name="tvm_version_too_low">Actualizați mai întâi extensia Phone Key Component</string>
     <string name="two_address_choose_hint">%1$s și %2$s</string>
     <string name="type_face_condition_summary">Ajustați dimensiunea textului și grosimea fontului</string>
     <string name="unable_connect_internet">Nicio conexiune la internet</string>
@@ -5993,6 +5999,8 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="untrust_app_perm_oaid">Permiteți accesarea ID-ului virtual</string>
     <string name="untrust_app_perm_title">Aplicație dintr-o sursă necunoscută</string>
     <string name="untrust_app_perm_warn">Această aplicație provine dintr-o sursă necunoscută și poate prezenta riscuri de securitate. Poate folosi permisiunile enumerate mai jos pentru a vă compromite confidențialitatea. Acordați aceste permisiuni după o analiză atentă.</string>
+    <string name="upgrade_tvm_component_desc">Pentru a asigura securitatea tranzacțiilor dvs., actualizați extensia Phone Key Component.</string>
+    <string name="upgrade_tvm_component_title">Actualizați extensia Phone Key Component</string>
     <string name="usage_sorted_activity_lable">Utilizare date</string>
     <string name="usage_sorted_empty_text">Gol</string>
     <string name="usage_sorted_loading_text">Doar o secundă…</string>
