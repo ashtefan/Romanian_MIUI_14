@@ -54,17 +54,17 @@
         <item quantity="other">Se redă următorul videoclip în %d secunde</item>
         <item quantity="one">Se redă următorul videoclip în %d secundă</item>
     </plurals>
-    <plurals name="bonus_amount">
-        <item quantity="other">%d bonusuri</item>
-        <item quantity="one">%d bonus</item>
+    <plurals name="back_dialog_antivirus_content_des">
+        <item quantity="other">Nu ați scanat dispozitivul de %d zile. Îl scanați acum?</item>
+        <item quantity="one">Nu ați scanat dispozitivul de %d zi. Îl scanați acum?</item>
     </plurals>
-    <plurals name="bookroom__clear_invalid_book_view__found">
-        <item quantity="other">S-au găsit &lt;font color="#ed6c00">%d&lt;/font> articole învechite</item>
-        <item quantity="one">S-a găsit &lt;font color="#ed6c00">%d&lt;/font> articol învechit</item>
+    <plurals name="back_dialog_day">
+        <item quantity="other">zile</item>
+        <item quantity="one">zi</item>
     </plurals>
-    <plurals name="coin_amount">
-        <item quantity="other">%d monede</item>
-        <item quantity="one">%d monedă</item>
+    <plurals name="back_dialog_health_check_content_des">
+        <item quantity="other">Nu ați optimizat dispozitivul de %d zile. Îl optimizați acum?</item>
+        <item quantity="one">Nu ați optimizat dispozitivul de %d zi. Îl optimizați acum?</item>
     </plurals>
     <plurals name="count_likes">
         <item quantity="other">%s aprecieri</item>

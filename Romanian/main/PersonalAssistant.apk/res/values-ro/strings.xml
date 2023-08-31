@@ -1850,6 +1850,8 @@ De asemenea, puteți urmări livrarea rapidă pe site-urile oficiale ale servici
     <string name="pa_filter_title">Mai multe widgeturi</string>
     <string name="pa_finish">Finalizat</string>
     <string name="pa_get_installed_app_permission_description">Pentru instalarea de aplicații și adăugarea de widget-uri</string>
+    <string name="pa_global_search_description">Căutați</string>
+    <string name="pa_global_search_hint">Căutați…</string>
     <string name="pa_guide_dialog_desc">Apăsați și mențineți apăsat un widget pentru a rearanja. Atingeți semnul plus pentru a adăuga mai multe widget-uri.</string>
     <string name="pa_guide_dialog_sure">Am înțeles</string>
     <string name="pa_guide_dialog_title">Consultați magazinul nostru de widget-uri</string>

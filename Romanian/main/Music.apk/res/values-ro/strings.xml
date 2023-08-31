@@ -1959,4 +1959,7 @@ Dimensiunea actualizării delta: %2$s"</string>
     <string name="youtube_play_history">Istoricul de redare</string>
     <string name="youtube_share_guide_tip">Acum puteți partaja videoclipuri cu prietenii</string>
     <string name="youtube_tab_explore">Descoperiți</string>
+    <string name="youtube_tab_playlist">Liste de redare</string>
+    <string name="youtube_tab_radar">Radar</string>
+    <string name="youtube_tab_trend">În trend</string>
 </resources>

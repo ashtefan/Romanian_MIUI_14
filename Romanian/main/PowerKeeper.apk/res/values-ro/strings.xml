@@ -161,19 +161,19 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="friday_short">Vin</string>
     <string name="friday_shortest">Vi</string>
 
-    <string name="hide_mode_desc">Când o aplicație rulează în fundal, activitățile acesteia vor fi monitorizate pentru a reduce utilizarea bateriei. Această funcție va obține și va folosi datele utilizatorului conform %s</string>
+    <string name="hide_mode_desc">Când o aplicație rulează în fundal, activitățile acesteia vor fi monitorizate pentru a reduce utilizarea acumulatorului. Această funcție va obține și va folosi datele utilizatorului conform %s</string>
     <string name="hide_system_app">Ascundeți aplicațiile de sistem</string>
     <string name="high_temp_benchmark_state">Supraîncălzire</string>
     <string name="high_temp_benchmark_state_message">"Se pare că acest dispozitiv este prea fierbinte acum. Utilizați această aplicație după ce dispozitivul se răcește: "</string>
     <string name="high_temp_state">Supraîncălzire</string>
-    <string name="high_temp_state_message">Dispozitivul dvs. se supraîncălzi. Datele mobile, hotspot-urile Wi-Fi, GPS și camera vor fi restricționate.</string>
+    <string name="high_temp_state_message">Dispozitivul dvs. se supraîncălzește. Datele mobile, hotspot-ul Wi-Fi, GPS-ul și camera vor fi restricționate.</string>
     <string name="high_temp_state_message_orange_es">Pentru a îmbunătăți performanța dispozitivului, unele aplicații au fost dezactivate temporar.</string>
     <string name="hints_loading_text">Doar o secundă…</string>
     <string name="icon_content_description">Pictogramă Dialog</string>
     <string name="insert_data">Introduceți datele</string>
     <string name="item_view_role_description">Filă</string>
     <string name="kill_all_back_pro_toast_message">Dispozitivul dvs. este supraîncălzit. S-au închis pentru moment toate aplicațiile care rulează în fundal.</string>
-    <string name="kill_pkg_toast_message">Nu pot folosi aplicațiile din cauza supraîncălzirii dispozitivului</string>
+    <string name="kill_pkg_toast_message">Nu se pot folosi aplicațiile din cauza supraîncălzirii dispozitivului</string>
     <string name="kill_some_back_pro_toast_message">Dispozitivul dvs. este supraîncălzit. S-au închis unele aplicații care rulează în fundal pentru moment.</string>
     <string name="lasttime_applist_cloud">Aplicații actualizate:</string>
     <string name="lasttime_feature_cloud">Funcții actualizate:</string>
@@ -186,7 +186,7 @@ Economisirea acumulatorului va trata selectiv aplicațiile importante."</string>
     <string name="material_slider_range_end">Sfârșitul intervalului,</string>
     <string name="material_slider_range_start">Începutul intervalului,</string>
     <string name="material_timepicker_am">AM</string>
-    <string name="material_timepicker_clock_mode_description">Comutați în modul ceas pentru introducerea orei.</string>
+    <string name="material_timepicker_clock_mode_description">Comutați la modul ceas pentru introducerea orei.</string>
     <string name="material_timepicker_hour">Ora</string>
     <string name="material_timepicker_minute">Minutul</string>
     <string name="material_timepicker_pm">PM</string>

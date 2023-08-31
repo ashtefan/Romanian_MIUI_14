@@ -213,6 +213,13 @@
     <string name="autologin_bar_text">Conectați-vă ca</string>
     <string name="avatar">Fotografia de profil</string>
     <string name="back_description">Înapoi</string>
+    <string name="back_dialog_antivirus_primary_btn">Scanați</string>
+    <string name="back_dialog_health_check_primary_btn">Optimizați</string>
+    <string name="back_dialog_storage_content">%1$s din spațiul de stocare este ocupat. Curățați acum?</string>
+    <string name="back_dialog_storage_primary_btn">Curățați</string>
+    <string name="back_dialog_title_antivirus">Scanare de securitate</string>
+    <string name="back_dialog_title_health_check">Optimizați dispozitivul</string>
+    <string name="back_dialog_title_storage">Gestionați spațiul de stocare</string>
     <string name="back_home">Eliberați pentru a reveni la pagina de pornire</string>
     <string name="batch_download">Descărcați</string>
     <string name="batch_download_tip">Se pare că mai multe articole sunt descărcate în același timp. Blocați aceste descărcări?</string>
@@ -387,6 +394,7 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Glisați în sus pentru a închide</string>
     <string name="bottomsheet_action_expand_halfway">Extindeți pe jumătate</string>
     <string name="branch_app_suggestion">Recomandat</string>
+    <string name="branch_app_title">Căutați aplicații</string>
     <string name="branch_apps">Aplicații</string>
     <string name="branch_contacts">Contacte</string>
     <string name="branch_give_relevant_permissions">Acordați Mi Browser permisiunile relevante din Setări</string>
@@ -637,6 +645,7 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="continue_reading">Continuați lectura</string>
     <string name="continue_watch_video">Continuați vizionarea</string>
     <string name="copy">Copiați</string>
+    <string name="copy_success">Copiat cu succes</string>
     <string name="copy_toast_msg">Link copiat în clipboard</string>
     <string name="copy_url">Copiaţi URL</string>
     <string name="core_functions_of_browser">Caracteristicile de bază la îndemâna dvs</string>
@@ -703,10 +712,20 @@ Paginile pe care le vizitați nu vor apărea în istoric."</string>
     <string name="diagnosis_log_sent_format">"Jurnale trimise cu succes.
 ID:%s
 Trimiteți acest cod supervisorului."</string>
+    <string name="dialog_ad_callback_cancel">Renunțați</string>
+    <string name="dialog_ad_callback_fraud_info">Fraudă sau înșelătorie</string>
+    <string name="dialog_ad_callback_inappropriate_picture">Imagini nepotrivite</string>
+    <string name="dialog_ad_callback_others">Altele</string>
+    <string name="dialog_ad_callback_title">Raportați o problemă</string>
     <string name="dialog_channel_cancel">Renunțați</string>
     <string name="dialog_channel_confirm">OK</string>
     <string name="dialog_channel_remove_content">Eliminarea tuturor canalelor va elimina, de asemenea, fluxul de conținut.</string>
-    <string name="dialog_game_banner">Vedeți jocurile populare!</string>
+    <string name="dialog_dislike_reason_cancel">Renunțați</string>
+    <string name="dialog_dislike_reason_not_interested">Nu mă interesează</string>
+    <string name="dialog_dislike_reason_others">Alt motiv</string>
+    <string name="dialog_dislike_reason_poor_quality">Calitate slabă</string>
+    <string name="dialog_dislike_reason_repetitive">Repetitivă</string>
+    <string name="dialog_dislike_title">De ce nu vă place această reclamă?</string>
     <string name="dialog_game_close">Renunțați</string>
     <string name="dialog_game_play">Redați</string>
     <string name="discovery__edit_feed_item_view__desc_default">%s</string>
@@ -3077,6 +3096,8 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="search_file_type_picture">Fotografii</string>
     <string name="search_file_type_video">Videoclipuri</string>
     <string name="search_for_anything">Căutați orice</string>
+    <string name="search_for_anything_test_1">Căutați pe internet sau în telefon</string>
+    <string name="search_for_anything_test_2">Căutați aplicații și multe altele</string>
     <string name="search_google">Google</string>
     <string name="search_hint">Căutaţi</string>
     <string name="search_label">Browser</string>

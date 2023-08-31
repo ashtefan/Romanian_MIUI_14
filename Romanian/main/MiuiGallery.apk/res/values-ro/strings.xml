@@ -678,6 +678,7 @@ Conectați încărcătorul și opriți ecranul pentru a face să apară amintiri
     <string name="creativity_title">Creativitate</string>
     <string name="crop_label">Fotografii trunchiate</string>
     <string name="cta_agreement_declare"><Data>Pentru a înțelege pe deplin drepturile dvs. ca și utilizator, precum și modurile în care utilizăm datele dvs., citiți și acceptați &lt;a href=\"%1$s\">Acordul Utilizatorului&lt;/a> și &lt;a href=\"%2$s\">Politica de Confidențialitate&lt;/a> înainte de a utiliza această aplicație.</Data></string>
+    <string name="cta_hybrid_feedback_network_declare">Pentru a vedea soluții la cele mai frecvente probleme, permiteți mai întâi acestei aplicații să se conecteze la rețea.</string>
     <string name="cta_network_declare">Pentru a sincroniza fotografiile și videoclipurile în Xiaomi Cloud, această aplicație trebuie să se conecteze la internet.</string>
     <string name="cta_screenthrow_declare">Pentru a putea proiecta ecranul acestui dispozitiv pe monitoare externe, această aplicație trebuie să se conecteze la internet.</string>
     <string name="custom_select_title_deselect_all">Deselectați</string>
@@ -2334,6 +2335,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="picker_title_specify_format">Selectați %d fotografii</string>
     <string name="picker_title_specify_format_one">Selectați %d fotografie</string>
     <string name="picker_title_unlimit">Selectați fotografiile</string>
+    <string name="picture_not_support_privacy_watermark">Nu se pot adăuga filigrane. Această imagine este prea mică.</string>
     <string name="places_album_empty_title">Fotografiile pot fi sortate după locație</string>
     <string name="play_gif_desc">Redă animația GIF</string>
     <string name="play_video_desc">Redă videoclipul</string>
@@ -2598,6 +2600,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="search_clear_histories">Goliți istoricul de căutare</string>
     <string name="search_connection_error">"Nu s-a putut conecta la rețea"</string>
     <string name="search_connection_error_and_set">Atingeți pentru a verifica setările de rețea</string>
+    <string name="search_domestic_edit_hint">Căutați fotografii și videoclipuri</string>
     <string name="search_edit_hint">Căutați fișiere sau albume</string>
     <string name="search_empty_title">Găsiți în Galerie fotografiile în care apar anumite persoane, obiecte și locuri</string>
     <string name="search_error">A apărut o eroare</string>
