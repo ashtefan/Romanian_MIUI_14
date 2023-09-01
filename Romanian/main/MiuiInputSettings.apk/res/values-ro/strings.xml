@@ -40,6 +40,7 @@
     <string name="auto_disable_screenbuttons_ask">Întreabă înainte de a dezactiva</string>
     <string name="auto_disable_screenbuttons_auto">Dezactivează întotdeauna</string>
     <string name="auto_disable_screenbuttons_cancel">Renunțare</string>
+    <string name="auto_disable_screenbuttons_dialog_title">Dezactivați butoanele de pe ecran pentru %s?</string>
     <string name="auto_disable_screenbuttons_no">Nu dezactiva niciodată</string>
     <string name="auto_disable_screenbuttons_rotation_summary">Când telefonul este în orientarea Peisaj, butoanele de navigare vor fi blocate</string>
     <string name="auto_disable_screenbuttons_rotation_title">Blochează butoanele de navigare în orientarea Peisaj</string>

@@ -1264,6 +1264,7 @@ Puteți acorda această permisiune din Setări > Confidențialitate."</string>
     <string name="selected_resource_file_invalid">Imposibil de utilizat fişierul selectat</string>
     <string name="send">Trimiteți</string>
     <string name="server_internal_error">A apărut e eroare de server. Așteptați un minut sau două și încercați din nou.</string>
+    <string name="server_message">Linia telefonică de asistență pentru clienți: 400–100–5678</string>
     <string name="set_as_colorring">Setați ca sunet de apel personalizat</string>
     <string name="set_calling">Setați</string>
     <string name="set_color_ring_back_tone">Setați un sunet de apelare înapoi personalizat</string>

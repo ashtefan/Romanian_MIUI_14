@@ -951,6 +951,8 @@ Evaluați rezultatul testului faceți clic pe butonul de trecere sau eșuare"</s
     <string name="mic_tip">Vă rugăm să faceți un zgomot în microfon. După ce conectați setul cu cască, ascultați un sunet</string>
     <string name="mic_volume_height_tip">Test de volum microfon trecut</string>
     <string name="mic_volume_low_tip">Testul de volum al microfonului nu a trecut. Vă rugăm să faceți un sunet mai mare când înregistrați</string>
+    <string name="miui_sar_nv_ota">MIUI Sar NV OTA</string>
+    <string name="modem_sar_enhance_tool_title">Instrument de îmbunătățire SAR Modem</string>
     <string name="motor_calibration">Calibrare motor</string>
     <string name="mtb_tool_modem_cdma_manager">Gestionare CDMA Cap</string>
     <string name="mtrl_badge_numberless_content_description">Notificare nouă</string>
@@ -1002,17 +1004,48 @@ Evaluați rezultatul testului faceți clic pe butonul de trecere sau eșuare"</s
     <string name="receiver_on_off_tips">Comutator pornit/oprit receptor</string>
     <string name="remove_finger">test scoatere deget</string>
   <string name="sar_algo_data_check_description">Colectare date Sar Algo</string>
+    <string name="sar_authentation_test_title">Test de autentificare Sar</string>
+    <string name="sar_enhance">INSTRUMENT DE ÎMBUNĂTĂȚIRE SAR</string>
+    <string name="sar_enhance_button_text">Instrument de îmbunătățire Sar</string>
     <string name="sar_mtk_test_title">Test de autentificare Sar Mtk</string>
-    <string name="sar_sensor_set">setați senzorul sar</string>
-    <string name="sar_sensor_setting">stare senzor sar</string>
+    <string name="sar_nv_ota_switch">\u0009\u0009ÎNCHIDE MIUI SAR NV OTA</string>
+    <string name="sar_off">Sar Oprit</string>
+    <string name="sar_on">Sar Pornit</string>
+    <string name="sar_sensor_calibrate_fail">Calibrarea senzorului Sar a eșuat</string>
+    <string name="sar_sensor_calibrate_success">Calibrarea senzorului Sar realizată cu succes</string>
+    <string name="sar_sensor_collect_data">Începeți Colectarea datelor</string>
+    <string name="sar_sensor_collect_data_self_cali">Auto Calibrare</string>
+    <string name="sar_sensor_collect_test_summary">"Rotiți dispozitivul, puneți-l pe accesoriul de fixare
+Faceți clic pe butonul Începe achiziția datelor
+Controlați dispozitivul aproape și departe de dispozitiv"</string>
+    <string name="sar_sensor_data_check_description">Colectarea datelor senzorului Sar</string>
+    <string name="sar_sensor_test_err_angle">Dispozitivul nu este plasat la unghiul corect</string>
+    <string name="sar_sensor_test_next_step">Deflectoare de control aproape de dispozitiv</string>
+    <string name="sar_sensor_test_success">Testul senzorului Sar a reușit</string>
+    <string name="sar_sensor_test_summary">"Rotiți dispozitivul, puneți-l pe accesoriul de fixare
+Faceți clic pe butonul Start Calibrare
+După succesul calibrării, controlați dispozitivul aproape și departe de dispozitiv"</string>
+    <string name="sar_sensor_test_timeout">Timpul de testare a senzorului Sar a expirat</string>
+    <string name="search_menu_title">Căutați</string>
+    <string name="set_dsi_tips">Setați DSI</string>
     <string name="sidebottom_mic_check_record_tip">Se înregistrează; rostiți ceva la microfonul din partea de jos a dispozitivului</string>
     <string name="sidetop_mic_check_record_tip">Se înregistrează; rostiți ceva la microfonul din partea de sus a dispozitivului</string>
+    <string name="slave_battery_authentic">Baterie secundară autentică</string>
+    <string name="smart_transmit">Stare de transmisie inteligentă</string>
     <string name="soft_light_title">Lumină slabă</string>
   <string name="speak_from_mic">Speaking to the MIC, the speaker playback. Judge whether there is sound.</string>
-  <string name="start">Start</string>
+    <string name="st_current_dsi">\u0009\u0009ST_DsiCurent</string>
+    <string name="st_current_mcc">\u0009\u0009ST_MccCurent</string>
+    <string name="st_effective_regulatory_body">\u0009\u0009ST_Corpdereglementareeficient</string>
+    <string name="st_exposure_mode">\u0009\u0009ST_ModExpunere</string>
+    <string name="st_mcc_regulatory_body">\u0009\u0009ST_MccRegulatoryBody</string>
+    <string name="st_peak_mode_override_mask">\u0009\u0009ST_PeakModeOverrideMask</string>
+    <string name="st_qst_gen">\u0009\u0009ST_QstGen</string>
+    <string name="st_qst_mode">\u0009\u0009ST_ModQst</string>
+    <string name="st_sensing_mode">\u0009\u0009ST_SensingMode</string>
     <string name="successfully_obtained_permission">Detectarea controlului în cloud cu succes, funcția intră în vigoare</string>
     <string name="temperature">temperatură</string>
-    <string name="test_aux_mic">AUX MIC</string>
+    <string name="test_aux_mic">MIC AUX</string>
     <string name="test_back_mic">MIC posterior</string>
     <string name="test_bottom_speaker">difuzor inferior</string>
     <string name="test_front_mic">Microfon frontal</string>

@@ -1005,6 +1005,7 @@ Securitate sporită."</string>
     <string name="switch_personal_assistant_app_vault">Asistent inteligent</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">Niciunul</string>
+    <string name="switch_personal_assistant_summary">Glisați spre dreapta pe Ecranul de pornire pentru a deschide Google Discover</string>
     <string name="switch_screen_button_order">Butoane în oglindă</string>
     <string name="switch_screen_button_order_desc">Butoanele Înapoi și Meniu poziționate în oglindă</string>
     <string name="system_shortcuts_edit">Editați</string>
@@ -1099,7 +1100,7 @@ Securitate sporită."</string>
     <string name="uninstall_xspace_dialog_title_format">Dezinstalați aplicația clonată \"%s\"?</string>
     <string name="unknown_artist_name">Artist necunoscut</string>
     <string name="unnamed_folder_name">Dosar</string>
-    <string name="unstable_dialog_message">Acest dispozitiv este înscris în Programul de previzualizare a dezvoltatorilor Android 12. Programul permite dezvoltatorilor și entuziaștilor Android să încerce versiunile de pre-lansare ale Android 12. Această versiune pre-lansare poate conține erori și defecte care pot afecta funcționarea normală a dispozitivului dvs.</string>
+    <string name="unstable_dialog_message">Acest dispozitiv este înscris în Programul de previzualizare a dezvoltatorilor Android 14. Programul permite dezvoltatorilor și entuziaștilor Android să încerce versiunile de pre-lansare ale Android 14. Această versiune pre-lansare poate conține erori și defecte care pot afecta funcționarea normală a dispozitivului dvs.</string>
     <string name="unstable_dialog_title">Programul de previzualizare a dezvoltatorilor Android</string>
     <string name="upgrade_remove_small_window_in_recents">Puteți folosi bara laterală pentru a deschide aplicații în ferestre plutitoare</string>
     <string name="v7_preference_off">OPRIT</string>
