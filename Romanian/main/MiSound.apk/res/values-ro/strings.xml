@@ -292,6 +292,7 @@
     <string name="sound_id_function_description">Personalizați curba EQ în funcție de preferințele dvs</string>
     <string name="sound_id_function_name">Sunet personalizat</string>
     <string name="sound_id_headset_status">Căștile actuale</string>
+    <string name="sound_id_hz"> %d Hz</string>
     <string name="sound_id_hz_high">Înalte %d Hz</string>
     <string name="sound_id_hz_low">Bass %d Hz</string>
     <string name="sound_id_hz_media">Gama medie %d Hz</string>

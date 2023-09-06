@@ -133,7 +133,7 @@
     <string name="activity_title_root_manager">Acces root</string>
     <string name="activity_title_root_note">Despre acces root</string>
     <string name="activity_title_settings">Setări</string>
-    <string name="activity_title_virus">Virus</string>
+    <string name="activity_title_virus">Viruși</string>
     <string name="activity_title_virus_settings">Setări</string>
     <string name="activity_title_white_list">Excepții</string>
     <string name="ad_btn_default_text">Aflați mai multe</string>
@@ -2564,7 +2564,7 @@ din sesiunile dvs. de joc"</string>
     <string name="global_wa_setting_alert_dialog_title">Curățare WhatsApp</string>
     <string name="gmscore_support_remind">Activați această caracteristică dacă întâmpinați probleme în utilizarea Gmail, Hărți Google și în alte aplicații Google. Acest lucru va reduce durata de viață a acumulatorului.</string>
     <string name="gmscore_support_service">Servicii Google de bază</string>
-    <string name="go_to">Mergeți</string>
+    <string name="go_to">Accesați</string>
     <string name="go_to_mi_sim">Atingeți pentru a utiliza Mi SIM.</string>
     <string name="go_to_send">Trimiteți</string>
     <string name="go_to_setting_fingerprint">Setări</string>

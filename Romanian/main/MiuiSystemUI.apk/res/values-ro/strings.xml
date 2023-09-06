@@ -67,7 +67,9 @@
     <string name="accessibility_ambient_display_charging">Se încarcă</string>
     <string name="accessibility_aspect_button">Mod Ecran complet</string>
     <string name="accessibility_assistant">Asistent ecran</string>
+    <string name="accessibility_authenticate_hint">autentificare</string>
     <string name="accessibility_back">Înapoi</string>
+    <string name="accessibility_banner_message_dismiss">Renunțați</string>
     <string name="accessibility_battery_details">Vedeți detalii despre acumulator</string>
     <string name="accessibility_battery_full">Acumulator încărcat complet.</string>
     <string name="accessibility_battery_level">Acumulator la %d procente.</string>
@@ -76,6 +78,7 @@
     <string name="accessibility_battery_one_bar">Acumulator o bară.</string>
     <string name="accessibility_battery_three_bars">Acumulator trei bare.</string>
     <string name="accessibility_battery_two_bars">Acumulator două bare.</string>
+    <string name="accessibility_battery_unknown">Procent acumulator necunoscut.</string>
     <string name="accessibility_bluetooth_connected">Conectat prin Bluetooth</string>
     <string name="accessibility_bluetooth_disconnected">Deconectat de la Bluetooth</string>
     <string name="accessibility_bluetooth_name">Conectată la %s.</string>
@@ -150,7 +153,7 @@
     <string name="accessibility_ethernet_disconnected">Ethernet deconectat.</string>
     <string name="accessibility_expand_button">Afișați mai multe</string>
     <string name="accessibility_face_dialog_face_icon">Pictogramă chip</string>
-    <string name="accessibility_fingerprint_dialog_app_icon">Pictograma aplicației</string>
+    <string name="accessibility_fingerprint_bouncer">Autentificare necesară. Atingeți senzorul de amprentă pentru a vă autentifica.</string>
     <string name="accessibility_fingerprint_dialog_fingerprint_icon">Pictograma amprentei</string>
     <string name="accessibility_fingerprint_label">Senzor amprentă</string>
     <string name="accessibility_floating_button_action_double_tap_to_toggle">comutare</string>
@@ -1277,7 +1280,6 @@ Introduceți codul PIN pentru a debloca."</string>
     <string name="guest_wipe_session_title">Bine ai revenit, vizitatorule!</string>
     <string name="guest_wipe_session_wipe">Reluați</string>
     <string name="gxzw_area">Scaner de amprente</string>
-    <string name="gxzw_long_press_tip" />
     <string name="gxzw_press_harder">Apăsați un pic mai tare</string>
     <string name="gxzw_quick_close">Închideți</string>
     <string name="gxzw_quick_open_add_event">Adăugați un eveniment</string>
@@ -1331,7 +1333,8 @@ Introduceți codul PIN pentru a debloca."</string>
     <string name="high_temp_dialog_message">"Telefonul dumneavoastră va încerca să își reducă temperatura în mod automat. Îl puteți utiliza în continuare, dar ar putea rula mai încet.
 
 Odată ce se va răci îndeajuns, va rula în mod normal."</string>
-    <string name="high_temp_notif_message">Unele caracteristici sunt limitate cât timp telefonul se răcește</string>
+    <string name="high_temp_notif_message">"Unele caracteristici sunt limitate cât timp telefonul se răcește.
+Atingeți pentru mai multe informații."</string>
     <string name="high_temp_title">Telefonul se încălzește</string>
     <string name="home">Setări Ecran principal</string>
     <string name="hour_minute_time_format">HH:mm</string>
@@ -1476,6 +1479,7 @@ prioritățile"</string>
     <string name="keyguard_accessibility_sim_pin_area">Zona codului PIN SIM</string>
     <string name="keyguard_accessibility_sim_puk_area">Zona codului PUK SIM</string>
     <string name="keyguard_carrier_default">Fără serviciu</string>
+    <string name="keyguard_carrier_name_with_sim_locked_template" formatted="false">%s (%s)</string>
     <string name="keyguard_charged">Încărcat</string>
     <string name="keyguard_charging_back_to_lockscreen">Înapoi la Blocarea ecranului</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
@@ -1872,7 +1876,7 @@ mm"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Asta e tot pentru acum</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Doar o secundă…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Nu s-au putut încărca elementele</string>
-    <string name="mland">Ținutul de bezea</string>
+    <string name="mobile_carrier_text_format">%1$s, %2$s</string>
     <string name="mobile_data">Date mobile</string>
     <string name="mobile_data_always_on">Date mobile active permanent</string>
     <string name="mobile_data_always_on_summary">Menține întotdeauna datele mobile active, chiar și când Wi-Fi-ul este activ (pentru comutarea rapidă a rețelelor).</string>
@@ -1937,6 +1941,7 @@ Pentru mai multe informații, contactați administratorul.
 
 De asemenea, sunteți conectat la o rețea VPN, care vă poate monitoriza activitatea în rețea."</string>
     <string name="monitoring_description_vpn_settings">Accesați setările Open VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"%1$s poate să acceseze datele asociate cu acest dispozitiv, să gestioneze aplicațiile și să modifice setările acestui dispozitiv.
 
 Dacă aveți întrebări, contactați %2$s."</string>
@@ -2013,6 +2018,7 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="mtrl_badge_numberless_content_description">Notificare nouă</string>
     <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
     <string name="mtrl_exceed_max_badge_number_content_description">Mai mult de %1$d notificări noi</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Comutați la luna următoare</string>
     <string name="mtrl_picker_a11y_prev_month">Comutați la luna anterioară</string>
     <string name="mtrl_picker_announce_current_selection">Selecția curentă: %1$s</string>
@@ -2063,7 +2069,7 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="nav_bar_default">(implicit)</string>
     <string name="nav_bar_edge_panel">Panou marginal Bară de navigare</string>
     <string name="nav_bar_layout">Dispunere</string>
-    <string name="nav_guide_cancel">Ignorați</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="new_notification_image_content_description">%1$s a trimis o fotografie</string>
     <string name="new_notification_text_content_description">%1$s a trimis un mesaj: %2$s</string>
     <string name="new_status_content_description">%1$s are o actualizare de stare: %2$s</string>
@@ -2282,6 +2288,7 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="pm">PM</string>
     <string name="pointer_location">Localizare indicator</string>
     <string name="pointer_location_summary">Afișează atingerile ecranului</string>
+    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s până la încărcarea completă</string>
     <string name="power_charging_limited">%1$s - Încărcare limitată temporar</string>
     <string name="power_discharge_by">Ar trebui să dureze până la circa %1$s (%2$s)</string>
@@ -2363,6 +2370,7 @@ Dacă aveți întrebări, contactați %2$s."</string>
     <string name="qr_code_scanner_title">Scanați codul QR</string>
     <string name="qs_alarm_tile_no_alarm">Nicio alarmă setată</string>
     <string name="qs_bill_message_balance">%1$s %2$s rămas</string>
+    <string name="qs_bill_message_unit_cny">CNY</string>
     <string name="qs_control_big_tile_state_closed">Oprit</string>
     <string name="qs_control_big_tile_state_closing">Se oprește…</string>
     <string name="qs_control_big_tile_state_connected">Conectat</string>
@@ -2864,6 +2872,7 @@ d MMMM"</string>
     <string name="status_bar_network_flow_limit">"   Limita lunară: %1$s   "</string>
     <string name="status_bar_network_flow_purchase">"   Achiziţionaţi >"</string>
     <string name="status_bar_network_flow_today">Astăzi: %1$s</string>
+    <string name="status_bar_network_name_separator">-</string>
     <string name="status_bar_no_notifications_title">Fără notificări</string>
     <string name="status_bar_no_recent_apps">Ecranele recente apar aici</string>
     <string name="status_bar_no_sim">fără_sim</string>
@@ -2969,12 +2978,15 @@ Glisaţi în jos pentru a bloca"</string>
     <string name="sud_back_button_label">Înapoi</string>
     <string name="sud_more_button_label">Mai mult</string>
     <string name="sud_next_button_label">Următorul</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="summary_placeholder"> </string>
     <string name="sunday">Duminică</string>
     <string name="sunday_short">Dum</string>
     <string name="sunday_shortest">Du</string>
     <string name="switch_bar_off">Oprită</string>
     <string name="switch_bar_on">Pornită</string>
     <string name="switch_system_user">Înapoi la Spațiul principal</string>
+    <string name="symbol_colon">:</string>
     <string name="system_ui_aod_date_pattern">eeedMMM</string>
     <string name="system_ui_tuner">Tuner interfață de sistem</string>
     <string name="tap_a_network_to_connect">Atingeți o rețea pentru a vă conecta</string>
@@ -3037,7 +3049,8 @@ Telefonul se poate încălzi dacă:
 \u0009• Rulați aplicații care utilizează în mod intensiv resursele (cum ar fi jocuri sau aplicații de navigare)
 \u0009• Descărcați sau încărcați fișiere mari
 \u0009• Utilizați telefonul într-un mediu cu temperatură ridicată"</string>
-    <string name="thermal_shutdown_message">Telefonul dvs. rulează în mod normal acum</string>
+    <string name="thermal_shutdown_message">"Telefonul dvs. rulează în mod normal acum.
+Atingeți pentru mai multe informații."</string>
     <string name="thermal_shutdown_title">Telefon oprit datorită supraîncălzirii</string>
     <string name="thursday">Joi</string>
     <string name="thursday_short">Joi</string>
@@ -3432,6 +3445,7 @@ Se pare că stocarea credențialelor nu este activată."</string>
     <string name="wifitrackerlib_osu_sign_up_failed">Nu s-a putut finaliza înregistrarea. Atingeți pentru a încerca din nou.</string>
     <string name="wifitrackerlib_private_dns_broken">Serverul DNS privat nu poate fi accesat</string>
     <string name="wifitrackerlib_saved_network">Salvat de %1$s</string>
+    <string name="wifitrackerlib_summary_separator">" / "</string>
     <string name="wifitrackerlib_tap_to_renew_subscription_and_connect">Atingeți pentru a reînnoi abonamentul și pentru a vă conecta</string>
     <string name="wifitrackerlib_tap_to_sign_up">Atingeți pentru a vă înscrie</string>
     <string name="wifitrackerlib_wifi_ap_unable_to_handle_new_sta">Punct de acces temporar plin</string>

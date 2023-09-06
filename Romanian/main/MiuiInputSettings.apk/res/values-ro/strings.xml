@@ -224,6 +224,7 @@ Puteți vizualiza rapoartele generate în Managerul de Fișiere."</string>
     <string name="keyboard_function_summary_first_line">·Apăsați lung pentru a afișa comenzile rapide.</string>
     <string name="keyboard_function_summary_second_line">·Atingeți zona NFC a tastaturii cu un telefon conectat la același cont pentru a transfera ecranul. Selectați un fișier sau o fotografie pentru a le transfera cu ușurință între dispozitive.</string>
     <string name="keyboard_funtion_key">Tastă funcțională</string>
+    <string name="keyboard_layout_arabic">Arabă</string>
     <string name="keyboard_layout_default_label">Prestabilit</string>
     <string name="keyboard_layout_dialog_setup_button">Configuraţi aspectul tastaturii</string>
     <string name="keyboard_layout_dialog_switch_hint">Pentru comutare, apăsaţi pe Control-Space</string>

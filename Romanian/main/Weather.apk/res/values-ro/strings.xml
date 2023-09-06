@@ -319,7 +319,7 @@ Glisați în jos pentru a actualiza sau verificați setările de rețea"</string
     <string name="indices_desc_humidity">Umiditate %1$s%%</string>
     <string name="indices_desc_pressure">%1$s mb</string>
     <string name="indices_title_chance_of_rain">Șanse de ploaie</string>
-    <string name="indices_title_feel">Temperatura resimțită</string>
+    <string name="indices_title_feel">Temp. resimțită</string>
     <string name="indices_title_pressure">Pres. atm.</string>
     <string name="indices_title_uv">UV</string>
     <string name="indices_title_wind_speed">Viteza vântului</string>

@@ -1253,7 +1253,11 @@ Citiți și acceptați"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agr
     <string name="warning_bar_title_sync_off">Sincronizarea Xiaomi Cloud este oprită</string>
     <string name="web_sso_login_fail">Trebuie să vă conectați din nou</string>
     <string name="web_sso_login_message">Se conectează…</string>
-    <string name="webview_reload">Încercați din nou</string>
+    <string name="web_view_auto_login_fail">Nu s-a putut conecta. Încercați din nou.</string>
+    <string name="web_view_login_text">Se conectează…</string>
+    <string name="web_view_reload_btn_text">Încercați din nou</string>
+    <string name="web_view_reload_description_text">"Nu s-a putut conecta la rețea.
+Verificați setările de rețea și încercați din nou."</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>
