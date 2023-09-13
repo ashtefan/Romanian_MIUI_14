@@ -3221,6 +3221,7 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="signin_with_facebook">Conectați-vă cu Facebook</string>
     <string name="signin_with_google">Conectați-vă cu Google</string>
     <string name="simple_page_toast">Puteți trece la implicit în Setări > Setări pagina de pornire</string>
+    <string name="site_content_has_update">Conținutul paginii a fost actualizat</string>
     <string name="skip">Omiteți</string>
     <string name="skip_current_version">Omiteţi această versiune</string>
     <string name="sku_all">Tot</string>
@@ -3440,6 +3441,9 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="time_picker_dialog_title">Setați ora</string>
     <string name="time_picker_label_hour">H</string>
     <string name="time_picker_label_minute">M</string>
+    <string name="time_segmented_evening_title">Relaxare de seară</string>
+    <string name="time_segmented_morning_title">Bună dimineața</string>
+    <string name="time_segmented_noon_title">Alegerile după-amiezii</string>
     <string name="tip_drag">Apăsați lung pentru a edita și trageți pentru a sorta.</string>
     <string name="tip_not_support_external_sdcard_modify">Nu se pot edita fișierele stocate pe cardul SD</string>
     <string name="tip_sync_disabled_by_incognito">Nu se pot sincroniza elementele în modul incognito</string>

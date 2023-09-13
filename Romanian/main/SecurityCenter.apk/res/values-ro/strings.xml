@@ -140,8 +140,11 @@
     <string name="ad_floating_window_title">Închideți fereastra plutitoare pentru a debloca</string>
     <string name="ad_split_screen_title">Părăsiți modul Ecran scindat pentru a debloca</string>
     <string name="ad_text_adx">Reclamă</string>
+    <string name="ad_text_btn_cancel">Renunțați</string>
     <string name="ad_text_btn_download">Instalați</string>
+    <string name="ad_text_btn_resume">Reluați</string>
     <string name="ad_text_develop">Dezvoltator: %1$s</string>
+    <string name="ad_text_introduce">Despre</string>
     <string name="ad_text_permission">Permisiuni</string>
     <string name="ad_text_privacy">Confidențialitate</string>
     <string name="ad_text_version">Versiune: %1$s</string>
@@ -447,6 +450,7 @@
     <string name="app_detail">Detalii</string>
     <string name="app_error_tip_for_launcher">"Componentele hardware ale dispozitivului dumneavoastră sau versiunea Android pot cauza probleme de compatibilitate și pot face ca unele aplicații să se comporte necorespunzător, să se blocheze sau să se închidă forțat. Dacă întâmpinați astfel de probleme, împărtășiți-le dezvoltatorilor aplicației."</string>
     <string name="app_error_tip_for_store">"Componentele hardware ale dispozitivului dumneavoastră sau versiunea Android pot cauza probleme de compatibilitate și pot face imposibilă instalarea unor aplicații. Dacă întâmpinați astfel de probleme sau dacă unele aplicații se comportă necorespunzător, se blochează sau se închid forțat, așteptați rezolvarea acestor probleme de către dezvoltatori și încercați să reinstalați aplicația."</string>
+    <string name="app_info_all_services_label">Toate serviciile</string>
     <string name="app_install_intercept">Blocați instalarea</string>
     <string name="app_install_tips_go_to">Deschideți</string>
     <string name="app_install_tips_install_success">%1$s instalate cu succes</string>
@@ -531,7 +535,7 @@
     <string name="app_manager_mobile_slot">Date mobile (SIM %d)</string>
     <string name="app_manager_mobile_slot1">Date mobile (SIM 1)</string>
     <string name="app_manager_mobile_slot2">Date mobile (SIM 2)</string>
-    <string name="app_manager_net_control_title">Restricționați utilizarea datelor</string>
+    <string name="app_manager_net_control_title">Metoda de conectare</string>
     <string name="app_manager_net_mobile">Date mobile</string>
     <string name="app_manager_net_wifi">Wi-Fi</string>
     <string name="app_manager_not_allow">Nu</string>
@@ -562,6 +566,7 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="app_manager_reset_app_preferences_title">Resetați preferințele aplicației?</string>
     <string name="app_manager_restricted_settings_title">Permiteți setări restricționate</string>
     <string name="app_manager_search_prompt">"Nu s-a găsit niciun rezultat? Încercați să afișați rezultatele din toate aplicațiile."</string>
+    <string name="app_manager_shortcut_manager">Gestionați scurtăturile de pe Ecranul principal</string>
     <string name="app_manager_show_all_apps">Arată toate aplicațiile</string>
     <string name="app_manager_show_all_apps_opened">Se afișează rezultatele din toate aplicațiile…</string>
     <string name="app_manager_show_detail_infos">Vedeți tot</string>
@@ -661,8 +666,15 @@ Nu veți pierde datele aplicațiilor."</string>
     <string name="app_statusbar_audio_now">Înregistrare sunete audio</string>
     <string name="app_statusbar_camera_now">Realizare fotografii</string>
     <string name="app_statusbar_location_now">Locație</string>
+    <string name="app_usage_half_year">Ultimele %d luni</string>
+    <string name="app_usage_more_year">Mai mult de %d an în urmă</string>
     <string name="app_usage_never">Neutilizată vreodată</string>
+    <string name="app_usage_never_1">Neutilizată niciodată</string>
+    <string name="app_usage_one_day">Azi</string>
+    <string name="app_usage_one_month">Ultimele %d zile</string>
+    <string name="app_usage_one_week">Ultimele %d zile</string>
     <string name="app_usage_recently">Utilizată recent</string>
+    <string name="app_usage_year">În mai puțin de %d an</string>
     <string name="app_version">Versiune</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Goliți %s din cache-ul WeChat pentru a elibera spațiu de stocare</string>
@@ -1187,7 +1199,7 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="card_main_deepclean_title">Curățare profundă</string>
     <string name="card_main_deepclean_wechat_action">Goliți</string>
     <string name="card_main_deepclean_wechat_summary">Goliți cache-ul WeChat pentru a elibera spațiu de stocare</string>
-    <string name="card_main_deepclean_wechat_title">Cache WeChat</string>
+    <string name="card_main_deepclean_wechat_title">Curățare WeChat</string>
     <string name="card_main_facebookclean_title">Curățare Facebook</string>
     <string name="card_main_galleryclean_title">Ștergeți fotografiile</string>
     <string name="card_main_gamebooster_summary">Crește stabilitatea conexiunii pentru jocuri</string>
@@ -1207,6 +1219,7 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="card_main_private_space_summary">Utilizând Spațiul Secundar e ca și cum ați avea 2 telefoane</string>
     <string name="card_main_private_space_title">Spațiu Secundar</string>
     <string name="card_main_sectool_title">Unelte</string>
+    <string name="card_main_video_manage_title">Gestionați videoclipurile</string>
     <string name="card_main_whatsappclean_title">Curățare WhatsApp</string>
     <string name="card_main_xspace_action">Creați</string>
     <string name="card_main_xspace_summary">Creați clone pentru orice aplicații</string>
@@ -1352,12 +1365,16 @@ Cu toate acestea, unele dintre tranzacțiile dvs. nu sunt încă finalizate. Pen
     <string name="cta_settings">Permiteți conexiunea la internet și accesul la locație</string>
     <string name="current_network_state_not_need_diagnose">Conexiunea la internet este normală.</string>
     <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Pentru utilizarea listei de blocare și efectuarea de apeluri către persoanele de contact de urgență atunci când sunt emise avertismente de cutremur</string>
+    <string name="custom_define_permission_desc_android.permission.GET_ACCOUNTS">Pentru gestionarea autorizației atunci când se efectuează verificarea identității pe mai multe dispozitive, depanarea USB și restaurarea parolei de protecție a confidențialității și a Blocării aplicațiilor</string>
     <string name="custom_define_permission_desc_android.permission.READ_CALL_LOG">Pentru afișarea apelurilor blocate în istoricul apelurilor</string>
     <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">Pentru utilizarea listei de blocare</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Pentru recunoașterea stării apelului în situații de temperatură ridicată sau acumulator descărcat</string>
     <string name="custom_define_permission_desc_android.permission.READ_SMS">Pentru utilizarea listei de blocare și recunoașterea mesajelor de la operatorul dvs.</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">Pentru utilizarea listei de blocare și trimiterea mesajelor de calibrare către operatorul dvs.</string>
     <string name="custom_define_permission_desc_android.permission.WRITE_CALL_LOG">Pentru ștergerea mesajelor din lista dvs. de blocare</string>
+    <string name="custom_define_permission_desc_android.permission.group.SENSORS">Pentru detectarea undelor seismice în vederea monitorizării cutremurelor</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">Pentru furnizarea de funcții relevante pentru locația dvs. în Centrul de avertizare MIUI, SOS de urgență, economisitor de baterie a aplicației, scaner de securitate a plăților și serviciul de localizare aproximativă</string>
+    <string name="custom_define_permission_desc_android.permission_group.MICROPHONE">Pentru înregistrarea audio în timp ce utilizați Jocuri Turbo</string>
     <string name="custom_define_permission_desc_android.permission_group.STORAGE">Pentru curățarea gunoiului și efectuarea de scanări antivirus</string>
     <string name="customize_limit_pkg">%s (personalizat)</string>
     <string name="customizer_mode_user_define_name">Regulile mele</string>
@@ -1811,7 +1828,7 @@ cutremure"</string>
     <string name="ew_settings_push_tips">Avertismentele cu privire la zonele din afara locației dvs. vor fi prezentate doar sub formă de notificări.</string>
     <string name="ew_settings_set_level_summary">Primiți avertismente despre cutremure atunci când intensitatea lor este %s sau mai mare</string>
     <string name="ew_settings_set_level_title">Setați pragul de avertizare pentru cutremur</string>
-    <string name="ew_sleep_mode_alert_content">Pentru a vă asigura că puteți primi avertismente timpurii de cutremur, MIUI va dezactiva modul Sleep. Aplicațiile de fundal, NFC, Bluetooth, GPS, date mobile și Wi-Fi vor funcționa normal chiar și atunci când dormi. Activați acum avertismentul de cutremur?</string>
+    <string name="ew_sleep_mode_alert_content">Pentru a vă asigura că puteți primi avertismente timpurii de cutremur, MIUI va dezactiva modul Somn. Aplicațiile de fundal, NFC-ul, Bluetooth-ul, GPS-ul, datele mobile și Wi-Fi-ul vor funcționa normal chiar și atunci când dormiți. Activați acum avertizarea de cutremur?</string>
     <string name="ew_sleep_mode_alert_title">Avertizare de cutremur</string>
     <string name="ew_subscribe_area_title">Gestionați zonele adăugate</string>
     <string name="ew_subscribe_city">Zone adăugate</string>
@@ -1949,7 +1966,7 @@ cutremure"</string>
     <string name="firewall_restrict_notify_title">"%s nu poate utiliza rețeaua"</string>
     <string name="firewall_restrict_wlan">Restricționați utilizarea conexiunii Wi-Fi</string>
     <string name="firewall_rule_group_title_roaming">Roaming internaţional</string>
-    <string name="firewall_system_title">Utilizare date de către aplicațiile de sistem</string>
+    <string name="firewall_system_title">Conexiunile aplicațiilor de sistem</string>
     <string name="firewall_temp_rule_reason">%2$s a restricționat conexiunea la internet pentru %1$s​</string>
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_wifi_dialog_message">"Aplicația instalată nu se va putea conecta la internet utilizând Wi-Fi cât timp acest comutator este inactiv.​"</string>
@@ -2253,6 +2270,7 @@ cutremure"</string>
     <string name="gb_audition_play_instruction">Folosiți căști pentru a obține cel mai bun efect</string>
     <string name="gb_award_noti_message">Activați actualizările de fundal Game for Peace în Game Turbo pentru a obține recompense</string>
     <string name="gb_award_noti_title">Recompensele Game for Peace sunt aici!</string>
+    <string name="gb_barrage_app_manger">Gestionați aplicațiile</string>
     <string name="gb_barrage_chat_desc">Credeți întotdeauna că ceva minunat este pe cale să se întâmple</string>
     <string name="gb_barrage_chat_pre_desc">Previzualizați</string>
     <string name="gb_barrage_chat_text_color">Culoare</string>
@@ -2264,6 +2282,7 @@ cutremure"</string>
     <string name="gb_barrage_chat_text_speed_moderate">Mediu</string>
     <string name="gb_barrage_chat_text_speed_slow">Încet</string>
     <string name="gb_barrage_dnd_conflict_toast">Pentru a utiliza comentariile de pe ecran, dezactivați mai întâi DND</string>
+    <string name="gb_barrage_guide_text">Atingeți un comentariu pentru a răspunde sau pentru a deschide o fereastră plutitoare</string>
     <string name="gb_beauty_cold_light">Rece</string>
     <string name="gb_beauty_face">Înfrumuseţare</string>
     <string name="gb_beauty_light">Lumina de umplere</string>
@@ -2559,6 +2578,7 @@ din sesiunile dvs. de joc"</string>
     <string name="global_satisfaction_notification_button">Evaluați</string>
     <string name="global_satisfaction_notification_channel">Sondaj de satisfacție a utilizatorilor</string>
     <string name="global_satisfaction_notification_subhead">Povestiți-ne despre experiența dvs.</string>
+    <string name="global_satisfaction_notification_summary">Spuneți-ne ce părere aveți despre acest dispozitiv</string>
     <string name="global_satisfaction_notification_title">Evaluați acest dispozitiv</string>
     <string name="global_wa_setting_alert_dialog_content">Puteți elibera %s</string>
     <string name="global_wa_setting_alert_dialog_title">Curățare WhatsApp</string>
@@ -2784,7 +2804,7 @@ pentru a vă alătura vânătorii de ouă!"</string>
     <string name="install_sucess">%s instalată cu succes</string>
     <string name="install_text">Instalați</string>
     <string name="install_title">Instalare prin USB</string>
-    <string name="install_tvm_component_desc">Pentru a asigura securitatea tranzacțiilor dvs., instalați extensia Phone Key Component.</string>
+    <string name="install_tvm_component_desc">Pentru a asigura securitatea tranzacțiilor dvs., instalați extensia Phone Key Component via Securitate.</string>
     <string name="install_tvm_component_title">Instalați extensia Phone Key Component</string>
     <string name="install_type_instant">Aplicație instant</string>
     <string name="installing">Se instalează</string>
@@ -2930,7 +2950,7 @@ răspunsul operatorului"</string>
     <string name="main_tobe_added_desc">Date mobile de la ¥0.03/MB</string>
     <string name="main_today_used">Utilizat azi</string>
     <string name="main_toolbar_custom_service">Serviciul de Relații clienții</string>
-    <string name="main_toolbar_firewall">Restricţionare utilizare date</string>
+    <string name="main_toolbar_firewall">Gestionați conexiunile de rețea</string>
     <string name="main_toolbar_misim">Mi SIM</string>
     <string name="main_toolbar_purchase">Suplinire</string>
     <string name="main_toolbar_recharge_record">Record de reîncărcare</string>
@@ -3040,7 +3060,7 @@ Viteza telefonului a crescut cu %s."</string>
     <string name="menu_sms">Trimiteți mesaj</string>
     <string name="menu_summary_antispam">Blochează apelurile și mesajele</string>
     <string name="menu_summary_antivirus">Căutați viruși în dispozitiv</string>
-    <string name="menu_summary_app_manager">Actualizați și dezinstalați aplicațiile</string>
+    <string name="menu_summary_app_manager">Gestionați setările aplicației</string>
     <string name="menu_summary_garbage_cleanup">Nu s-a găsit nimic de curățat</string>
     <string name="menu_summary_garbage_cleanup_ex">Eliberați %s</string>
     <string name="menu_summary_garbage_cleanup_new">%d%% spațiu de stocare</string>
@@ -3583,6 +3603,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_battery_history_show_imei">IMEI:</string>
     <string name="pc_battery_history_total_consumption_title">Consumul total de energie</string>
     <string name="pc_battery_history_usetime_title">Activ</string>
+    <string name="pc_category_charge_settings">Setări încărcare</string>
     <string name="pc_close_notifi_action">Dezactivați</string>
     <string name="pc_continuity_has_open_save_mode_notifi_sumary">Economisirea acumulatorului va fi dezactivată când %1$s este %2$s sau când este complet încărcat</string>
     <string name="pc_continuity_has_open_save_mode_notifi_title">S-a activat Economisirea acumulatorului pe %s</string>
@@ -3627,6 +3648,9 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_high_temp_protection_noti_summary">"Nu se pot folosi punctele de acces, datele mobile și serviciile de localizare acum"</string>
     <string name="pc_high_temp_protection_noti_summary2">Nu se pot folosi punctele de acces acum</string>
     <string name="pc_high_temp_protection_noti_tile">Dispozitivul dvs. este supraîncălzit</string>
+    <string name="pc_hight_refresh_rate_reminder_content">Dispozitivul dvs. utilizează o rată de reîmprospătare mai mare pentru o experiență de vizionare mai bună. Acest lucru poate crește consumul de energie și temperatura dispozitivului.</string>
+    <string name="pc_hight_refresh_rate_reminder_summary">Se utilizează o rată de reîmprospătare mai mare. Acest lucru poate crește consumul de energie și temperatura dispozitivului.</string>
+    <string name="pc_hight_refresh_rate_reminder_title">Vizionarea unui videoclip cu rate de cadre ridicate</string>
     <string name="pc_install_manager">Instalare prin USB</string>
     <string name="pc_low_batterty_got_it">Am înțeles</string>
     <string name="pc_low_battery_fast_charge">Accelerează încărcarea</string>
@@ -3659,6 +3683,7 @@ Citiți instrucțiunile care însoțesc router-ul și resetaţi-l la configurare
     <string name="pc_smart_discharge_checkbox_title">Deconectare automată la încărcare</string>
     <string name="pc_smart_discharge_drop_down_title">Setări auto-deconectare</string>
     <string name="pc_smart_discharge_protect_notifi_summary">Pentru a proteja acumulatorul, încărcarea se va opri automat la un nivel selectat atunci când utilizați aplicațiile de navigare</string>
+    <string name="pc_smart_discharge_protect_notifi_summary2">Pentru a proteja acumulatorul, încărcarea se va opri automat la un nivel selectat atunci când utilizați aplicațiile de navigare</string>
     <string name="pc_smart_discharge_protect_notifi_title">Deconectarea automată la încărcare este activă</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$dh și %2$dm rămase</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$dh și %2$dm de la ultima încărcare</string>
@@ -4735,7 +4760,7 @@ Retrageți consimțământul acum?"</string>
     <string name="security_scan_optimizing">Se optimizează…</string>
     <string name="securityadd_install_fail">"Nu s-a putut actualiza extensia. Încercați din nou."</string>
     <string name="securityadd_update_tips_cancle">Nu acum</string>
-    <string name="securityadd_update_tips_message">Actualizați extensia serviciului de Securitate pentru a avea acces la cele mai recente caracteristici pentru jocuri. %1$dMB will be downloaded.</string>
+    <string name="securityadd_update_tips_message">Actualizați extensia serviciului de Securitate pentru a avea acces la cele mai recente caracteristici pentru jocuri. Se vor descărca %1$d MB.</string>
     <string name="securityadd_update_tips_now">Actualizați</string>
     <string name="securityadd_update_tips_title">Actualizați</string>
     <string name="securitycenter_tab_title">Securitate</string>
@@ -5069,6 +5094,8 @@ Retrageți consimțământul acum?"</string>
     <string name="special_perm_intercept_analyze_title">Analizarea preferințelor și a comportamentului</string>
     <string name="special_perm_intercept_app_msg">Inclusiv notificări din rețelele sociale și aplicațiile bancare</string>
     <string name="special_perm_intercept_app_title">Citirea tuturor notificărilor</string>
+    <string name="special_perm_intercept_autostart_msg">Permiteți aplicației să pornească în fundal oricând, fără restricții</string>
+    <string name="special_perm_intercept_autostart_title">Pornire automată nelimitată</string>
     <string name="special_perm_intercept_barrier_free">Accesibilitate</string>
     <string name="special_perm_intercept_camera_msg">Restricționează orice activitate a camerei foto</string>
     <string name="special_perm_intercept_camera_title">Restricționarea utilizării camerei</string>
@@ -5999,7 +6026,7 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="untrust_app_perm_oaid">Permiteți accesarea ID-ului virtual</string>
     <string name="untrust_app_perm_title">Aplicație dintr-o sursă necunoscută</string>
     <string name="untrust_app_perm_warn">Această aplicație provine dintr-o sursă necunoscută și poate prezenta riscuri de securitate. Poate folosi permisiunile enumerate mai jos pentru a vă compromite confidențialitatea. Acordați aceste permisiuni după o analiză atentă.</string>
-    <string name="upgrade_tvm_component_desc">Pentru a asigura securitatea tranzacțiilor dvs., actualizați extensia Phone Key Component.</string>
+    <string name="upgrade_tvm_component_desc">Pentru a asigura securitatea tranzacțiilor dvs., actualizați extensia Phone Key Component via Securitate.</string>
     <string name="upgrade_tvm_component_title">Actualizați extensia Phone Key Component</string>
     <string name="usage_sorted_activity_lable">Utilizare date</string>
     <string name="usage_sorted_empty_text">Gol</string>
@@ -6043,12 +6070,15 @@ Datele rămase includ datele reportate din luna anterioară."</string>
     <string name="vb_fps_display_unit">Hz</string>
     <string name="vb_fps_settings">Rată de reîmprospătare automată</string>
     <string name="vb_fps_settings_tips">Această funcție ajustează rata de reîmprospătare a ecranului la rata cadrelor video, ceea ce economisește acumulatorul și face redarea mai fluidă. Activarea comentariilor plutitoare va dezactiva rata de reîmprospătare automată.</string>
+    <string name="vb_power_performance_mode_conflict_toast">Nu se poate utiliza această funcție când modul Performanță este activat</string>
+    <string name="vb_power_save_mode_conflict_toast">Nu se poate utiliza această funcție când Economisirea acumulatorului este activată</string>
     <string name="vb_quick_func_auto_bgm">Recunoaște muzica de fundal</string>
     <string name="vb_quick_func_hangup_listening">Redați sunetul video cu ecranul dezactivat</string>
     <string name="vb_quick_func_screen_capture">Captură de ecran</string>
     <string name="vb_quick_func_screen_record">Înregistrați</string>
     <string name="vb_quick_func_screening">Proiectați</string>
     <string name="vb_settings">Setări</string>
+    <string name="vb_super_power_save_mode_conflict_toast">Nu se poate folosi această funcție când Ultra Economisirea acumulatorului este activată</string>
     <string name="vb_ve_settings_ai_stronger">AI</string>
     <string name="vb_ve_settings_display_style_tips">*Aceste efecte sunt aplicate întregului ecran</string>
     <string name="vb_ve_settings_display_style_tips_new">*Efectele vor fi aplicate numai zonei de redare video</string>

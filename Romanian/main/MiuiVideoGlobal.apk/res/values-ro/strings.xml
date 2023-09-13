@@ -124,6 +124,9 @@
     <string name="auth_fail_warning">Sesiunea a expirat. Conectați-vă din nou.</string>
     <string name="auto_play_next_off">Redarea automată este oprită</string>
     <string name="auto_play_next_on">Redarea automată este pornită</string>
+    <string name="back_recommend_exchange">Vedeți</string>
+    <string name="back_recommend_exit">Ieșiți</string>
+    <string name="back_recommend_title">Vedeți mai multe videoclipuri populare</string>
     <string name="back_to_mainpage">Descoperiți</string>
     <string name="background_playback_enabled">Redarea în fundal este activă</string>
     <string name="before_yestoday">Cu 2 zile în urmă</string>
@@ -768,6 +771,7 @@ Această operațiune nu va afecta fotografiile din galerie."</string>
     <string name="have_learned">Am înțeles</string>
     <string name="hidden_channels">"Următoarele canale nu vor fi afișate pe Ecranul principal."</string>
     <string name="hide">Ascundeți</string>
+    <string name="hide_video_toast">Acest articol a fost ascuns. Puteți găsi și gestiona elementele ascunse în Local > Dosare > Elemente ascunse.</string>
     <string name="hint_icon_ad_title">Recomendate</string>
     <string name="hint_in_mivideo">Acum puteți căuta în panoul lateral funcțiile suplimentare</string>
     <string name="history">Istoric</string>
@@ -883,6 +887,7 @@ pentru cea mai bună experiență de vizualizare"</string>
     <string name="local_hide_folder_dialog_title">Videoclipuri ascunse</string>
     <string name="local_hide_folder_setting_goto">Setări</string>
     <string name="local_hide_folder_setting_tip">Vă puteți gestiona videoclipurile ascunse în Profil > Setări > Gestionați videoclipurile ascunse.</string>
+    <string name="local_new_user_speed_guide">Apăsați, mențineți apăsat și glisați pentru a regla viteza de redare</string>
     <string name="local_play_end_camera_title">Vizualizați mai multe videoclipuri</string>
     <string name="local_play_end_close_tip">"Recomandările nu vor mai fi afișate astăzi"</string>
     <string name="local_play_end_download_drag_up_guide">Atingeți sau glisați pentru a descărca</string>
@@ -894,6 +899,14 @@ pentru cea mai bună experiență de vizualizare"</string>
     <string name="local_push_setting_power_tag">Notificări despre videoclipurile locale</string>
     <string name="local_push_title">Populare astăzi</string>
     <string name="local_push_video_title">Scanați pentru videoclipuri locale noi</string>
+    <string name="local_reset_confirm">Introduceți din nou</string>
+    <string name="local_reset_error_dif_info">Noul cod PIN nu poate fi același ca cel anterior</string>
+    <string name="local_reset_error_wrong_info">Codurile PIN nu se potrivesc. Încercați din nou.</string>
+    <string name="local_reset_new_password">Introduceți noul cod PIN</string>
+    <string name="local_reset_old_password">Introduceți codul PIN actual</string>
+    <string name="local_reset_password_done">Cod PIN modificat cu succes</string>
+    <string name="local_reset_password_title">Schimbați codul PIN</string>
+    <string name="local_reset_tips">Introduceți codul PIN format din %d cifre</string>
     <string name="local_stretch_zoom_mode">Imaginea este întinsă</string>
     <string name="local_subtitle_choose_language_text">Limbă</string>
     <string name="local_subtitle_exemption_hint">Căutați subtitrări pe opensubtitle.org</string>
@@ -1087,6 +1100,7 @@ Vom folosi această permisiune numai pentru a găsi videoclipurile pe care le c�
     <string name="material_timepicker_text_input_mode_description">Pentru a introduce ora, comutați la modul de introducere a textului</string>
     <string name="mediation_ad">RECLAMĂ</string>
     <string name="mediation_ad_can_not_share">Nu se poate partaja acest videoclip</string>
+    <string name="mediation_russian_ad">Reclamă</string>
     <string name="member">VIP</string>
     <string name="message_notify">Notificare mesaj nou</string>
     <string name="mgmi_ad_mid_wait">Luați o pauză. Continuați mai târziu.</string>
@@ -1260,6 +1274,9 @@ Vom folosi această permisiune numai pentru a găsi videoclipurile pe care le c�
     <string name="mtrl_chip_close_icon_content_description">Eliminați %1$s</string>
     <string name="my_favorite_channels">Canalele mele</string>
     <string name="my_feedback_title">Feedback-ul meu</string>
+    <string name="native_body">Corp</string>
+    <string name="native_headline">Titlu</string>
+    <string name="native_media_view">Vizualizare media</string>
     <string name="need_update_app">Actualizați Mi Video pentru a utiliza toate funcțiile</string>
     <string name="network_connect_info">Nu s-a putut conecta la rețea.</string>
     <string name="network_error_and_retry_tip">Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou.</string>
@@ -1848,6 +1865,7 @@ Verificați alte videoclipuri!"</string>
     <string name="sign_in_mi_account">Conectați-vă cu contul Xiaomi</string>
     <string name="sign_in_progress">Se conectează…</string>
     <string name="sign_in_title">Conectați-vă cu contul dvs. Mi</string>
+    <string name="skip_ad">Omiteți</string>
     <string name="slid_fail_message">Nu s-a putut salva</string>
     <string name="slide_save_message">Se generează videoclipul…</string>
     <string name="small_video_cancel_button">Renunțați</string>

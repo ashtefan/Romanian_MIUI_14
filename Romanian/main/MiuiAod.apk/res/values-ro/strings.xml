@@ -380,6 +380,8 @@ dd.MM"</string>
     <string name="signature">Semnătură</string>
     <string name="signature_default_content">"Crede întotdeauna că ceva
 minunat urmează să se întâmple"</string>
+    <string name="smart_style">Inteligent</string>
+    <string name="smart_style_summary">Afișați întotdeauna articolele, cu excepția cazului în care dispozitivul este într-un buzunar, când lumina ambientală este scăzută pentru o perioadă lungă de timp sau când nu vă uitați la dispozitiv</string>
     <string name="solar_term_autumn_begins">Începutul toamnei</string>
     <string name="solar_term_autumn_equinox">Echinocțiul de toamnă</string>
     <string name="solar_term_clear_and_bright">Senin și strălucitor</string>

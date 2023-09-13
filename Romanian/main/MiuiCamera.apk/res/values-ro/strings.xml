@@ -1286,6 +1286,8 @@ să pară mai mari în fotografii"</string>
     <string name="network_connection_prerequisites_china">Porniți Bluetooth și Wi-Fi din Centrul de Control pentru a putea utiliza înregistrarea telefon dual.</string>
     <string name="network_connection_rejected">Respinsă</string>
     <string name="network_connection_timed_out">Conexiunea a expirat</string>
+    <string name="new_bie_dialog_cancel">Închideți descrierea caracteristicii</string>
+    <string name="new_bie_dialog_desc">Descrierea caracteristicii</string>
     <string name="newbie_privacy_watermark_msg">Utilizați filigrane pentru a vă proteja documentele împotriva copierii neautorizate</string>
     <string name="newbie_privacy_watermark_title">Protejați-vă documentele</string>
     <string name="night">Seară</string>

@@ -129,9 +129,9 @@
         <item quantity="other">Dezinstalați %d aplicații</item>
         <item quantity="one">Dezinstalați %d aplicație</item>
     </plurals>
-    <plurals name="app_manager_updater_notify_title">
-        <item quantity="other">Sunt disponibile actualizări pentru %d aplicații</item>
-        <item quantity="one">Este disponibilă o actualizare pentru %d aplicație</item>
+    <plurals name="app_manager_updater_title">
+        <item quantity="other">Actualizați %d aplicații</item>
+        <item quantity="one">Actualizați %d aplicație</item>
     </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">Utilizată cu %d zile în urmă</item>

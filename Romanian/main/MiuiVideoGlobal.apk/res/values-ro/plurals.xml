@@ -150,6 +150,10 @@ Disponibil doar astăzi"</item>
         <item quantity="other">%d videoclipuri</item>
         <item quantity="one">%d videoclip</item>
     </plurals>
+    <plurals name="local_longpress_speed_chenge_tip">
+        <item quantity="other">Se redă la viteza %sX. Eliberați pentru a reda la viteza normală.</item>
+        <item quantity="one">Se redă la viteza %sX. Eliberați pentru a reda la viteza normală.</item>
+    </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d dosare</item>
         <item quantity="one">%d dosar</item>
