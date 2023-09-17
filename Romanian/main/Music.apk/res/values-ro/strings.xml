@@ -703,6 +703,8 @@
     <string name="garbage_cleanup">Curățare</string>
     <string name="gcm_fallback_notification_channel_label">Diverse</string>
     <string name="get_more_favorite_content_after_login">Conectați-vă pentru a descoperi mai multe melodii și videoclipuri.</string>
+    <string name="get_one_minute_vip">Ați câștigat %d minute VIP!</string>
+    <string name="get_vip">Obțineți statut VIP</string>
     <string name="global_search_app_name">Muzică</string>
     <string name="global_search_description_entry">Savurați muzică</string>
     <string name="global_search_description_hot">Actualizări săptămânale</string>
@@ -1184,6 +1186,9 @@
     <string name="nowplaying_dialog_title_delete_tracks">Goliți lista de redare curentă?</string>
     <string name="nowplaying_menu_item_delete">Goliți</string>
     <string name="ok">OK</string>
+    <string name="one_day_vip">%d zile de membru VIP</string>
+    <string name="one_hour_vip">%d ore de membru VIP</string>
+    <string name="one_minute_vip">%d minute de membru VIP</string>
     <string name="online_apk_acquired">S-a încărcat %d%%</string>
     <string name="online_apk_acquiring">Se încarcă… %d%%</string>
     <string name="online_apk_download_error_no_enough_space">"Nu s-a putut descărca datorită spațiului de stocare insuficient."</string>
@@ -1474,6 +1479,7 @@ Fiți fericit"</string>
     <string name="retry_after_network_available">"Nu se poate conecta la rețea. Verificați conexiunea și încercați din nou."</string>
     <string name="retry_download">Reîncercați</string>
     <string name="revoke_upload_playlist_to_hungama_toast">Melodiile online nu vor fi sincronizate în Hungama</string>
+    <string name="reward_received">Ați câștigat statutul de membru VIP!</string>
     <string name="ringtone_editing">Editor de tonuri de apel</string>
     <string name="ringtone_not_support">"Acest format nu este acceptat"</string>
     <string name="ringtone_selected">Selectat</string>
@@ -1592,6 +1598,7 @@ Fiți fericit"</string>
     <string name="similar_songs">Melodii similare</string>
     <string name="similar_videos">Videoclipuri similare</string>
     <string name="skip">Omiteți</string>
+    <string name="skip_ad">Omiteți</string>
     <string name="sleep_mode">Temporizator</string>
     <string name="sleep_mode_canceled">Temporizator oprit</string>
     <string name="sleep_mode_summary">Se opreşte redarea după un anumit timp</string>
@@ -1864,6 +1871,7 @@ Fiți fericit"</string>
     <string name="v7_preference_on">PORNIT</string>
     <string name="version_info">Versiune</string>
     <string name="vhigh_sound_quality">HD</string>
+    <string name="video_loading_fail">Nu s-a putut încărca videoclipul</string>
     <string name="video_play_cellular">"Dispozitivul dvs. nu este conectat la Wi-Fi. Utilizați datele mobile?"</string>
     <string name="video_replay_btn">Redați din nou</string>
     <string name="video_retry_btn">Încercați din nou</string>
@@ -1883,6 +1891,9 @@ Fiți fericit"</string>
     <string name="warning_tip_content">"Nu mai sunteți conectat la Wi-Fi. Utilizarea datelor mobile pentru finalizarea descărcării poate duce la depășirea planului de date și taxarea suplimentară de către operator."</string>
     <string name="warning_tip_ok">Opriți</string>
     <string name="warning_tip_title">Avertisment utilizare date mobile</string>
+    <string name="watch_video">Urmăriți videoclipul</string>
+    <string name="web_reward_dialog_cancle">Renunțați</string>
+    <string name="web_reward_dialog_ok">Ieșiți</string>
     <string name="wednesday">Miercuri</string>
     <string name="wednesday_short">Mie</string>
     <string name="wednesday_shortest">Mi</string>
@@ -1961,5 +1972,6 @@ Dimensiunea actualizării delta: %2$s"</string>
     <string name="youtube_tab_explore">Descoperiți</string>
     <string name="youtube_tab_playlist">Liste de redare</string>
     <string name="youtube_tab_radar">Radar</string>
+    <string name="youtube_tab_shorts">Videoclipuri scurte</string>
     <string name="youtube_tab_trend">În trend</string>
 </resources>

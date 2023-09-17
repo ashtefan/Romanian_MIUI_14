@@ -186,6 +186,10 @@ Notă: Fișierul va fi de asemenea șters din telefon."</item>
         <item quantity="other">%d urmăritori</item>
         <item quantity="one">%d urmăritor</item>
     </plurals>
+    <plurals name="reward_seconds_remaining">
+        <item quantity="other">Statut de membru VIP în %d secunde</item>
+        <item quantity="one">Statut de membru VIP în %d secundă</item>
+    </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">%d melodii vor fi trimise</item>
         <item quantity="one">%d melodie va fi trimisă</item>
@@ -221,6 +225,10 @@ Notă: Fișierul va fi de asemenea șters din telefon."</item>
     <plurals name="vip_remain_days_hint">
         <item quantity="other">%d zile rămase</item>
         <item quantity="one">%d zi rămasă</item>
+    </plurals>
+    <plurals name="web_reward_dialog_title">
+        <item quantity="other">Dacă vizionați timp de %d secunde, veți primi un abonament VIP ca recompensă. Ieșiți oricum?</item>
+        <item quantity="one">Dacă vizionați timp de %d secundă, veți primi un abonament VIP ca recompensă. Ieșiți oricum?</item>
     </plurals>
     <plurals name="whitelist_multi_added">
         <item quantity="other">S-au adăugat %d fișiere</item>

@@ -1671,6 +1671,8 @@ atingeți de două ori pentru detalii,
 atingeți de două ori și țineți apăsat pentru a muta."</string>
     <string name="pa_accessibility_picker_home_widget_slected_for_pay">"%1$s, %2$s, stare instalare: %3$s.
 Atingeți de două ori pentru a vedea detaliile."</string>
+    <string name="pa_accessibility_picker_home_widget_slected_no_drag">"%1$s, %2$s, stare instalare: %3$s.
+Atingeți de două ori pentru a vedea detaliile."</string>
     <string name="pa_accessibility_picker_home_widget_with_add_slected">"%1$s, rândul %2$d, numărul %3$d. 
 Atingeți de două ori pentru a vedea detaliile."</string>
     <string name="pa_accessibility_picker_order_list_to_theme">Deschideți aplicația Teme</string>
@@ -1916,9 +1918,11 @@ De asemenea, puteți urmări livrarea rapidă pe site-urile oficiale ale servici
     <string name="pa_picker_detail_add_maml_net_unavailable">"Nu s-a putut conecta la rețea. Verificați setările de rețea și încercați din nou."</string>
     <string name="pa_picker_detail_add_to_home">Adăugați pe Ecranul principal</string>
     <string name="pa_picker_detail_add_to_minus">Adăugați la Asistentul inteligent</string>
+    <string name="pa_picker_detail_add_to_stack">Adăugați la grup</string>
     <string name="pa_picker_detail_add_widget_success">Adăugat cu succes</string>
     <string name="pa_picker_detail_app_not_in_market">"Această aplicație nu oferă niciun widget acum"</string>
     <string name="pa_picker_detail_app_not_off_shelf">"Widgeturile acestei aplicații nu mai sunt disponibile"</string>
+    <string name="pa_picker_detail_app_widget_in_dev">Acest widget nu este încă disponibil. În schimb, puteți verifica celelalte widget-uri.</string>
     <string name="pa_picker_detail_bottom_bt_source_home">Ecran principal</string>
     <string name="pa_picker_detail_bottom_bt_source_minus">Asistentul inteligent</string>
     <string name="pa_picker_detail_bottom_bt_text_to_home">Adăugați pe Ecranul principal</string>
@@ -1957,6 +1961,7 @@ De asemenea, puteți urmări livrarea rapidă pe site-urile oficiale ale servici
     <string name="pa_picker_detail_theme_app_cta_pre">"Pentru a putea folosi acest widget, permiteți mai întâi aplicației Teme să se conecteze la internet. "</string>
     <string name="pa_picker_detail_theme_app_need_login">Conectați-vă</string>
     <string name="pa_picker_detail_theme_app_need_login_pre">"Conectați-vă mai întâi la contul dvs. Xiaomi. "</string>
+    <string name="pa_picker_detail_view_more">Vedeți mai mult</string>
     <string name="pa_picker_detail_vp2_indicator">A fost selectată pagina %1$d din %2$d</string>
     <string name="pa_picker_detail_wait_wifi_download_maml">Acest articol va fi descărcat prin Wi-Fi</string>
     <string name="pa_picker_empty">"Widgeturile nu sunt disponibile în această versiune a aplicației. 
@@ -2014,6 +2019,9 @@ pentru a afișa widgeturi."</string>
     <string name="pa_picker_search_result_type_recommend">Recomandate</string>
     <string name="pa_picker_search_result_type_suit">Seturi de widgeturi</string>
     <string name="pa_picker_search_result_type_widget">Widgeturi</string>
+    <string name="pa_picker_stack_operate_empty_title">"Nimic aici deocamdată.
+Adăugați widget-uri pentru a începe."</string>
+    <string name="pa_picker_stack_operate_title">Editați grupul</string>
     <string name="pa_picker_suit_list_activity_title">Pachete de personalizare</string>
     <string name="pa_picker_tab_title_category">Categorii</string>
     <string name="pa_picker_tab_title_fun">Descoperiți</string>
@@ -2021,6 +2029,7 @@ pentru a afișa widgeturi."</string>
     <string name="pa_picker_theme_app_version_error">A apărut o eroare</string>
     <string name="pa_picker_tips_count_limit_forbidden">Nu se pot adăuga mai multe widget-uri. Ștergeți widget-urile mai vechi pentru a adăuga altele noi.</string>
     <string name="pa_picker_toast_add_successfully">Adăugat cu succes</string>
+    <string name="pa_picker_toast_count_limit_for_stack">Adăugați maxim 10 elemente</string>
     <string name="pa_picker_toast_count_limit_forbidden">"Nu se mai pot adăuga widget-uri"</string>
     <string name="pa_picker_toast_count_limit_forbidden_for_type">"Nu se pot adăuga mai multe widget-uri de acest tip"</string>
     <string name="pa_picker_toast_count_limit_warning">Adăugat cu succes. Rețineți că plasarea prea multor widget-uri pe Ecranul principal poate încetini dispozitivul.</string>
@@ -2186,6 +2195,8 @@ pentru a afișa widgeturi."</string>
     <string name="pa_sports_widget_empty_football">Fotbal</string>
     <string name="pa_sports_widget_empty_game">Onoarea Regilor</string>
     <string name="pa_sports_widget_empty_recommend">Recomandate</string>
+    <string name="pa_stack_summary">Mutați widget-urile cu informații noi spre partea de sus</string>
+    <string name="pa_stack_text">Mutați elementele actualizate în sus</string>
     <string name="pa_stock_add_stock_button">Adăugați</string>
     <string name="pa_stock_change_cp_code_alert">Această operațiune poate face ca datele să nu se afișeze corect</string>
     <string name="pa_stock_change_cp_code_error">"Nu s-a putut schimba sursa de date"</string>
@@ -2231,7 +2242,10 @@ pentru a afișa widgeturi."</string>
     <string name="pa_vertical_right">Dispunere verticală. Aliniat la dreapta.</string>
     <string name="pa_widget_advert_loading_dialog_message">Doar o secundă…</string>
     <string name="pa_widget_menu_edit">Editați</string>
+    <string name="pa_widget_menu_edit_card_in_stack">Editați \"%s\"</string>
+    <string name="pa_widget_menu_edit_stack">Editați grupul</string>
     <string name="pa_widget_menu_remove">Eliminați</string>
+    <string name="pa_widget_menu_remove_card_in_stack">Eliminați \"%s\"</string>
     <string name="pa_widget_menu_replace">Comutați</string>
     <string name="pa_widget_need_download_dialog_cancel">Renunțați</string>
     <string name="pa_widget_need_download_dialog_confirm">OK</string>
