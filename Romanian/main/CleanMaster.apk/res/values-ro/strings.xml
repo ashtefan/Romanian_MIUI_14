@@ -144,6 +144,7 @@
     <string name="auto_clean_trigger_percent_sixty">Când este ocupată la 60%</string>
     <string name="auto_cleaner_open">Activat</string>
     <string name="back">Înapoi</string>
+    <string name="be_figuring">Se calculează…</string>
     <string name="browser_scan_history_desc">Istoricul de navigare</string>
     <string name="browser_search_history_desc">Elementele căutate</string>
     <string name="btn_text_done">Finalizat</string>
@@ -278,6 +279,7 @@
     <string name="dc_item_title_wechat_chat">Goliți istoricul WeChat</string>
     <string name="dc_storage_cleaned">S-au eliberat %s</string>
     <string name="dc_storage_info">Disponibil %1$s | Total %2$s</string>
+    <string name="dc_storage_info_new">%1$s disponibil</string>
     <string name="deep_clean_completed_tips">Curățare încheiată cu succes</string>
     <string name="deep_clean_data_path_clean_title">Golire memorie cache</string>
     <string name="deep_clean_uninstall_completed_tips">Dezinstalată cu succes</string>

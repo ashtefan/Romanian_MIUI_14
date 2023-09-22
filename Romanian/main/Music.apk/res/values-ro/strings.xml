@@ -81,6 +81,7 @@
     <string name="ad_close">Închideți</string>
     <string name="ad_data_exception">Eroare date promoții</string>
     <string name="ad_extension">Promoții</string>
+    <string name="ad_flag_text">RECLAMĂ</string>
     <string name="ad_mark">Reclame</string>
     <string name="ad_recommend">Afișează reclame</string>
     <string name="ad_setting">Setări serviciu reclame</string>

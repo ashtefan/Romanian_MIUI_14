@@ -335,6 +335,7 @@ Conectați încărcătorul și opriți ecranul pentru a face să apară amintiri
     <string name="backup_automatically_title">Sincronizare automată</string>
     <string name="backup_battery_low_desc">Puteți alege să continuați sincronizarea elementelor</string>
     <string name="backup_battery_low_title">Sincronizarea a fost dezactivată datorită nivelului redus al acumulatorului</string>
+    <string name="backup_category_title">COPIE DE REZERVĂ</string>
     <string name="backup_close">Opriți sincronizarea</string>
     <string name="backup_cloud_space_low_btn_text">Obțineți mai mult</string>
     <string name="backup_cloud_space_low_desc">%1$s în Xiaomi Cloud | Disponibil %2$s</string>
@@ -350,7 +351,10 @@ Conectați încărcătorul și opriți ecranul pentru a face să apară amintiri
     <string name="backup_dirty_num">|Total: %s</string>
     <string name="backup_dirty_tip">Fotografiile și videoclipurile nu s-au sincronizat</string>
     <string name="backup_disable_message">Aplicația Galerie trebuie să golească memoria cache a aplicației, deoarece ați dezactivat sincronizarea în cloud.</string>
+    <string name="backup_display">Memento-uri stocare</string>
     <string name="backup_file_over_size_desc">"Fotografiile mai mari de %1$s și videoclipurile mai mari de %2$s nu pot fi rezervate."</string>
+    <string name="backup_google_description">Păstrați-vă fotografiile în siguranță făcându-le copii de rezervă în Contul dvs. Google</string>
+    <string name="backup_google_name">Fotografii Google</string>
     <string name="backup_immediately">Sincronizați</string>
     <string name="backup_need_sync_desc">Atingeți pentru a continua sincronizarea</string>
     <string name="backup_need_sync_title">Sincronizare oprită</string>
@@ -360,6 +364,10 @@ Conectați încărcătorul și opriți ecranul pentru a face să apară amintiri
     <string name="backup_no_wifi_btn_text">Utilizare date mobile</string>
     <string name="backup_no_wifi_desc">Puteți sincroniza elementele și prin date mobile</string>
     <string name="backup_no_wifi_title">Atingeți pentru a vă conecta la Wi-Fi</string>
+    <string name="backup_off_des">Activați sincronizarea în cloud pentru a face backup automat pentru fotografii și videoclipuri</string>
+    <string name="backup_onedrive_description">Protejați-vă fotografiile în cloud și accesați-le de pe orice dispozitiv</string>
+    <string name="backup_onedrive_name">Microsoft OneDrive</string>
+    <string name="backup_onedrive_single_name">OneDrive</string>
     <string name="backup_only_in_wifi">Utilizați doar Wi-Fi pentru a sincroniza fotografiile și videoclipurile</string>
     <string name="backup_only_in_wifi_summary">Nu utiliza niciodată conexiunea de date mobile pentru sincronizarea fotografiilor și a videoclipurilor</string>
     <string name="backup_only_wifi_dialog_message">Utilizați datele mobile pentru sincronizarea fotografiilor și videoclipurilor?</string>
@@ -1275,6 +1283,8 @@ efecte pentru fotografii"</string>
     <string name="getverifycode_seconde">s</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
+    <string name="global_cloud_action_upgrade_onedrive">Actualizați OneDrive</string>
+    <string name="global_cloud_full_space_tip_message">Actualizați planul de stocare în cloud pentru a putea face copii de rezervă pentru toate fotografiile și videoclipurile dvs.</string>
     <string name="global_pad">Tableta mea</string>
     <string name="global_pc">Laptopul meu</string>
     <string name="global_phone">Telefonul meu</string>
@@ -1592,6 +1602,7 @@ efecte pentru fotografii"</string>
     <string name="main_save_compress">Comprimați și salvați</string>
     <string name="main_save_error_msg">"Nu s-au putut salva modificările datorită unei erori apărute"</string>
     <string name="main_save_origin">Salvați fișierul original</string>
+    <string name="manager_backup">Gestionați</string>
     <string name="manual_hide_manage">Adăugați fișierele \".nomedia\"</string>
     <string name="manual_hide_state">Fișiere \".nomedia\" adăugate cu succes</string>
     <string name="map_album">Hărți</string>
@@ -1933,6 +1944,7 @@ pentru a personaliza Galeria"</string>
     <string name="online_video_vip_transcoding">"Urmează să înceapă streaming-ul VIP…
 Decodarea ar putea dura ceva timp când utilizați această caracteristică pentru prima dată."</string>
     <string name="open">Activaţi</string>
+    <string name="open_backup">Activați</string>
     <string name="open_public_message">Generaţi un URL pentru a-l distribui prietenilor</string>
     <string name="open_public_title">Distribuiţi public</string>
     <string name="open_settings">Setări</string>
@@ -2682,6 +2694,7 @@ Decodarea ar putea dura ceva timp când utilizați această caracteristică pent
     <string name="see_ignore_faces">Vedeți persoanele pe care le-ați ignorat</string>
     <string name="see_more_settings">Setări adiționale</string>
     <string name="select_all">Selectați tot</string>
+    <string name="select_backup">Selectați copia de rezervă</string>
     <string name="select_image_operation">Se adaugă fotografii</string>
     <string name="select_item_face">"Este '%s'?"</string>
     <string name="select_origin_tip">Fișierul original (%s)</string>

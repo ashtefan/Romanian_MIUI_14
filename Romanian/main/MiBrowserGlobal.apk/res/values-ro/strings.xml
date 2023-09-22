@@ -104,6 +104,7 @@
     <string name="actionbar_button_up_description">Înapoi</string>
     <string name="activate_email_notice">Asigurați-vă că vă activați contul în maxim 24 de ore</string>
     <string name="activity_not_found_notice">Nu s-a găsit aplicația</string>
+    <string name="ad_flag_text">RECLAMĂ</string>
     <string name="ad_loading_tips_text">Se încarcă reclama…</string>
     <string name="ad_mark">Reclamă</string>
     <string name="ad_permission_name">Blocați reclamele</string>
@@ -182,7 +183,7 @@
     <string name="app_name_downloads">Descărcări</string>
     <string name="app_name_market">Magazinul de aplicații</string>
     <string name="app_name_midrop">ShareMe</string>
-    <string name="app_name_miui">MIUI</string>
+    <string name="app_name_miui">Resurse de sistem</string>
     <string name="app_name_miuimusic">Muzică</string>
     <string name="app_name_miuiringtone">Sunet de apel</string>
     <string name="app_name_miuiwallpaper">Imagini de fundal</string>
@@ -194,12 +195,12 @@
     <string name="application">Aplicații</string>
     <string name="application_name">Browser</string>
     <string name="application_upgrade">Actualizări</string>
-    <string name="aqi_quality_index_break">Extrem de periculos</string>
-    <string name="aqi_quality_index_dangerous">Periculos</string>
+    <string name="aqi_quality_index_break">Peste index</string>
+    <string name="aqi_quality_index_dangerous">Sever</string>
     <string name="aqi_quality_index_good">Bun</string>
     <string name="aqi_quality_index_hazardous">Primejdios</string>
-    <string name="aqi_quality_index_light_pollution">Poluare ușoară</string>
-    <string name="aqi_quality_index_moderate">Moderat</string>
+    <string name="aqi_quality_index_light_pollution">Moderat</string>
+    <string name="aqi_quality_index_moderate">Rezonabil</string>
     <string name="aqi_quality_index_pure">Excelent</string>
     <string name="aqi_quality_index_unhealthy">Rău</string>
     <string name="articles_collection_empty">Niciun articol aici</string>
@@ -416,6 +417,16 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="browserFrameFileErrorLabel">Eroare de fișier</string>
     <string name="browserFrameFormResubmitMessage">Pagina pe care încercați să o vizualizați conține date care au fost deja trimise. Dacă retrimiteți datele, acțiunile anterioare (de exemplu, căutări sau achiziții) se vor repeta.</string>
     <string name="browserFrameNetworkErrorLabel">Eroare de conexiune</string>
+    <string name="browser_wallpaper">Imagini de fundal</string>
+    <string name="browser_wallpaper_application">Aplicați</string>
+    <string name="browser_wallpaper_art">Artă</string>
+    <string name="browser_wallpaper_currently_in_use">Aplicat</string>
+    <string name="browser_wallpaper_landscape">Scenariu</string>
+    <string name="browser_wallpaper_more_btn">Vedeți mai mult</string>
+    <string name="browser_wallpaper_preview">Previzualizați</string>
+    <string name="browser_wallpaper_subtitle">Personalizați browserul Mi Browser cu Imagini de fundal atractive.</string>
+    <string name="browser_wallpaper_system_default">Implicit</string>
+    <string name="browser_wallpaper_title">Imagini de fundal</string>
     <string name="btn_agree">De acord</string>
     <string name="btn_cancel">Anulare</string>
     <string name="camera_permission_name">Folosiți camera</string>
@@ -1062,7 +1073,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="filename_illegal_alert_message">Un caracter interzis a fost eliminat din numele fișierului</string>
     <string name="files_stored_in_the_phone">Fișiere stocate pe acest dispozitiv</string>
     <string name="find_garbage">S-au găsit %d MB de gunoi</string>
-    <string name="find_new_version">Actualizări disponibile</string>
+    <string name="find_new_version">Este disponibilă o actualizare</string>
     <string name="find_on_page_cancel">Anulaţi</string>
     <string name="find_on_page_hint">Căutare în pagină</string>
     <string name="find_on_page_next">Înainte</string>
@@ -1947,6 +1958,9 @@ Părăsiți această pagină acum?"</string>
     <string name="my_channel">Canalele mele</string>
     <string name="my_prize_entry">Recompensele mele</string>
     <string name="name_empty">Trebuie să introduceți un nume.</string>
+    <string name="native_body">Corp</string>
+    <string name="native_headline">Titlu</string>
+    <string name="native_media_view">Vizualizare Media</string>
     <string name="nav_bottom_bar_back">Înapoi</string>
     <string name="nav_bottom_bar_close_all">Închideţi tot</string>
     <string name="nav_bottom_bar_new_tab">Filă nouă</string>
@@ -3223,6 +3237,7 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="simple_page_toast">Puteți trece la implicit în Setări > Setări pagina de pornire</string>
     <string name="site_content_has_update">Conținutul paginii a fost actualizat</string>
     <string name="skip">Omiteți</string>
+    <string name="skip_ad">Omiteți</string>
     <string name="skip_current_version">Omiteţi această versiune</string>
     <string name="sku_all">Tot</string>
     <string name="sku_price_everymonth">%1$s în fiecare lună</string>
@@ -3659,6 +3674,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vpn_subscribe_tips_3">Bucurați-vă de viteză mare</string>
     <string name="vpn_used_all_free_data_toast">Nu mai aveți trafic disponibil. Abonați-vă pentru a continua.</string>
     <string name="vpn_used_all_toast">Nu mai aveți trafic disponibil</string>
+    <string name="watermark_label_prefix">"AdMob - "</string>
     <string name="weather_card_aqi">ICA</string>
     <string name="weather_card_baro">Presiune</string>
     <string name="weather_card_dew_pt">Punct de condensare</string>
