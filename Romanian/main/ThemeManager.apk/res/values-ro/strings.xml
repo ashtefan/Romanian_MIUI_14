@@ -63,6 +63,7 @@ Aplicația Teme va detecta aplicațiile pe care le utilizați și va afișa imag
     <string name="ad_experience_now">Deschideți</string>
     <string name="ad_in_downloading">Se descarcă</string>
     <string name="ad_in_installing">Se instalează</string>
+    <string name="ad_installing">Se instalează</string>
     <string name="add">Adăugați</string>
     <string name="add_home_icon_success">Adăugat cu succes</string>
     <string name="add_resource_detail_fail">"Nu s-a putut adăuga resursa"</string>

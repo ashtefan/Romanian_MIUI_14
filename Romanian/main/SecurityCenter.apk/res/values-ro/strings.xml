@@ -119,7 +119,7 @@
     <string name="activity_title_antivirus_kddi">Scanare de securitate</string>
     <string name="activity_title_apps_manager">Aplicaţii</string>
     <string name="activity_title_auto_start_manager">Pornire automată</string>
-    <string name="activity_title_auto_start_manager_global">Pornire automată ăn fundal</string>
+    <string name="activity_title_auto_start_manager_global">Pornire automată în fundal</string>
     <string name="activity_title_garbage_cleanup">Curăţare</string>
     <string name="activity_title_license_manager">Permisiuni</string>
     <string name="activity_title_networkassistants">Utilizare date</string>

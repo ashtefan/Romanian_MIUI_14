@@ -158,6 +158,10 @@ Notă: Fișierul va fi de asemenea șters din telefon."</item>
         <item quantity="other">Se urmăresc %d persoane</item>
         <item quantity="one">Se urmărește %d persoană</item>
     </plurals>
+    <plurals name="media_store_new_songs_add">
+        <item quantity="other">%d melodii noi</item>
+        <item quantity="one">%d melodie nouă</item>
+    </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d elemente selectate</item>
         <item quantity="one">%d element selectat</item>

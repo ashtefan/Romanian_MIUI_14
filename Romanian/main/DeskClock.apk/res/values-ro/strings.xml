@@ -61,7 +61,7 @@
     <string name="alarm_notify_text">Amânaţi sau anulaţi alarma</string>
     <string name="alarm_permanent_alert">Sună</string>
     <string name="alarm_repeat">Repetare</string>
-    <string name="alarm_ringtone">Sunete de alarmă</string>
+    <string name="alarm_repeat_self_define_button">Personalizați</string>
     <string name="alarm_ringtone_picker">Alarme</string>
     <string name="alarm_set_new">Alarma se va declanșa în mai puțin de %d minut.</string>
     <string name="alarm_settings">Setări alarmă</string>
@@ -315,6 +315,7 @@
     <string name="life_post_weather_temperature_centigrade">°C</string>
     <string name="listen_news_privacy"><Data>Pentru a vă furniza servicii personalizate și a vă include știri matinale în alarme, aplicația Ceas trebuie să se conecteze la internet. Înainte de a utiliza aplicația Ceas, trebuie să citiți și să acceptați &lt;a href=\"%2$s\">Acordul utilizatorului&lt;/a> și &lt;a href=\"%3$s\">Politica noastră de confidențialitate&lt;/a>. Acceptați?</Data></string>
     <string name="loading_ringtone">Se încarcă tonul soneriei…</string>
+    <string name="look_sleep_data">Vedeți datele despre somn</string>
     <string name="menu_add_worldclock">Adăugaţi un fus orar</string>
     <string name="menu_desk_clock">Ceas</string>
     <string name="menu_edit_timer_item">Editaţi sarcina temporizatorului</string>
@@ -481,6 +482,10 @@ mm"</string>
     <string name="notification_adv_time_entries4">cu <xliff id="HOUR" refersto="1">%d</xliff> oră înainte</string>
     <string name="notification_adv_time_entries5">Niciodată</string>
     <string name="notification_permission_desc">Dacă nu acordați permisiunea de notificare, nu veți putea dezactiva alarmele când sună. Acordați permisiunea acum?</string>
+    <string name="notification_permission_dialog_content">Permiteți acestei aplicații să trimită notificări pentru a primi notificări despre alarmă. Puteți acorda această permisiune din Setări.</string>
+    <string name="notification_permission_dialog_not_open">Nu acum</string>
+    <string name="notification_permission_dialog_open">Setări</string>
+    <string name="notification_permission_dialog_title">Permisiuni necesare</string>
     <string name="oneshot_alarm">Ștergeți după ce expiră</string>
     <string name="open_keep_screen">Ecranul va fi păstrat pornit</string>
     <string name="open_notification_permission_remind">Permiteți notificările pentru a putea dezactiva alarmele</string>
@@ -566,6 +571,7 @@ mm"</string>
     <string name="shutdown_alarm_enable_summary">"Alarma va suna dacă este setată peste cel puțin 10 minute după ce opriți telefonul"</string>
     <string name="shutdown_alarm_title">Alarmă oprire</string>
     <string name="silent_alarm_summary">Silenţios</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Amânați o dată în %s</string>
     <string name="sleep_analysis">Statistici</string>
     <string name="sleep_analysis_chart_date_format">dd.MM</string>
@@ -781,6 +787,7 @@ mm"</string>
     <string name="unselect_all">Deselectați tot</string>
     <string name="upcoming_alarm">Alarmă viitoare: %s</string>
     <string name="upcoming_alarm_hint">Puteți opri această alarmă acum</string>
+    <string name="upcoming_alarm_new">Alarmă următoare: %s</string>
     <string name="update_health_app">Actualizați Sănătate Xiaomi</string>
     <string name="update_health_app_desc">Funcția de monitorizare a somnului este furnizată de către Sănătate Xiaomi. Actualizați aplicația Sănătate Xiaomi la cea mai recentă versiune pentru a accesa caracteristicile corelate.</string>
     <string name="update_health_app_desc_new">Funcția de monitorizare a somnului este oferită de Mi Fitness. Actualizați Mi Fitness la cea mai recentă versiune pentru a accesa funcțiile conexe.</string>

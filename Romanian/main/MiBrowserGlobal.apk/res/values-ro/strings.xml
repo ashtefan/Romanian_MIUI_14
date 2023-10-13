@@ -418,12 +418,16 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="browserFrameFormResubmitMessage">Pagina pe care încercați să o vizualizați conține date care au fost deja trimise. Dacă retrimiteți datele, acțiunile anterioare (de exemplu, căutări sau achiziții) se vor repeta.</string>
     <string name="browserFrameNetworkErrorLabel">Eroare de conexiune</string>
     <string name="browser_wallpaper">Imagini de fundal</string>
+    <string name="browser_wallpaper_activity">Promoții</string>
     <string name="browser_wallpaper_application">Aplicați</string>
     <string name="browser_wallpaper_art">Artă</string>
     <string name="browser_wallpaper_currently_in_use">Aplicat</string>
+    <string name="browser_wallpaper_gallery">Fotografiile mele</string>
     <string name="browser_wallpaper_landscape">Scenariu</string>
     <string name="browser_wallpaper_more_btn">Vedeți mai mult</string>
+    <string name="browser_wallpaper_my">Imaginile mele de fundal</string>
     <string name="browser_wallpaper_preview">Previzualizați</string>
+    <string name="browser_wallpaper_sub">Obțineți recomandări pentru imagini de fundal cu tematică de vacanță și speciale</string>
     <string name="browser_wallpaper_subtitle">Personalizați browserul Mi Browser cu Imagini de fundal atractive.</string>
     <string name="browser_wallpaper_system_default">Implicit</string>
     <string name="browser_wallpaper_title">Imagini de fundal</string>
@@ -3242,6 +3246,7 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="sku_all">Tot</string>
     <string name="sku_price_everymonth">%1$s în fiecare lună</string>
     <string name="slide_card">Glisați pentru mai multe</string>
+    <string name="slide_next_video_text">"Următorul videoclip: "</string>
     <string name="smart_subtitle">Obțineți un rezumat generat de inteligența artificială a conținutului articolului pentru a vedea punctele principale dintr-o privire.</string>
     <string name="smart_summary">Rezumat inteligent</string>
     <string name="sms_send_success">Trimis cu succes</string>

@@ -924,6 +924,13 @@
     <string name="lyric_label">Versuri</string>
     <string name="lyric_open_other_connect">Descărcaţi versurile utilizând reţeaua mobilă</string>
     <string name="lyric_setting">Setări versuri</string>
+    <string name="lyrics_guide_button_text">Încercați</string>
+    <string name="lyrics_guide_four">Reveniți la pagina cu versuri pentru a vizualiza</string>
+    <string name="lyrics_guide_one">Atingeți pe un rezultat al căutării pentru a-l selecta</string>
+    <string name="lyrics_guide_three">Editați și salvați versurile</string>
+    <string name="lyrics_guide_title">Cum să căutați și să salvați versuri</string>
+    <string name="lyrics_guide_two">Selectați versurile dorite și copiați-le</string>
+    <string name="lyrics_popup_title">Atingeți pentru a căuta versuri</string>
     <string name="material_clock_toggle_content_description">Selectați AM sau PM</string>
     <string name="material_hour_selection">Selectați ora</string>
     <string name="material_minute_selection">Selectați minutele</string>
@@ -1539,6 +1546,7 @@ Fiți fericit"</string>
     <string name="select_local_cover">Selectați coperta locală</string>
     <string name="select_local_lyric">Selectaţi fișierul</string>
     <string name="select_local_lyric_file">Selectați fișerul local cu versuri</string>
+    <string name="select_lyrics_copy">Selectați și copiați textul versurilor</string>
     <string name="select_none">Deselectaţi tot</string>
     <string name="select_one_language">Selectați cel puțin o limbă</string>
     <string name="select_three_languages">Puteți selecta până la 3 limbi</string>

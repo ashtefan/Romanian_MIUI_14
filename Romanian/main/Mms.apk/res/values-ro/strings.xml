@@ -52,8 +52,12 @@
     <string name="add_timing">Temporizat</string>
     <string name="add_to_block_by_number">"S-a adăugat %s
 la lista blocărilor"</string>
+    <string name="add_to_block_by_number_failed">"Nu s-a putut adăuga %s în lista blocărilor.
+Încercați din nou."</string>
     <string name="add_to_block_by_tag">"Mesajele conținând \"%s\"
 au fost adăugate în lista blocărilor"</string>
+    <string name="add_to_block_by_tag_failed">"Nu s-au putut adăuga mesajele care conțin \"%s\" în lista blocărilor.
+Încercați din nou."</string>
     <string name="add_to_browser_favorite_failed">"Nu s-a putut adăuga"</string>
     <string name="add_to_browser_favorite_success">Adăugată cu succes</string>
     <string name="add_video">Adăugaţi un videoclip</string>
@@ -157,7 +161,7 @@ au fost adăugate în lista blocărilor"</string>
     <string name="click_to_update">Atingeți pentru a căuta actualizări</string>
     <string name="click_to_view">Atingeți pentru a vizualiza</string>
     <string name="close">Închideţi</string>
-    <string name="cloud_recommend_view_tip">Activați sincronizarea cu Cloud pentru a restabili oricând mesajele importante</string>
+    <string name="cloud_space_not_enough">Spațiul de stocare în cloud este epuizat. Actualizați abonamentul pentru a sincroniza cele mai recente elemente.</string>
     <string name="cloud_state_disabled">Activați sincronizarea cu Xiaomi Cloud pentru a sincroniza mesajele</string>
     <string name="cloud_state_sync_finished">Sincronizat cu Xiaomi Cloud</string>
     <string name="cloud_state_syncing">Sincronizare cu Xiaomi Cloud…</string>
@@ -223,6 +227,8 @@ au fost adăugate în lista blocărilor"</string>
     <string name="converting_to_text_message">Se face conversia la mesaj text…</string>
     <string name="converting_vcard_failed">"Nu s-a putut converti contactul"</string>
     <string name="copy">Copiați</string>
+    <string name="copy_message">Copiați</string>
+    <string name="copy_message_success">Copiat cu succes</string>
     <string name="copy_message_text">Copiaţi</string>
     <string name="copy_message_text_success">Copiat cu succes</string>
     <string name="copy_to_sdcard">Salvaţi ataşamentul</string>
@@ -263,7 +269,7 @@ au fost adăugate în lista blocărilor"</string>
     <string name="dialog_message_correct_as_ad">Toate mesajele de la %s (exceptând codurile de verificare) vor fi mutate în dosarul de mesaje promoționale.</string>
     <string name="dialog_message_correct_as_normal">Selectați mesajele pe care doriți să le mutați</string>
     <string name="dialog_message_fake_cell_detect_error">Corectați informațiile despre acest mesaj? Pentru aceasta, MIUI trebuie să încarce numărul de telefon (%1$s), conținutul mesajului și informațiile despre locație pe serverele sale.</string>
-    <string name="dialog_message_mx">Mesageria Mi vă permite să trimiteți mesaje altor utilizatori MIUI fără costuri. Un mesaj SMS este necesar pentru activarea Mesageriei Mi. Operatorul vă va taxa pentru acest mesaj. Trebuie să acceptați \"%1$s\" și \"%2$s\" înainte de a utiliza Mesageria Mi.</string>
+    <string name="dialog_message_mx">Mesageria Mi vă permite să trimiteți mesaje altor utilizatori Xiaomi fără costuri. Un mesaj SMS este necesar pentru activarea Mesageriei Mi. Operatorul vă va taxa pentru acest mesaj. Trebuie să acceptați \"%1$s\" și \"%2$s\" înainte de a utiliza Mesageria Mi.</string>
     <string name="dialog_message_networking">Aplicația de Mesagerie trebuie să utilizeze Pagini Aurii pentru a putea furniza recunoașterea ID-ului expeditorului. Aplicația de Mesagerie și Pagini Aurii trebuie să se conecteze la internet și să vă acceseze locația pentru a funcționa în mod normal. Permiteți?</string>
     <string name="dialog_message_rcs">Mesageria China Mobile vă permite să trimiteți mesaje altor utilizatori ai acestei rețele din Mainland China fără costuri. Trebuie să acceptați \"%1$s\" înainte de a utiliza Mesageria China Mobile.</string>
     <string name="dialog_quit">Ieșiți</string>
@@ -327,6 +333,7 @@ au fost adăugate în lista blocărilor"</string>
     <string name="expire_on">Expiră la: %s</string>
     <string name="exporting_progress_private_message">Exportul mesajelor…</string>
     <string name="fail_to_add_attachment">"Nu s-a putut adăuga atașamentul"</string>
+    <string name="fail_to_add_image">Nu s-au putut accesa elementele copiate</string>
     <string name="fail_to_view_attachment">"Atașamentul nu este disponibil"</string>
     <string name="failed_due_to_not_login">Conectați-vă mai întâi</string>
     <string name="failed_to_add_media">Nu puteţi adăuga acest %1$s la mesajul dvs.</string>
@@ -733,8 +740,8 @@ Este posibil ca acest mesaj să nu fie solicitat."</string>
     <string name="mx_btn_enable_now">Activaţi</string>
     <string name="mx_count_dspt">Aţi trimis %1$d mesaje text şi %2$d MMS-uri gratuit</string>
     <string name="mx_current_status">Setări</string>
-    <string name="mx_dspt">"Trimiteți mesaje SMS și MMS oricărui utilizator de telefon MIUI fără a fi taxat, atunci când sunteți conectat la o rețea Wi-Fi."</string>
-    <string name="mx_dspt_listview">Trimiteți mesaje altor utilizatori de telefoane MIUI fără a fi taxat</string>
+    <string name="mx_dspt">"Trimiteți mesaje SMS și MMS oricărui utilizator de telefon Xiaomi fără a fi taxat, atunci când sunteți conectat la o rețea Wi-Fi."</string>
+    <string name="mx_dspt_listview">Trimiteți mesaje altor utilizatori de telefoane Xiaomi fără a fi taxat</string>
     <string name="mx_dspt_provision">Mesagerie Mi vă permite să trimiteți mesaje prin internet altor utilizatori MIUI fără a suporta cheltuieli pentru SMS. Un mesaj SMS poate fi necesar pentru a reactiva Mesageria Mi. Operatorul dvs. vă va taxa pentru acest SMS. În plus, când această caracteristică este activată, este necesar un mic trafic de date mobile pentru a verifica dacă celălalt utilizator este online. Sunteți de acord?</string>
     <string name="mx_dspt_provision_ex2">Politica de Confidențialitate</string>
     <string name="mx_enable">Mesagerie Mi</string>
@@ -1207,8 +1214,8 @@ Aruncați o privire peste chatboții recomandați!"</string>
     <string name="recipients_contain_sub_sim_number">"Se pare că există număr de pe cartela SIM secundară printre destinatari. Trimiteți acest mesaj utilizând cartela SIM secundară."</string>
     <string name="recipients_over_size">Prea mulţi destinatari.</string>
     <string name="recommend_bar_cancel">Ignorați</string>
-    <string name="recommend_bar_message_mx">Mesageria Mi vă permite să trimiteți mesaje către alți utilizatori MIUI fără a fi taxat.</string>
-    <string name="recommend_bar_message_mx_rcs">Mesageria Mi vă permite să trimiteți mesaje către alți utilizatori MIUI și China Mobile din Mainland China fără a fi taxat.</string>
+    <string name="recommend_bar_message_mx">Mesageria Mi vă permite să trimiteți mesaje către alți utilizatori Xiaomi fără a fi taxat.</string>
+    <string name="recommend_bar_message_mx_rcs">Mesageria Mi vă permite să trimiteți mesaje către alți utilizatori Xiaomi și China Mobile din Mainland China fără a fi taxat.</string>
     <string name="recommend_bar_message_rcs">Mesageria China Mobile vă permite să trimiteți mesaje către alți utilizatori ai acestei rețele din Mainland China fără a fi taxat.</string>
     <string name="recommend_bar_message_smart_message">Copiați parolele unica, urmăriți colete, utilizați meniuri inteligente și multe altele</string>
     <string name="recommend_bar_ok">Activați</string>
@@ -1319,8 +1326,8 @@ Aruncați o privire peste chatboții recomandați!"</string>
     <string name="search_path_mms">Setări/Aplicații de sistem/Mesaje</string>
     <string name="search_setting_description">Text în mesajele dvs.</string>
     <string name="search_show_more_results">Afişaţi mai multe</string>
-    <string name="search_title_mms">Mesagerie</string>
-    <string name="second_mms_introduction">Mergeți la Spațiul Secundar</string>
+    <string name="search_sms">Căutați mesaje</string>
+    <string name="second_mms_introduction">Comutați la Spațiul Secundar pentru a putea vedea mesajele private</string>
     <string name="second_mms_switch">Comutați</string>
     <string name="secs">sec.</string>
     <string name="security_alert_desc"><font color="#7f000000">Expeditorul nu este în contactele dvs.
@@ -1577,6 +1584,7 @@ Dacă nu acceptați să acordați asemenea permisiuni sau să partajați și să
     <string name="title_show_sms_template">Mesagerie Inteligentă</string>
     <string name="title_show_sms_template_in">Verificare SMS pentru parole de unică utilizare</string>
     <string name="title_timed_message_dialog">Setaţi mesajul temporizat</string>
+    <string name="title_timed_remind_message_dialog">Setați ora memento-ului</string>
     <string name="title_use_gsm_alphabet">Utilizați alfabetul GSM</string>
     <string name="to_address_label">"Către: "</string>
     <string name="to_label">"Pentru "</string>

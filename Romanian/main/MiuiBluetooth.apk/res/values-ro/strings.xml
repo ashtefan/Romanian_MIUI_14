@@ -708,7 +708,7 @@ Protocol de conectare mai rapid."</string>
     <string name="plugin_ota_finish">Actualizat cu succes</string>
     <string name="plugin_ota_indicate">Reporniți Bluetooth-ul și conectați căștile.</string>
     <string name="plugin_ota_messages1">S-a adăugat suport pentru mai multe modele de căști.</string>
-    <string name="plugin_ota_messages2">Cadrul de servicii Bluetooth actualizat.</string>
+    <string name="plugin_ota_messages2">Arhitectura de servicii Bluetooth actualizată.</string>
     <string name="plugin_ota_progress">Se actualizează…</string>
     <string name="plugin_start_update">Se actualizează extensiile Bluetooth…</string>
     <string name="plugin_update_failed">"Nu s-a putut actualiza. "</string>
