@@ -433,7 +433,7 @@ Dezactivați pentru a opri sincronizarea."</string>
     <string name="browser_wallpaper_title">Imagini de fundal</string>
     <string name="btn_agree">De acord</string>
     <string name="btn_cancel">Anulare</string>
-    <string name="camera_permission_name">Folosiți camera</string>
+    <string name="camera_permission_name">Utilizare cameră foto</string>
     <string name="can_not_send_with_too_many">Nu se pot trimite atât de multe articole deodată</string>
     <string name="cancel">Anulare</string>
     <string name="cancel_label">x</string>
@@ -1451,7 +1451,7 @@ Trimiteți acest cod supervisorului."</string>
     <string name="is_page_top">Sunteți în partea de sus a paginii</string>
     <string name="isornot_your_mi_account">Acesta este contul Mi al dvs.?</string>
     <string name="item_view_role_description">Filă</string>
-    <string name="js_dialog_permission_name">Afișați casetele de dialog pop-up</string>
+    <string name="js_dialog_permission_name">Afișare casete de dialog pop-up</string>
     <string name="js_disable_confirm_message">Dezactivarea JavaScript poate determina afișarea incorectă a unor site-uri web.</string>
     <string name="js_disable_confirm_title">Dezactivați JavaScript?</string>
     <string name="jump_web_learn_more">Deschideți pagina web originală</string>
@@ -2610,7 +2610,7 @@ Unele site-uri nu vor folosi istoricul de navigare anterior pentru a-și persona
     <string name="pref_video_preload_value_never">NICIODATĂ</string>
     <string name="pref_video_preload_value_wifi_only">DOAR_WIFI</string>
     <string name="pref_volume_key_action">Derulați folosind butoanele de volum</string>
-    <string name="pref_web_protection">Protecție a vieții private</string>
+    <string name="pref_web_protection">Protejarea confidențialității</string>
     <string name="preference_copied">\"%1$s\" copiat în clipboard.</string>
     <string name="preference_des_autocomplete_search">Completați automat căutările pe baza istoricului de navigare, a sugestiilor motoarelor de căutare și a site-urilor web populare</string>
     <string name="preference_title_autocomplete_search">Completați automat căutările și adresele URL</string>
@@ -2655,7 +2655,7 @@ Unele site-uri nu vor folosi istoricul de navigare anterior pentru a-și persona
     <string name="profile">Informații personale</string>
     <string name="progress_dialog_setting_wallpaper">Se aplică imaginea de fundal…</string>
     <string name="project_id">mi-browser-new</string>
-    <string name="protected_content_permission_name">Redați conținut protejat</string>
+    <string name="protected_content_permission_name">Redare conținut protejat</string>
     <string name="protection_dialog_ad_title">Reclamele sunt blocate</string>
     <string name="protection_dialog_allow_drm">Este permisă redarea articolelor protejate</string>
     <string name="protection_dialog_allow_midi">Controlul dispozitivelor MIDI este permis</string>
@@ -3010,7 +3010,7 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="recommend">Recomandate</string>
     <string name="recommend_button">Urmăriți (%s)</string>
     <string name="recommend_description">Am ales câțiva creatori pe care ați dori să-i urmăriți.</string>
-    <string name="record_permission_name">Înregistrează audio</string>
+    <string name="record_permission_name">Înregistrare sunete audio</string>
     <string name="recovery_page_popup">Reluați de unde ați rămas</string>
     <string name="reeading__reading_feedback_dialog_button_submit">Trimiteți</string>
     <string name="reeading__reading_feedback_dialog_input_empty_toast">Introduceți detaliile problemei înainte de a trimite</string>
@@ -3216,7 +3216,7 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="share_image_text">Uite ce am partajat! @MIUI</string>
     <string name="share_page_text">Uite ce am partajat: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">Uite ce am partajat: %1$s</string>
-    <string name="shear_plate_permission_name">Accesați sau salvați articole în clipboard</string>
+    <string name="shear_plate_permission_name">Accesare sau salvare articole în clipboard</string>
     <string name="short_cut_name_novel">Cărți gratuite</string>
     <string name="shortcut_function">Comenzi rapide</string>
     <string name="shortcuts_boost_speed">Măriți viteza</string>
@@ -3384,7 +3384,7 @@ vă recomandăm să utilizați modul gratuit de citire"</string>
     <string name="sync_bookmark">Sincronizați marcajele</string>
     <string name="sync_bookmark_fail_retry">Nu s-a putut sincroniza</string>
     <string name="sync_bookmark_succeed">Sincronizat cu succes</string>
-    <string name="system_dialog_permission_name">Deschide ferestre noi</string>
+    <string name="system_dialog_permission_name">Deschidere ferestre noi</string>
     <string name="tab_backward_description">Pagina anterioară din istoric</string>
     <string name="tab_bookmark_description">Favorite</string>
     <string name="tab_common_app">Aplicații și dosare</string>
@@ -3581,7 +3581,7 @@ Puteți oricând să renunțați din Setări> Confidențialitate și Securitate.
     <string name="version_dialog_buttion_update">Actualizaţi</string>
     <string name="version_update_file_download_toast">Descărcare</string>
     <string name="version_update_file_not_found">"Nu s-au găsit actualizări"</string>
-    <string name="vibrate_permission_name">Utilizați vibrațiile</string>
+    <string name="vibrate_permission_name">Utilizare vibrații</string>
     <string name="video_activity_name">Favorite</string>
     <string name="video_buffering_percent_string">"Se încarcă memoria tampon "</string>
     <string name="video_collect_cancel">Eliminaţi din favorite</string>
@@ -3644,7 +3644,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="voice_connect_network">"Nu s-a putut conecta la rețea."</string>
     <string name="voice_description">Căutare vocală</string>
     <string name="voice_network_connection">Căutarea vocală trebuie să se conecteze la internet pentru a funcționa în mod normal.</string>
-    <string name="voice_permission_name">Redați sunete audio</string>
+    <string name="voice_permission_name">Redare sunete audio</string>
     <string name="voice_search_permission">Căutarea vocală trebuie să acceseze microfonul pentru a funcționa în mod normal.</string>
     <string name="voice_semantic_analysis">Browser-ul va putea analiza semantica după ce îi veți permite conectarea.</string>
     <string name="voice_sub_title">"Nu știţi ce să spuneţi? Încercaţi Deschide mi.com!"</string>

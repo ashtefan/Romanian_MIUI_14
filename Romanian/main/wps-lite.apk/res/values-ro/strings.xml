@@ -186,6 +186,7 @@
     <string name="ppt_video_install_videoplayer_tip">Instalați un player video</string>
     <string name="ppt_volume_is_too_low_tip">Puneți-vă căștile sau măriți volumul</string>
     <string name="projection_fail">Nu s-a putut proiecta. Verificați monitorul extern și încercați din nou.</string>
+    <string name="public_2pic">Exportați ca imagine</string>
     <string name="public_amazon_autosave_finished">Documentul a fost salvat în mod automat</string>
     <string name="public_app_language">2052</string>
     <string name="public_bad_doc_to_process">Document nevalid; nu s-a putut finaliza operațiunea</string>
@@ -213,6 +214,7 @@
     <string name="public_enter_phonemode">Accesați vizualizarea mobilă</string>
     <string name="public_exit_phonemode">Părăsiți vizualizarea mobilă</string>
     <string name="public_exit_play">Ieșiți</string>
+    <string name="public_export_pdf">Exportați ca .pdf</string>
     <string name="public_fileNotExist">Fișierul nu mai există. Fișierul poate fi redenumit, mutat, șters sau șters de alte programe.</string>
     <string name="public_file_cant_write_tips">Fișierul nu poate fi salvat în directorul curent. Salvați într-un alt director ca fișier nou?</string>
     <string name="public_file_download">Se încarcă fișierul…</string>
@@ -255,6 +257,8 @@
     <string name="public_other_app">Deschideți în altă aplicație</string>
     <string name="public_outline">Conținut</string>
     <string name="public_paste">Lipiți</string>
+    <string name="public_pdf2word">PDF în Word</string>
+    <string name="public_pdfFillForm">Completare formular</string>
     <string name="public_pdf_converter_item_name">PDF</string>
     <string name="public_pdf_converter_normal">Obișnuit</string>
     <string name="public_pdf_converter_open_tip">Deschideți acest document?</string>
@@ -272,6 +276,7 @@
     <string name="public_permission_storage_disallow_msg">Nu veți putea lucra cu documente după ce revocați autorizarea.</string>
     <string name="public_play">Redați</string>
     <string name="public_ppt_label">Vizualizator de prezentări Mi</string>
+    <string name="public_privacy_policy">Politica de confidențialitate</string>
     <string name="public_privacy_update">&lt;Data>Pentru a înțelege pe deplin drepturile dumneavoastră ca utilizator, precum și modurile în care vă folosim datele, citiți și acceptați noua versiune a &lt;a href=\"%s\">Politicii noastre de confidențialitate &lt;/a> înaintea de a continua.&lt;/Data></string>
     <string name="public_re_licensing">Acordați autorizarea</string>
     <string name="public_readOnlyMode">Doar în citire</string>
@@ -330,6 +335,7 @@
     <string name="public_wpscloud_recovery_edit_not_exist_tips">Documentul a fost șters de către alte aplicații și a fost recuperat de WPS Cloud Docs.</string>
     <string name="public_wpscloud_recovery_edit_not_save_tips">Ultimul conținut editat nu a fost salvat și a fost recuperat de WPS Cloud Docs.</string>
     <string name="public_wpscloud_recovery_edit_not_saved_and_to_save">Salvați documentul în siguranță</string>
+    <string name="public_writer2pic">Exportați într-un fișier doar-imagine</string>
     <string name="public_writer_label">Vizualizator de text Mi</string>
     <string name="public_writer_ui_delete">Ștergeți</string>
     <string name="reader_ppt_autoplay">redare automată</string>
